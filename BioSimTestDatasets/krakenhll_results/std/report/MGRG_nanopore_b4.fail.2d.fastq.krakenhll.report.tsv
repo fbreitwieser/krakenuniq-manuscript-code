@@ -1,0 +1,73 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+81.66	423	423	1289171	1	NA	0	no rank	unclassified
+18.34	95	28	1377	1.09	9.118e-08	1	no rank	root
+12.74	66	0	637	1	4.301e-08	131567	no rank	  cellular organisms
+12.74	66	0	637	1	5.41e-08	2	superkingdom	    Bacteria
+6.757	35	0	307	1	5.054e-08	1224	phylum	      Proteobacteria
+6.757	35	0	307	1	1.079e-07	1236	class	        Gammaproteobacteria
+3.475	18	0	157	1	1.906e-07	91347	order	          Enterobacterales
+3.475	18	8	147	1	3.415e-07	543	family	            Enterobacteriaceae
+1.737	9	0	14	1	3.198e-07	561	genus	              Escherichia
+1.737	9	6	14	1	4.023e-07	562	species	                Escherichia coli
+0.1931	1	0	2	1	3.527e-05	1000005194	assembly	                  GCF_001677495.1 Escherichia coli strain=09-00049
+0.1931	1	1	2	1	3.55e-05	1000005195	sequence	                    NZ_CP015228.1 Escherichia coli strain 09-00049, complete genome
+0.1931	1	0	1	1	2.817e-05	1000005715	assembly	                  GCF_002142695.1 Escherichia coli strain=5CRE51
+0.1931	1	1	1	1	2.845e-05	1000005716	sequence	                    NZ_CP021175.1 Escherichia coli strain 5CRE51 chromosome, complete genome
+0.1931	1	1	1	1	9.064e-06	83334	no rank	                  Escherichia coli O157:H7
+0.1931	1	0	1	1	2.415e-08	590	genus	              Salmonella
+0.1931	1	0	1	1	2.785e-08	28901	species	                Salmonella enterica
+0.1931	1	0	1	1	6.34e-08	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.1931	1	0	1	1	6.321e-06	82689	no rank	                    Salmonella enterica subsp. enterica serovar Muenster
+0.1931	1	0	1	1	6.321e-06	1124958	no rank	                      Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.1931	1	0	1	1	6.321e-06	1000014493	assembly	                        GCF_000487035.2 Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.1931	1	1	1	1	6.89e-06	1000014494	sequence	                          NZ_CP019198.1 Salmonella enterica subsp. enterica serovar Muenster str. 0315 strain 315, complete genome
+3.282	17	0	143	1	2.067e-07	72274	order	          Pseudomonadales
+3.282	17	0	143	1	2.453e-07	135621	family	            Pseudomonadaceae
+3.282	17	5	143	1	2.52e-07	286	genus	              Pseudomonas
+1.351	7	0	53	1	1.045e-05	219572	species	                Pseudomonas antarctica
+1.351	7	0	53	1	1.045e-05	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+1.351	7	7	53	1	1.076e-05	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+0.7722	4	1	24	1	2.319e-07	136843	species group	                Pseudomonas fluorescens group
+0.1931	1	0	7	1	7.712e-07	47878	species	                  Pseudomonas azotoformans
+0.1931	1	0	7	1	1.615e-06	1000016599	assembly	                    GCF_002007785.1 Pseudomonas azotoformans strain=F77
+0.1931	1	1	7	1	1.615e-06	1000016600	sequence	                      NZ_CP019856.1 Pseudomonas azotoformans strain F77 chromosome, complete genome
+0.1931	1	0	7	1	1.205e-07	294	species	                  Pseudomonas fluorescens
+0.1931	1	0	1	1	1.848e-07	1000002064	assembly	                    GCF_001612705.1 Pseudomonas fluorescens strain=LBUM636
+0.1931	1	1	1	1	1.848e-07	1000002065	sequence	                      NZ_CP012400.1 Pseudomonas fluorescens strain LBUM636, complete genome
+0.1931	1	0	5	1	9.715e-07	76761	species	                  Pseudomonas veronii
+0.1931	1	0	5	1	9.715e-07	1000017597	assembly	                    GCF_002028325.1 Pseudomonas veronii strain=R02
+0.1931	1	1	5	1	9.715e-07	1000017598	sequence	                      NZ_CP018420.1 Pseudomonas veronii strain R02 chromosome, complete genome
+0.1931	1	0	2	1	4.344e-08	136849	species group	                Pseudomonas syringae group
+0.1931	1	0	2	1	2.508e-07	251698	species subgroup	                  Pseudomonas syringae group genomosp. 2
+0.1931	1	1	2	1	5.658e-07	29438	species	                    Pseudomonas savastanoi
+5.985	31	0	330	1	7.507e-08	1783272	no rank	      Terrabacteria group
+3.475	18	0	140	1	7.054e-08	201174	phylum	        Actinobacteria
+3.475	18	0	140	1	7.283e-08	1760	class	          Actinobacteria
+3.282	17	0	131	1	4.171e-07	85006	order	            Micrococcales
+3.282	17	0	128	1	1.158e-06	1268	family	              Micrococcaceae
+3.282	17	0	126	1	5.688e-05	1269	genus	                Micrococcus
+3.282	17	0	126	1	5.688e-05	1270	species	                  Micrococcus luteus
+3.282	17	0	126	1	5.688e-05	465515	no rank	                    Micrococcus luteus NCTC 2665
+3.282	17	0	126	1	5.688e-05	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+3.282	17	17	126	1	5.688e-05	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+0.1931	1	0	1	1	3.029e-08	85013	order	            Frankiales
+0.1931	1	0	1	1	3.029e-08	74712	family	              Frankiaceae
+0.1931	1	0	1	1	3.029e-08	1854	genus	                Frankia
+0.1931	1	0	1	1	1.218e-07	298653	species	                  Frankia sp. EAN1pec
+0.1931	1	0	1	1	1.218e-07	1000019876	assembly	                    GCF_000018005.1 Frankia sp. EAN1pec strain=EAN1.pec
+0.1931	1	1	1	1	1.218e-07	1000019877	sequence	                      NC_009921.1 Frankia sp. EAN1pec, complete genome
+2.51	13	0	190	1	1.049e-07	1239	phylum	        Firmicutes
+2.51	13	0	190	1	1.484e-07	91061	class	          Bacilli
+2.51	13	0	190	1	2.108e-07	1385	order	            Bacillales
+2.317	12	0	161	1	3.769e-07	186817	family	              Bacillaceae
+2.317	12	0	153	1	1.94e-05	45667	genus	                Halobacillus
+2.317	12	12	153	1	3.912e-05	1570	species	                  Halobacillus halophilus
+0.1931	1	0	29	1	3.027e-07	90964	family	              Staphylococcaceae
+0.1931	1	0	29	1	3.429e-07	1279	genus	                Staphylococcus
+0.1931	1	1	29	1	6.599e-06	1282	species	                  Staphylococcus epidermidis
+0.1931	1	0	1	1	3.544e-09	10239	superkingdom	  Viruses
+0.1931	1	0	1	1	6.075e-09	35237	no rank	    dsDNA viruses, no RNA stage
+0.1931	1	0	1	1	1.103e-08	28883	order	      Caudovirales
+0.1931	1	0	1	1	3.234e-08	10699	family	        Siphoviridae
+0.1931	1	0	1	1	3.457e-06	186765	genus	          Lambdavirus
+0.1931	1	1	1	1	0.0002469	37554	species	            Escherichia virus HK97

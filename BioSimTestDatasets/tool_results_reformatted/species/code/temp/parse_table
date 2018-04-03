@@ -1,0 +1,40 @@
+TaxID	parse_abundances
+#$datasetlist=`ls	|
+#$runs_each_dataset=`ls	|
+#join	-a2
+#run	main
+cat	>>
+cat	|
+columns=`cat	|
+done	
+done	
+done	
+done	
+echo	
+echo	
+echo	|
+else	
+fi	
+fi	
+fi;	
+for	in
+for	in
+for	in
+for	in
+header="${header}	
+header="TaxID"	
+if	-f
+if	-f
+if	-s
+join	-a2
+mkdir	temp
+mv	temp/temp
+mv	temp/temp
+outputstring="${outputstring}1.${i},"	
+outputstring="${outputstring}2.2"	
+outputstring="0,"	
+rm	
+rm	
+rm	
+rm	
+touch	

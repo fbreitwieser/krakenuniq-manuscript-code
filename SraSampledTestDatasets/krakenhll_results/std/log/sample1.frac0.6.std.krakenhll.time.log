@@ -1,0 +1,23 @@
+	Command being timed: "krakenhll --db /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31 --threads 10 --fastq-input sample1.frac0.6.1.fq sample1.frac0.6.2.fq --report-file results/sample1.frac0.6.10.refseq-oct2017-k31.krakenhll.report.tsv --output results/sample1.frac0.6.10.refseq-oct2017-k31.krakenhll.tsv"
+	User time (seconds): 3514.61
+	System time (seconds): 388.49
+	Percent of CPU this job got: 859%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:34.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 170398624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2930
+	Minor (reclaiming a frame) page faults: 154767309
+	Voluntary context switches: 176612
+	Involuntary context switches: 353051
+	Swaps: 0
+	File system inputs: 23914056
+	File system outputs: 4765888
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,387 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+0.4739	94	94	506500	1.08	9.327	0	no rank	unclassified
+99.53	19743	43	2868982	1.19	0.0001259	1	no rank	root
+98.56	19552	8	2856304	1.14	0.0001284	131567	no rank	  cellular organisms
+96.94	19230	33	2803996	1.14	0.0001843	2	superkingdom	    Bacteria
+50.96	10109	2	1408483	1.17	0.0002449	1783272	no rank	      Terrabacteria group
+37.96	7530	2	1056317	1.14	0.0004753	1239	phylum	        Firmicutes
+37.94	7526	5	1055777	1.14	0.00069	91061	class	          Bacilli
+37.31	7402	49	1041831	1.15	0.002274	186826	order	            Lactobacillales
+32.49	6445	70	912224	1.14	0.005024	33958	family	              Lactobacillaceae
+31.9	6328	207	885163	1.13	0.00518	1578	genus	                Lactobacillus
+16.46	3266	2720	461331	1.2	0.072	1580	species	                  Lactobacillus brevis
+2.687	533	17	25666	1.48	0.2924	387344	no rank	                    Lactobacillus brevis ATCC 367
+1.462	290	290	13005	1.17	0.1877	1008361313	sequence	                      CP000416.1 Lactobacillus brevis ATCC 367, complete genome
+0.7864	156	156	7380	1.87	0.7282	1006025451	sequence	                      CP000418.1 Lactobacillus brevis ATCC 367 plasmid 2, complete sequence
+0.3529	70	70	5270	1.63	0.6315	1007288362	sequence	                      CP000417.1 Lactobacillus brevis ATCC 367 plasmid 1, complete sequence
+0.01008	2	2	45	1	0.006061	1013821528	sequence	                    CP019743.1 Lactobacillus brevis strain TMW 1.2111, complete genome
+0.01008	2	2	21	1	5.972e-05	1007058052	sequence	                    CP024635.1 Lactobacillus brevis strain BDGP6 chromosome, complete genome
+0.01008	2	2	3	1	5.821e-05	1001868274	sequence	                    CP015338.1 Lactobacillus brevis strain 100D8, complete genome
+0.005041	1	1	20	1	0.0002442	1010852674	sequence	                    CP021479.1 Lactobacillus brevis strain SRCM101174, complete genome
+0.005041	1	0	12	1	7.324e-05	1001583	no rank	                    Lactobacillus brevis KB290
+0.005041	1	1	12	1	0.0001047	1006664706	sequence	                      AP012167.1 Lactobacillus brevis KB290 DNA, complete genome
+0.005041	1	1	7	1	0.0008913	1009420091	sequence	                    CP016797.1 Lactobacillus brevis strain TMW 1.2112, complete genome
+0.005041	1	1	3	1	0.01103	1012525443	sequence	                    FJ972174.1 Lactobacillus brevis strain Lb1 tyrosine decarboxylase gene, partial cds
+0.005041	1	1	2	1	9.119e-06	1006448186	sequence	                    CP015398.1 Lactobacillus brevis strain NPS-QW-145, complete genome
+0.005041	1	1	1	1	0.2	1001394543	sequence	                    AB969780.1 Lactobacillus brevis gene for 16S ribosomal RNA, partial sequence, clone: P22
+0.005041	1	0	1	1	3.251e-06	1334191	no rank	                    Lactobacillus brevis BSO 464
+0.005041	1	1	1	1	3.943e-06	1013840732	sequence	                      CP005977.1 Lactobacillus brevis BSO 464 genome
+14.32	2841	1533	359085	1.09	0.0306	655183	species group	                  Lactobacillus casei group
+6.528	1295	410	53466	1.13	0.02105	1597	species	                    Lactobacillus paracasei
+4.391	871	45	31778	1.18	0.1404	321967	no rank	                      Lactobacillus paracasei ATCC 334
+4.073	808	808	28181	1.17	0.1392	1001300213	sequence	                        CP000423.1 Lactobacillus paracasei ATCC 334, complete genome
+0.09074	18	18	460	1.08	0.3563	1013220812	sequence	                        CP000424.1 Lactobacillus paracasei ATCC 334 plasmid 1, complete sequence
+0.02521	5	0	29	1	4.839e-05	47714	subspecies	                      Lactobacillus paracasei subsp. paracasei
+0.02016	4	4	28	1	9.975e-05	1008538066	sequence	                        CP016355.1 Lactobacillus paracasei subsp. paracasei strain TMW 1.1434 chromosome, complete genome
+0.005041	1	0	1	1	6.665e-06	1226298	no rank	                        Lactobacillus paracasei subsp. paracasei JCM 8130
+0.005041	1	1	1	1	6.913e-06	1010621086	sequence	                          AP012541.1 Lactobacillus paracasei subsp. paracasei JCM 8130 DNA, complete genome
+0.01512	3	3	4	1	2.691e-05	1000657767	sequence	                      CP012187.1 Lactobacillus paracasei strain CAUH35, complete genome
+0.01512	3	3	3	1	2.093e-05	1013776751	sequence	                      CP017261.1 Lactobacillus paracasei strain FAM18149 chromosome, complete genome
+0.005041	1	0	2	1	1.621e-05	1446494	no rank	                      Lactobacillus paracasei N1115
+0.005041	1	1	2	1	2.39e-05	1002410646	sequence	                        CP007122.1 Lactobacillus paracasei N1115, complete genome
+0.005041	1	1	2	1	0.0008507	1006507275	sequence	                      CP017266.1 Lactobacillus paracasei strain FAM18149 plasmid pFAM18149.25, complete sequence
+0.005041	1	1	2	1	9.989e-05	1006816670	sequence	                      CP014987.1 Lactobacillus paracasei strain IIA plasmid unnamed2, complete sequence
+0.06553	13	8	130	1.02	2.536e-05	1582	species	                    Lactobacillus casei
+0.01512	3	0	76	1	0.01335	1215914	no rank	                      Lactobacillus casei W56
+0.01512	3	3	76	1	0.01346	1010121972	sequence	                        HE970764.1 Lactobacillus casei W56 complete genome
+0.01008	2	0	2	1	1.393e-06	219334	no rank	                      Lactobacillus casei subsp. casei ATCC 393
+0.01008	2	2	2	1	1.398e-06	1007554079	sequence	                        AP012544.1 Lactobacillus casei subsp. casei ATCC 393 DNA, complete genome
+0.02016	4	1	9	1	9.06e-07	1590	species	                  Lactobacillus plantarum
+0.005041	1	1	1	1	2.064e-05	1011514258	sequence	                    CP017954.1 Lactobacillus plantarum strain C410L1, complete genome
+0.005041	1	1	1	1	7.192e-05	1002969296	sequence	                    CP017409.1 Lactobacillus plantarum strain RI-113 plasmid pRI113_3, complete sequence
+0.005041	1	1	1	1	1.064e-05	1005138687	sequence	                    CP025412.1 Lactobacillus plantarum strain X7021 chromosome, complete genome
+0.01008	2	0	4	1	1.803e-06	89059	species	                  Lactobacillus acidipiscis
+0.005041	1	1	3	1	1.399e-06	1011261575	sequence	                    LT630287.1 Lactobacillus acidipiscis strain ACA-DC 1533 genome assembly, chromosome: I
+0.005041	1	1	1	1	3.041e-05	1009263541	sequence	                    LT907847.1 Lactobacillus acidipiscis strain ACA-DC 1533 genome assembly, plasmid: pLAC2
+0.01008	2	0	3	1	5.325e-07	1599	species	                  Lactobacillus sakei
+0.005041	1	1	2	1	0.0007496	1003880483	sequence	                    LT960785.1 Lactobacillus sakei isolate MFPB19 genome assembly, plasmid: 2
+0.005041	1	1	1	1	5.68e-06	1006612178	sequence	                    LT960781.1 Lactobacillus sakei strain J64 genome assembly, chromosome: 1
+0.005041	1	1	7	1	1.115e-06	1584	species	                  Lactobacillus delbrueckii
+0.005041	1	0	3	1	8.928e-07	28038	species	                  Lactobacillus curvatus
+0.005041	1	1	1	1	7.597e-06	1004753278	sequence	                    CP016028.1 Lactobacillus curvatus strain FBA2, complete genome
+0.005041	1	0	2	1	0.04545	1523441	species	                  Lactobacillus sp. SMG68
+0.005041	1	1	2	1	0.04545	1008826506	sequence	                    KJ784542.1 Lactobacillus sp. SMG68 16S ribosomal RNA gene, partial sequence
+0.005041	1	0	2	1	5.561e-07	1610	species	                  Lactobacillus coryniformis
+0.005041	1	0	2	1	1.96e-06	115542	subspecies	                    Lactobacillus coryniformis subsp. torquens
+0.005041	1	0	2	1	1.96e-06	1423822	no rank	                      Lactobacillus coryniformis subsp. torquens DSM 20004 = KCTC 3535
+0.005041	1	1	1	1	1.013e-06	1003073827	sequence	                        CP017697.1 Lactobacillus coryniformis subsp. torquens DSM 20004 = KCTC 3535, complete genome
+0.005041	1	0	1	1	2.838e-07	1581	species	                  Lactobacillus buchneri
+0.005041	1	0	1	1	8.978e-07	511437	no rank	                    Lactobacillus buchneri NRRL B-30929
+0.005041	1	1	1	1	9.185e-07	1007161252	sequence	                      CP002652.1 Lactobacillus buchneri NRRL B-30929, complete genome
+0.005041	1	1	1	1	3.316e-07	375175	species	                  Lactobacillus backii
+0.2369	47	0	7725	1	0.0007613	1253	genus	                Pediococcus
+0.2369	47	21	7522	1	0.002491	1255	species	                  Pediococcus pentosaceus
+0.1311	26	0	2367	1	0.009311	278197	no rank	                    Pediococcus pentosaceus ATCC 25745
+0.1311	26	26	2367	1	0.009314	1000943887	sequence	                      CP000422.1 Pediococcus pentosaceus ATCC 25745, complete genome
+4.567	906	6	129009	1.04	0.0008956	1300	family	              Streptococcaceae
+4.522	897	3	128071	1.03	0.00614	1357	genus	                Lactococcus
+4.502	893	158	127159	1.03	0.01008	1358	species	                  Lactococcus lactis
+3.675	729	697	48621	1.03	0.009196	1360	subspecies	                    Lactococcus lactis subsp. lactis
+0.07058	14	0	314	1.09	0.03599	272623	no rank	                      Lactococcus lactis subsp. lactis Il1403
+0.07058	14	14	314	1.09	0.03599	1010778827	sequence	                        AE005176.1 Lactococcus lactis subsp. lactis Il1403, complete genome
+0.05041	10	0	1038	1.08	0.01534	929102	no rank	                      Lactococcus lactis subsp. lactis CV56
+0.02016	4	4	448	1.19	0.009142	1013633060	sequence	                        CP002365.1 Lactococcus lactis subsp. lactis CV56, complete genome
+0.01512	3	3	413	1	0.05646	1002113696	sequence	                        CP002368.1 Lactococcus lactis subsp. lactis CV56 plasmid pCV56C, complete sequence
+0.005041	1	1	77	1	0.009124	1003725732	sequence	                        CP002366.1 Lactococcus lactis subsp. lactis CV56 plasmid pCV56A, complete sequence
+0.005041	1	1	72	1	0.02678	1012366668	sequence	                        CP002367.1 Lactococcus lactis subsp. lactis CV56 plasmid pCV56B, complete sequence
+0.005041	1	1	28	1	0.2593	1005989553	sequence	                        CP002370.1 Lactococcus lactis subsp. lactis CV56 plasmid pCV56E, complete sequence
+0.01512	3	3	4	1	1.268e-05	1006090000	sequence	                      CP025500.1 Lactococcus lactis subsp. lactis strain G50 chromosome, complete genome
+0.005041	1	0	19	1	0.0001274	1399116	no rank	                      Lactococcus lactis subsp. lactis KLDS 4.0325
+0.005041	1	1	19	1	0.0001281	1011404301	sequence	                        CP006766.1 Lactococcus lactis subsp. lactis KLDS 4.0325, complete genome
+0.005041	1	1	10	1	0.0001276	1004303717	sequence	                      CP015895.1 Lactococcus lactis subsp. lactis strain 184, complete genome
+0.005041	1	1	9	1	0.007544	1010908318	sequence	                      CP015903.1 Lactococcus lactis subsp. lactis strain UC08, complete genome
+0.005041	1	1	3	1	1.54e-05	1007411361	sequence	                      CP010050.1 Lactococcus lactis subsp. lactis strain S0, complete genome
+0.005041	1	1	1	1	4.075e-06	1000784114	sequence	                      CP015902.1 Lactococcus lactis subsp. lactis strain UC06, complete genome
+0.01512	3	3	24	1	5.943e-06	1359	subspecies	                    Lactococcus lactis subsp. cremoris
+0.01008	2	2	19	1	3.165e-05	1001970638	sequence	                    CP009472.1 Lactococcus lactis strain AI06, complete genome
+0.005041	1	1	1	1	0.01	1000122189	sequence	                    KU899029.1 Lactococcus lactis strain 200684 16S ribosomal RNA gene, partial sequence
+0.005041	1	1	1	1	4.716e-07	1366	species	                  Lactococcus raffinolactis
+0.01512	3	0	13	1	1.057e-07	1301	genus	                Streptococcus
+0.01008	2	0	3	1	9.598e-07	1311	species	                  Streptococcus agalactiae
+0.005041	1	0	2	1	1.925e-05	1318615	no rank	                    Streptococcus agalactiae ILRI112
+0.005041	1	1	2	1	1.925e-05	1006601246	sequence	                      HF952106.1 Streptococcus agalactiae ILRI112 complete genome
+0.005041	1	1	1	1	0.001266	1012421964	sequence	                    AF302131.1 Streptococcus agalactiae strain L48 23S ribosomal RNA gene, partial sequence; 5S ribosomal RNA gene, complete sequence; tRNA-Val, tRNA-Leu, tRNA-Lys, tRNA-Asp, tRNA-Glu, tRNA-Ser, tRNA-Met, tRNA-Phe, tRNA-Tyr, tRNA-Trp, tRNA-His, and tRNA-Gln genes, complete sequence; and tRNA-Leu gene, partial sequence
+0.005041	1	0	3	1	4.412e-06	1156433	species	                  Streptococcus sp. I-P16
+0.005041	1	1	3	1	4.413e-06	1002581512	sequence	                    CP006776.1 Streptococcus sp. I-P16, complete genome
+0.005041	1	0	3	1	9.48e-08	81850	family	              Leuconostocaceae
+0.005041	1	0	1	1	8.11e-08	46255	genus	                Weissella
+0.005041	1	0	1	1	5.613e-07	1249	species	                  Weissella paramesenteroides
+0.005041	1	1	1	1	5.702e-07	1009730659	sequence	                    CP023501.1 Weissella paramesenteroides strain FDAARGOS_414 chromosome, complete genome
+0.005041	1	0	3	1	4.431e-08	81852	family	              Enterococcaceae
+0.005041	1	0	1	1	2.631e-07	51668	genus	                Tetragenococcus
+0.005041	1	1	1	1	2.652e-07	51669	species	                  Tetragenococcus halophilus
+0.5999	119	1	6115	1.02	5.708e-06	1385	order	            Bacillales
+0.5545	110	0	5919	1.02	1.202e-05	186817	family	              Bacillaceae
+0.5444	108	21	5786	1.02	1.596e-05	1386	genus	                Bacillus
+0.4083	81	22	2137	1.03	2.647e-05	86661	species group	                  Bacillus cereus group
+0.242	48	31	910	1.03	3.727e-05	1396	species	                    Bacillus cereus
+0.02016	4	4	78	1	7.719e-05	288681	no rank	                      Bacillus cereus E33L
+0.01008	2	2	22	1	5.232e-05	1013154868	sequence	                      CP024655.1 Bacillus cereus strain MLY1 chromosome MLY1.0, complete sequence
+0.005041	1	0	47	1	0.0001159	1179100	no rank	                      Bacillus cereus biovar anthracis
+0.005041	1	0	47	1	0.0001159	637380	no rank	                        Bacillus cereus biovar anthracis str. CI
+0.005041	1	1	47	1	0.0001207	1004768581	sequence	                          CP001746.1 Bacillus cereus biovar anthracis str. CI, complete genome
+0.005041	1	1	25	1	0.01124	1011783370	sequence	                      CP023181.1 Bacillus cereus strain CC-1 plasmid p2, complete sequence
+0.005041	1	1	18	1	4.351e-05	1454382	no rank	                      Bacillus cereus D17
+0.005041	1	0	17	1	7.374e-05	405532	no rank	                      Bacillus cereus B4264
+0.005041	1	1	17	1	7.374e-05	1002055845	sequence	                        CP001176.1 Bacillus cereus B4264, complete genome
+0.005041	1	0	15	1	5.32e-05	222523	no rank	                      Bacillus cereus ATCC 10987
+0.005041	1	1	15	1	6.108e-05	1005525430	sequence	                        AE017194.1 Bacillus cereus ATCC 10987, complete genome
+0.005041	1	0	15	1	2.661e-05	1217984	no rank	                      Bacillus cereus FRI-35
+0.005041	1	1	15	1	3.299e-05	1010482322	sequence	                        CP003747.1 Bacillus cereus FRI-35, complete genome
+0.005041	1	1	9	1	1.876e-05	1006951592	sequence	                      CP023726.1 Bacillus cereus strain BHU2 chromosome
+0.005041	1	1	8	1	3.179e-05	572264	no rank	                      Bacillus cereus 03BB102
+0.005041	1	0	6	1	3.192e-05	405535	no rank	                      Bacillus cereus AH820
+0.005041	1	1	6	1	3.274e-05	1012072445	sequence	                        CP001283.1 Bacillus cereus AH820, complete genome
+0.005041	1	1	3	1	1.915e-05	1001654834	sequence	                      CP015589.1 Bacillus cereus strain AR156, complete genome
+0.005041	1	1	1	1	1.83e-06	1011838767	sequence	                      CP023179.1 Bacillus cereus strain CC-1 chromosome, complete genome
+0.05041	10	2	149	1	6.365e-06	1428	species	                    Bacillus thuringiensis
+0.02016	4	4	76	1	4.159e-05	1009629933	sequence	                      CP013274.1 Bacillus thuringiensis strain CTC, complete genome
+0.005041	1	1	18	1	9.998e-05	1013287696	sequence	                      CP013000.1 Bacillus thuringiensis strain XL6, complete genome
+0.005041	1	1	18	1	0.000209	1009372690	sequence	                      CP020754.1 Bacillus thuringiensis strain ATCC 10792, complete genome
+0.005041	1	0	6	1	7.949e-06	529122	no rank	                      Bacillus thuringiensis YBT-1518
+0.005041	1	1	6	1	1.578e-05	1001157971	sequence	                        CP005935.1 Bacillus thuringiensis YBT-1518, complete genome
+0.005041	1	0	1	1	1.821e-06	1423143	no rank	                      Bacillus thuringiensis Bt18247
+0.005041	1	1	1	1	3.143e-06	1003357605	sequence	                        CP015250.1 Bacillus thuringiensis Bt18247, complete genome
+0.005041	1	1	18	1	1.418e-06	1405	species	                    Bacillus mycoides
+0.01512	3	0	32	1	7.126e-05	1892404	species	                  Bacillus sp. ABP14
+0.01512	3	3	32	1	7.273e-05	1012999803	sequence	                    CP017016.1 Bacillus sp. ABP14, complete genome
+0.01008	2	0	105	1	0.0002811	2053832	species	                  Bacillus sp. HBCD-sjtu
+0.01008	2	2	105	1	0.0002811	1005457304	sequence	                    CP025122.1 Bacillus sp. HBCD-sjtu chromosome, complete genome
+0.005041	1	0	11	1	2.33e-06	264697	species	                  Bacillus muralis
+0.005041	1	1	11	1	2.373e-06	1001610214	sequence	                    CP017080.1 Bacillus muralis strain G25-68, complete genome
+0.005041	1	0	46	1	1.675e-06	129337	genus	                Geobacillus
+0.005041	1	0	45	1	0.0001053	581103	species	                  Geobacillus sp. Y4.1MC1
+0.005041	1	1	45	1	0.000111	1013324338	sequence	                    CP002293.1 Geobacillus sp. Y4.1MC1, complete genome
+0.005041	1	0	1	1	1.24e-07	1329200	genus	                Fictibacillus
+0.005041	1	0	1	1	2.435e-07	1221500	species	                  Fictibacillus phosphorivorans
+0.005041	1	1	1	1	2.436e-07	1005622066	sequence	                    CP015378.1 Fictibacillus phosphorivorans strain G25-29, complete genome
+0.03529	7	0	126	1	4.111e-07	186822	family	              Paenibacillaceae
+0.02016	4	0	68	1	2.621e-07	44249	genus	                Paenibacillus
+0.005041	1	0	31	1	4.6e-06	481743	species	                  Paenibacillus sp. Y412MC10
+0.005041	1	1	31	1	4.601e-06	1012743714	sequence	                    CP001793.1 Paenibacillus sp. Y412MC10, complete genome
+0.005041	1	0	8	1	1.428e-06	1126833	species	                  Paenibacillus beijingensis
+0.005041	1	1	8	1	1.428e-06	1004581318	sequence	                    CP011058.1 Paenibacillus beijingensis strain DSM 24997, complete genome
+0.005041	1	0	7	1	8.737e-07	414771	species	                  Paenibacillus donghaensis
+0.005041	1	1	7	1	8.737e-07	1002227050	sequence	                    CP021780.1 Paenibacillus donghaensis strain KCTC 13049, complete genome
+0.005041	1	0	1	1	1.393e-07	1536774	species	                  Paenibacillus sp. FSL H7-0357
+0.005041	1	1	1	1	1.393e-07	1006155438	sequence	                    CP009241.1 Paenibacillus sp. FSL H7-0357, complete genome
+0.01512	3	0	58	1	1.942e-06	55080	genus	                Brevibacillus
+0.01008	2	0	22	1	2.273e-06	1393	species	                  Brevibacillus brevis
+0.01008	2	0	22	1	4.65e-06	1200792	no rank	                    Brevibacillus brevis X23
+0.01008	2	2	22	1	4.65e-06	1009183486	sequence	                      CP023474.1 Brevibacillus brevis X23 chromosome, complete genome
+0.005041	1	1	18	1	1.309e-06	1465	species	                  Brevibacillus laterosporus
+0.005041	1	0	4	1	5.871e-07	186824	family	              Thermoactinomycetaceae
+0.005041	1	0	4	1	1.16e-06	1677050	genus	                Novibacillus
+0.005041	1	0	4	1	1.16e-06	1471761	species	                  Novibacillus thermophilus
+0.005041	1	1	4	1	1.16e-06	1008350390	sequence	                    CP019699.1 Novibacillus thermophilus strain SG-1, complete genome
+0.005041	1	0	5	1	8.296e-09	186801	class	          Clostridia
+0.005041	1	0	5	1	9.57e-09	186802	order	            Clostridiales
+0.005041	1	0	3	1	2.011e-07	538999	no rank	              Clostridiales incertae sedis
+0.005041	1	0	3	1	3.118e-07	539000	family	                Clostridiales Family XVII. Incertae Sedis
+0.005041	1	0	2	1	2.93e-07	28033	genus	                  Sulfobacillus
+0.005041	1	0	2	1	0.0001816	28034	species	                    Sulfobacillus thermosulfidooxidans
+0.005041	1	1	2	1	0.04545	1000770417	sequence	                      EF095720.1 Sulfobacillus thermosulfidooxidans strain chen2 16S ribosomal RNA gene, partial sequence
+0.005041	1	0	1	1	5.487e-08	1737404	class	          Tissierellia
+0.005041	1	0	1	1	6.048e-08	1737405	order	            Tissierellales
+0.005041	1	0	1	1	3.281e-07	2042895	family	              Gottschalkiaceae
+0.005041	1	0	1	1	3.281e-07	1505664	genus	                Gottschalkia
+0.005041	1	0	1	1	3.282e-07	1556	species	                  Gottschalkia acidurici
+0.005041	1	0	1	1	3.286e-07	1128398	no rank	                    Gottschalkia acidurici 9a
+0.005041	1	1	1	1	3.29e-07	1000104400	sequence	                      CP003326.1 Gottschalkia acidurici 9a chromosome, complete genome
+12.99	2577	0	387001	1.14	0.0001471	201174	phylum	        Actinobacteria
+12.99	2576	1	386807	1.14	0.0001512	1760	class	          Actinobacteria
+12.91	2560	0	384453	1.12	0.1597	1643683	order	            Acidothermales
+12.91	2560	0	384453	1.12	0.1597	85032	family	              Acidothermaceae
+12.91	2560	0	384453	1.12	0.1598	28048	genus	                Acidothermus
+12.91	2560	13	384453	1.12	0.1602	28049	species	                  Acidothermus cellulolyticus
+12.84	2547	2	383406	1.12	0.1602	351607	no rank	                    Acidothermus cellulolyticus 11B
+12.83	2545	2545	382224	1.12	0.1599	1004055551	sequence	                      CP000481.1 Acidothermus cellulolyticus 11B, complete genome
+0.04537	9	0	133	41.9	2.087e-06	85012	order	            Streptosporangiales
+0.04537	9	0	133	41.9	3.999e-06	2004	family	              Streptosporangiaceae
+0.04537	9	0	133	41.9	5.804e-06	83681	genus	                Nonomuraea
+0.04537	9	0	133	41.9	1.298e-05	93944	species	                  Nonomuraea gerenzanensis
+0.04537	9	9	133	41.9	1.325e-05	1013620672	sequence	                    LT559118.1 Nonomuraea sp. ATCC 39727 isolate nono1 genome assembly, chromosome: I
+0.02521	5	0	13	45.3	1.997e-08	85007	order	            Corynebacteriales
+0.02521	5	0	10	58.6	3.797e-08	1762	family	              Mycobacteriaceae
+0.02521	5	0	10	58.6	3.867e-08	1763	genus	                Mycobacterium
+0.02521	5	0	6	97	1.104e-06	77643	species group	                  Mycobacterium tuberculosis complex
+0.02521	5	0	6	97	1.949e-06	78331	species	                    Mycobacterium canettii
+0.02521	5	0	6	97	9.929e-05	1205676	no rank	                      Mycobacterium canettii CIPT 140060008
+0.02521	5	5	6	97	9.929e-05	1010323367	sequence	                        FO203507.1 Mycobacterium canettii CIPT 140060008 complete genome
+0.005041	1	0	9	1	8.302e-08	85009	order	            Propionibacteriales
+0.005041	1	0	1	1	1.971e-08	85015	family	              Nocardioidaceae
+0.005041	1	0	1	1	1.16e-07	53387	genus	                Friedmanniella
+0.005041	1	0	1	1	2.247e-07	546871	species	                  Friedmanniella luteola
+0.005041	1	1	1	1	2.247e-07	1008950753	sequence	                    LT629749.1 Friedmanniella luteola strain DSM 21741 genome assembly, chromosome: I
+0.005041	1	0	4	1	8.524e-08	84998	class	          Coriobacteriia
+0.005041	1	1	4	1	2.09e-07	84999	order	            Coriobacteriales
+45.75	9076	0	1404941	1.08	0.000189	1224	phylum	      Proteobacteria
+26.52	5260	0	881605	1.07	0.001439	68525	subphylum	        delta/epsilon subdivisions
+26.51	5259	0	881605	1.07	0.001991	28221	class	          Deltaproteobacteria
+26.51	5259	0	881104	1.07	0.00398	29	order	            Myxococcales
+26.51	5259	0	880102	1.07	0.007296	80811	suborder	              Cystobacterineae
+26.51	5259	0	866512	1.07	0.01529	31	family	                Myxococcaceae
+26.51	5259	36	858700	1.07	0.0184	32	genus	                  Myxococcus
+26.32	5222	357	706410	1.09	0.09477	34	species	                    Myxococcus xanthus
+24.52	4865	78	650106	1.1	0.09671	246197	no rank	                      Myxococcus xanthus DK 1622
+24.13	4787	4787	636137	1.11	0.09597	1009337705	sequence	                        CP000113.1 Myxococcus xanthus DK 1622, complete genome
+0.005041	1	0	31	1.06	2.53e-06	33	species	                    Myxococcus fulvus
+0.005041	1	0	23	1.09	2.289e-06	1334629	no rank	                      Myxococcus fulvus 124B02
+0.005041	1	1	23	1.09	2.289e-06	1000339454	sequence	                        CP006003.1 Myxococcus fulvus 124B02, complete genome
+0.005041	1	0	12	1	7.067e-08	29547	class	          Epsilonproteobacteria
+0.005041	1	0	12	1	7.428e-08	213849	order	            Campylobacterales
+0.005041	1	0	12	1	1.908e-07	72293	family	              Helicobacteraceae
+0.005041	1	0	12	1	2.337e-07	209	genus	                Helicobacter
+0.005041	1	0	12	1	4.412e-07	210	species	                  Helicobacter pylori
+0.005041	1	1	12	1	0.8571	1007403211	sequence	                    HQ268962.1 Helicobacter pylori clone Hel-3-9A-d07 23S ribosomal RNA (rrn) gene, partial sequence
+19.19	3807	2	523396	1.09	0.0001479	1236	class	        Gammaproteobacteria
+19.16	3800	2	518480	1.09	0.001393	135622	order	          Alteromonadales
+19.15	3798	0	518480	1.09	0.004944	267890	family	            Shewanellaceae
+19.15	3798	6	518480	1.09	0.004944	22	genus	              Shewanella
+19.12	3792	2	514695	1.09	0.1234	60478	species	                Shewanella amazonensis
+19.11	3790	8	514695	1.09	0.1234	326297	no rank	                  Shewanella amazonensis SB2B
+19.07	3782	3782	514439	1.09	0.1234	1000226576	sequence	                    CP000507.1 Shewanella amazonensis SB2B, complete genome
+0.005041	1	0	72	1.11	6.419e-07	135613	order	          Chromatiales
+0.005041	1	0	65	1.12	1.477e-06	72276	family	            Ectothiorhodospiraceae
+0.005041	1	0	63	1.13	7.798e-06	85108	genus	              Halorhodospira
+0.005041	1	0	63	1.13	1.152e-05	1052	species	                Halorhodospira halochloris
+0.005041	1	0	63	1.13	2.283e-05	1354791	no rank	                  Halorhodospira halochloris str. A
+0.005041	1	1	63	1.13	2.283e-05	1005255090	sequence	                    CP007268.1 Halorhodospira halochloris str. A genome
+0.005041	1	0	27	1.07	2.741e-08	91347	order	          Enterobacterales
+0.005041	1	1	15	1	2.979e-08	543	family	            Enterobacteriaceae
+0.005041	1	0	13	1	1.323e-08	72274	order	          Pseudomonadales
+0.005041	1	0	10	1	1.192e-08	135621	family	            Pseudomonadaceae
+0.005041	1	0	10	1	1.215e-08	286	genus	              Pseudomonas
+0.005041	1	0	2	1	1.275e-08	136843	species group	                Pseudomonas fluorescens group
+0.005041	1	1	2	1	2.276e-07	380021	species	                  Pseudomonas protegens
+0.005041	1	0	8	1	1.179e-07	135625	order	          Pasteurellales
+0.005041	1	0	8	1	1.179e-07	712	family	            Pasteurellaceae
+0.005041	1	0	8	1	2.571e-06	476528	genus	              Bibersteinia
+0.005041	1	1	8	1	2.571e-06	47735	species	                Bibersteinia trehalosi
+0.005041	1	0	2	1	6.05e-07	50423	no rank	          environmental samples
+0.005041	1	0	2	1	8.852e-07	86473	species	            uncultured gamma proteobacterium
+0.005041	1	1	2	1	0.02247	1005361974	sequence	              AY094502.1 Uncultured gamma proteobacterium clone 1-34 16S ribosomal RNA gene, partial sequence
+0.04033	8	0	184	1.28	1.007e-07	28211	class	        Alphaproteobacteria
+0.02016	4	0	120	1.43	1.345e-07	356	order	          Rhizobiales
+0.02016	4	0	106	1.49	1.386e-06	119045	family	            Methylobacteriaceae
+0.02016	4	3	106	1.49	1.563e-06	407	genus	              Methylobacterium
+0.005041	1	0	4	1	5.743e-07	426117	species	                Methylobacterium sp. 4-46
+0.005041	1	1	4	1	5.805e-07	1010764321	sequence	                  CP000943.1 Methylobacterium sp. 4-46, complete genome
+0.005041	1	0	27	1	9.659e-08	204457	order	          Sphingomonadales
+0.005041	1	0	22	1	1.016e-07	41297	family	            Sphingomonadaceae
+0.005041	1	0	14	1	3.538e-07	165697	genus	              Sphingopyxis
+0.005041	1	0	14	1	6.815e-06	267128	species	                Sphingopyxis granuli
+0.005041	1	1	14	1	7.028e-06	1013476118	sequence	                  CP012199.1 Sphingopyxis granuli strain TFA, complete genome
+0.005041	1	0	14	1	6.961e-08	204441	order	          Rhodospirillales
+0.005041	1	0	13	1	1.341e-07	433	family	            Acetobacteraceae
+0.005041	1	0	8	1	2.725e-07	434	genus	              Acetobacter
+0.005041	1	0	8	1	2.233e-06	1076596	species	                Acetobacter persici
+0.005041	1	1	8	1	2.611e-06	1005047155	sequence	                  CP014687.1 Acetobacter persici strain TMW2.1084, complete genome
+0.005041	1	0	5	1	4.102e-07	82117	no rank	          unclassified Alphaproteobacteria
+0.005041	1	0	5	1	1.074e-06	213485	genus	            Micavibrio
+0.005041	1	0	5	1	1.074e-06	349221	species	              Micavibrio aeruginosavorus
+0.005041	1	0	5	1	2.252e-06	856793	no rank	                Micavibrio aeruginosavorus ARL-13
+0.005041	1	1	5	1	2.253e-06	1001887543	sequence	                  CP002382.1 Micavibrio aeruginosavorus ARL-13, complete genome
+0.005041	1	0	5	1	1.62e-08	204455	order	          Rhodobacterales
+0.005041	1	0	5	1	1.719e-08	31989	family	            Rhodobacteraceae
+0.005041	1	0	3	1	9.022e-08	265	genus	              Paracoccus
+0.005041	1	0	3	1	6.505e-07	34003	species	                Paracoccus aminophilus
+0.005041	1	0	3	1	6.522e-07	1367847	no rank	                  Paracoccus aminophilus JCM 7686
+0.005041	1	1	3	1	8.929e-07	1007718787	sequence	                    CP006650.1 Paracoccus aminophilus JCM 7686, complete genome
+0.005041	1	0	14	3.57	1.005e-08	28216	class	        Betaproteobacteria
+0.005041	1	0	13	3.77	1.114e-08	80840	order	          Burkholderiales
+0.005041	1	0	4	1	3.405e-08	75682	family	            Oxalobacteraceae
+0.005041	1	0	4	1	1.559e-07	149698	genus	              Massilia
+0.005041	1	0	3	1	5.045e-07	1678028	species	                Massilia sp. NR 4-1
+0.005041	1	1	3	1	5.045e-07	1000740257	sequence	                  CP012201.1 Massilia sp. NR 4-1, complete genome
+0.04033	8	0	32	1	1.241e-07	48479	no rank	      environmental samples
+0.04033	8	2	31	1	1.656e-07	77133	species	        uncultured bacterium
+0.005041	1	1	1	1	1	1012989961	sequence	          AB788843.1 Uncultured bacterium gene for 16S rRNA, partial sequence, clone: CAP16-12
+0.005041	1	1	1	1	0.1111	1011266035	sequence	          DQ497788.1 Uncultured bacterium clone EXR6J 16S ribosomal RNA gene, partial sequence
+0.005041	1	1	1	1	0.01695	1010943316	sequence	          KP552417.1 Uncultured bacterium clone CTRL_2_uncultured_bacterium_15892 16S ribosomal RNA gene, partial sequence
+0.005041	1	1	1	1	0.01724	1008183864	sequence	          KF080266.1 Uncultured bacterium clone nck215h01c1 16S ribosomal RNA gene, partial sequence
+0.005041	1	1	1	1	0.3333	1007902678	sequence	          KM311384.1 Uncultured bacterium clone II960TT01CS6ZU 16S ribosomal RNA gene, partial sequence
+0.005041	1	1	1	1	0.05882	1002567232	sequence	          KR304377.1 Uncultured bacterium clone A2_684 16S ribosomal RNA gene, partial sequence
+0.01512	3	0	14	13.6	1.259e-08	1783270	no rank	      FCB group
+0.01512	3	0	14	13.6	1.286e-08	68336	no rank	        Bacteroidetes/Chlorobi group
+0.01512	3	0	14	13.6	1.341e-08	976	phylum	          Bacteroidetes
+0.01512	3	0	13	14.6	2.896e-08	117743	class	            Flavobacteriia
+0.01512	3	0	13	14.6	2.904e-08	200644	order	              Flavobacteriales
+0.01512	3	0	12	15.8	2.816e-08	49546	family	                Flavobacteriaceae
+0.01512	3	0	4	44.2	2.011e-07	363408	genus	                  Nonlabens
+0.01512	3	0	4	44.2	1.061e-06	328515	species	                    Nonlabens dokdonensis
+0.01512	3	0	4	44.2	1.061e-06	592029	no rank	                      Nonlabens dokdonensis DSW-6
+0.01512	3	3	4	44.2	1.061e-06	1011235737	sequence	                        CP001397.1 Nonlabens dokdonensis DSW-6, complete genome
+0.005041	1	0	6	1	2.349e-07	40117	phylum	      Nitrospirae
+0.005041	1	0	6	1	2.387e-07	203693	class	        Nitrospira
+0.005041	1	0	6	1	2.387e-07	189778	order	          Nitrospirales
+0.005041	1	0	6	1	2.388e-07	189779	family	            Nitrospiraceae
+0.005041	1	0	6	1	3.717e-07	1234	genus	              Nitrospira
+0.005041	1	0	6	1	1.41e-06	330214	species	                Nitrospira defluvii
+0.005041	1	1	6	1	1.456e-06	1009939405	sequence	                  FP929003.1 Candidatus Nitrospira defluvii chromosome, complete genome
+1.114	221	0	41463	1.01	6.715e-05	2157	superkingdom	    Archaea
+1.114	221	0	41087	1.01	9.386e-05	28890	phylum	      Euryarchaeota
+1.114	221	3	41087	1.01	0.0003035	183963	class	        Halobacteria
+1.099	218	0	39588	1.01	0.0007813	2235	order	          Halobacteriales
+1.099	218	0	39306	1.01	0.002268	2236	family	            Halobacteriaceae
+1.099	218	2	39187	1.01	0.00466	2239	genus	              Halobacterium
+1.089	216	214	36649	1.01	0.01562	2242	species	                Halobacterium salinarum
+0.01008	2	1	243	1	0.01605	64091	no rank	                  Halobacterium salinarum NRC-1
+0.005041	1	1	21	1	0.002203	1000703551	sequence	                    AE004437.1 Halobacterium sp. NRC-1, complete genome
+0.4688	93	0	13707	1.04	2.136e-06	2759	superkingdom	    Eukaryota
+0.4688	93	0	13694	1.04	3.057e-06	33154	no rank	      Opisthokonta
+0.4688	93	1	13694	1.04	3.087e-06	4751	kingdom	        Fungi
+0.4587	91	3	13694	1.04	3.205e-06	451864	subkingdom	          Dikarya
+0.4436	88	0	13530	1.02	4.003e-06	4890	phylum	            Ascomycota
+0.4436	88	0	13530	1.02	4.082e-06	716545	no rank	              saccharomyceta
+0.4335	86	0	13496	1.02	1.989e-05	147537	subphylum	                Saccharomycotina
+0.4335	86	0	13496	1.02	1.989e-05	4891	class	                  Saccharomycetes
+0.4335	86	0	13496	1.02	1.989e-05	4892	order	                    Saccharomycetales
+0.4285	85	0	13481	1.02	4.884e-05	4893	family	                      Saccharomycetaceae
+0.4285	85	1	13480	1.02	0.0002161	4930	genus	                        Saccharomyces
+0.4235	84	81	12489	1.02	0.0004763	4932	species	                          Saccharomyces cerevisiae
+0.005041	1	1	23	1	0.004574	1008905166	sequence	                            CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+0.005041	1	1	1	1	0.0008496	1003182615	sequence	                            CP020158.1 Saccharomyces cerevisiae strain DBVPG6765 chromosome II, complete sequence
+0.005041	1	0	1	1	6.889e-05	1294383	no rank	                            Saccharomyces cerevisiae YJM1527
+0.005041	1	1	1	1	0.0005705	1001928697	sequence	                              CP006205.2 Saccharomyces cerevisiae YJM1527 chromosome XVI sequence
+0.005041	1	0	7	1	7.435e-07	241407	no rank	                      Saccharomycetales incertae sedis
+0.005041	1	0	7	1	9.528e-06	5475	genus	                        Candida
+0.005041	1	0	7	1	0.07865	45523	species	                          Candida beechii
+0.005041	1	1	7	1	0.2692	1010572474	sequence	                            D45150.2 Candida beechii gene for 26S rRNA, partial sequence, strain: IFO 10229
+0.01008	2	1	5	1	1.897e-09	147538	subphylum	                Pezizomycotina
+0.005041	1	0	3	1	1.158e-09	716546	no rank	                  leotiomyceta
+0.005041	1	0	1	1	1.109e-09	147545	class	                    Eurotiomycetes
+0.005041	1	0	1	1	1.839e-09	451871	subclass	                      Eurotiomycetidae
+0.005041	1	0	1	1	8.04e-09	33183	order	                        Onygenales
+0.005041	1	0	1	1	0.0001291	451878	no rank	                          environmental samples
+0.005041	1	0	1	1	0.0001946	227717	species	                            uncultured Onygenales
+0.005041	1	1	1	1	0.01449	1013221001	sequence	                              KP963485.1 Uncultured Onygenales clone Rcl004EF4 18S ribosomal RNA gene, partial sequence
+0.005041	1	0	4	1	2.798e-07	57731	no rank	          environmental samples
+0.005041	1	0	4	1	2.803e-07	175245	species	            uncultured fungus
+0.005041	1	1	3	1	0.03846	1003117086	sequence	              KR535485.1 Uncultured fungus clone SR_f65 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
+0.7461	148	76	127	271	2.427e-07	10239	superkingdom	  Viruses
+0.3478	69	0	112	48.6	7.841e-07	439488	no rank	    ssRNA viruses
+0.3478	69	0	112	48.6	1.13e-06	35278	no rank	      ssRNA positive-strand viruses, no DNA stage
+0.3478	69	0	112	48.6	4.231e-06	11050	family	        Flaviviridae
+0.3478	69	25	112	48.6	2.144e-05	11051	genus	          Flavivirus
+0.1159	23	0	27	72.3	1.357e-05	11052	subgenus	            Dengue virus group
+0.1159	23	0	27	72.3	1.357e-05	12637	species	              Dengue virus
+0.1159	23	5	27	72.3	9.108e-05	11069	no rank	                Dengue virus 3
+0.05545	11	11	5	129	0.1923	1009725592	sequence	                  HQ541806.1 Dengue virus 3 isolate DENV-3/NI/BID-V4753/2009, complete genome
+0.03529	7	7	12	76.1	0.1967	1011623307	sequence	                  JN093514.1 Dengue virus 3 isolate DENV-3/NI/BID-V4754/2009, complete genome
+0.1059	21	0	83	16.9	7.615e-05	11071	subgenus	            Japanese encephalitis virus group
+0.1059	21	16	83	16.9	0.0001721	11082	species	              West Nile virus
+0.01008	2	2	6	30.3	0.02857	1002399276	sequence	                HM488116.1 West Nile virus isolate WNV-1/US/BID-V4104/2005, complete genome
+0.005041	1	1	3	49.7	0.04	1003062749	sequence	                HM488172.1 West Nile virus isolate WNV-1/US/BID-V4561/2003, complete genome
+0.005041	1	1	18	8.22	0.1731	1007371470	sequence	                HM488173.1 West Nile virus isolate WNV-1/US/BID-V4562/2003, complete genome
+0.005041	1	1	9	5.44	0.2647	1001712134	sequence	                HM488218.1 West Nile virus isolate WNV-1/US/BID-V4583/2003, complete genome
+0.01512	3	0	10	31	4.364e-08	35237	no rank	    dsDNA viruses, no RNA stage
+0.01008	2	0	5	29	2.996e-07	549779	family	      Mimiviridae
+0.01008	2	0	5	29	4.586e-07	985780	no rank	        unclassified Mimiviridae
+0.01008	2	0	5	29	3.008e-06	1094892	species	          Megavirus chiliensis
+0.01008	2	0	5	29	7.097e-05	1128143	no rank	            Megavirus terra1
+0.01008	2	2	5	29	7.102e-05	1012306740	sequence	              KF527229.1 Megavirus terra1 genome
+0.005041	1	0	4	41	2.984e-07	10501	family	      Phycodnaviridae
+0.005041	1	0	4	41	1.229e-06	455363	no rank	        unclassified Phycodnaviridae
+0.005041	1	0	4	41	0.001957	1210914	species	          Montastraea cavernosa colony-associated virus
+0.005041	1	1	1	121	0.001664	1004904306	sequence	            JX026067.2 Montastraea cavernosa colony-associated virus topoisomerase II-like mRNA, partial sequence

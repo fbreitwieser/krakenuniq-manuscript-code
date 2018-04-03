@@ -1,0 +1,19 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	3	0	677	1	4.483e-08	1	no rank	root
+100	3	0	677	1	4.572e-08	131567	no rank	  cellular organisms
+100	3	0	677	1	5.75e-08	2	superkingdom	    Bacteria
+66.67	2	0	633	1	1.042e-07	1224	phylum	      Proteobacteria
+66.67	2	0	633	1	2.224e-07	1236	class	        Gammaproteobacteria
+66.67	2	0	596	1	1.79e-06	135622	order	          Alteromonadales
+66.67	2	0	592	1	7.579e-06	267888	family	            Pseudoalteromonadaceae
+66.67	2	1	592	1	7.579e-06	53246	genus	              Pseudoalteromonas
+33.33	1	0	5	1	1.284e-06	152297	species	                Pseudoalteromonas issachenkonii
+33.33	1	0	5	1	1.657e-06	1000018670	assembly	                  GCF_002407085.1 Pseudoalteromonas issachenkonii strain=ECSMB14103
+33.33	1	1	5	1	1.657e-06	1000018671	sequence	                    NZ_CP023558.1 Pseudoalteromonas issachenkonii strain ECSMB14103 chromosome, complete genome
+33.33	1	0	2	1	4.55e-10	1783272	no rank	      Terrabacteria group
+33.33	1	0	2	1	1.104e-09	1239	phylum	        Firmicutes
+33.33	1	0	2	1	1.563e-09	91061	class	          Bacilli
+33.33	1	0	2	1	2.219e-09	1385	order	            Bacillales
+33.33	1	0	2	1	4.682e-09	186817	family	              Bacillaceae
+33.33	1	0	2	1	2.536e-07	45667	genus	                Halobacillus
+33.33	1	1	2	1	5.114e-07	1570	species	                  Halobacillus halophilus

@@ -1,0 +1,32 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+60	27	27	61347	1	0.0003219	0	no rank	unclassified
+40	18	4	1225	1.02	2.11e-07	1	no rank	root
+31.11	14	0	665	1	1.173e-07	131567	no rank	  cellular organisms
+31.11	14	0	665	1	1.246e-07	2	superkingdom	    Bacteria
+13.33	6	2	60	1	2.346e-08	1224	phylum	      Proteobacteria
+8.889	4	0	57	1	5.274e-08	1236	class	        Gammaproteobacteria
+6.667	3	0	46	1	1.43e-07	91347	order	          Enterobacteriales
+6.667	3	0	46	1	1.43e-07	543	family	            Enterobacteriaceae
+6.667	3	0	46	1	2.764e-06	561	genus	              Escherichia
+6.667	3	3	46	1	2.764e-06	562	species	                Escherichia coli
+2.222	1	0	10	1	4.455e-08	72274	order	          Pseudomonadales
+2.222	1	0	10	1	5.182e-08	135621	family	            Pseudomonadaceae
+2.222	1	1	10	1	5.453e-08	286	genus	              Pseudomonas
+11.11	5	0	215	1	2.529e-07	1239	phylum	      Firmicutes
+11.11	5	0	215	1	4.266e-07	91061	class	        Bacilli
+11.11	5	0	215	1	6.861e-07	1385	order	          Bacillales
+6.667	3	0	176	1	5.297e-06	90964	family	            Staphylococcaceae
+6.667	3	1	176	1	5.669e-06	1279	genus	              Staphylococcus
+4.444	2	1	172	1	6.194e-05	1282	species	                Staphylococcus epidermidis
+2.222	1	1	42	1	9.932e-05	176280	no rank	                  Staphylococcus epidermidis ATCC 12228
+4.444	2	0	39	1	2.163e-07	186817	family	            Bacillaceae
+4.444	2	0	39	1	9.664e-06	45667	genus	              Halobacillus
+4.444	2	0	39	1	9.664e-06	1570	species	                Halobacillus halophilus
+4.444	2	2	39	1	9.664e-06	866895	no rank	                  Halobacillus halophilus DSM 2266
+6.667	3	0	389	1	4.845e-07	201174	phylum	      Actinobacteria
+6.667	3	0	389	1	5.095e-07	1760	class	        Actinobacteria
+6.667	3	0	388	1	4.091e-06	85006	order	          Micrococcales
+6.667	3	0	388	1	1.047e-05	1268	family	            Micrococcaceae
+6.667	3	0	388	1	0.0001636	1269	genus	              Micrococcus
+6.667	3	0	388	1	0.0001636	1270	species	                Micrococcus luteus
+6.667	3	3	388	1	0.0001636	465515	no rank	                  Micrococcus luteus NCTC 2665

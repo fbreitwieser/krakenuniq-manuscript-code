@@ -1,0 +1,90 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+69.03	292	292	469168	1.04	NA	0	no rank	unclassified
+30.97	131	5	6977	1.44	4.62e-07	1	no rank	root
+29.31	124	0	4699	1.01	3.173e-07	131567	no rank	  cellular organisms
+29.31	124	0	4699	1.01	3.991e-07	2	superkingdom	    Bacteria
+18.44	78	0	2038	1.02	3.355e-07	1224	phylum	      Proteobacteria
+18.2	77	0	2029	1.02	7.13e-07	1236	class	        Gammaproteobacteria
+8.038	34	0	389	1	5.622e-07	72274	order	          Pseudomonadales
+8.038	34	0	389	1	6.674e-07	135621	family	            Pseudomonadaceae
+8.038	34	5	389	1	6.856e-07	286	genus	              Pseudomonas
+4.728	20	0	158	1	3.114e-05	219572	species	                Pseudomonas antarctica
+4.728	20	0	158	1	3.114e-05	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+4.728	20	20	158	1	3.209e-05	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+1.891	8	2	53	1	5.122e-07	136843	species group	                Pseudomonas fluorescens group
+0.9456	4	1	21	1	3.615e-07	294	species	                  Pseudomonas fluorescens
+0.4728	2	0	10	1	1.848e-06	1000002064	assembly	                    GCF_001612705.1 Pseudomonas fluorescens strain=LBUM636
+0.4728	2	2	10	1	1.848e-06	1000002065	sequence	                      NZ_CP012400.1 Pseudomonas fluorescens strain LBUM636, complete genome
+0.2364	1	0	2	1	3.772e-07	1221522	no rank	                    Pseudomonas fluorescens NCIMB 11764
+0.2364	1	0	2	1	3.772e-07	1000002050	assembly	                      GCF_000293885.2 Pseudomonas fluorescens NCIMB 11764
+0.2364	1	1	2	1	3.772e-07	1000002051	sequence	                        NZ_CP010945.1 Pseudomonas fluorescens NCIMB 11764, complete genome
+0.2364	1	0	9	1	1.749e-06	76761	species	                  Pseudomonas veronii
+0.2364	1	0	9	1	1.749e-06	1000017597	assembly	                    GCF_002028325.1 Pseudomonas veronii strain=R02
+0.2364	1	1	9	1	1.749e-06	1000017598	sequence	                      NZ_CP018420.1 Pseudomonas veronii strain R02 chromosome, complete genome
+0.2364	1	0	4	1	9.329e-07	200451	species	                  Pseudomonas poae
+0.2364	1	0	4	1	9.329e-07	1282356	no rank	                    Pseudomonas poae RE*1-1-14
+0.2364	1	0	4	1	9.329e-07	1000019183	assembly	                      GCF_000336465.1 Pseudomonas poae RE*1-1-14 strain=RE*1-1-14
+0.2364	1	1	4	1	9.329e-07	1000019184	sequence	                        NC_020209.1 Pseudomonas poae RE*1-1-14, complete genome
+0.2364	1	0	1	1	1.855e-07	1853130	species	                Pseudomonas sp. A3(2016)
+0.2364	1	0	1	1	1.855e-07	1000023595	assembly	                  GCF_001661075.1 Pseudomonas sp. A3(2016)
+0.2364	1	1	1	1	1.855e-07	1000023596	sequence	                    NZ_CP014870.1 Pseudomonas sp. A3(2016), complete genome
+7.092	30	0	1133	1.04	1.376e-06	91347	order	          Enterobacterales
+7.092	30	8	1117	1.04	2.595e-06	543	family	            Enterobacteriaceae
+4.965	21	0	69	1.64	1.576e-06	561	genus	              Escherichia
+4.728	20	11	67	1.66	1.925e-06	562	species	                Escherichia coli
+1.418	6	0	14	3.71	0.0009398	1446746	no rank	                  Escherichia coli O6:H16
+1.418	6	0	14	3.71	0.0009398	1000005847	assembly	                    GCF_002269325.1 Escherichia coli O6:H16 strain=2011EL-1370-2
+1.418	6	6	14	3.71	0.0009998	1000005848	sequence	                      NZ_CP022912.1 Escherichia coli O6:H16 strain 2011EL-1370-2, complete genome
+0.2364	1	0	3	1	1.899e-05	1000005840	assembly	                  GCF_002237305.1 Escherichia coli strain=PAR
+0.2364	1	1	3	1	1.899e-05	1000005841	sequence	                    NZ_CP012379.1 Escherichia coli strain PAR, complete genome
+0.2364	1	0	2	1	0.0002739	1000005042	assembly	                  GCF_001455385.1 Escherichia coli strain=CQSW20
+0.2364	1	1	2	1	0.0002739	1000005043	sequence	                    NZ_CP013253.1 Escherichia coli strain CQSW20, complete genome
+0.2364	1	0	1	1	1.037e-05	1000005533	assembly	                  GCF_001936315.1 Escherichia coli strain=SLK172
+0.2364	1	1	1	1	1.199e-05	1000005534	sequence	                    NZ_CP017631.1 Escherichia coli SLK172, complete genome
+0.2364	1	0	1	1	1.982e-07	208962	species	                Escherichia albertii
+0.2364	1	0	1	1	1.872e-06	1000019235	assembly	                  GCF_001549955.1 Escherichia albertii strain=EC06-170
+0.2364	1	1	1	1	1.872e-06	1000019236	sequence	                    NZ_AP014857.1 Escherichia albertii DNA, complete genome, strain: EC06-170
+0.2364	1	0	24	1	1.293e-05	620	genus	              Shigella
+0.2364	1	0	24	1	4.044e-05	623	species	                Shigella flexneri
+0.2364	1	0	23	1	0.0009752	374923	no rank	                  Shigella flexneri 1a
+0.2364	1	0	23	1	0.001501	1000006878	assembly	                    GCF_001578125.1 Shigella flexneri 1a strain=0228
+0.2364	1	1	23	1	0.01256	1000006881	sequence	                      NZ_CP012733.1 Shigella flexneri 1a strain 0228 plasmid, complete sequence
+3.073	13	0	496	1	1.49e-06	135622	order	          Alteromonadales
+3.073	13	0	493	1	6.311e-06	267888	family	            Pseudoalteromonadaceae
+3.073	13	8	493	1	6.311e-06	53246	genus	              Pseudoalteromonas
+0.9456	4	3	49	1	1.258e-05	152297	species	                Pseudoalteromonas issachenkonii
+0.2364	1	0	12	1	3.978e-06	1000018670	assembly	                  GCF_002407085.1 Pseudoalteromonas issachenkonii strain=ECSMB14103
+0.2364	1	1	12	1	3.978e-06	1000018671	sequence	                    NZ_CP023558.1 Pseudoalteromonas issachenkonii strain ECSMB14103 chromosome, complete genome
+0.2364	1	0	12	1	3.567e-06	394751	species	                Pseudoalteromonas arctica
+0.2364	1	0	12	1	3.567e-06	1117313	no rank	                  Pseudoalteromonas arctica A 37-1-2
+0.2364	1	0	12	1	3.567e-06	1000020399	assembly	                    GCF_000238395.3 Pseudoalteromonas arctica A 37-1-2
+0.2364	1	1	12	1	4.394e-06	1000020400	sequence	                      NZ_CP011025.1 Pseudoalteromonas arctica A 37-1-2 chromosome I, complete sequence
+0.2364	1	0	3	1	2.523e-09	28216	class	        Betaproteobacteria
+0.2364	1	0	3	1	5.294e-08	206351	order	          Neisseriales
+0.2364	1	0	3	1	1.238e-07	1499392	family	            Chromobacteriaceae
+0.2364	1	0	3	1	8.533e-07	885864	genus	              Jeongeupia
+0.2364	1	0	3	1	8.533e-07	1906741	species	                Jeongeupia sp. USM3
+0.2364	1	0	3	1	8.533e-07	1000023738	assembly	                  GCF_001808185.1 Jeongeupia sp. USM3
+0.2364	1	1	3	1	8.533e-07	1000023739	sequence	                    NZ_CP017668.1 Jeongeupia sp. USM3, complete genome
+10.87	46	0	2660	1	6.051e-07	1783272	no rank	      Terrabacteria group
+6.383	27	0	2031	1	1.023e-06	201174	phylum	        Actinobacteria
+6.383	27	0	2031	1	1.057e-06	1760	class	          Actinobacteria
+6.383	27	0	1971	1.01	6.275e-06	85006	order	            Micrococcales
+6.383	27	0	1947	1	1.762e-05	1268	family	              Micrococcaceae
+6.383	27	0	1930	1.01	0.0008713	1269	genus	                Micrococcus
+6.383	27	0	1930	1.01	0.0008713	1270	species	                  Micrococcus luteus
+6.383	27	0	1930	1.01	0.0008713	465515	no rank	                    Micrococcus luteus NCTC 2665
+6.383	27	0	1930	1.01	0.0008713	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+6.383	27	27	1930	1.01	0.0008713	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+4.492	19	0	632	1	3.488e-07	1239	phylum	        Firmicutes
+4.492	19	0	632	1	4.938e-07	91061	class	          Bacilli
+4.492	19	0	632	1	7.013e-07	1385	order	            Bacillales
+4.019	17	0	388	1	9.083e-07	186817	family	              Bacillaceae
+4.019	17	0	388	1	4.921e-05	45667	genus	                Halobacillus
+4.019	17	17	388	1	9.921e-05	1570	species	                  Halobacillus halophilus
+0.4728	2	0	243	1	2.536e-06	90964	family	              Staphylococcaceae
+0.4728	2	0	243	1	2.873e-06	1279	genus	                Staphylococcus
+0.4728	2	2	228	1	5.188e-05	1282	species	                  Staphylococcus epidermidis
+0.4728	2	0	5	2	2.359e-06	28384	no rank	  other sequences
+0.4728	2	0	5	2	2.359e-06	81077	no rank	    artificial sequences
+0.4728	2	2	5	2	2.359e-06	32630	species	      synthetic construct

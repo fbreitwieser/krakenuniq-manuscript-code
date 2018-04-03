@@ -1,0 +1,48 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+81.46	123	123	179320	1	NA	0	no rank	unclassified
+18.54	28	7	1207	1.07	7.992e-08	1	no rank	root
+13.91	21	0	616	1	4.16e-08	131567	no rank	  cellular organisms
+13.91	21	0	616	1	5.232e-08	2	superkingdom	    Bacteria
+9.272	14	0	310	1	5.103e-08	1224	phylum	      Proteobacteria
+9.272	14	0	306	1	1.075e-07	1236	class	        Gammaproteobacteria
+3.974	6	0	133	1	1.922e-07	72274	order	          Pseudomonadales
+3.974	6	0	133	1	2.282e-07	135621	family	            Pseudomonadaceae
+3.974	6	0	133	1	2.344e-07	286	genus	              Pseudomonas
+3.311	5	0	50	1	9.855e-06	219572	species	                Pseudomonas antarctica
+3.311	5	0	50	1	9.855e-06	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+3.311	5	5	50	1	1.016e-05	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+0.6623	1	1	12	1	1.16e-07	136843	species group	                Pseudomonas fluorescens group
+3.974	6	0	119	1	1.445e-07	91347	order	          Enterobacterales
+3.974	6	3	119	1	2.765e-07	543	family	            Enterobacteriaceae
+1.325	2	0	7	1	1.599e-07	561	genus	              Escherichia
+1.325	2	2	7	1	2.012e-07	562	species	                Escherichia coli
+0.6623	1	0	1	1	5.387e-07	620	genus	              Shigella
+0.6623	1	0	1	1	2.248e-06	622	species	                Shigella dysenteriae
+0.6623	1	0	1	1	2.248e-06	300267	no rank	                  Shigella dysenteriae Sd197
+0.6623	1	0	1	1	2.248e-06	1000006852	assembly	                    GCF_000012005.1 Shigella dysenteriae Sd197
+0.6623	1	1	1	1	2.376e-06	1000006853	sequence	                      NC_007606.1 Shigella dysenteriae Sd197 chromosome, complete genome
+1.325	2	0	53	1	1.592e-07	135622	order	          Alteromonadales
+1.325	2	0	53	1	6.785e-07	267888	family	            Pseudoalteromonadaceae
+1.325	2	1	53	1	6.785e-07	53246	genus	              Pseudoalteromonas
+0.6623	1	0	18	1	2.68e-05	43659	species	                Pseudoalteromonas tetraodonis
+0.6623	1	0	18	1	2.68e-05	1000016402	assembly	                  GCF_002310835.1 Pseudoalteromonas tetraodonis strain=GFC
+0.6623	1	1	18	1	3.258e-05	1000016403	sequence	                    NZ_CP011041.1 Pseudoalteromonas tetraodonis strain GFC chromosome I, complete sequence
+4.636	7	0	275	1	6.256e-08	1783272	no rank	      Terrabacteria group
+3.311	5	0	229	1	1.154e-07	201174	phylum	        Actinobacteria
+3.311	5	0	229	1	1.191e-07	1760	class	          Actinobacteria
+3.311	5	0	198	1	6.304e-07	85006	order	            Micrococcales
+3.311	5	0	193	1	1.747e-06	1268	family	              Micrococcaceae
+3.311	5	0	189	1	8.533e-05	1269	genus	                Micrococcus
+3.311	5	0	189	1	8.533e-05	1270	species	                  Micrococcus luteus
+3.311	5	0	189	1	8.533e-05	465515	no rank	                    Micrococcus luteus NCTC 2665
+3.311	5	0	189	1	8.533e-05	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+3.311	5	5	189	1	8.533e-05	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+1.325	2	0	45	1	2.483e-08	1239	phylum	        Firmicutes
+1.325	2	0	26	1	2.031e-08	91061	class	          Bacilli
+1.325	2	0	12	1	1.332e-08	1385	order	            Bacillales
+0.6623	1	0	7	1	2.802e-07	186820	family	              Listeriaceae
+0.6623	1	0	6	1	2.483e-06	2755	genus	                Brochothrix
+0.6623	1	1	6	1	2.483e-06	2756	species	                  Brochothrix thermosphacta
+0.6623	1	0	5	1	1.17e-08	186817	family	              Bacillaceae
+0.6623	1	0	3	1	3.805e-07	45667	genus	                Halobacillus
+0.6623	1	1	1	1	2.557e-07	1570	species	                  Halobacillus halophilus

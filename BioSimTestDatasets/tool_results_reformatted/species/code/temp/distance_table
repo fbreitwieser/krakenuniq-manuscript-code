@@ -1,0 +1,115 @@
+TaxID	distance_measures.m
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+%	not
+%Check	of
+%avg_temp=KLDiv([thetable(:,2:truth_index-1)	
+%avg_temp=KLDiv(thetable(:,2:end)',average_abundance');	
+%correct	be
+%thetable(:,j)=thetable_old(:,j)/sum_to_one(j);	
+%truth_temp=KLDiv([thetable(:,2:truth_index-1)	
+C	textscan(fid,
+average_abundance=mean([tempavg1	
+average_abundance=mean(thetable(:,2:end),2);	
+average_distance_table={};	
+average_distance_table{1,(i-1)*2+1}=h(i).name;	
+average_distance_table{j+1,i*2}=avg_temp(j);	
+average_distance_table{j+1,i*2}=avg_temp(j);	
+average_distance_table{j,(i-1)*2+1}=header_fields{j};	
+average_distances=[];	
+average_distances=[average_distances;avg_temp];	
+average_distances=[average_distances;avg_temp];	
+avg_temp=pdist2_again([thetable(:,2:truth_index-1)	
+avg_temp=pdist2_again(thetable(:,2:end)',average_abundance','L1');	
+binvector=round(sum_to_one*1000)~=1000;	
+cd	
+datasetname=regexprep(h(i).name,'_table','');	
+disp('The	that
+disp(['Found	in:
+else	
+else	
+else	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+fclose(fid);	
+fclose(fid2);	
+fclose(fid3);	
+fid	fopen(['temp/'
+fid2=fopen(outname,'wt');	
+fid3=fopen(outname2,'wt');	
+for	
+for	
+for	
+for	
+for	
+for	
+for	
+fprintf(fid2,'%f\t	%s\n',avg_temp(j),datasetname,toolname);
+fprintf(fid2,'%f\t	%s\n',avg_temp(j),datasetname,toolname);
+fprintf(fid2,'L1	Sample
+fprintf(fid3,'%f\t	%s\n',truth_temp(j),datasetname,toolname);
+fprintf(fid3,'L1	Sample
+h=dir('temp/*_table');	
+header=fgetl(fid);	
+header_fields=regexp(header,'\t','split');	
+if	
+if	
+if	
+if	
+if	
+if	
+if	
+if(~isempty(regexp(header_fields{j},'TRUTH','match')))	
+numformat=[];	
+numformat=[numformat	'];
+outname2=('temp/l1_truthabundance_results.txt');	
+outname=('temp/l1_averageabundance_results.txt');	
+sprintf('%s	%s
+sum_to_one=sum(thetable_old);	
+temp1=regexprep(header_fields{j+1},[datasetname	
+temp1=regexprep(header_fields{j+1},[datasetname	
+temp1=regexprep(header_fields{j+1},[datasetname	
+tempavg1=mean(thetable(:,2:truth_index-1),2);	
+tempavg1=zeros(size(thetable(:,2:truth_index-1)));	
+tempavg2=mean(thetable(:,truth_index+1:end),2);	
+tempavg2=zeros(size(thetable(:,truth_index+1:end)));	
+thetable=thetable_old(:,1);	
+thetable=thetable_old;	
+thetable_old(isnan(thetable_old))=0;	
+thetable_old=cell2mat(C);	
+toolname=regexprep(temp1,'.txt','');	
+toolname=regexprep(temp1,'.txt','');	
+toolname=regexprep(temp1,'.txt','');	
+truth_abundance=thetable(:,j);	
+truth_distance_table={};	
+truth_distance_table{1,(i-1)*2+1}=h(i).name;	
+truth_distance_table{j+1,i*2}=truth_temp(j);	
+truth_distance_table{j,(i-1)*2+1}=header_fields{j};	
+truth_distances=[];	
+truth_distances=[truth_distances;truth_temp];	
+truth_index=0;	
+truth_index=j;	
+truth_set_vector=[];	
+truth_set_vector=[truth_set_vector;i];	
+truth_temp=pdist2_again([thetable(:,2:truth_index-1)	

@@ -1,0 +1,11 @@
+--- datasets/truth_sets/genus/HMP_even_illum_SRR172902_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/HMP_even_illum_SRR172902_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -11,7 +11,7 @@
+ 1578	1.00000	0.04545	genus	Lactobacillus
+ 1637	1.00000	0.04545	genus	Listeria
+ 1654	1.00000	0.04545	genus	Actinomyces
+-1743	1.00000	0.04545	genus	Propionibacterium
++1912216	1.00000	0.04545	genus	Cutibacterium
+ 2172	1.00000	0.04545	genus	Methanobrevibacter
+ 561	1.00000	0.04545	genus	Escherichia
+ 209	1.00000	0.04545	genus	Helicobacter

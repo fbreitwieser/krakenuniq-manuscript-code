@@ -1,0 +1,3090 @@
+1570	9.00000	0.15362	species	Halobacillus halophilus
+1282	5.86667	0.10014	species	Staphylococcus epidermidis
+562	3.48333	0.05946	species	Escherichia coli
+1270	2.98333	0.05092	species	Micrococcus luteus
+294	1.95000	0.03328	species	Pseudomonas fluorescens
+1280	0.61609	0.01052	species	Staphylococcus aureus
+200451	0.56705	0.00968	species	Pseudomonas poae
+303	0.52988	0.00904	species	Pseudomonas putida
+374840	0.51591	0.00881	species	Enterobacteria phage phiX174 sensu lato
+32630	0.50000	0.00853	species	synthetic construct
+1415630	0.48413	0.00826	species	Pseudomonas sp. TKP
+288000	0.41676	0.00711	species	Bradyrhizobium sp. BTAi1
+380021	0.38549	0.00658	species	Pseudomonas protegens
+470	0.38091	0.00650	species	Acinetobacter baumannii
+317	0.37279	0.00636	species	Pseudomonas syringae
+28108	0.35000	0.00597	species	Alteromonas macleodii
+930166	0.29140	0.00497	species	Pseudomonas brassicacearum
+1207075	0.28681	0.00490	species	Pseudomonas sp. UW4
+29438	0.28624	0.00489	species	Pseudomonas savastanoi
+1351	0.28104	0.00480	species	Enterococcus faecalis
+1283	0.27993	0.00478	species	Staphylococcus haemolyticus
+1396	0.24278	0.00414	species	Bacillus cereus
+77133	0.22619	0.00386	species	uncultured bacterium
+623	0.22546	0.00385	species	Shigella flexneri
+573	0.20926	0.00357	species	Klebsiella pneumoniae
+1491	0.20371	0.00348	species	Clostridium botulinum
+287	0.19185	0.00327	species	Pseudomonas aeruginosa
+312306	0.19034	0.00325	species	Pseudomonas entomophila
+9606	0.18895	0.00323	species	Homo sapiens
+316	0.18659	0.00318	species	Pseudomonas stutzeri
+251701	0.17859	0.00305	species	Pseudomonas syringae group genomosp. 3
+1520	0.16962	0.00290	species	Clostridium beijerinckii
+104388	0.16667	0.00284	species	Anatid herpesvirus 1
+47883	0.16275	0.00278	species	Pseudomonas synxantha
+1358	0.15613	0.00267	species	Lactococcus lactis
+1292	0.15278	0.00261	species	Staphylococcus warneri
+1076	0.14683	0.00251	species	Rhodopseudomonas palustris
+375	0.14575	0.00249	species	Bradyrhizobium japonicum
+1590	0.14537	0.00248	species	Lactobacillus plantarum
+1293	0.14286	0.00244	species	Staphylococcus gallinarum
+1230476	0.14286	0.00244	species	Bradyrhizobium sp. DFCI-1
+29442	0.13846	0.00236	species	Pseudomonas tolaasii
+300	0.12644	0.00216	species	Pseudomonas mendocina
+10386	0.12500	0.00213	species	Gallid herpesvirus 1
+986	0.12500	0.00213	species	Flavobacterium johnsoniae
+360911	0.12207	0.00208	species	Exiguobacterium sp. AT1b
+1328	0.11756	0.00201	species	Streptococcus anginosus
+621	0.11515	0.00197	species	Shigella boydii
+1206	0.11178	0.00191	species	Trichodesmium erythraeum
+35250	0.11111	0.00190	species	Gallid herpesvirus 3
+1308	0.11105	0.00190	species	Streptococcus thermophilus
+622	0.10985	0.00188	species	Shigella dysenteriae
+52227	0.10879	0.00186	species	Prevotella dentalis
+28901	0.10712	0.00183	species	Salmonella enterica
+69328	0.10445	0.00178	species	Pseudomonas sp. VLB120
+86662	0.10144	0.00173	species	Bacillus weihenstephanensis
+65393	0.10000	0.00171	species	Cyanothece sp. PCC 7424
+320432	0.10000	0.00171	species	Chrysodeixis chalcites nucleopolyhedrovirus
+79329	0.09915	0.00169	species	Chitinophaga pinensis
+564	0.09774	0.00167	species	Escherichia fergusonii
+471	0.09750	0.00166	species	Acinetobacter calcoaceticus
+335659	0.09614	0.00164	species	Bradyrhizobium sp. S23321
+232721	0.09599	0.00164	species	Acidovorax sp. JS42
+413502	0.09367	0.00160	species	Cronobacter turicensis
+151895	0.09276	0.00158	species	Pseudopedobacter saltans
+33069	0.09125	0.00156	species	Pseudomonas viridiflava
+911244	0.09091	0.00155	species	Pseudomonas sp. CFT9
+35246	0.09091	0.00155	species	Cercopithecine herpesvirus 9
+285	0.08865	0.00151	species	Comamonas testosteroni
+72000	0.08762	0.00150	species	Kocuria rhizophila
+529	0.08701	0.00149	species	Ochrobactrum anthropi
+1584	0.08572	0.00146	species	Lactobacillus delbrueckii
+721785	0.08488	0.00145	species	Acidovorax ebreus
+271108	0.08333	0.00142	species	Bombyx mori nucleopolyhedrovirus
+29449	0.08272	0.00141	species	Rhizobium etli
+531813	0.08198	0.00140	species	Pelagibacterium halotolerans
+1148157	0.08152	0.00139	species	Acinetobacter oleivorans
+62977	0.07814	0.00133	species	Acinetobacter sp. ADP1
+1404	0.07786	0.00133	species	Bacillus megaterium
+56	0.07750	0.00132	species	Sorangium cellulosum
+624	0.07720	0.00132	species	Shigella sonnei
+1259798	0.07692	0.00131	species	Pseudomonas sp. LAMO17WK12:I2
+332054	0.07692	0.00131	species	Trichoplusia ni single nucleopolyhedrovirus
+272131	0.07692	0.00131	species	Nostoc punctiforme
+1613	0.07425	0.00127	species	Lactobacillus fermentum
+359110	0.07353	0.00126	species	Pseudomonas extremaustralis
+1240676	0.07294	0.00125	species	Pseudomonas sp. PAMC 26793
+37734	0.07279	0.00124	species	Enterococcus casseliflavus
+1747	0.07229	0.00123	species	Propionibacterium acnes
+53412	0.07165	0.00122	species	Pseudomonas resinovorans
+1284392	0.07143	0.00122	species	Pseudomonas sp. FH1
+10335	0.07143	0.00122	species	Human herpesvirus 3
+76761	0.07090	0.00121	species	Pseudomonas veronii
+1399115	0.07051	0.00120	species	Exiguobacterium sp. MH3
+926	0.06999	0.00119	species	Thiomonas intermedia
+630	0.06936	0.00118	species	Yersinia enterocolitica
+1163065	0.06852	0.00117	species	Pseudomonas sp. CBZ-4
+1428	0.06834	0.00117	species	Bacillus thuringiensis
+384	0.06782	0.00116	species	Rhizobium leguminosarum
+1307	0.06781	0.00116	species	Streptococcus suis
+1496	0.06780	0.00116	species	Peptoclostridium difficile
+1488	0.06773	0.00116	species	Clostridium acetobutylicum
+1830	0.06667	0.00114	species	Rhodococcus ruber
+114051	0.06667	0.00114	species	uncultured Micrococcus sp.
+1392	0.06651	0.00114	species	Bacillus anthracis
+1355477	0.06308	0.00108	species	Bradyrhizobium diazoefficiens
+545	0.06303	0.00108	species	Citrobacter koseri
+333924	0.06250	0.00107	species	Betapapillomavirus 2
+271098	0.06190	0.00106	species	Shewanella halifaxensis
+452680	0.05887	0.00100	species	Pseudomonas sp. UK4
+5480	0.05882	0.00100	species	Candida parapsilosis
+225194	0.05826	0.00099	species	Geobacter bemidjiensis
+40215	0.05784	0.00099	species	Acinetobacter junii
+826	0.05662	0.00097	species	Sebaldella termitidis
+98383	0.05556	0.00095	species	Plutella xylostella granulovirus
+550	0.05326	0.00091	species	Enterobacter cloacae
+10397	0.05263	0.00090	species	Tupaiid herpesvirus 1
+100861	0.05263	0.00090	species	Aphanomyces euteiches
+47880	0.05207	0.00089	species	Pseudomonas fulva
+1179778	0.05195	0.00089	species	Pseudomonas sp. M47T1
+67825	0.05087	0.00087	species	Citrobacter rodentium
+2001	0.05029	0.00086	species	Streptosporangium roseum
+10320	0.05000	0.00085	species	Bovine herpesvirus 1
+1502	0.04940	0.00084	species	Clostridium perfringens
+173	0.04909	0.00084	species	Leptospira interrogans
+332163	0.04897	0.00084	species	Candidatus Solibacter usitatus
+43306	0.04884	0.00083	species	Pseudomonas denitrificans
+381	0.04813	0.00082	species	Mesorhizobium loti
+1144885	0.04806	0.00082	species	Pseudomonas sp. R81
+28141	0.04762	0.00081	species	Cronobacter sakazakii
+911240	0.04762	0.00081	species	Pseudomonas sp. CF150
+553297	0.04762	0.00081	species	Micrococcus sp. SKUK MB1004
+82996	0.04714	0.00080	species	Serratia plymuthica
+179636	0.04687	0.00080	species	Alicycliphilus denitrificans
+117681	0.04636	0.00079	species	Pseudomonas gingeri
+553	0.04636	0.00079	species	Pantoea ananatis
+114615	0.04558	0.00078	species	Bradyrhizobium sp. ORS 278
+531844	0.04554	0.00078	species	Flavobacteriaceae bacterium 3519-10
+646092	0.04545	0.00078	species	bacterium enrichment culture clone LQ-C
+44255	0.04543	0.00078	species	Bradyrhizobium oligotrophicum
+1144339	0.04403	0.00075	species	Pseudomonas sp. GM80
+34073	0.04365	0.00075	species	Variovorax paradoxus
+324057	0.04334	0.00074	species	Paenibacillus sp. JDR-2
+399742	0.04310	0.00074	species	Enterobacter sp. 638
+9	0.04300	0.00073	species	Buchnera aphidicola
+487	0.04286	0.00073	species	Neisseria meningitidis
+159	0.04273	0.00073	species	Brachyspira hyodysenteriae
+322865	0.04167	0.00071	species	Leptolyngbya valderiana
+10353	0.04167	0.00071	species	Saimiriine herpesvirus 1
+1125977	0.04161	0.00071	species	Pseudomonas sp. PAMC 25886
+571	0.04150	0.00071	species	Klebsiella oxytoca
+69966	0.04109	0.00070	species	Macrococcus caseolyticus
+1144337	0.04103	0.00070	species	Pseudomonas sp. GM78
+693444	0.04093	0.00070	species	Enterobacteriaceae bacterium strain FGI 57
+40324	0.04062	0.00069	species	Stenotrophomonas maltophilia
+380	0.04050	0.00069	species	Sinorhizobium fredii
+1014	0.04042	0.00069	species	Weeksella virosa
+358220	0.04039	0.00069	species	Acidovorax sp. KKS102
+482957	0.04029	0.00069	species	Burkholderia lata
+182710	0.04024	0.00069	species	Oceanobacillus iheyensis
+296591	0.04014	0.00069	species	Polaromonas sp. JS666
+668	0.04005	0.00068	species	Aliivibrio fischeri
+10345	0.04000	0.00068	species	Suid herpesvirus 1
+208348	0.04000	0.00068	species	Puccinia triticina
+261302	0.03954	0.00067	species	Paraburkholderia phytofirmans
+666	0.03951	0.00067	species	Vibrio cholerae
+10317	0.03947	0.00067	species	Cercopithecine herpesvirus 2
+354	0.03946	0.00067	species	Azotobacter vinelandii
+95486	0.03941	0.00067	species	Burkholderia cenocepacia
+54736	0.03905	0.00067	species	Salmonella bongori
+28229	0.03890	0.00066	species	Colwellia psychrerythraea
+80866	0.03882	0.00066	species	Delftia acidovorans
+1408	0.03875	0.00066	species	Bacillus pumilus
+50340	0.03865	0.00066	species	Pseudomonas fuscovaginae
+304895	0.03814	0.00065	species	Catenulispora acidiphila
+85698	0.03807	0.00065	species	Achromobacter xylosoxidans
+39645	0.03783	0.00065	species	Mesorhizobium ciceri
+357794	0.03746	0.00064	species	Psychromonas ingrahamii
+148447	0.03736	0.00064	species	Paraburkholderia phymatum
+915099	0.03704	0.00063	species	Pseudomonas sp. 2-92(2010)
+208226	0.03704	0.00063	species	Alkaliphilus metalliredigens
+1642	0.03702	0.00063	species	Listeria innocua
+408	0.03656	0.00062	species	Methylobacterium extorquens
+1166130	0.03647	0.00062	species	Enterobacter sp. R4-368
+593909	0.03628	0.00062	species	Mesorhizobium opportunistum
+358	0.03624	0.00062	species	Agrobacterium tumefaciens
+54291	0.03604	0.00062	species	Raoultella ornithinolytica
+536018	0.03598	0.00061	species	Mesorhizobium australicum
+2743	0.03595	0.00061	species	Marinobacter hydrocarbonoclasticus
+548	0.03593	0.00061	species	Enterobacter aerogenes
+1334193	0.03582	0.00061	species	Enterobacter lignolyticus
+10390	0.03571	0.00061	species	Gallid herpesvirus 2
+373	0.03503	0.00060	species	Agrobacterium vitis
+1393	0.03497	0.00060	species	Brevibacillus brevis
+2173	0.03473	0.00059	species	Methanobrevibacter smithii
+28035	0.03456	0.00059	species	Staphylococcus lugdunensis
+34	0.03448	0.00059	species	Myxococcus xanthus
+913	0.03448	0.00059	species	Nitrobacter winogradskyi
+891974	0.03421	0.00058	species	Plautia stali symbiont
+31281	0.03384	0.00058	species	Enterocytozoon bieneusi
+53399	0.03371	0.00058	species	Hyphomicrobium denitrificans
+1144338	0.03348	0.00057	species	Pseudomonas sp. GM79
+314722	0.03347	0.00057	species	Pseudoxanthomonas suwonensis
+204038	0.03336	0.00057	species	Dickeya dadantii
+1197727	0.03316	0.00057	species	Pseudomonas sp. Ag1
+1773	0.03306	0.00056	species	Mycobacterium tuberculosis
+63612	0.03290	0.00056	species	Sodalis glossinidius
+62928	0.03277	0.00056	species	Azoarcus sp. BH72
+563	0.03259	0.00056	species	Shimwellia blattae
+106	0.03258	0.00056	species	Runella slithyformis
+138072	0.03256	0.00056	species	Candidatus Hamiltonella defensa
+28095	0.03238	0.00055	species	Burkholderia gladioli
+280	0.03230	0.00055	species	Xanthobacter autotrophicus
+87883	0.03226	0.00055	species	Burkholderia multivorans
+373391	0.03226	0.00055	species	Thiomicrospira halophila
+119219	0.03218	0.00055	species	Cupriavidus metallidurans
+40137	0.03206	0.00055	species	Oligotropha carboxidovorans
+1144884	0.03203	0.00055	species	Pseudomonas sp. R62
+1281	0.03203	0.00055	species	Staphylococcus carnosus
+310783	0.03177	0.00054	species	Deinococcus deserti
+271097	0.03175	0.00054	species	Shewanella sediminis
+366602	0.03174	0.00054	species	Caulobacter sp. K31
+912	0.03160	0.00054	species	Nitrobacter hamburgensis
+283734	0.03143	0.00054	species	Staphylococcus pseudintermedius
+412963	0.03136	0.00054	species	Paraburkholderia rhizoxinica
+61645	0.03132	0.00053	species	Enterobacter asburiae
+114186	0.03127	0.00053	species	Candidatus Carsonella ruddii
+70864	0.03125	0.00053	species	Shewanella pealeana
+99158	0.03125	0.00053	species	Hammondia hammondi
+171437	0.03116	0.00053	species	Tistrella mobilis
+636	0.03106	0.00053	species	Edwardsiella tarda
+158327	0.03103	0.00053	species	Hahella chejuensis
+554	0.03095	0.00053	species	Pectobacterium carotovorum
+536	0.03092	0.00053	species	Chromobacterium violaceum
+1276	0.03076	0.00053	species	Kytococcus sedentarius
+43669	0.03065	0.00052	species	Brachybacterium faecium
+67780	0.03065	0.00052	species	Edwardsiella ictaluri
+266779	0.03061	0.00052	species	Chelativorans sp. BNC1
+204773	0.03041	0.00052	species	Herminiimonas arsenicoxydans
+1284393	0.03030	0.00052	species	Pseudomonas sp. FH4
+5833	0.03030	0.00052	species	Plasmodium falciparum
+349106	0.03025	0.00052	species	Psychrobacter sp. PRwf-1
+644	0.03016	0.00051	species	Aeromonas hydrophila
+738	0.03013	0.00051	species	[Haemophilus] parasuis
+29385	0.03013	0.00051	species	Staphylococcus saprophyticus
+256618	0.03009	0.00051	species	Parvibaculum lavamentivorans
+119864	0.03005	0.00051	species	Marinomonas mediterranea
+152794	0.03002	0.00051	species	Corynebacterium efficiens
+39766	0.03002	0.00051	species	Sulfurimonas denitrificans
+2371	0.03000	0.00051	species	Xylella fastidiosa
+471223	0.02987	0.00051	species	Geobacillus sp. WCH70
+68909	0.02980	0.00051	species	Deinococcus geothermalis
+193	0.02968	0.00051	species	Azospirillum lipoferum
+74109	0.02968	0.00051	species	Photobacterium profundum
+39960	0.02965	0.00051	species	Erythrobacter litoralis
+414	0.02962	0.00051	species	Methylococcus capsulatus
+33996	0.02961	0.00051	species	Gluconacetobacter diazotrophicus
+309805	0.02948	0.00050	species	Persephonella marina
+818	0.02941	0.00050	species	Bacteroides thetaiotaomicron
+135577	0.02932	0.00050	species	Idiomarina loihiensis
+1144335	0.02920	0.00050	species	Pseudomonas sp. GM67
+519	0.02909	0.00050	species	Bordetella parapertussis
+291112	0.02897	0.00049	species	Photorhabdus asymbiotica
+592316	0.02888	0.00049	species	Pantoea sp. At-9b
+45497	0.02885	0.00049	species	[Clostridium] ultunense
+1097	0.02879	0.00049	species	Chlorobaculum tepidum
+10454	0.02857	0.00049	species	Spodoptera exigua multiple nucleopolyhedrovirus
+747	0.02846	0.00049	species	Pasteurella multocida
+575200	0.02843	0.00049	species	Corynebacterium maris
+172	0.02831	0.00048	species	Leptospira biflexa
+985002	0.02822	0.00048	species	Staphylococcus argenteus
+332056	0.02817	0.00048	species	Sphingobium japonicum
+1144330	0.02782	0.00047	species	Pseudomonas sp. GM48
+10334	0.02778	0.00047	species	Felid herpesvirus 1
+1421	0.02778	0.00047	species	Lysinibacillus sphaericus
+305	0.02777	0.00047	species	Ralstonia solanacearum
+232259	0.02776	0.00047	species	Belliella baltica
+94132	0.02767	0.00047	species	Ramlibacter tataouinensis
+750	0.02759	0.00047	species	Gallibacterium anatis
+1376	0.02757	0.00047	species	Aerococcus urinae
+134287	0.02754	0.00047	species	secondary endosymbiont of Heteropsylla cubana
+28199	0.02750	0.00047	species	Arcobacter nitrofigilis
+447471	0.02750	0.00047	species	Simiduia agarivorans
+921	0.02749	0.00047	species	Starkeya novella
+52022	0.02726	0.00047	species	Meiothermus silvanus
+265606	0.02720	0.00046	species	Rhodopirellula baltica
+263	0.02718	0.00046	species	Francisella tularensis
+28264	0.02712	0.00046	species	Arcanobacterium haemolyticum
+83406	0.02712	0.00046	species	gamma proteobacterium HdN1
+1199245	0.02712	0.00046	species	secondary endosymbiont of Ctenarytaina eucalypti
+51313	0.02703	0.00046	species	Helicoverpa armigera nucleopolyhedrovirus
+167	0.02700	0.00046	species	Treponema succinifaciens
+61624	0.02698	0.00046	species	Paenibacillus mucilaginosus
+29488	0.02698	0.00046	species	Photorhabdus luminescens
+1334	0.02697	0.00046	species	Streptococcus dysgalactiae
+2051	0.02697	0.00046	species	Mobiluncus curtisii
+580165	0.02694	0.00046	species	Bacillus cytotoxicus
+1329899	0.02689	0.00046	species	Cycloclasticus zancles
+1394711	0.02688	0.00046	species	Candidatus Saccharibacteria bacterium RAAC3_TM7_1
+139208	0.02687	0.00046	species	Isoptericola variabilis
+861208	0.02686	0.00046	species	Agrobacterium sp. H13-3
+76853	0.02686	0.00046	species	Solibacillus silvestris
+158899	0.02686	0.00046	species	Collimonas fungivorans
+286802	0.02685	0.00046	species	Segniliparus rotundus
+615	0.02674	0.00046	species	Serratia marcescens
+1380774	0.02674	0.00046	species	Pandoraea sp. RB-44
+1144332	0.02668	0.00046	species	Pseudomonas sp. GM50
+138336	0.02666	0.00045	species	Blastococcus saxobsidens
+490759	0.02663	0.00045	species	Marinobacter sp. BSs20148
+758793	0.02663	0.00045	species	Burkholderia sp. RPE64
+28173	0.02663	0.00045	species	Vibrio nigripulchritudo
+717785	0.02663	0.00045	species	Hyphomicrobium sp. MC1
+103731	0.02640	0.00045	species	Saccharothrix espanaensis
+28118	0.02640	0.00045	species	Odoribacter splanchnicus
+47877	0.02635	0.00045	species	Pseudomonas amygdali
+37108	0.02632	0.00045	species	Meleagrid herpesvirus 1
+40567	0.02615	0.00045	species	Actinosynnema mirum
+80816	0.02592	0.00044	species	Haliangium ochraceum
+36873	0.02591	0.00044	species	Paraburkholderia xenovorans
+258224	0.02564	0.00044	species	Corynebacterium resistens
+1259797	0.02564	0.00044	species	Pseudomonas sp. URMO17WK12:I12
+2209	0.02559	0.00044	species	Methanosarcina mazei
+79880	0.02541	0.00043	species	Bacillus clausii
+106590	0.02538	0.00043	species	Cupriavidus necator
+1639	0.02528	0.00043	species	Listeria monocytogenes
+1283293	0.02500	0.00043	species	Pseudomonas sp. URIL14HWK12:I6
+1144326	0.02500	0.00043	species	Pseudomonas sp. GM24
+28447	0.02499	0.00043	species	Clavibacter michiganensis
+86665	0.02473	0.00042	species	Bacillus halodurans
+49338	0.02439	0.00042	species	Desulfitobacterium hafniense
+66219	0.02426	0.00041	species	Lachnoclostridium phytofermentans
+296	0.02409	0.00041	species	Pseudomonas fragi
+481743	0.02390	0.00041	species	Paenibacillus sp. Y412MC10
+330220	0.02381	0.00041	species	Arthrobacter sp. Am 05
+2296	0.02368	0.00040	species	Desulfobacterium autotrophicum
+640512	0.02326	0.00040	species	Burkholderia sp. CCGE1003
+207830	0.02326	0.00040	species	Mamestra configurata nucleopolyhedrovirus A
+1902	0.02295	0.00039	species	Streptomyces coelicolor
+587753	0.02281	0.00039	species	Pseudomonas chlororaphis
+365343	0.02273	0.00039	species	Chryseobacterium caeni
+195253	0.02273	0.00039	species	Synechococcus sp. PCC 6312
+75612	0.02268	0.00039	species	Pseudomonas mandelii
+492670	0.02225	0.00038	species	Bacillus velezensis
+10566	0.02222	0.00038	species	Human papillomavirus
+60961	0.02176	0.00037	species	Shewanella woodyi
+44001	0.02174	0.00037	species	Caldicellulosiruptor saccharolyticus
+29494	0.02174	0.00037	species	Vibrio furnissii
+34029	0.02172	0.00037	species	Leptothrix cholodnii
+94254	0.02141	0.00037	species	Dyadobacter fermentans
+1402	0.02129	0.00036	species	Bacillus licheniformis
+94624	0.02128	0.00036	species	Bordetella petrii
+1312978	0.02128	0.00036	species	Arthrobacter sp. H41
+10366	0.02128	0.00036	species	Murid herpesvirus 1
+411153	0.02084	0.00036	species	Gramella forsetii
+911241	0.02083	0.00036	species	Pseudomonas sp. CF161
+1144325	0.02053	0.00035	species	Pseudomonas sp. GM21
+1833	0.02047	0.00035	species	Rhodococcus erythropolis
+1144334	0.02045	0.00035	species	Pseudomonas sp. GM60
+6035	0.02041	0.00035	species	Encephalitozoon cuniculi
+1144708	0.02025	0.00035	species	Pseudomonas sp. GM41(2012)
+339	0.02011	0.00034	species	Xanthomonas campestris
+337042	0.02000	0.00034	species	Alphapapillomavirus 7
+7	0.01991	0.00034	species	Azorhizobium caulinodans
+182640	0.01980	0.00034	species	Kribbella flavida
+110321	0.01977	0.00034	species	Sinorhizobium medicae
+446	0.01969	0.00034	species	Legionella pneumophila
+181082	0.01961	0.00033	species	Emiliania huxleyi virus 86
+43989	0.01961	0.00033	species	Cyanothece sp. ATCC 51142
+28151	0.01946	0.00033	species	Serratia proteamaculans
+43080	0.01936	0.00033	species	Sulfolobus islandicus
+400668	0.01926	0.00033	species	Marinomonas sp. MWYL1
+248026	0.01925	0.00033	species	Cupriavidus pinatubonensis
+114616	0.01924	0.00033	species	Methylobacterium nodulans
+152480	0.01922	0.00033	species	Burkholderia ambifaria
+672	0.01919	0.00033	species	Vibrio vulnificus
+1727	0.01909	0.00033	species	Corynebacterium variabile
+225324	0.01899	0.00032	species	Enhydrobacter aerosaccus
+155978	0.01887	0.00032	species	Acaryochloris marina
+168697	0.01884	0.00032	species	Salinispora arenicola
+46677	0.01874	0.00032	species	Pseudomonas agarici
+28450	0.01867	0.00032	species	Burkholderia pseudomallei
+76759	0.01840	0.00031	species	Pseudomonas monteilii
+108980	0.01836	0.00031	species	Acinetobacter ursingii
+442	0.01826	0.00031	species	Gluconobacter oxydans
+329	0.01821	0.00031	species	Ralstonia pickettii
+2421	0.01819	0.00031	species	Thermosipho africanus
+1333845	0.01818	0.00031	species	Paenibacillus sophorae
+1261657	0.01816	0.00031	species	Murid herpesvirus 8
+29471	0.01816	0.00031	species	Pectobacterium atrosepticum
+58138	0.01815	0.00031	species	Desulfotomaculum acetoxidans
+1219	0.01810	0.00031	species	Prochlorococcus marinus
+680	0.01805	0.00031	species	Vibrio campbellii
+1144329	0.01793	0.00031	species	Pseudomonas sp. GM33
+633	0.01786	0.00030	species	Yersinia pseudotuberculosis
+412597	0.01786	0.00030	species	Paracoccus sp. TRP
+108	0.01786	0.00030	species	Spirosoma linguale
+359303	0.01782	0.00030	species	Shewanella loihica
+216465	0.01781	0.00030	species	Polaromonas naphthalenivorans
+43675	0.01774	0.00030	species	Rothia mucilaginosa
+37919	0.01772	0.00030	species	Rhodococcus opacus
+426117	0.01769	0.00030	species	Methylobacterium sp. 4-46
+181663	0.01762	0.00030	species	Desulfococcus oleovorans
+481315	0.01754	0.00030	species	Leporid herpesvirus 4
+996	0.01734	0.00030	species	Flavobacterium columnare
+2257	0.01732	0.00030	species	Natronomonas pharaonis
+2214	0.01725	0.00029	species	Methanosarcina acetivorans
+47879	0.01715	0.00029	species	Pseudomonas corrugata
+382	0.01712	0.00029	species	Sinorhizobium meliloti
+731	0.01712	0.00029	species	Histophilus somni
+107709	0.01705	0.00029	species	Opitutus terrae
+160791	0.01697	0.00029	species	Sphingomonas wittichii
+337	0.01696	0.00029	species	Burkholderia glumae
+86666	0.01695	0.00029	species	Salimicrobium halophilum
+2054	0.01695	0.00029	species	Gordonia bronchialis
+409322	0.01694	0.00029	species	Treponema pedis
+85643	0.01690	0.00029	species	Thauera sp. MZ1T
+212663	0.01682	0.00029	species	Vibrio tasmaniensis
+1313	0.01678	0.00029	species	Streptococcus pneumoniae
+959	0.01677	0.00029	species	Bdellovibrio bacteriovorus
+80869	0.01676	0.00029	species	Acidovorax citrulli
+184917	0.01674	0.00029	species	Desulfovibrio magneticus
+31998	0.01672	0.00029	species	Methylobacterium radiotolerans
+80679	0.01668	0.00028	species	Thioflavicoccus mobilis
+161494	0.01667	0.00028	species	Antheraea pernyi nucleopolyhedrovirus
+33940	0.01666	0.00028	species	Geobacillus thermodenitrificans
+164546	0.01666	0.00028	species	Cupriavidus taiwanensis
+364317	0.01659	0.00028	species	Verminephrobacter eiseniae
+31899	0.01659	0.00028	species	Caldicellulosiruptor bescii
+2426	0.01652	0.00028	species	Teredinibacter turnerae
+1063	0.01648	0.00028	species	Rhodobacter sphaeroides
+36814	0.01648	0.00028	species	Mycobacterium rhodesiae
+1708	0.01648	0.00028	species	Cellulomonas fimi
+584	0.01642	0.00028	species	Proteus mirabilis
+104	0.01639	0.00028	species	Cyclobacterium marinum
+103690	0.01639	0.00028	species	Nostoc sp. PCC 7120
+10570	0.01639	0.00028	species	Alphapapillomavirus 12
+1245	0.01635	0.00028	species	Leuconostoc mesenteroides
+60920	0.01629	0.00028	species	Sanguibacter keddieii
+79967	0.01625	0.00028	species	Erwinia pyrifoliae
+56812	0.01621	0.00028	species	Shewanella frigidimarina
+582	0.01619	0.00028	species	Morganella morganii
+851	0.01613	0.00028	species	Fusobacterium nucleatum
+1534	0.01613	0.00028	species	Clostridium kluyveri
+53461	0.01602	0.00027	species	Nakamurella multipartita
+29549	0.01597	0.00027	species	Rhodothermus marinus
+2099	0.01589	0.00027	species	Mycoplasma hyopneumoniae
+566270	0.01587	0.00027	species	Spodoptera litura nucleopolyhedrovirus II
+373994	0.01587	0.00027	species	Rivularia sp. PCC 7116
+1748	0.01587	0.00027	species	Propionibacterium acidipropionici
+52133	0.01587	0.00027	species	Acinetobacter venetianus
+745310	0.01587	0.00027	species	Sphingomonas sp. MM-1
+290399	0.01579	0.00027	species	Arthrobacter sp. FB24
+351604	0.01573	0.00027	species	Geobacter uraniireducens
+632	0.01572	0.00027	species	Yersinia pestis
+456327	0.01564	0.00027	species	Xanthomonas euvesicatoria
+39491	0.01563	0.00027	species	[Eubacterium] rectale
+5482	0.01562	0.00027	species	Candida tropicalis
+81032	0.01550	0.00026	species	Hyphomonas neptunium
+1144323	0.01548	0.00026	species	Pseudomonas sp. GM17
+192843	0.01546	0.00026	species	Rhodoferax ferrireducens
+1804	0.01544	0.00026	species	Mycobacterium gilvum
+1513258	0.01538	0.00026	species	Gammapapillomavirus 13
+588	0.01536	0.00026	species	Providencia stuartii
+375286	0.01536	0.00026	species	Janthinobacterium sp. Marseille
+1501	0.01536	0.00026	species	Clostridium pasteurianum
+316068	0.01531	0.00026	species	Leadbetterella byssophila
+387093	0.01530	0.00026	species	Sulfurovum sp. NBC37-1
+191495	0.01528	0.00026	species	Conexibacter woesei
+1861	0.01528	0.00026	species	Geodermatophilus obscurus
+327160	0.01524	0.00026	species	Candidatus Accumulibacter phosphatis
+338565	0.01523	0.00026	species	Erwinia tasmaniensis
+84159	0.01521	0.00026	species	Magnetospirillum magneticum
+37329	0.01520	0.00026	species	Nocardia farcinica
+85085	0.01519	0.00026	species	Pseudarthrobacter chlorophenolicus
+29448	0.01515	0.00026	species	Bradyrhizobium elkanii
+78327	0.01515	0.00026	species	Pseudomonas mosselii
+5741	0.01515	0.00026	species	Giardia intestinalis
+85874	0.01502	0.00026	species	Thermacetogenium phaeum
+518	0.01501	0.00026	species	Bordetella bronchiseptica
+29546	0.01500	0.00026	species	Lawsonia intracellularis
+266	0.01500	0.00026	species	Paracoccus denitrificans
+173480	0.01498	0.00026	species	Gemmatimonas aurantiaca
+182337	0.01497	0.00026	species	Erwinia billingiae
+86304	0.01497	0.00026	species	Saccharophagus degradans
+321327	0.01493	0.00025	species	Synechococcus sp. JA-3-3Ab
+360313	0.01493	0.00025	species	Ochrobactrum sp. CDB2
+28304	0.01493	0.00025	species	Murid herpesvirus 2
+984	0.01492	0.00025	species	Pedobacter heparinus
+714	0.01492	0.00025	species	Aggregatibacter actinomycetemcomitans
+1314	0.01490	0.00025	species	Streptococcus pyogenes
+715	0.01484	0.00025	species	Actinobacillus pleuropneumoniae
+89184	0.01483	0.00025	species	Ruegeria pomeroyi
+654	0.01479	0.00025	species	Aeromonas veronii
+1764	0.01479	0.00025	species	Mycobacterium avium
+1085	0.01479	0.00025	species	Rhodospirillum rubrum
+2107	0.01476	0.00025	species	Mycoplasma pulmonis
+59754	0.01474	0.00025	species	Alcanivorax borkumensis
+134533	0.01471	0.00025	species	Acinetobacter parvus
+192073	0.01469	0.00025	species	Shewanella denitrificans
+1172	0.01466	0.00025	species	Anabaena variabilis
+155077	0.01466	0.00025	species	Cellvibrio japonicus
+60478	0.01460	0.00025	species	Shewanella amazonensis
+31909	0.01457	0.00025	species	Halothermothrix orenii
+28232	0.01454	0.00025	species	Geobacter metallireducens
+614	0.01453	0.00025	species	Serratia liquefaciens
+70863	0.01453	0.00025	species	Shewanella oneidensis
+29378	0.01449	0.00025	species	Staphylococcus arlettae
+59610	0.01448	0.00025	species	Desulfotomaculum reducens
+84980	0.01448	0.00025	species	Desulfotalea psychrophila
+244787	0.01444	0.00025	species	Nautilia profundicola
+485	0.01441	0.00025	species	Neisseria gonorrhoeae
+139	0.01440	0.00025	species	Borreliella burgdorferi
+49319	0.01435	0.00024	species	Rubrobacter xylanophilus
+1144327	0.01435	0.00024	species	Pseudomonas sp. GM25
+1033854	0.01432	0.00024	species	Thioalkalivibrio sulfidiphilus
+13373	0.01431	0.00024	species	Burkholderia mallei
+2434	0.01431	0.00024	species	Roseobacter denitrificans
+19	0.01430	0.00024	species	Pelobacter carbinolicus
+51229	0.01430	0.00024	species	Wigglesworthia glossinidia
+1311	0.01429	0.00024	species	Streptococcus agalactiae
+732	0.01427	0.00024	species	Aggregatibacter aphrophilus
+84757	0.01423	0.00024	species	Beutenbergia cavernae
+1229	0.01422	0.00024	species	Nitrosococcus oceani
+784	0.01420	0.00024	species	Orientia tsutsugamushi
+69499	0.01420	0.00024	species	Petrotoga mobilis
+223967	0.01416	0.00024	species	Methylobacterium populi
+216816	0.01415	0.00024	species	Bifidobacterium longum
+29388	0.01415	0.00024	species	Staphylococcus capitis
+1579	0.01411	0.00024	species	Lactobacillus acidophilus
+1053	0.01409	0.00024	species	Halorhodospira halophila
+43948	0.01409	0.00024	species	Tolumonas auensis
+578214	0.01408	0.00024	species	Halobacillus hunanensis
+1852	0.01407	0.00024	species	Saccharomonospora viridis
+33075	0.01405	0.00024	species	Acidobacterium capsulatum
+1352	0.01402	0.00024	species	Enterococcus faecium
+157673	0.01401	0.00024	species	[Mannheimia] succiniciproducens
+45663	0.01400	0.00024	species	Desulfohalobium retbaense
+651457	0.01398	0.00024	species	Kosmotoga olearia
+199596	0.01398	0.00024	species	Methylocella silvestris
+1336	0.01397	0.00024	species	Streptococcus equi
+36861	0.01394	0.00024	species	Thiobacillus denitrificans
+1299	0.01394	0.00024	species	Deinococcus radiodurans
+777	0.01393	0.00024	species	Coxiella burnetii
+158080	0.01390	0.00024	species	Chromohalobacter salexigens
+1117645	0.01389	0.00024	species	Elizabethkingia anophelis
+302481	0.01389	0.00024	species	Halobacillus kuroshimensis
+91844	0.01387	0.00024	species	Candidatus Portiera aleyrodidarum
+67854	0.01385	0.00024	species	Actinobacillus succinogenes
+196162	0.01383	0.00024	species	Nocardioides sp. JS614
+146919	0.01381	0.00024	species	Salinibacter ruber
+35554	0.01381	0.00024	species	Geobacter sulfurreducens
+252307	0.01380	0.00024	species	Robiginitalea biformata
+281120	0.01380	0.00024	species	Candidatus Amoebophilus asiaticus
+28090	0.01377	0.00024	species	Acinetobacter lwoffii
+29303	0.01377	0.00024	species	Streptomyces cattleya
+168471	0.01376	0.00023	species	Laribacter hongkongensis
+1598	0.01375	0.00023	species	Lactobacillus reuteri
+1646	0.01375	0.00023	species	Renibacterium salmoninarum
+837	0.01374	0.00023	species	Porphyromonas gingivalis
+34018	0.01372	0.00023	species	Rhodospirillum centenum
+29459	0.01371	0.00023	species	Brucella melitensis
+10449	0.01370	0.00023	species	Lymantria dispar multiple nucleopolyhedrovirus
+500	0.01363	0.00023	species	Thermomicrobium roseum
+2057	0.01362	0.00023	species	Sphaerobacter thermophilus
+292414	0.01358	0.00023	species	Ruegeria sp. TM1040
+74318	0.01356	0.00023	species	Maricaulis maris
+239935	0.01355	0.00023	species	Akkermansia muciniphila
+84112	0.01354	0.00023	species	Eggerthella lenta
+43674	0.01353	0.00023	species	Jonesia denitrificans
+28288	0.01351	0.00023	species	Hyphantria cunea nucleopolyhedrovirus
+1097668	0.01351	0.00023	species	Burkholderia sp. YI23
+48935	0.01350	0.00023	species	Novosphingobium aromaticivorans
+256701	0.01347	0.00023	species	Glutamicibacter arilaitensis
+1102	0.01346	0.00023	species	Prosthecochloris aestuarii
+927	0.01345	0.00023	species	Halothiobacillus neapolitanus
+1769	0.01345	0.00023	species	Mycobacterium leprae
+155892	0.01341	0.00023	species	Caulobacter vibrioides
+63363	0.01340	0.00023	species	Aquifex aeolicus
+364410	0.01336	0.00023	species	Granulibacter bethesdensis
+39765	0.01336	0.00023	species	Thiomicrospira crunogena
+10468	0.01333	0.00023	species	Helicoverpa zea single nucleopolyhedrovirus
+40834	0.01327	0.00023	species	Borrelia duttonii
+266009	0.01326	0.00023	species	Methylovorus glucosotrophus
+81462	0.01323	0.00023	species	Thermanaerovibrio acidaminovorans
+1398	0.01316	0.00022	species	Bacillus coagulans
+817	0.01316	0.00022	species	Bacteroides fragilis
+1382	0.01313	0.00022	species	Atopobium parvulum
+730	0.01311	0.00022	species	[Haemophilus] ducreyi
+53635	0.01311	0.00022	species	Acidimicrobium ferrooxidans
+351052	0.01308	0.00022	species	Alkalilimnicola ehrlichii
+552	0.01308	0.00022	species	Erwinia amylovora
+1587	0.01304	0.00022	species	Lactobacillus helveticus
+167965	0.01302	0.00022	species	uncultured Termite group 1 bacterium
+1717	0.01300	0.00022	species	Corynebacterium diphtheriae
+423605	0.01300	0.00022	species	Elusimicrobium minutum
+991904	0.01299	0.00022	species	Polymorphum gilvum
+33708	0.01299	0.00022	species	Murid herpesvirus 4
+134821	0.01298	0.00022	species	Ureaplasma parvum
+1163398	0.01297	0.00022	species	Pseudomonas donghuensis
+386487	0.01293	0.00022	species	Candidatus Ruthia magnifica
+1680	0.01292	0.00022	species	Bifidobacterium adolescentis
+326544	0.01290	0.00022	species	Paraglaciecola psychrophila
+2109	0.01286	0.00022	species	Mycoplasma synoviae
+410330	0.01285	0.00022	species	Calyptogena okutanii thioautotrophic gill symbiont
+542343	0.01282	0.00022	species	Adoxophyes orana nucleopolyhedrovirus
+259354	0.01282	0.00022	species	Desulfatibacillum alkenivorans
+247	0.01282	0.00022	species	Empedobacter brevis
+666686	0.01276	0.00022	species	Bacillus sp. 1NLA3E
+33903	0.01266	0.00022	species	Streptomyces avermitilis
+34038	0.01266	0.00022	species	Rahnella aquatilis
+73030	0.01266	0.00022	species	Dechloromonas agitata
+1144333	0.01255	0.00021	species	Pseudomonas sp. GM55
+581103	0.01252	0.00021	species	Geobacillus sp. Y4.1MC1
+1048758	0.01252	0.00021	species	Candidatus Moranella endobia
+224399	0.01250	0.00021	species	Adoxophyes honmai nucleopolyhedrovirus
+470934	0.01250	0.00021	species	Pantoea vagans
+1464	0.01246	0.00021	species	Paenibacillus larvae
+1144336	0.01245	0.00021	species	Pseudomonas sp. GM74
+2208	0.01241	0.00021	species	Methanosarcina barkeri
+2746	0.01236	0.00021	species	Halomonas elongata
+202952	0.01235	0.00021	species	Acinetobacter gerneri
+1736	0.01230	0.00021	species	Eubacterium limosum
+1276756	0.01220	0.00021	species	Acidovorax sp. JHL-9
+73919	0.01217	0.00021	species	Thermaerobacter marianensis
+224719	0.01216	0.00021	species	Methanobrevibacter sp. AbM4
+1080179	0.01205	0.00021	species	Burkholderia sp. UYPR1.413
+31507	0.01205	0.00021	species	Anticarsia gemmatalis nucleopolyhedrovirus
+244366	0.01200	0.00020	species	Klebsiella variicola
+1599	0.01198	0.00020	species	Lactobacillus sakei
+11103	0.01195	0.00020	species	Hepatitis C virus
+65058	0.01190	0.00020	species	Corynebacterium ulcerans
+1335746	0.01189	0.00020	species	Spiribacter salinus
+639313	0.01187	0.00020	species	Amycolicicoccus subflavus
+1157683	0.01176	0.00020	species	Staphylococcus sp. JGI 0001002-I23
+1131277	0.01176	0.00020	species	alpha proteobacterium SCGC AB-629-F11
+1912	0.01171	0.00020	species	Streptomyces hygroscopicus
+122355	0.01163	0.00020	species	Pseudomonas psychrophila
+40576	0.01159	0.00020	species	Xenorhabdus bovienii
+421	0.01157	0.00020	species	Methylomonas methanica
+686983	0.01156	0.00020	species	Avian sapelovirus
+97084	0.01155	0.00020	species	Halobacteriovorax marinus
+46429	0.01154	0.00020	species	Sphingobium chlorophenolicum
+86170	0.01153	0.00020	species	Syntrophothermus lipocalidus
+73141	0.01152	0.00020	species	Thiocystis violascens
+833	0.01152	0.00020	species	Fibrobacter succinogenes
+53437	0.01151	0.00020	species	Nocardiopsis alba
+192	0.01150	0.00020	species	Azospirillum brasilense
+1061	0.01149	0.00020	species	Rhodobacter capsulatus
+321661	0.01149	0.00020	species	Pseudomonas vranovensis
+1423	0.01149	0.00020	species	Bacillus subtilis
+285091	0.01147	0.00020	species	Alcanivorax dieselolei
+80867	0.01145	0.00020	species	Acidovorax avenae
+187493	0.01143	0.00020	species	Thalassolituus oleivorans
+1084	0.01140	0.00019	species	Pararhodospirillum photometricum
+31508	0.01136	0.00019	species	Agrotis segetum nucleopolyhedrovirus
+34085	0.01136	0.00019	species	Riemerella anatipestifer
+366648	0.01136	0.00019	species	Xanthomonas fuscans
+628	0.01135	0.00019	species	Xenorhabdus nematophila
+196	0.01135	0.00019	species	Campylobacter fetus
+39483	0.01134	0.00019	species	Faecalitalea cylindroides
+1772	0.01134	0.00019	species	Mycobacterium smegmatis
+34003	0.01133	0.00019	species	Paracoccus aminophilus
+187137	0.01126	0.00019	species	Oceanithermus profundus
+167964	0.01125	0.00019	species	Anaerolinea thermophila
+370405	0.01125	0.00019	species	Gallionella capsiferriformans
+2047	0.01125	0.00019	species	Rothia dentocariosa
+143453	0.01124	0.00019	species	Pseudoperonospora cubensis
+946362	0.01124	0.00019	species	Salpingoeca rosetta
+1307761	0.01123	0.00019	species	Salinispira pacifica
+1049	0.01122	0.00019	species	Allochromatium vinosum
+980427	0.01122	0.00019	species	Deinococcus wulumuqiensis
+28068	0.01119	0.00019	species	Rubrivivax gelatinosus
+41	0.01119	0.00019	species	Stigmatella aurantiaca
+1449	0.01119	0.00019	species	Amphibacillus xylanus
+148813	0.01119	0.00019	species	Sulfuricurvum kujiense
+349221	0.01118	0.00019	species	Micavibrio aeruginosavorus
+1493	0.01118	0.00019	species	Clostridium cellulovorans
+755731	0.01117	0.00019	species	Clostridium sp. BNL1100
+55601	0.01116	0.00019	species	Vibrio anguillarum
+1175444	0.01116	0.00019	species	Methanocella conradii
+40542	0.01116	0.00019	species	Leptotrichia buccalis
+2350	0.01115	0.00019	species	Haliscomenobacter hydrossis
+119	0.01114	0.00019	species	Rubinisphaera brasiliensis
+453816	0.01111	0.00019	species	Bdellovibrio exovorus
+81475	0.01111	0.00019	species	Frateuria aurantia
+84378	0.01111	0.00019	species	Brachyspira murdochii
+1436290	0.01111	0.00019	species	Candidatus Symbiobacter mobilis
+1144671	0.01111	0.00019	species	Acinetobacter sp. CIP 53.82
+1575	0.01111	0.00019	species	Leifsonia xyli
+716	0.01110	0.00019	species	Actinobacillus suis
+351091	0.01108	0.00019	species	Oscillibacter valericigenes
+1177712	0.01107	0.00019	species	Komagataeibacter medellinensis
+89154	0.01107	0.00019	species	Corynebacterium terpenotabidum
+160808	0.01105	0.00019	species	Acidithiobacillus ferrivorans
+742013	0.01103	0.00019	species	Delftia sp. Cs1-4
+56957	0.01101	0.00019	species	Thermus oshimai
+1684	0.01101	0.00019	species	Bifidobacterium asteroides
+1184387	0.01100	0.00019	species	Mesotoga prima
+1169025	0.01099	0.00019	species	Streptomyces pratensis
+964	0.01099	0.00019	species	Herbaspirillum seropedicae
+401619	0.01099	0.00019	species	Candidatus Riesia pediculicola
+477666	0.01099	0.00019	species	Bacteroides graminisolvens
+65555	0.01097	0.00019	species	Desulfocapsa sulfexigens
+547188	0.01096	0.00019	species	Phycisphaera mikurensis
+1007105	0.01087	0.00019	species	Pusillimonas sp. T7-7
+480	0.01087	0.00019	species	Moraxella catarrhalis
+1069	0.01087	0.00019	species	Rhodomicrobium vannielii
+33059	0.01087	0.00019	species	Acidithiobacillus caldus
+45972	0.01087	0.00019	species	Staphylococcus pasteuri
+298653	0.01087	0.00019	species	Frankia sp. EAN1pec
+754477	0.01087	0.00019	species	Methylophaga frappieri
+453230	0.01087	0.00019	species	Desulfarculus baarsii
+390884	0.01087	0.00019	species	Echinicola vietnamensis
+450	0.01087	0.00019	species	Legionella longbeachae
+92945	0.01087	0.00019	species	Ketogulonicigenium vulgare
+146939	0.01087	0.00019	species	Azospira oryzae
+2066	0.01087	0.00019	species	Kitasatospora setae
+426114	0.01075	0.00018	species	Thiomonas arsenitoxydans
+424182	0.01075	0.00018	species	Rhizobium sp. IRBG74
+1911	0.01075	0.00018	species	Streptomyces griseus
+542	0.01075	0.00018	species	Zymomonas mobilis
+147268	0.01075	0.00018	species	Thioalkalimicrobium cyclicum
+1235990	0.01075	0.00018	species	Candidatus Pantoea carbekii
+821	0.01075	0.00018	species	Bacteroides vulgatus
+1316444	0.01075	0.00018	species	Blattabacterium sp. (Nauphoeta cinerea)
+44012	0.01075	0.00018	species	Ferrimonas balearica
+1246484	0.01075	0.00018	species	Halobacillus sp. BAB-2008
+499229	0.01075	0.00018	species	Tepidanaerobacter acetatoxydans
+1821749	0.01075	0.00018	species	Cardiovirus A
+396595	0.01075	0.00018	species	Thioalkalivibrio sp. K90mix
+165096	0.01075	0.00018	species	Weissella koreensis
+627192	0.01075	0.00018	species	Sphingobium sp. SYK-6
+666685	0.01075	0.00018	species	Rhodanobacter denitrificans
+277	0.01075	0.00018	species	Meiothermus ruber
+511062	0.01075	0.00018	species	Oceanimonas sp. GK1
+186931	0.01075	0.00018	species	Thioalkalivibrio nitratireducens
+133924	0.01075	0.00018	species	Leisingera methylohalidivorans
+748280	0.01075	0.00018	species	Pseudogulbenkiania sp. NH8B
+70823	0.01075	0.00018	species	Dulcamara mottle virus
+68280	0.01075	0.00018	species	Streptomyces violaceusniger
+1638	0.01064	0.00018	species	Listeria ivanovii
+283811	0.01064	0.00018	species	Stackebrandtia nassauensis
+301301	0.01064	0.00018	species	Roseburia hominis
+74313	0.01064	0.00018	species	Brevundimonas subvibrioides
+1055487	0.01064	0.00018	species	Methylotenera versatilis
+1033846	0.01064	0.00018	species	Marinobacter adhaerens
+54571	0.01064	0.00018	species	Streptomyces venezuelae
+1681	0.01064	0.00018	species	Bifidobacterium bifidum
+251535	0.01064	0.00018	species	Candidatus Blochmannia vafer
+164514	0.01064	0.00018	species	Blattabacterium punctulatus
+911092	0.01064	0.00018	species	Caldanaerobacter subterraneus
+1721	0.01064	0.00018	species	Corynebacterium callunae
+234831	0.01064	0.00018	species	Pseudoalteromonas sp. SM9913
+187303	0.01064	0.00018	species	Methylocystis sp. SC2
+216936	0.01064	0.00018	species	Spiroplasma diminutum
+1408895	0.01064	0.00018	species	Dill cryptic virus 1
+11642	0.01064	0.00018	species	Simian foamy virus
+741091	0.01064	0.00018	species	Rahnella sp. Y9602
+324767	0.01064	0.00018	species	Bacillus infantis
+649841	0.01064	0.00018	species	Sulfuricella denitrificans
+651143	0.01064	0.00018	species	Fibrella aestuarina
+132919	0.01064	0.00018	species	Rhodococcus jostii
+10685	0.01064	0.00018	species	Bacillus phage SPO1
+715451	0.01064	0.00018	species	Alteromonas sp. SN2
+1930	0.01064	0.00018	species	Streptomyces scabiei
+1866	0.01064	0.00018	species	Actinoplanes missouriensis
+702113	0.01064	0.00018	species	Novosphingobium sp. PP1Y
+332249	0.01064	0.00018	species	Truepera radiovictrix
+1323523	0.01064	0.00018	species	Hop trefoil cryptic virus 2
+473531	0.01053	0.00018	species	Nitrosococcus watsonii
+188141	0.01053	0.00018	species	Spring beauty latent virus
+221822	0.01053	0.00018	species	Phaeobacter inhibens
+292	0.01053	0.00018	species	Burkholderia cepacia
+186192	0.01053	0.00018	species	Marinithermus hydrothermalis
+1750	0.01053	0.00018	species	Propionibacterium propionicum
+184914	0.01053	0.00018	species	Corallococcus coralloides
+184064	0.01053	0.00018	species	Thermodesulfobium narugense
+240495	0.01053	0.00018	species	Pseudonocardia dioxanivorans
+171695	0.01053	0.00018	species	Thermodesulfatator indicus
+251542	0.01053	0.00018	species	Candidatus Blochmannia chromaiodes
+252970	0.01053	0.00018	species	Paraburkholderia phenoliruptrix
+253245	0.01053	0.00018	species	Owenweeksia hongkongensis
+155322	0.01053	0.00018	species	Bacillus toyonensis
+147709	0.01053	0.00018	species	Carnobacterium inhibens
+398	0.01053	0.00018	species	Rhizobium tropici
+271065	0.01053	0.00018	species	Methylomicrobium alcaliphilum
+2331	0.01053	0.00018	species	Halanaerobium praevalens
+2358	0.01053	0.00018	species	Desulfomonile tiedjei
+134676	0.01053	0.00018	species	Actinoplanes sp. SE50/110
+133453	0.01053	0.00018	species	Caldilinea aerophila
+300231	0.01053	0.00018	species	Glaciecola nitratireducens
+300879	0.01053	0.00018	species	Cassia yellow blotch virus
+1625	0.01053	0.00018	species	Lactobacillus sanfranciscensis
+310575	0.01053	0.00018	species	Advenella kashmirensis
+1623	0.01053	0.00018	species	Lactobacillus ruminis
+118562	0.01053	0.00018	species	Arthrospira platensis
+118323	0.01053	0.00018	species	Oscillatoria acuminata
+1581	0.01053	0.00018	species	Lactobacillus buchneri
+336261	0.01053	0.00018	species	Thermovirga lienii
+2751	0.01053	0.00018	species	Carnobacterium maltaromaticum
+354356	0.01053	0.00018	species	Niastella koreensis
+97477	0.01053	0.00018	species	Anaerobaculum mobile
+93466	0.01053	0.00018	species	Fervidobacterium pennivorans
+863	0.01053	0.00018	species	Syntrophomonas wolfei
+10325	0.01053	0.00018	species	Macacine herpesvirus 1
+376805	0.01053	0.00018	species	Bacteroides salanitronis
+379064	0.01053	0.00018	species	Cyanobacterium aponinum
+379067	0.01053	0.00018	species	Streptomyces bingchenggensis
+390157	0.01053	0.00018	species	Senecavirus A
+405212	0.01053	0.00018	species	Alicyclobacillus acidocaldarius
+413889	0.01053	0.00018	species	Caldicellulosiruptor kronotskyensis
+443143	0.01053	0.00018	species	Geobacter sp. M18
+446660	0.01053	0.00018	species	Adlercreutzia equolifaciens
+84595	0.01053	0.00018	species	Gordonia polyisoprenivorans
+456827	0.01053	0.00018	species	Candidatus Cloacimonas acidaminovorans
+1414739	0.01053	0.00018	species	Vibrio phage SHOU24
+1390	0.01053	0.00018	species	Bacillus amyloliquefaciens
+215689	0.01053	0.00018	species	Erwinia sp. Ejp617
+482564	0.01053	0.00018	species	Oscillatoria nigro-viridis
+876	0.01053	0.00018	species	Desulfovibrio desulfuricans
+191579	0.01053	0.00018	species	Fluviicola taffensis
+79209	0.01053	0.00018	species	Desulfosporosinus meridiei
+879	0.01053	0.00018	species	Desulfovibrio gigas
+576610	0.01053	0.00018	species	Polynucleobacter necessarius
+591197	0.01053	0.00018	species	Ignavibacterium album
+640511	0.01053	0.00018	species	Burkholderia sp. CCGE1002
+66266	0.01053	0.00018	species	Rice grassy stunt virus
+196914	0.01053	0.00018	species	Actinoplanes friuliensis
+64160	0.01053	0.00018	species	Desulfurobacterium thermolithotrophum
+743722	0.01053	0.00018	species	Sphingobacterium sp. 21
+60893	0.01053	0.00018	species	Desulfobacca acetoxidans
+767892	0.01053	0.00018	species	Candidatus Puniceispirillum marinum
+859651	0.01053	0.00018	species	Rosellinia necatrix partitivirus 2
+59930	0.01053	0.00018	species	Cyanobium gracile
+936456	0.01053	0.00018	species	Desulfurispirillum indicum
+936476	0.01053	0.00018	species	Marinomonas posidonica
+983548	0.01053	0.00018	species	Dokdonia sp. 4H-3-7-5
+55518	0.01053	0.00018	species	Magnetospirillum gryphiswaldense
+1002672	0.01053	0.00018	species	Candidatus Pelagibacter sp. IMCC9063
+1003110	0.01053	0.00018	species	Verrucosispora maris
+1074210	0.01053	0.00018	species	Mouse astrovirus M-52/USA/2008
+1074325	0.01053	0.00018	species	Sclerotinia sclerotiorum hypovirus 1
+51669	0.01053	0.00018	species	Tetragenococcus halophilus
+1116375	0.01053	0.00018	species	Vibrio sp. EJY3
+1124654	0.01053	0.00018	species	Escherichia phage TL-2011b
+1156431	0.01053	0.00018	species	Streptococcus sp. I-G2
+1173025	0.01053	0.00018	species	Geitlerinema sp. PCC 7407
+46354	0.01053	0.00018	species	Thermoanaerobacter wiegelii
+1398149	0.01053	0.00018	species	Eel picornavirus 1
+1407493	0.01053	0.00018	species	Shigella phage SfIV
+2033	0.01053	0.00018	species	Microbacterium testaceum
+33952	0.01053	0.00018	species	Acetobacterium woodii
+1678147	0.01053	0.00018	species	Piscihepevirus A
+37326	0.01053	0.00018	species	Nocardia brasiliensis
+1502101	0.01053	0.00018	species	Sclerotinia sclerotiorum debilitation-associated RNA virus 2
+1491393	0.01053	0.00018	species	Jingmen tick virus
+1416614	0.01053	0.00018	species	Gloeobacter kilaueensis
+467094	0.01053	0.00018	species	Ilumatobacter coccineus
+210	0.01044	0.00018	species	Helicobacter pylori
+911239	0.01031	0.00018	species	Pseudomonas sp. CF149
+5507	0.01031	0.00018	species	Fusarium oxysporum
+307456	0.01020	0.00017	species	Autographa californica multiple nucleopolyhedrovirus
+43663	0.01017	0.00017	species	Paenarthrobacter aurescens
+985	0.01017	0.00017	species	Cytophaga hutchinsonii
+111955	0.01015	0.00017	species	Sulfolobus tokodaii
+119484	0.01011	0.00017	species	Syntrophobacter fumaroxidans
+96345	0.01010	0.00017	species	Flavobacterium psychrophilum
+154334	0.01010	0.00017	species	Macacine herpesvirus 5
+1144321	0.01000	0.00017	species	Pseudomonas sp. GM102
+985782	0.01000	0.00017	species	Moumouvirus
+46433	0.00990	0.00017	species	Reticulomyxa filosa
+86473	0.00990	0.00017	species	uncultured gamma proteobacterium
+65	0.00990	0.00017	species	Herpetosiphon aurantiacus
+10455	0.00980	0.00017	species	Spodoptera frugiperda multiple nucleopolyhedrovirus
+1144324	0.00978	0.00017	species	Pseudomonas sp. GM18
+250	0.00973	0.00017	species	Chryseobacterium gleum
+39152	0.00972	0.00017	species	Methanococcus maripaludis
+5850	0.00971	0.00017	species	Plasmodium knowlesi
+33706	0.00962	0.00016	species	Caviid herpesvirus 2
+41431	0.00962	0.00016	species	Cyanothece sp. PCC 8801
+1385984	0.00962	0.00016	species	Exiguobacterium pavilionensis
+27923	0.00952	0.00016	species	Mnemiopsis leidyi
+43765	0.00952	0.00016	species	Corynebacterium amycolatum
+1836	0.00951	0.00016	species	Saccharopolyspora erythraea
+274	0.00943	0.00016	species	Thermus thermophilus
+395961	0.00941	0.00016	species	Cyanothece sp. PCC 7425
+1151124	0.00935	0.00016	species	Pseudomonas sp. 45MFCol3.1
+1144331	0.00933	0.00016	species	Pseudomonas sp. GM49
+28442	0.00926	0.00016	species	Haloarcula vallismortis
+376470	0.00926	0.00016	species	Olivibacter sitiensis
+2238	0.00925	0.00016	species	Haloarcula marismortui
+62322	0.00917	0.00016	species	Shewanella baltica
+43263	0.00901	0.00015	species	Pseudomonas alcaligenes
+40054	0.00893	0.00015	species	Epizootic hemorrhagic disease virus
+166056	0.00885	0.00015	species	Epinotia aporema granulovirus
+1268068	0.00885	0.00015	species	Pseudomonas sp. G5(2012)
+74660	0.00877	0.00015	species	Choristoneura fumiferana DEF multiple nucleopolyhedrovirus
+712258	0.00877	0.00015	species	Desulfobulbus sp. oral taxon 041
+28197	0.00874	0.00015	species	Arcobacter butzleri
+10310	0.00870	0.00015	species	Human herpesvirus 2
+4927	0.00862	0.00015	species	Wickerhamomyces anomalus
+2285	0.00856	0.00015	species	Sulfolobus acidocaldarius
+882856	0.00852	0.00015	species	Pseudonocardia sp. P2
+1513	0.00850	0.00015	species	Clostridium tetani
+219301	0.00849	0.00014	species	Brachybacterium muris
+1283284	0.00833	0.00014	species	Tolumonas sp. BRL6-1
+174	0.00833	0.00014	species	Leptospira borgpetersenii
+208013	0.00833	0.00014	species	Agrotis ipsilon multiple nucleopolyhedrovirus
+260552	0.00826	0.00014	species	Microbulbifer agarilyticus
+158	0.00826	0.00014	species	Treponema denticola
+1195167	0.00820	0.00014	species	Bat betaherpesvirus B7D8
+571254	0.00820	0.00014	species	Ochrobactrum rhizosphaerae
+36746	0.00813	0.00014	species	Pseudomonas cichorii
+94136	0.00813	0.00014	species	Alkalibacillus haloalkaliphilus
+53409	0.00812	0.00014	species	Pseudomonas coronafaciens
+1217704	0.00806	0.00014	species	Acinetobacter sp. NIPH 284
+83554	0.00806	0.00014	species	Chlamydia psittaci
+46680	0.00799	0.00014	species	Pseudomonas nitroreducens
+164757	0.00796	0.00014	species	Mycobacterium sp. JLS
+1158759	0.00794	0.00014	species	Thioalkalivibrio sp. ALJ10
+180170	0.00787	0.00013	species	Infectious spleen and kidney necrosis virus
+686578	0.00783	0.00013	species	Pseudomonas sp. S9
+511	0.00781	0.00013	species	Alcaligenes faecalis
+95618	0.00776	0.00013	species	Flavobacterium sp. B17
+443598	0.00775	0.00013	species	Bradyrhizobium sp. Cp5.3
+47229	0.00771	0.00013	species	Massilia timonae
+1367205	0.00769	0.00013	species	Choristoneura rosaceana alphabaculovirus
+1781	0.00768	0.00013	species	Mycobacterium marinum
+985010	0.00766	0.00013	species	Pseudomonas sp. TJI-51
+1302	0.00763	0.00013	species	Streptococcus gordonii
+192875	0.00763	0.00013	species	Capsaspora owczarzaki
+1276755	0.00763	0.00013	species	Acidovorax sp. JHL-3
+2104	0.00760	0.00013	species	Mycoplasma pneumoniae
+33934	0.00760	0.00013	species	Anoxybacillus flavithermus
+1198452	0.00759	0.00013	species	Janthinobacterium sp. HH01
+1217705	0.00758	0.00013	species	Acinetobacter sp. ANC 3862
+469597	0.00758	0.00013	species	Coprobacillus sp. 8_2_54BFAA
+5791	0.00754	0.00013	species	Physarum polycephalum
+157782	0.00752	0.00013	species	Pseudomonas parafulva
+1310	0.00752	0.00013	species	Streptococcus sobrinus
+100716	0.00752	0.00013	species	Chloroherpeton thalassium
+754327	0.00747	0.00013	species	Escherichia sp. TW09231
+60552	0.00746	0.00013	species	Burkholderia vietnamiensis
+5692	0.00741	0.00013	species	Trypanosoma congolense
+225991	0.00741	0.00013	species	Comamonas aquatica
+7237	0.00735	0.00013	species	Drosophila pseudoobscura
+68895	0.00735	0.00013	species	Cupriavidus basilensis
+1144316	0.00733	0.00013	species	Chryseobacterium sp. CF314
+1144674	0.00730	0.00012	species	Acinetobacter sp. CIP A162
+403944	0.00730	0.00012	species	Staphylococcus sp. SK1-1-2
+10331	0.00725	0.00012	species	Equid herpesvirus 4
+215690	0.00725	0.00012	species	Thermomonas fusca
+204440	0.00719	0.00012	species	Mamestra configurata nucleopolyhedrovirus B
+2287	0.00717	0.00012	species	Sulfolobus solfataricus
+1144667	0.00714	0.00012	species	Acinetobacter sp. CIP 102159
+340907	0.00714	0.00012	species	Papiine herpesvirus 2
+115808	0.00711	0.00012	species	Bradyrhizobium sp. ORS 285
+5759	0.00709	0.00012	species	Entamoeba histolytica
+1126	0.00709	0.00012	species	Microcystis aeruginosa
+1144328	0.00706	0.00012	species	Pseudomonas sp. GM30
+405678	0.00704	0.00012	species	Micrococcus sp. DW-1
+1605972	0.00699	0.00012	species	Cricetid herpesvirus 2
+1521	0.00699	0.00012	species	[Clostridium] cellulolyticum
+37296	0.00694	0.00012	species	Human herpesvirus 8
+81408	0.00690	0.00012	species	Geobacillus caldoxylosilyticus
+203	0.00685	0.00012	species	Campylobacter rectus
+121277	0.00681	0.00012	species	Pyrobaculum arsenaticum
+189918	0.00681	0.00012	species	Mycobacterium sp. KMS
+336810	0.00680	0.00012	species	Candidatus Sulcia muelleri
+544911	0.00680	0.00012	species	Massilia niastensis
+33058	0.00680	0.00012	species	Thauera selenatis
+293091	0.00679	0.00012	species	Haloquadratum walsbyi
+670	0.00676	0.00012	species	Vibrio parahaemolyticus
+69823	0.00676	0.00012	species	Selenomonas sputigena
+390641	0.00676	0.00012	species	Wenxinia marina
+477693	0.00673	0.00011	species	Desulfurococcus kamchatkensis
+52584	0.00671	0.00011	species	Brachyspira pilosicoli
+823	0.00671	0.00011	species	Parabacteroides distasonis
+29543	0.00671	0.00011	species	Pelobacter propionicus
+70600	0.00667	0.00011	species	Epiphyas postvittana nucleopolyhedrovirus
+65553	0.00667	0.00011	species	Sulfurospirillum deleyianum
+395962	0.00667	0.00011	species	Cyanothece sp. PCC 8802
+330	0.00664	0.00011	species	Pseudomonas pseudoalcaligenes
+71237	0.00662	0.00011	species	Staphylococcus vitulinus
+712991	0.00662	0.00011	species	Lachnospiraceae bacterium oral taxon 500
+43687	0.00661	0.00011	species	Metallosphaera sedula
+286638	0.00658	0.00011	species	Massilia alkalitolerans
+1515	0.00654	0.00011	species	Ruminiclostridium thermocellum
+539	0.00654	0.00011	species	Eikenella corrodens
+1157686	0.00649	0.00011	species	Rhizobium sp. JGI 0001005-K05
+1071379	0.00649	0.00011	species	Tetrapisispora blattae
+461876	0.00646	0.00011	species	Alkaliphilus oremlandii
+1007084	0.00645	0.00011	species	Candidatus Nitrosoarchaeum limnia
+558170	0.00641	0.00011	species	Salinicoccus carnicancri
+422289	0.00641	0.00011	species	Beggiatoa sp. PS
+520449	0.00637	0.00011	species	Brucella sp. 83/13
+1209359	0.00637	0.00011	species	Staphylococcus sp. MDS7B
+588596	0.00633	0.00011	species	Rhizophagus irregularis
+1144310	0.00629	0.00011	species	Rhizobium sp. CF080
+157783	0.00629	0.00011	species	Pseudomonas cremoricolorata
+2203	0.00625	0.00011	species	Methanospirillum hungatei
+197	0.00623	0.00011	species	Campylobacter jejuni
+1287232	0.00621	0.00011	species	Mesorhizobium sp. LNHC220B00
+29176	0.00621	0.00011	species	Neospora caninum
+375929	0.00617	0.00011	species	Natranaerobius thermophilus
+911242	0.00617	0.00011	species	Pseudomonas sp. CFII64
+884215	0.00617	0.00011	species	Candidatus Zinderia insecticola
+72556	0.00613	0.00010	species	Achromobacter piechaudii
+332410	0.00611	0.00010	species	Exiguobacterium sibiricum
+62320	0.00611	0.00010	species	Haloterrigena turkmenica
+1859	0.00610	0.00010	species	Frankia alni
+404011	0.00610	0.00010	species	Shewanella piezotolerans
+574962	0.00610	0.00010	species	Pseudomonas taeanensis
+1273	0.00610	0.00010	species	Micrococcus lylae
+1643	0.00606	0.00010	species	Listeria welshimeri
+270374	0.00602	0.00010	species	Marinobacter sp. ELB17
+33034	0.00602	0.00010	species	Anaerococcus prevotii
+881	0.00600	0.00010	species	Desulfovibrio vulgaris
+1465809	0.00599	0.00010	species	Clostridium senegalense
+912594	0.00599	0.00010	species	Mycobacterium iranicum
+1176649	0.00595	0.00010	species	Agrobacterium fabrum
+768493	0.00595	0.00010	species	Serratia sp. AS13
+1542	0.00594	0.00010	species	Clostridium novyi
+40269	0.00588	0.00010	species	Aliivibrio salmonicida
+5691	0.00588	0.00010	species	Trypanosoma brucei
+1055192	0.00588	0.00010	species	Comamonas sp. B-9
+1144340	0.00588	0.00010	species	Pseudomonas sp. GM84
+338192	0.00587	0.00010	species	Nitrosopumilus maritimus
+220343	0.00585	0.00010	species	Gemmobacter nectariphilus
+262177	0.00585	0.00010	species	Orgyia pseudotsugata multiple nucleopolyhedrovirus
+40214	0.00582	0.00010	species	Acinetobacter johnsonii
+34105	0.00579	0.00010	species	Streptobacillus moniliformis
+1513235	0.00571	0.00010	species	Cafeteria roenbergensis virus
+1297865	0.00571	0.00010	species	Bradyrhizobium sp. OHSU_III
+46681	0.00568	0.00010	species	Entamoeba dispar
+172088	0.00568	0.00010	species	Bradyrhizobium sp. th.b2
+188763	0.00565	0.00010	species	Panine herpesvirus 2
+34090	0.00562	0.00010	species	Pelodictyon phaeoclathratiforme
+110539	0.00559	0.00010	species	Mycobacterium vanbaalenii
+1336207	0.00559	0.00010	species	Pseudomonas sp. P818
+520	0.00557	0.00010	species	Bordetella pertussis
+180	0.00556	0.00009	species	Leptospirillum ferrooxidans
+38304	0.00552	0.00009	species	Corynebacterium tuberculostearicum
+1287640	0.00552	0.00009	species	Anaerococcus obesiensis
+1260	0.00551	0.00009	species	Finegoldia magna
+1096	0.00550	0.00009	species	Chlorobium phaeobacteroides
+154	0.00544	0.00009	species	Spirochaeta thermophila
+5855	0.00543	0.00009	species	Plasmodium vivax
+1381751	0.00541	0.00009	species	Brevibacterium sp. VCM10
+223527	0.00541	0.00009	species	Halomonas boliviensis
+558169	0.00538	0.00009	species	Lentibacillus jeotgali
+1104671	0.00535	0.00009	species	Marinimicrobia bacterium JGI 0000090-C20
+293	0.00535	0.00009	species	Brevundimonas diminuta
+2280	0.00535	0.00009	species	Staphylothermus marinus
+1236974	0.00532	0.00009	species	Paenibacillus sp. JCM 10914
+150340	0.00532	0.00009	species	Vibrio antiquarius
+880	0.00529	0.00009	species	Desulfovibrio salexigens
+1104324	0.00526	0.00009	species	Pyrobaculum ferrireducens
+120962	0.00524	0.00009	species	Roseiflexus castenholzii
+1287105	0.00524	0.00009	species	Mesorhizobium sp. L2C066B000
+328814	0.00524	0.00009	species	Alistipes shahii
+105560	0.00521	0.00009	species	Methylibium petroleiphilum
+73913	0.00520	0.00009	species	Methanocaldococcus vulcanius
+106331	0.00518	0.00009	species	Callitrichine herpesvirus 3
+144185	0.00518	0.00009	species	Leifsonia aquatica
+2242	0.00517	0.00009	species	Halobacterium salinarum
+24	0.00515	0.00009	species	Shewanella putrefaciens
+1259803	0.00515	0.00009	species	Pseudomonas sp. LAIL14HWK12:I12
+1290	0.00515	0.00009	species	Staphylococcus hominis
+76891	0.00515	0.00009	species	Asticcacaulis biprosthecium
+125	0.00513	0.00009	species	Pirellula staleyi
+57975	0.00510	0.00009	species	Burkholderia thailandensis
+1274374	0.00510	0.00009	species	Paenibacillus sp. GD11
+403953	0.00510	0.00009	species	Virgibacillus sp. SK1-3-19
+1234594	0.00509	0.00009	species	Pseudomonas sp. 313
+337043	0.00508	0.00009	species	Alphapapillomavirus 4
+412467	0.00503	0.00009	species	Entamoeba nuttalli
+10279	0.00500	0.00009	species	Molluscum contagiosum virus
+1054213	0.00500	0.00009	species	Acetobacteraceae bacterium AT-5844
+288	0.00500	0.00009	species	Pseudoalteromonas atlantica
+721133	0.00498	0.00008	species	Nitratireductor indicus
+473781	0.00497	0.00008	species	Sphingomonas sp. LH128
+28262	0.00496	0.00008	species	Thermodesulfovibrio yellowstonii
+70771	0.00496	0.00008	species	Pyrobaculum neutrophilum
+399726	0.00495	0.00008	species	Thermoanaerobacter sp. X514
+106649	0.00495	0.00008	species	Acinetobacter guillouiae
+1462	0.00493	0.00008	species	Geobacillus kaustophilus
+35269	0.00493	0.00008	species	Woodchuck hepatitis virus
+1298868	0.00493	0.00008	species	Flavobacterium sp. URHB0058
+443144	0.00492	0.00008	species	Geobacter sp. M21
+347	0.00491	0.00008	species	Xanthomonas oryzae
+129788	0.00490	0.00008	species	Ruditapes philippinarum
+1329842	0.00490	0.00008	species	Enterobacter sp. BIDMC 30
+357808	0.00489	0.00008	species	Roseiflexus sp. RS-1
+1146873	0.00488	0.00008	species	Murine mastadenovirus B
+84135	0.00485	0.00008	species	Gemella sanguinis
+1015	0.00485	0.00008	species	Bergeyella zoohelcum
+228	0.00485	0.00008	species	Pseudoalteromonas haloplanktis
+2317	0.00484	0.00008	species	Methanosphaera stadtmanae
+55208	0.00483	0.00008	species	Pectobacterium wasabiae
+43769	0.00481	0.00008	species	Corynebacterium propinquum
+217511	0.00478	0.00008	species	Fulvimarina pelagi
+1321368	0.00478	0.00008	species	Xanthomonas maliensis
+13773	0.00477	0.00008	species	Pyrobaculum aerophilum
+91359	0.00476	0.00008	species	Enterovibrio calviensis
+1346290	0.00476	0.00008	species	Methyloversatilis thermotolerans
+10359	0.00476	0.00008	species	Human herpesvirus 5
+40216	0.00475	0.00008	species	Acinetobacter radioresistens
+99007	0.00474	0.00008	species	Pyrobaculum oguniense
+556	0.00473	0.00008	species	Dickeya chrysanthemi
+593105	0.00472	0.00008	species	Pantoea sp. Sc1
+1200791	0.00472	0.00008	species	Alicycliphilus sp. CRZ1
+56946	0.00469	0.00008	species	Afipia broomeae
+403952	0.00469	0.00008	species	Virgibacillus sp. SK1-3-11
+346	0.00469	0.00008	species	Xanthomonas citri
+1175848	0.00467	0.00008	species	Gammapapillomavirus 6
+190	0.00467	0.00008	species	Aquaspirillum serpens
+306546	0.00463	0.00008	species	Marinimicrobium agarilyticum
+1151123	0.00463	0.00008	species	Pseudomonas sp. 35MFCvi1.1
+39485	0.00463	0.00008	species	[Eubacterium] eligens
+456493	0.00461	0.00008	species	Saccharibacillus sacchari
+36363	0.00461	0.00008	species	Lymphocystis disease virus 1
+1288121	0.00459	0.00008	species	Alistipes senegalensis
+1335308	0.00459	0.00008	species	Burkholderia sp. AU4i
+2224	0.00458	0.00008	species	Methanosaeta thermophila
+1040984	0.00457	0.00008	species	Mesorhizobium sp. WSM1293
+392736	0.00455	0.00008	species	Uliginosibacterium gangwonense
+1671	0.00455	0.00008	species	Pseudarthrobacter oxydans
+2702	0.00454	0.00008	species	Gardnerella vaginalis
+12657	0.00452	0.00008	species	Equid herpesvirus 2
+1387231	0.00452	0.00008	species	Pseudomonas sp. CMAA1215
+1144322	0.00450	0.00008	species	Pseudomonas sp. GM16
+1259801	0.00448	0.00008	species	Pseudomonas sp. LAIL14HWK12:I7
+544556	0.00448	0.00008	species	Geobacillus sp. Y412MC61
+415849	0.00446	0.00008	species	Solimonas flava
+305900	0.00444	0.00008	species	Endozoicomonas elysicola
+94122	0.00442	0.00008	species	Shewanella sp. ANA-3
+10537	0.00442	0.00008	species	Canine mastadenovirus A
+1203471	0.00441	0.00008	species	Geobacter daltonii
+2020	0.00441	0.00008	species	Thermomonospora curvata
+5861	0.00441	0.00008	species	Plasmodium yoelii
+1217693	0.00439	0.00007	species	Acinetobacter sp. NIPH 2171
+131568	0.00437	0.00007	species	Kineococcus radiotolerans
+2190	0.00436	0.00007	species	Methanocaldococcus jannaschii
+181486	0.00435	0.00007	species	Pyrobaculum calidifontis
+5911	0.00433	0.00007	species	Tetrahymena thermophila
+1285600	0.00431	0.00007	species	Nile crocodilepox virus
+314275	0.00431	0.00007	species	Alteromonas mediterranea
+311400	0.00430	0.00007	species	Thermococcus kodakarensis
+259537	0.00429	0.00007	species	Dechloromonas aromatica
+416585	0.00427	0.00007	species	Halorubrum californiense
+59748	0.00427	0.00007	species	Candidatus Phytoplasma australiense
+36745	0.00426	0.00007	species	Clostridium saccharoperbutylacetonicum
+160232	0.00424	0.00007	species	Nanoarchaeum equitans
+284578	0.00424	0.00007	species	Lentibacillus salarius
+56636	0.00422	0.00007	species	Aeropyrum pernix
+1202447	0.00422	0.00007	species	Symbiodinium minutum
+1229909	0.00422	0.00007	species	Candidatus Nitrosopumilus sp. AR2
+362787	0.00421	0.00007	species	Candidatus Protochlamydia amoebophila
+10385	0.00420	0.00007	species	Bovine herpesvirus 4
+191577	0.00420	0.00007	species	Epilithonimonas tenax
+658062	0.00419	0.00007	species	Candidatus Koribacter versatilis
+44449	0.00418	0.00007	species	Borrelia recurrentis
+555791	0.00418	0.00007	species	Staphylococcus massiliensis
+204042	0.00415	0.00007	species	Dickeya zeae
+756892	0.00413	0.00007	species	Acinetobacter indicus
+727	0.00413	0.00007	species	Haemophilus influenzae
+36809	0.00413	0.00007	species	Mycobacterium abscessus
+29291	0.00412	0.00007	species	Methanococcoides burtonii
+208962	0.00412	0.00007	species	Escherichia albertii
+212035	0.00410	0.00007	species	Acanthamoeba polyphaga mimivirus
+1197706	0.00408	0.00007	species	Arthrobacter sp. M2012083
+298701	0.00407	0.00007	species	Desulfovibrio sp. A2
+1088740	0.00403	0.00007	species	Candidatus Nitrosoarchaeum koreensis
+200	0.00402	0.00007	species	Campylobacter curvus
+33045	0.00402	0.00007	species	Bartonella grahamii
+2424	0.00401	0.00007	species	Fervidobacterium nodosum
+405	0.00399	0.00007	species	Methylobacillus flagellatus
+84110	0.00399	0.00007	species	Slackia heliotrinireducens
+364745	0.00398	0.00007	species	Choristoneura occidentalis granulovirus
+28133	0.00398	0.00007	species	Prevotella nigrescens
+1173024	0.00397	0.00007	species	Fischerella sp. PCC 9605
+266944	0.00397	0.00007	species	Neomaskellia andropogonis
+164756	0.00396	0.00007	species	Mycobacterium sp. MCS
+261964	0.00396	0.00007	species	Kangiella koreensis
+2724	0.00395	0.00007	species	Hirschia baltica
+109270	0.00395	0.00007	species	Equine foamy virus
+47886	0.00395	0.00007	species	Pseudomonas luteola
+94009	0.00394	0.00007	species	Thermicanus aegyptius
+1287055	0.00394	0.00007	species	Brachyspira hampsonii
+1624	0.00393	0.00007	species	Lactobacillus salivarius
+33030	0.00392	0.00007	species	Peptoniphilus indolicus
+110500	0.00392	0.00007	species	Pelotomaculum thermopropionicum
+498846	0.00392	0.00007	species	Candidatus Korarchaeum cryptofilum
+130310	0.00391	0.00007	species	Human mastadenovirus D
+69223	0.00391	0.00007	species	Dickeya paradisiaca
+58180	0.00389	0.00007	species	Desulfovibrio alaskensis
+1027373	0.00389	0.00007	species	Nitrosopumilus sp. AR
+76887	0.00388	0.00007	species	Caldivirga maquilingensis
+1367203	0.00388	0.00007	species	Hemileuca sp. nucleopolyhedrovirus
+46242	0.00386	0.00007	species	Spodoptera litura nucleopolyhedrovirus
+33072	0.00385	0.00007	species	Gloeobacter violaceus
+4932	0.00385	0.00007	species	Saccharomyces cerevisiae
+106370	0.00384	0.00007	species	Frankia sp. CcI3
+273651	0.00383	0.00007	species	Turbot reddish body iridovirus
+511746	0.00383	0.00007	species	Methylacidiphilum infernorum
+60480	0.00382	0.00007	species	Shewanella sp. MR-4
+170573	0.00379	0.00006	species	Staphylococcus pettenkoferi
+2247	0.00378	0.00006	species	Halorubrum lacusprofundi
+10376	0.00377	0.00006	species	Human herpesvirus 4
+46541	0.00375	0.00006	species	Thermosipho melanesiensis
+130308	0.00373	0.00006	species	Human mastadenovirus E
+2269	0.00372	0.00006	species	Thermofilum pendens
+109760	0.00372	0.00006	species	Spizellomyces punctatus
+161493	0.00372	0.00006	species	Anaeromyxobacter dehalogenans
+129958	0.00371	0.00006	species	Carboxydothermus hydrogenoformans
+2111	0.00371	0.00006	species	Mycoplasma arthritidis
+307461	0.00370	0.00006	species	Apocheima cinerarium nucleopolyhedrovirus
+168695	0.00370	0.00006	species	Salinispora tropica
+76517	0.00370	0.00006	species	Campylobacter hominis
+1108	0.00369	0.00006	species	Chloroflexus aurantiacus
+796940	0.00369	0.00006	species	Peptostreptococcaceae bacterium CM5
+274539	0.00369	0.00006	species	Chlorobaculum parvum
+1046989	0.00368	0.00006	species	Parcubacteria bacterium SCGC AAA011-J21
+84156	0.00368	0.00006	species	Archaeoglobus profundus
+1132442	0.00366	0.00006	species	Bacillus sp. 37MA
+1124597	0.00366	0.00006	species	Magnetococcus marinus
+5970	0.00365	0.00006	species	Exophiala dermatitidis
+2198	0.00365	0.00006	species	Methanoculleus marisnigri
+64602	0.00364	0.00006	species	Natrialba asiatica
+34499	0.00362	0.00006	species	Pleurobrachia bachei
+1809	0.00361	0.00006	species	Mycobacterium ulcerans
+2187	0.00361	0.00006	species	Methanococcus vannielii
+229545	0.00361	0.00006	species	Aster yellows witches'-broom phytoplasma
+358766	0.00360	0.00006	species	Methanoregula boonei
+2234	0.00360	0.00006	species	Archaeoglobus fulgidus
+228748	0.00360	0.00006	species	Desulfurococcus fermentans
+160233	0.00358	0.00006	species	Ignicoccus hospitalis
+475088	0.00357	0.00006	species	Methanosphaerula palustris
+1525	0.00356	0.00006	species	Moorella thermoacetica
+43771	0.00355	0.00006	species	Corynebacterium urealyticum
+47466	0.00355	0.00006	species	Borrelia miyamotoi
+950	0.00354	0.00006	species	Neorickettsia risticii
+60481	0.00353	0.00006	species	Shewanella sp. MR-7
+59376	0.00353	0.00006	species	Ectropis obliqua nucleopolyhedrovirus
+951	0.00353	0.00006	species	Neorickettsia sennetsu
+198252	0.00352	0.00006	species	Candidatus Pelagibacter ubique
+2118	0.00351	0.00006	species	Mycoplasma mobile
+5286	0.00351	0.00006	species	Rhodotorula toruloides
+189668	0.00350	0.00006	species	uncultured Staphylococcus sp.
+351745	0.00350	0.00006	species	Shewanella sp. W3-18-1
+2277	0.00350	0.00006	species	Pyrobaculum islandicum
+699262	0.00348	0.00006	species	Microgenomates bacterium SCGC AAA011-L6
+1148	0.00347	0.00006	species	Synechocystis sp. PCC 6803
+159749	0.00347	0.00006	species	Thalassiosira oceanica
+28182	0.00346	0.00006	species	Leptospira noguchii
+1175452	0.00344	0.00006	species	Peptoniphilus rhinitidis
+332937	0.00342	0.00006	species	Chimpanzee alpha-1 herpesvirus
+1087449	0.00341	0.00006	species	Aquimarina agarilytica
+546	0.00340	0.00006	species	Citrobacter freundii
+290400	0.00339	0.00006	species	Jannaschia sp. CCS1
+785	0.00339	0.00006	species	Rickettsia typhi
+348296	0.00338	0.00006	species	Atlantic salmon swim bladder sarcoma virus
+83171	0.00337	0.00006	species	Methanocaldococcus fervens
+186189	0.00337	0.00006	species	Xylanimonas cellulosilytica
+1170320	0.00337	0.00006	species	Candidatus Nitrosopumilus salaria
+313985	0.00336	0.00006	species	Geobacter lovleyi
+187878	0.00336	0.00006	species	Thermococcus gammatolerans
+12049	0.00334	0.00006	species	Soybean dwarf virus
+447217	0.00334	0.00006	species	Anaeromyxobacter sp. K
+369960	0.00333	0.00006	species	Porcine type-C oncovirus
+496866	0.00333	0.00006	species	Thermoanaerobacter pseudethanolicus
+172049	0.00333	0.00006	species	Thermococcus sibiricus
+54248	0.00332	0.00006	species	Hyperthermus butylicus
+544644	0.00332	0.00006	species	Butyricimonas synergistica
+1596	0.00332	0.00006	species	Lactobacillus gasseri
+6500	0.00331	0.00006	species	Aplysia californica
+33959	0.00331	0.00006	species	Lactobacillus johnsonii
+47929	0.00327	0.00006	species	Macacine herpesvirus 3
+35286	0.00325	0.00006	species	Bamboo mosaic virus
+145262	0.00325	0.00006	species	Methanothermobacter thermautotrophicus
+78219	0.00324	0.00006	species	Mamestra brassicae multiple nucleopolyhedrovirus
+321332	0.00323	0.00006	species	Synechococcus sp. JA-2-3B'a(2-13)
+47715	0.00323	0.00006	species	Lactobacillus rhamnosus
+1608255	0.00323	0.00006	species	Suid herpesvirus 2
+316277	0.00322	0.00005	species	Syntrophus aciditrophicus
+696859	0.00322	0.00005	species	Murine mastadenovirus C
+28227	0.00321	0.00005	species	Mycoplasma penetrans
+152260	0.00321	0.00005	species	Chloroflexus aggregans
+42879	0.00320	0.00005	species	Methanococcus aeolicus
+53953	0.00320	0.00005	species	Pyrococcus horikoshii
+1169669	0.00319	0.00005	species	Enterococcus sp. GMD5E
+404589	0.00318	0.00005	species	Anaeromyxobacter sp. Fw109-5
+10326	0.00318	0.00005	species	Equid herpesvirus 1
+342948	0.00318	0.00005	species	Thermococcus onnurineus
+288965	0.00317	0.00005	species	[Clostridium] clariflavum
+2734	0.00317	0.00005	species	Symbiobacterium thermophilum
+211668	0.00316	0.00005	species	Colwellia piezophila
+50339	0.00316	0.00005	species	Thermoplasma volcanium
+308354	0.00315	0.00005	species	Staphylococcus simiae
+29518	0.00315	0.00005	species	Borreliella afzelii
+57705	0.00315	0.00005	species	Halomicrobium mukohataei
+11786	0.00314	0.00005	species	Murine leukemia virus
+1092	0.00313	0.00005	species	Chlorobium limicola
+2096	0.00313	0.00005	species	Mycoplasma gallisepticum
+34021	0.00313	0.00005	species	Candidatus Liberibacter asiaticus
+284016	0.00312	0.00005	species	Phenylobacterium zucineum
+2130	0.00311	0.00005	species	Ureaplasma urealyticum
+416273	0.00311	0.00005	species	Natronomonas moolapensis
+177758	0.00309	0.00005	species	Pseudothermotoga lettingae
+1094	0.00309	0.00005	species	Chlorobium phaeovibrioides
+796937	0.00309	0.00005	species	Peptostreptococcaceae bacterium ACC19a
+1718	0.00309	0.00005	species	Corynebacterium glutamicum
+330922	0.00309	0.00005	species	Psychrobacter cryohalolentis
+1175445	0.00308	0.00005	species	Methanocella arvoryzae
+83984	0.00308	0.00005	species	Methanocorpusculum labreanum
+39637	0.00308	0.00005	species	Equid herpesvirus 8
+570267	0.00307	0.00005	species	Methanocella paludicola
+945	0.00307	0.00005	species	Ehrlichia chaffeensis
+10464	0.00307	0.00005	species	Agrotis segetum granulovirus
+2303	0.00307	0.00005	species	Thermoplasma acidophilum
+126740	0.00306	0.00005	species	Thermotoga sp. RQ2
+163011	0.00306	0.00005	species	Pseudomonas lini
+32049	0.00305	0.00005	species	Synechococcus sp. PCC 7002
+45455	0.00304	0.00005	species	Macacine herpesvirus 4
+1307956	0.00303	0.00005	species	Leucania separata nucleopolyhedrovirus
+85701	0.00302	0.00005	species	Bartonella tribocorum
+779	0.00302	0.00005	species	Ehrlichia ruminantium
+1018	0.00302	0.00005	species	Capnocytophaga ochracea
+104628	0.00302	0.00005	species	Helicobacter suis
+140	0.00301	0.00005	species	Borrelia hermsii
+84599	0.00301	0.00005	species	Staphylothermus hellenicus
+166501	0.00301	0.00005	species	Thermobaculum terrenum
+201	0.00299	0.00005	species	Campylobacter lari
+2336	0.00299	0.00005	species	Thermotoga maritima
+194441	0.00299	0.00005	species	Primate T-lymphotropic virus 2
+2337	0.00298	0.00005	species	Thermotoga neapolitana
+513050	0.00298	0.00005	species	Dictyoglomus turgidum
+129726	0.00298	0.00005	species	Pseudocowpox virus
+899	0.00297	0.00005	species	Desulfomicrobium baculatum
+10493	0.00297	0.00005	species	Frog virus 3
+84588	0.00296	0.00005	species	Synechococcus sp. WH 8102
+556262	0.00295	0.00005	species	Coprobacillus sp. D6
+6238	0.00294	0.00005	species	Caenorhabditis briggsae
+100379	0.00294	0.00005	species	Onion yellows phytoplasma
+7425	0.00293	0.00005	species	Nasonia vitripennis
+844	0.00292	0.00005	species	Wolinella succinogenes
+33	0.00292	0.00005	species	Myxococcus fulvus
+28049	0.00291	0.00005	species	Acidothermus cellulolyticus
+129727	0.00290	0.00005	species	Bovine papular stomatitis virus
+29447	0.00290	0.00005	species	Xanthomonas albilineans
+10288	0.00289	0.00005	species	Choristoneura biennis entomopoxvirus 'L'
+551760	0.00289	0.00005	species	Aromatoleum aromaticum
+788	0.00289	0.00005	species	Rickettsia canadensis
+146786	0.00289	0.00005	species	Thermosynechococcus elongatus
+1765	0.00288	0.00005	species	Mycobacterium bovis
+662761	0.00288	0.00005	species	Candidatus Parvarchaeum acidophilus
+1305	0.00287	0.00005	species	Streptococcus sanguinis
+664662	0.00287	0.00005	species	Borreliella bavariensis
+1076255	0.00287	0.00005	species	Yoka poxvirus
+2320	0.00287	0.00005	species	Methanopyrus kandleri
+713887	0.00287	0.00005	species	Candidatus Atelocyanobacterium thalassa
+161879	0.00287	0.00005	species	Corynebacterium kroppenstedtii
+915	0.00287	0.00005	species	Nitrosomonas europaea
+29380	0.00286	0.00005	species	Staphylococcus caprae
+82076	0.00285	0.00005	species	Picrophilus torridus
+2246	0.00284	0.00005	species	Haloferax volcanii
+309806	0.00284	0.00005	species	Sulfurihydrogenibium azorense
+215813	0.00282	0.00005	species	Dinoroseobacter shibae
+1193420	0.00282	0.00005	species	Goose aviadenovirus A
+66084	0.00282	0.00005	species	Wolbachia sp. wRi
+1829	0.00282	0.00005	species	Rhodococcus rhodochrous
+37692	0.00282	0.00005	species	Candidatus Phytoplasma mali
+9597	0.00281	0.00005	species	Pan paniscus
+1349	0.00281	0.00005	species	Streptococcus uberis
+38323	0.00281	0.00005	species	Bartonella henselae
+1580	0.00280	0.00005	species	Lactobacillus brevis
+32046	0.00280	0.00005	species	Synechococcus elongatus
+948	0.00280	0.00005	species	Anaplasma phagocytophilum
+14	0.00279	0.00005	species	Dictyoglomus thermophilum
+2039	0.00279	0.00005	species	Tropheryma whipplei
+751944	0.00279	0.00005	species	Halobacterium sp. DL1
+480224	0.00278	0.00005	species	Chloroflexus sp. Y-400-fl
+11884	0.00278	0.00005	species	Y73 sarcoma virus
+199	0.00278	0.00005	species	Campylobacter concisus
+436114	0.00278	0.00005	species	Sulfurihydrogenibium sp. YO3AOP1
+382540	0.00277	0.00005	species	Strelkovimermis spiculatus
+1309	0.00277	0.00005	species	Streptococcus mutans
+1797	0.00275	0.00005	species	Mycobacterium thermoresistibile
+1346828	0.00274	0.00005	species	Choristoneura murinana alphabaculovirus
+13642	0.00272	0.00005	species	Polysphondylium pallidum
+916	0.00272	0.00005	species	Nitrosomonas eutropha
+2261	0.00272	0.00005	species	Pyrococcus furiosus
+1105171	0.00272	0.00005	species	Bacteroides phage B124-14
+387092	0.00271	0.00005	species	Nitratiruptor sp. SB155-2
+99179	0.00271	0.00005	species	Bacteroides phage B40-8
+176652	0.00270	0.00005	species	Invertebrate iridescent virus 6
+458033	0.00270	0.00005	species	Chloracidobacterium thermophilum
+354090	0.00269	0.00005	species	UR2 sarcoma virus
+471827	0.00269	0.00005	species	Candidatus Desulforudis audaxviator
+32025	0.00268	0.00005	species	Helicobacter hepaticus
+33990	0.00267	0.00005	species	Rickettsia bellii
+1243180	0.00267	0.00005	species	Haloferax sp. BAB2207
+11983	0.00267	0.00005	species	Norwalk virus
+55744	0.00266	0.00005	species	Equid herpesvirus 9
+521	0.00265	0.00005	species	Bordetella avium
+59509	0.00265	0.00005	species	Lumpy skin disease virus
+10258	0.00265	0.00005	species	Orf virus
+334543	0.00264	0.00005	species	Psychrobacter arcticus
+1100	0.00264	0.00005	species	Pelodictyon luteolum
+1597	0.00264	0.00005	species	Lactobacillus paracasei
+337090	0.00263	0.00004	species	Chlorobium chlorochromatii
+905	0.00263	0.00004	species	Acidaminococcus fermentans
+1045009	0.00262	0.00004	species	Citricoccus sp. CH26A
+624186	0.00262	0.00004	species	Blattabacterium sp. (Blattella germanica)
+1255	0.00262	0.00004	species	Pediococcus pentosaceus
+1231	0.00262	0.00004	species	Nitrosospira multiformis
+359408	0.00261	0.00004	species	Methylotenera mobilis
+382538	0.00261	0.00004	species	Thaumamermis cosgrovei
+35701	0.00260	0.00004	species	Heliobacterium modesticaldum
+35745	0.00260	0.00004	species	Haloferax denitrificans
+1582	0.00260	0.00004	species	Lactobacillus casei
+236	0.00260	0.00004	species	Brucella ovis
+367488	0.00260	0.00004	species	Blattabacterium sp. (Periplaneta americana)
+93929	0.00260	0.00004	species	Thermotoga petrophila
+1247	0.00260	0.00004	species	Oenococcus oeni
+262968	0.00260	0.00004	species	Singapore grouper iridovirus
+93930	0.00259	0.00004	species	Thermotoga naphthophila
+212	0.00259	0.00004	species	Helicobacter acinonychis
+39444	0.00259	0.00004	species	Cotia virus
+32051	0.00258	0.00004	species	Synechococcus sp. WH 7803
+524	0.00258	0.00004	species	Acidiphilium cryptum
+117207	0.00258	0.00004	species	Sphingopyxis alaskensis
+754333	0.00258	0.00004	species	Escherichia sp. TW11588
+114707	0.00258	0.00004	species	uncultured Pseudomonas sp.
+178606	0.00257	0.00004	species	Leptospirillum ferriphilum
+316279	0.00257	0.00004	species	Synechococcus sp. CC9902
+42838	0.00256	0.00004	species	Ammonifex degensii
+803	0.00256	0.00004	species	Bartonella quintana
+316278	0.00256	0.00004	species	Synechococcus sp. RCC307
+1157944	0.00256	0.00004	species	Arthrobacter sp. 131MFCol6.1
+380749	0.00255	0.00004	species	Hydrogenobaculum sp. Y04AAS1
+29292	0.00255	0.00004	species	Pyrococcus abyssi
+35746	0.00254	0.00004	species	Haloferax gibbonsii
+29466	0.00253	0.00004	species	Veillonella parvula
+290231	0.00253	0.00004	species	Nocardia exalbida
+774	0.00253	0.00004	species	Bartonella bacilliformis
+1123866	0.00253	0.00004	species	SAR86 cluster bacterium SAR86A
+457396	0.00251	0.00004	species	Clostridium sp. 7_2_43FAA
+110662	0.00251	0.00004	species	Synechococcus sp. CC9605
+1243664	0.00250	0.00004	species	Bacillus massiliogorillae
+2021	0.00250	0.00004	species	Thermobifida fusca
+920	0.00249	0.00004	species	Acidithiobacillus ferrooxidans
+489830	0.00249	0.00004	species	Helicoverpa armigera granulovirus
+29250	0.00248	0.00004	species	Heliothis zea nudivirus
+61435	0.00248	0.00004	species	Dehalococcoides mccartyi
+1155007	0.00248	0.00004	species	Nematocida sp. 1
+368624	0.00247	0.00004	species	Halorubrum lipolyticum
+64471	0.00247	0.00004	species	Synechococcus sp. CC9311
+169292	0.00247	0.00004	species	Corynebacterium aurimucosum
+944	0.00246	0.00004	species	Ehrlichia canis
+28110	0.00246	0.00004	species	Francisella philomiragia
+58839	0.00246	0.00004	species	Encephalitozoon intestinalis
+35720	0.00244	0.00004	species	Thielavia terrestris
+45361	0.00244	0.00004	species	Mycoplasma conjunctivae
+146826	0.00244	0.00004	species	Halorhabdus utahensis
+2148	0.00244	0.00004	species	Acholeplasma laidlawii
+10276	0.00244	0.00004	species	Swinepox virus
+1689	0.00244	0.00004	species	Bifidobacterium dentium
+511435	0.00244	0.00004	species	Candidatus Azobacteroides pseudotrichonymphae
+42858	0.00243	0.00004	species	Staphylococcus lentus
+403951	0.00243	0.00004	species	Virgibacillus sp. SK1-1-8
+263437	0.00242	0.00004	species	Wolbachia endosymbiont of Culex quinquefasciatus
+400756	0.00242	0.00004	species	Durinskia baltica
+38289	0.00242	0.00004	species	Corynebacterium jeikeium
+10398	0.00242	0.00004	species	Ovine herpesvirus 2
+870	0.00242	0.00004	species	Dichelobacter nodosus
+33964	0.00241	0.00004	species	Leuconostoc citreum
+42862	0.00241	0.00004	species	Rickettsia felis
+10271	0.00240	0.00004	species	Rabbit fibroma virus
+83560	0.00240	0.00004	species	Chlamydia muridarum
+84163	0.00240	0.00004	species	Cryptobacterium curtum
+160619	0.00240	0.00004	species	Kryptoperidinium foliaceum
+813	0.00240	0.00004	species	Chlamydia trachomatis
+83556	0.00240	0.00004	species	Chlamydia felis
+998084	0.00239	0.00004	species	Streptomyces himastatinicus
+83558	0.00239	0.00004	species	Chlamydia pneumoniae
+783	0.00238	0.00004	species	Rickettsia rickettsii
+769	0.00238	0.00004	species	Anaplasma centrale
+744985	0.00238	0.00004	species	alpha proteobacterium HIMB59
+345195	0.00238	0.00004	species	Invertebrate iridescent virus 9
+235	0.00238	0.00004	species	Brucella abortus
+108098	0.00237	0.00004	species	Human mastadenovirus B
+782	0.00236	0.00004	species	Rickettsia prowazekii
+586133	0.00236	0.00004	species	Nematocida parisii
+1202667	0.00236	0.00004	species	Staphylococcus sp. OJ82
+40051	0.00235	0.00004	species	Bluetongue virus
+83557	0.00235	0.00004	species	Chlamydia caviae
+2151	0.00235	0.00004	species	Mesoplasma florum
+54254	0.00234	0.00004	species	Thermosphaera aggregans
+195	0.00234	0.00004	species	Campylobacter coli
+35791	0.00234	0.00004	species	Rickettsia massiliae
+2098	0.00234	0.00004	species	Mycoplasma hominis
+573658	0.00234	0.00004	species	Candidatus Hodgkinia cicadicola
+1686	0.00233	0.00004	species	Bifidobacterium catenulatum
+80849	0.00233	0.00004	species	Wolbachia endosymbiont of Brugia malayi
+163164	0.00233	0.00004	species	Wolbachia endosymbiont of Drosophila melanogaster
+786	0.00233	0.00004	species	Rickettsia akari
+29461	0.00233	0.00004	species	Brucella suis
+83555	0.00233	0.00004	species	Chlamydia abortus
+203907	0.00233	0.00004	species	Candidatus Blochmannia floridanus
+781	0.00233	0.00004	species	Rickettsia conorii
+35786	0.00233	0.00004	species	Coprothermobacter proteolyticus
+129951	0.00233	0.00004	species	Human mastadenovirus C
+5207	0.00232	0.00004	species	Cryptococcus neoformans
+2110	0.00232	0.00004	species	Mycoplasma agalactiae
+101534	0.00231	0.00004	species	Candidatus Blochmannia pennsylvanicus
+186490	0.00231	0.00004	species	Candidatus Baumannia cicadellinicola
+770	0.00231	0.00004	species	Anaplasma marginale
+142	0.00231	0.00004	species	Borrelia turicatae
+1147159	0.00230	0.00004	species	Ornithinibacillus scapharcae
+36855	0.00230	0.00004	species	Brucella canis
+35252	0.00230	0.00004	species	Alcelaphine herpesvirus 1
+35788	0.00230	0.00004	species	Rickettsia africae
+2097	0.00229	0.00004	species	Mycoplasma genitalium
+1406512	0.00229	0.00004	species	Candidatus Methanomassiliicoccus intestinalis
+444163	0.00229	0.00004	species	Brucella microti
+1812935	0.00229	0.00004	species	Enterobacter cloacae complex 'Hoffmann cluster IV'
+47589	0.00228	0.00004	species	Rickettsia peacockii
+1006005	0.00228	0.00004	species	Metallosphaera cuprina
+665550	0.00228	0.00004	species	Dietzia alimentaria
+318829	0.00227	0.00004	species	Magnaporthe oryzae
+1510	0.00227	0.00004	species	[Clostridium] stercorarium
+338478	0.00226	0.00004	species	Macaque simian foamy virus
+913333	0.00225	0.00004	species	Thaumarchaeota archaeon SCGC AAA007-O23
+10261	0.00224	0.00004	species	Fowlpox virus
+941437	0.00223	0.00004	species	Citrobacter sp. UC1CIT
+756883	0.00223	0.00004	species	halophilic archaeon DL31
+664683	0.00222	0.00004	species	Halomonas titanicae
+157691	0.00222	0.00004	species	Leptotrichia shahii
+13769	0.00221	0.00004	species	Natrialba magadii
+1316941	0.00221	0.00004	species	Archaeoglobus sulfaticallidus
+44088	0.00220	0.00004	species	Canarypox virus
+85683	0.00218	0.00004	species	[Bacillus] selenitireducens
+280240	0.00218	0.00004	species	Nocardiopsis baichengensis
+729	0.00217	0.00004	species	Haemophilus parainfluenzae
+79885	0.00217	0.00004	species	Bacillus pseudofirmus
+1432327	0.00216	0.00004	species	Candidatus Microgenomatus auricola
+1263547	0.00216	0.00004	species	Oscillibacter ruminantium
+55529	0.00216	0.00004	species	Guillardia theta
+2116	0.00215	0.00004	species	Mycoplasma iowae
+475067	0.00214	0.00004	species	Mesorhizobium alhagi
+2223	0.00214	0.00004	species	Methanosaeta concilii
+194440	0.00213	0.00004	species	Primate T-lymphotropic virus 1
+265294	0.00212	0.00004	species	Ambystoma tigrinum virus
+1104614	0.00211	0.00004	species	Microgenomates bacterium SCGC AAA011-I21
+5808	0.00211	0.00004	species	Cryptosporidium muris
+292717	0.00210	0.00004	species	Daldinia eschscholtzii
+1046982	0.00210	0.00004	species	Hydrogenedentes bacterium JGI 0000039-J10
+683219	0.00209	0.00004	species	Streptomyces sp. SA3_actG
+1200300	0.00209	0.00004	species	Thermogladius cellulolyticus
+425009	0.00208	0.00004	species	Botryotinia fuckeliana totivirus 1
+754331	0.00207	0.00004	species	Escherichia sp. TW09308
+1517	0.00207	0.00004	species	Thermoanaerobacterium thermosaccharolyticum
+360055	0.00207	0.00004	species	Zavarzinella formosa
+129954	0.00206	0.00004	species	Equine mastadenovirus A
+507750	0.00206	0.00004	species	Peptoniphilus duerdenii
+675815	0.00205	0.00004	species	Vibrio sp. RC586
+31741	0.00205	0.00003	species	Wheat streak mosaic virus
+192584	0.00204	0.00003	species	Phthorimaea operculella granulovirus
+28289	0.00204	0.00003	species	Cydia pomonella granulovirus
+1230341	0.00203	0.00003	species	Salimicrobium jeotgali
+1333523	0.00202	0.00003	species	Salinarchaeum sp. Harcht-Bsk1
+114687	0.00202	0.00003	species	Streptomyces auratus
+1131278	0.00201	0.00003	species	SAR324 cluster bacterium SCGC AB-629-J17
+6334	0.00200	0.00003	species	Trichinella spiralis
+32604	0.00199	0.00003	species	Human herpesvirus 6B
+51677	0.00199	0.00003	species	Xestia c-nigrum granulovirus
+227319	0.00198	0.00003	species	Corynebacterium ciconiae
+95610	0.00197	0.00003	species	Klebsiella cf. planticola B43
+53182	0.00196	0.00003	species	Feline foamy virus
+68886	0.00196	0.00003	species	Theileria orientalis
+37665	0.00196	0.00003	species	Ectocarpus siliculosus virus 1
+74426	0.00195	0.00003	species	Collinsella aerofaciens
+103618	0.00195	0.00003	species	Actinomyces coleocanis
+257275	0.00193	0.00003	species	Nocardia thailandica
+752	0.00193	0.00003	species	Pasteurella bettyae
+1151119	0.00192	0.00003	species	Arthrobacter sp. 162MFSha1.1
+28025	0.00191	0.00003	species	Bifidobacterium animalis
+219748	0.00190	0.00003	species	Clostridium tunisiense
+29483	0.00190	0.00003	species	Yersinia aldovae
+79327	0.00190	0.00003	species	Schmidtea mediterranea
+108819	0.00189	0.00003	species	Coprothermobacter platensis
+240426	0.00189	0.00003	species	Squirrelpox virus
+170617	0.00188	0.00003	species	Adoxophyes orana granulovirus
+99000	0.00188	0.00003	species	Tanapox virus
+312295	0.00187	0.00003	species	Cotton leafroll dwarf virus
+29875	0.00187	0.00003	species	Trichoderma virens
+431761	0.00186	0.00003	species	Pseudomonas sp. KFC-34
+27289	0.00186	0.00003	species	Naumovozyma dairenensis
+1151118	0.00186	0.00003	species	Arthrobacter sp. 161MFSha2.1
+394098	0.00185	0.00003	species	Bhargavaea cecembensis
+37327	0.00185	0.00003	species	Nocardia brevicatena
+754330	0.00185	0.00003	species	Escherichia sp. TW09276
+889948	0.00184	0.00003	species	Candidatus Nanosalina sp. J07AB43
+33169	0.00183	0.00003	species	Eremothecium gossypii
+33029	0.00183	0.00003	species	Anaerococcus hydrogenalis
+466153	0.00183	0.00003	species	Singulisphaera acidiphila
+242710	0.00182	0.00003	species	Tree shrew adenovirus A
+158683	0.00182	0.00003	species	Diadromus pulchellus ascovirus 4a
+1288	0.00182	0.00003	species	Staphylococcus xylosus
+69293	0.00181	0.00003	species	Gasterosteus aculeatus
+129950	0.00181	0.00003	species	Bovine mastadenovirus B
+412449	0.00180	0.00003	species	Leptospirillum ferrodiazotrophum
+985052	0.00180	0.00003	species	Vulcanisaeta moutnovskia
+931244	0.00180	0.00003	species	Alphapapillomavirus 14
+1301279	0.00179	0.00003	species	Invertebrate iridovirus 22
+5786	0.00179	0.00003	species	Dictyostelium purpureum
+1234593	0.00179	0.00003	species	Staphylococcus sp. E463
+164451	0.00178	0.00003	species	Vulcanisaeta distributa
+13658	0.00177	0.00003	species	Romanomermis culicivorax
+1183377	0.00177	0.00003	species	Pyrococcus sp. ST04
+5147	0.00177	0.00003	species	Sordaria macrospora
+29360	0.00176	0.00003	species	Cellulosilyticum lentocellum
+528323	0.00176	0.00003	species	uncultured Bathycoccus
+28583	0.00176	0.00003	species	Allomyces macrogynus
+408569	0.00175	0.00003	species	Pseudomonas sp. BJSX
+7426	0.00175	0.00003	species	Nasonia giraulti
+209252	0.00175	0.00003	species	Nocardia asiatica
+908341	0.00175	0.00003	species	Paenibacillus sp. HGF5
+113608	0.00174	0.00003	species	Tetrapisispora phaffii
+359907	0.00174	0.00003	species	Bacillus sp. GPTSA 8T
+39498	0.00174	0.00003	species	[Eubacterium] yurii
+1052827	0.00173	0.00003	species	Aigarchaeota archaeon SCGC AAA471-E14
+1052801	0.00172	0.00003	species	Crenarchaeota archaeon SCGC AAA471-B05
+519051	0.00172	0.00003	species	Alcanivorax hongdengensis
+10245	0.00170	0.00003	species	Vaccinia virus
+40127	0.00169	0.00003	species	Neurospora tetrasperma
+1158050	0.00169	0.00003	species	Arthrobacter sp. 135MFCol5.1
+1312445	0.00169	0.00003	species	Ustilaginoidea virens RNA virus 1
+31744	0.00168	0.00003	species	Rice yellow mottle virus
+2102	0.00168	0.00003	species	Mycoplasma mycoides
+683846	0.00167	0.00003	species	Fervidicoccus fontis
+288456	0.00167	0.00003	species	Bombyx mori Macula-like virus
+5551	0.00166	0.00003	species	Trichophyton rubrum
+36841	0.00166	0.00003	species	Terrisporobacter glycolicus
+1146875	0.00166	0.00003	species	Turkey aviadenovirus B
+71995	0.00165	0.00003	species	Paenibacillus vortex
+1202448	0.00165	0.00003	species	Enterobacter sp. Ag1
+2271	0.00165	0.00003	species	Thermoproteus tenax
+850	0.00164	0.00003	species	Fusobacterium mortiferum
+440512	0.00163	0.00003	species	Pseudomonas sp. Chol1
+119394	0.00163	0.00003	species	Pseudothermotoga thermarum
+78331	0.00163	0.00003	species	Mycobacterium canettii
+394036	0.00162	0.00003	species	Narcissus degeneration virus
+28026	0.00162	0.00003	species	Bifidobacterium pseudocatenulatum
+894	0.00162	0.00003	species	Desulfobulbus propionicus
+187452	0.00162	0.00003	species	Pediococcus claussenii
+207343	0.00161	0.00003	species	Bovine foamy virus
+55205	0.00161	0.00003	species	Caldicellulosiruptor owensensis
+34506	0.00161	0.00003	species	Strongyloides ratti
+40384	0.00161	0.00003	species	Aspergillus kawachii
+2322	0.00160	0.00003	species	Methanohalobium evestigatum
+342409	0.00160	0.00003	species	White spot syndrome virus
+5874	0.00160	0.00003	species	Theileria annulata
+5699	0.00159	0.00003	species	Trypanosoma vivax
+1564	0.00159	0.00003	species	Desulfotomaculum ruminis
+996640	0.00159	0.00003	species	Paenibacillus sp. ICGEB2008
+662759	0.00158	0.00003	species	Candidatus Parvarchaeum acidiphilum
+152335	0.00158	0.00003	species	Lactobacillus suebicus
+76980	0.00158	0.00003	species	Ahrensia kielensis
+420950	0.00158	0.00003	species	Methanolobus psychrophilus
+4897	0.00157	0.00003	species	Schizosaccharomyces japonicus
+1057002	0.00157	0.00003	species	Ensifer sp. BR816
+93369	0.00157	0.00003	species	Pseudaminobacter salicylatoxidans
+218034	0.00156	0.00003	species	uncultured Enterobacteriaceae bacterium
+52888	0.00156	0.00003	species	Spadella cephaloptera
+662757	0.00156	0.00003	species	Candidatus Micrarchaeum acidiphilum
+1225184	0.00156	0.00003	species	Pantoea sp. A4
+1413	0.00155	0.00003	species	Bacillus cellulosilyticus
+1054649	0.00155	0.00003	species	Beauveria bassiana RNA virus 1
+189385	0.00155	0.00003	species	Candidatus Tremblaya princeps
+118000	0.00154	0.00003	species	Denitrovibrio acetiphilus
+334771	0.00154	0.00003	species	Ignisphaera aggregans
+1242866	0.00154	0.00003	species	Thermoplasmatales archaeon SCGC AB-540-F20
+137719	0.00153	0.00003	species	Enterobacter sp. B509
+726	0.00153	0.00003	species	Haemophilus haemolyticus
+184117	0.00153	0.00003	species	Thermoproteus uzoniensis
+1104577	0.00152	0.00003	species	Nanoarchaeota archaeon SCGC AAA011-G17
+1010676	0.00152	0.00003	species	Candidatus Tremblaya phenacola
+1776082	0.00152	0.00003	species	Shigella sp. SF-2015
+669359	0.00152	0.00003	species	Geminocystis herdmanii
+84377	0.00152	0.00003	species	Brachyspira intermedia
+4924	0.00151	0.00003	species	Scheffersomyces stipitis
+373386	0.00151	0.00003	species	Natrinema ejinorense
+4950	0.00151	0.00003	species	Torulaspora delbrueckii
+101192	0.00151	0.00003	species	Methanomethylovorans hollandica
+381899	0.00150	0.00003	species	Paramecium bursaria Chlorella virus A1
+46770	0.00150	0.00003	species	Cenarchaeum symbiosum
+35717	0.00149	0.00003	species	Epichloe festucae
+5875	0.00149	0.00003	species	Theileria parva
+39720	0.00149	0.00003	species	Walleye dermal sarcoma virus
+120957	0.00149	0.00003	species	Nocardia abscessus
+1472721	0.00149	0.00003	species	Alphacoronavirus 2
+128	0.00148	0.00003	species	Isosphaera pallida
+1486991	0.00148	0.00003	species	Candidatus Sodalis pierantonius
+109790	0.00148	0.00003	species	Lactobacillus jensenii
+311458	0.00148	0.00003	species	Candidatus Caldiarchaeum subterraneum
+1173032	0.00147	0.00003	species	Chamaesiphon minutus
+1406	0.00147	0.00003	species	Paenibacillus polymyxa
+243261	0.00147	0.00003	species	Burkholderia sp. Ch1-1
+36355	0.00147	0.00003	species	Pseudaletia unipuncta granulovirus
+283686	0.00146	0.00002	species	Kosakonia radicincitans
+4956	0.00146	0.00002	species	Zygosaccharomyces rouxii
+1131291	0.00146	0.00002	species	Gallionella sp. SCGC AAA018-N21
+5802	0.00145	0.00002	species	Eimeria tenella
+913329	0.00144	0.00002	species	SAR324 cluster bacterium SCGC AAA001-C10
+913331	0.00144	0.00002	species	SAR324 cluster bacterium SCGC AAA240-J09
+437507	0.00144	0.00002	species	Robiginitomaculum antarcticum
+5664	0.00144	0.00002	species	Leishmania major
+45237	0.00143	0.00002	species	Helminthosporium victoriae virus 190S
+147266	0.00143	0.00002	species	Agrobacterium albertimagni
+1151122	0.00143	0.00002	species	Microbacterium sp. 292MF
+225906	0.00142	0.00002	species	Paenibacillus sanguinis
+1365176	0.00142	0.00002	species	Thermofilum sp. 1910b
+229980	0.00142	0.00002	species	Aeropyrum camini
+1131813	0.00142	0.00002	species	Methylobacterium sp. 88A
+585059	0.00142	0.00002	species	Simian adenovirus 20
+710239	0.00141	0.00002	species	Capnocytophaga sp. oral taxon 338
+10406	0.00141	0.00002	species	Ground squirrel hepatitis virus
+155414	0.00141	0.00002	species	Eimeria brunetti RNA virus 1
+11093	0.00141	0.00002	species	Flavivirus sp.
+1165841	0.00140	0.00002	species	Sulfurovum sp. AR
+1236047	0.00140	0.00002	species	Culex originated Tymoviridae-like virus
+1612	0.00140	0.00002	species	Lactobacillus farciminis
+102232	0.00140	0.00002	species	Gloeocapsa sp. PCC 73106
+44689	0.00139	0.00002	species	Dictyostelium discoideum
+1034101	0.00139	0.00002	species	Mycobacterium phage DLane
+427078	0.00139	0.00002	species	Salsuginibacillus kocurii
+563177	0.00139	0.00002	species	Acidianus hospitalis
+1123867	0.00139	0.00002	species	SAR86 cluster bacterium SAR86B
+909333	0.00139	0.00002	species	Human papillomavirus type 134
+101564	0.00138	0.00002	species	Pseudomonas alcaliphila
+665939	0.00138	0.00002	species	Campylobacter sp. 10_1_50
+1130300	0.00138	0.00002	species	crenarchaeote SCGC AAA261-F05
+84589	0.00137	0.00002	species	Salmon pancreas disease virus
+1131462	0.00136	0.00002	species	Dehalobacter sp. CF
+1047070	0.00136	0.00002	species	Cloacimonetes bacterium JGI 0000039-G13
+1069827	0.00136	0.00002	species	Listeria fleischmannii
+665959	0.00136	0.00002	species	Bacillus sp. 2_A_57_CT2
+39669	0.00135	0.00002	species	Methanosalsum zhilinae
+6248	0.00135	0.00002	species	Strongyloides stercoralis
+161544	0.00135	0.00002	species	Bacillus sp. SG-1
+7217	0.00135	0.00002	species	Drosophila ananassae
+158387	0.00135	0.00002	species	Tigriopus japonicus
+7227	0.00134	0.00002	species	Drosophila melanogaster
+42374	0.00134	0.00002	species	Candida dubliniensis
+79591	0.00134	0.00002	species	Epichloe glyceriae
+145263	0.00134	0.00002	species	Methanothermobacter marburgensis
+5868	0.00133	0.00002	species	Babesia microti
+598467	0.00133	0.00002	species	Brenneria sp. EniD312
+1146874	0.00132	0.00002	species	Bat mastadenovirus B
+706526	0.00132	0.00002	species	Phocoena phocoena papillomavirus 2
+497965	0.00132	0.00002	species	Cyanothece sp. PCC 7822
+53344	0.00132	0.00002	species	Staphylococcus delphini
+11036	0.00132	0.00002	species	Venezuelan equine encephalitis virus
+387341	0.00132	0.00002	species	Halovivax ruber
+504501	0.00131	0.00002	species	Propionibacterium phage PAD20
+1173716	0.00131	0.00002	species	Zymoseptoria ardabiliae
+208973	0.00131	0.00002	species	Choristoneura fumiferana multiple nucleopolyhedrovirus
+47951	0.00131	0.00002	species	Vibrio cyclitrophicus
+1795	0.00131	0.00002	species	Mycobacterium neoaurum
+155863	0.00130	0.00002	species	Methanothermococcus okinawensis
+693997	0.00130	0.00002	species	Alphacoronavirus 1
+158877	0.00130	0.00002	species	Yokenella regensburgei
+345201	0.00130	0.00002	species	Invertebrate iridescent virus 3
+910048	0.00130	0.00002	species	Latescibacteria bacterium SCGC AAA252-B13
+856	0.00130	0.00002	species	Fusobacterium varium
+231624	0.00129	0.00002	species	Rotaria rotatoria
+1118055	0.00129	0.00002	species	Anaerococcus sp. PH9
+10407	0.00128	0.00002	species	Hepatitis B virus
+9685	0.00128	0.00002	species	Felis catus
+469614	0.00128	0.00002	species	Erysipelotrichaceae bacterium 6_1_45
+1379	0.00128	0.00002	species	Gemella haemolysans
+92490	0.00128	0.00002	species	Erwinia toletana
+40988	0.00127	0.00002	species	Saccharomonospora azurea
+1286	0.00127	0.00002	species	Staphylococcus simulans
+439219	0.00127	0.00002	species	Streptococcus henryi
+100217	0.00127	0.00002	species	Epizootic haematopoietic necrosis virus
+545904	0.00127	0.00002	species	Bacillus sp. LM4
+519707	0.00127	0.00002	species	Arthrobacter sp. 2-7
+61015	0.00127	0.00002	species	Staphylococcus succinus
+434085	0.00127	0.00002	species	gamma proteobacterium IMCC2047
+401704	0.00127	0.00002	species	Placozoan sp. BZ49
+35304	0.00127	0.00002	species	Bunyamwera virus
+474469	0.00127	0.00002	species	Bacillus sp. C33
+396317	0.00127	0.00002	species	Haloarcula amylolytica
+501496	0.00126	0.00002	species	Porphyromonas bennonis
+5932	0.00126	0.00002	species	Ichthyophthirius multifiliis
+795955	0.00126	0.00002	species	Nesterenkonia sp. F
+298331	0.00126	0.00002	species	Frog siadenovirus A
+317027	0.00125	0.00002	species	Allium virus X
+2265	0.00125	0.00002	species	Thermococcus litoralis
+2186	0.00125	0.00002	species	Methanothermococcus thermolithotrophicus
+416168	0.00125	0.00002	species	Romanomermis iyengari
+10273	0.00125	0.00002	species	Myxoma virus
+10368	0.00125	0.00002	species	Human herpesvirus 6
+2880	0.00124	0.00002	species	Ectocarpus siliculosus
+370996	0.00124	0.00002	species	Staphylococcus sp. B5
+1157633	0.00124	0.00002	species	Streptomyces sp. KhCrAH-244
+497727	0.00124	0.00002	species	Candidatus Nitrososphaera gargensis
+332953	0.00123	0.00002	species	Halovivax asiaticus
+367189	0.00123	0.00002	species	Haladaptatus paucihalophilus
+12472	0.00123	0.00002	species	Subterranean clover mottle virus
+1150398	0.00123	0.00002	species	Arthrobacter sp. 9MFCol3.1
+308047	0.00123	0.00002	species	Pseudomonas sp. 38
+65637	0.00123	0.00002	species	Amblyomma triguttatum
+11840	0.00123	0.00002	species	Gibbon ape leukemia virus
+394239	0.00123	0.00002	species	Koala retrovirus
+1710	0.00122	0.00002	species	Cellulosimicrobium cellulans
+145522	0.00122	0.00002	species	Nannochloropsis oceanica
+3088	0.00122	0.00002	species	Acutodesmus obliquus
+40666	0.00122	0.00002	species	Ryegrass mosaic virus
+5007	0.00122	0.00002	species	Brettanomyces bruxellensis
+1478	0.00122	0.00002	species	Bacillus simplex
+1173715	0.00121	0.00002	species	Zymoseptoria pseudotritici
+11864	0.00121	0.00002	species	Avian leukosis virus
+99182	0.00121	0.00002	species	Murine leukemia-related retroviruses
+12470	0.00121	0.00002	species	Lucerne transient streak virus
+103722	0.00121	0.00002	species	Grapevine fleck virus
+503950	0.00120	0.00002	species	Pseudomonas sp. a220
+11636	0.00120	0.00002	species	Reticuloendotheliosis virus
+117680	0.00120	0.00002	species	Pseudomonas reactans
+173053	0.00120	0.00002	species	Tetrasphaera duodecadis
+246432	0.00119	0.00002	species	Staphylococcus equorum
+2015	0.00119	0.00002	species	Nocardiopsis prasina
+49266	0.00119	0.00002	species	Fucus vesiculosus
+5660	0.00119	0.00002	species	Leishmania braziliensis
+54315	0.00119	0.00002	species	Bovine viral diarrhea virus 2
+2105	0.00118	0.00002	species	Mycoplasma leachii
+1224136	0.00118	0.00002	species	Enterobacteriaceae bacterium LSJC7
+1134413	0.00118	0.00002	species	Bacillus ligniniphilus
+161360	0.00118	0.00002	species	Planococcus antarcticus
+12205	0.00118	0.00002	species	Papaya ringspot virus
+1292023	0.00118	0.00002	species	Leucobacter sp. UCD-THU
+1479	0.00117	0.00002	species	Bacillus smithii
+29405	0.00117	0.00002	species	Microlunatus phosphovorus
+53485	0.00117	0.00002	species	Pyrenophora teres
+2078	0.00117	0.00002	species	Sporolactobacillus inulinus
+290028	0.00117	0.00002	species	Human coronavirus HKU1
+307467	0.00117	0.00002	species	Euproctis pseudoconspersa nucleopolyhedrovirus
+248968	0.00116	0.00002	species	Enterobacter sp. NAB3
+242703	0.00116	0.00002	species	Acidilobus saccharovorans
+1144308	0.00116	0.00002	species	Brevibacillus sp. BC25
+557382	0.00116	0.00002	species	Bradyrhizobium sp. RP2
+129875	0.00115	0.00002	species	Human mastadenovirus A
+1165	0.00115	0.00002	species	Anabaena cylindrica
+146015	0.00115	0.00002	species	Elephantid herpesvirus 1
+694009	0.00115	0.00002	species	Severe acute respiratory syndrome-related coronavirus
+552395	0.00115	0.00002	species	Lachnospiraceae bacterium 4_1_37FAA
+657295	0.00115	0.00002	species	Heliconema longissimum
+1165908	0.00114	0.00002	species	Simian adenovirus B
+11269	0.00114	0.00002	species	Marburg marburgvirus
+864702	0.00114	0.00002	species	Oscillatoriales cyanobacterium JSC-12
+52000	0.00114	0.00002	species	Steganacarus magnus
+1054942	0.00114	0.00002	species	Candidatus Arthromitus sp. SFB-1
+103449	0.00114	0.00002	species	Vavraia culicis
+318479	0.00114	0.00002	species	Dracunculus medinensis
+565	0.00113	0.00002	species	Escherichia hermannii
+72520	0.00113	0.00002	species	Nannochloropsis gaditana
+386429	0.00113	0.00002	species	Pseudoalteromonas sp. BSi20495
+91753	0.00113	0.00002	species	Cucurbit aphid-borne yellows virus
+2180	0.00113	0.00002	species	Methanothermus fervidus
+1247714	0.00113	0.00002	species	Microbacterium sp. UCD-TDU
+309120	0.00112	0.00002	species	Dialister micraerophilus
+53427	0.00112	0.00002	species	Gordonia hirsuta
+109871	0.00112	0.00002	species	Batrachochytrium dendrobatidis
+94785	0.00112	0.00002	species	endosymbiont of Tevnia jerichonana
+653385	0.00112	0.00002	species	Actinomyces sp. oral taxon 849
+1157638	0.00112	0.00002	species	Streptomyces sp. PsTaAH-124
+242159	0.00112	0.00002	species	Ostreococcus 'lucimarinus'
+70448	0.00111	0.00002	species	Ostreococcus tauri
+359919	0.00111	0.00002	species	Spodoptera litura granulovirus
+997346	0.00111	0.00002	species	Desmospora sp. 8437
+533	0.00111	0.00002	species	Beijerinckia indica
+1589	0.00111	0.00002	species	Lactobacillus pentosus
+400394	0.00111	0.00002	species	Telosma mosaic virus
+12178	0.00111	0.00002	species	Cymbidium mosaic virus
+36807	0.00110	0.00002	species	Microbacterium laevaniformans
+204799	0.00110	0.00002	species	Nitratireductor aquibiodomus
+44056	0.00110	0.00002	species	Aureococcus anophagefferens
+37727	0.00110	0.00002	species	Talaromyces marneffei
+5762	0.00110	0.00002	species	Naegleria gruberi
+33007	0.00110	0.00002	species	Actinomyces neuii
+130328	0.00110	0.00002	species	Duck adenovirus A
+39791	0.00110	0.00002	species	Corynebacterium glucuronolyticum
+6161	0.00109	0.00002	species	Dugesia japonica
+551947	0.00109	0.00002	species	Bradyrhizobium sp. STM 3843
+1100885	0.00109	0.00002	species	Oncicola luehei
+1509	0.00109	0.00002	species	Clostridium sporogenes
+28354	0.00109	0.00002	species	Plantago asiatica mosaic virus
+999	0.00109	0.00002	species	Flexibacter litoralis
+1137848	0.00109	0.00002	species	Clostridium arbusti
+5141	0.00109	0.00002	species	Neurospora crassa
+296745	0.00108	0.00002	species	Caldalkalibacillus thermarum
+237610	0.00108	0.00002	species	Pseudomonas psychrotolerans
+267835	0.00108	0.00002	species	Tetraleurodes acaciae
+489722	0.00108	0.00002	species	Mesorhizobium metallidurans
+936053	0.00108	0.00002	species	Rhizopus delemar
+84739	0.00108	0.00002	species	European catfish virus
+125614	0.00108	0.00002	species	Thiothrix disciformis
+1229204	0.00106	0.00002	species	alpha proteobacterium L41A
+4896	0.00106	0.00002	species	Schizosaccharomyces pombe
+6189	0.00106	0.00002	species	Schistosoma spindale
+645	0.00106	0.00002	species	Aeromonas salmonicida
+71999	0.00106	0.00002	species	Kocuria palustris
+1208365	0.00106	0.00002	species	SAR86 cluster bacterium SAR86E
+28903	0.00105	0.00002	species	Mycoplasma bovis
+157784	0.00105	0.00002	species	Pseudomonas thermotolerans
+283675	0.00105	0.00002	species	Clostera anachoreta granulovirus
+1054217	0.00105	0.00002	species	Thermoplasmatales archaeon BRNA1
+43657	0.00105	0.00002	species	Pseudoalteromonas luteoviolacea
+431317	0.00105	0.00002	species	Triticum mosaic virus
+390845	0.00105	0.00002	species	Aedes flavivirus
+108150	0.00105	0.00002	species	Thermoanaerobacter italicus
+163003	0.00104	0.00002	species	Thermococcus cleftensis
+1231180	0.00104	0.00002	species	Nitratireductor pacificus
+1426	0.00104	0.00002	species	Geobacillus thermoglucosidasius
+4565	0.00104	0.00002	species	Triticum aestivum
+1131289	0.00104	0.00002	species	zeta proteobacterium SCGC AB-604-B04
+29391	0.00103	0.00002	species	Gemella morbillorum
+249188	0.00103	0.00002	species	Haemophilus pittmaniae
+1130337	0.00103	0.00002	species	Calescamantes bacterium JGI 0000106-P5
+1348249	0.00103	0.00002	species	Methanobrevibacter boviskoreani
+11096	0.00103	0.00002	species	Classical swine fever virus
+28129	0.00103	0.00002	species	Prevotella denticola
+1052823	0.00103	0.00002	species	Aigarchaeota archaeon SCGC AAA471-A16
+46351	0.00103	0.00002	species	Mycobacterium hassiacum
+40602	0.00102	0.00002	species	Claviceps fusiformis
+37453	0.00102	0.00002	species	Polaribacter franzmannii
+46012	0.00102	0.00002	species	Radopholus similis
+648885	0.00102	0.00002	species	Methylobacterium sp. MB200
+12203	0.00102	0.00002	species	Maize dwarf mosaic virus
+1383	0.00102	0.00002	species	Atopobium rimae
+683150	0.00102	0.00002	species	Arthrobacter nitrophenolicus
+32603	0.00102	0.00002	species	Human herpesvirus 6A
+392734	0.00101	0.00002	species	Terriglobus roseus
+2850	0.00101	0.00002	species	Phaeodactylum tricornutum
+671622	0.00101	0.00002	species	Microbacterium yannicii
+1176355	0.00101	0.00002	species	Hamiltosporidium tvaerminnensis
+391613	0.00101	0.00002	species	Roseovarius sp. TM1035
+217159	0.00101	0.00002	species	Clostridium carboxidivorans
+903945	0.00101	0.00002	species	Acinetobacter sp. WC-743
+29501	0.00100	0.00002	species	Mycoplasma haemofelis
+73498	0.00100	0.00002	species	Sphaeropsis sapinea RNA virus 2
+1047055	0.00100	0.00002	species	Marinimicrobia bacterium JGI 0000039-D08
+932039	0.00100	0.00002	species	actinobacterium SCGC AAA024-D14
+28187	0.00100	0.00002	species	Acetohalobium arabaticum
+2006	0.00100	0.00002	species	Thermobispora bispora
+1513247	0.00099	0.00002	species	Dyokappapapillomavirus 1
+38804	0.00099	0.00002	species	Yaba monkey tumor virus
+754336	0.00099	0.00002	species	Escherichia sp. TW14182
+1142505	0.00099	0.00002	species	Homoloaphlyctis polyrhiza
+568107	0.00099	0.00002	species	Oerskovia sp. SB3
+68204	0.00099	0.00002	species	Streptomyces gancidicus
+190063	0.00099	0.00002	species	Fowl aviadenovirus C
+1188990	0.00098	0.00002	species	Vallota speciosa virus
+96765	0.00098	0.00002	species	Microbacterium sp. B19
+6326	0.00098	0.00002	species	Bursaphelenchus xylophilus
+7729	0.00098	0.00002	species	Halocynthia roretzi
+1186051	0.00098	0.00002	species	Blattabacterium sp. (Blaberus giganteus)
+10116	0.00098	0.00002	species	Rattus norvegicus
+59196	0.00098	0.00002	species	Rickettsiella grylli
+50292	0.00097	0.00002	species	Cercopithecine herpesvirus 5
+5671	0.00097	0.00002	species	Leishmania infantum
+274854	0.00097	0.00002	species	uncultured marine group II euryarchaeote
+5689	0.00097	0.00002	species	Leishmania tarentolae
+188144	0.00097	0.00002	species	Enterovibrio norvegicus
+651	0.00097	0.00002	species	Aeromonas media
+42399	0.00097	0.00002	species	Vittaforma corneae
+83683	0.00097	0.00002	species	Lactobacillus amylolyticus
+261965	0.00097	0.00002	species	Kangiella aquimarina
+49332	0.00096	0.00002	species	Candida salmanticensis
+423445	0.00096	0.00002	species	KI polyomavirus
+114525	0.00096	0.00002	species	Saccharomyces mikatae
+1285	0.00096	0.00002	species	Staphylococcus intermedius
+332055	0.00096	0.00002	species	Sphingobium indicum
+130369	0.00096	0.00002	species	Porcine mastadenovirus A
+28873	0.00096	0.00002	species	Camelpox virus
+437163	0.00096	0.00002	species	Halomicrobium katesii
+1118058	0.00096	0.00002	species	Actinomyces sp. ph3
+1156844	0.00095	0.00002	species	Streptomyces sp. HmicA12
+35128	0.00095	0.00002	species	Thalassiosira pseudonana
+187145	0.00095	0.00002	species	Caldithrix abyssi
+240125	0.00095	0.00002	species	Mycobacterium parascrofulaceum
+1703	0.00095	0.00002	species	Brevibacterium linens
+379547	0.00095	0.00002	species	Aciduliprofundum boonei
+334205	0.00095	0.00002	species	Nupapillomavirus 1
+5865	0.00095	0.00002	species	Babesia bovis
+504	0.00094	0.00002	species	Kingella kingae
+446912	0.00094	0.00002	species	Seriatopora caliendrum
+54076	0.00094	0.00002	species	Thermococcus zilligii
+51070	0.00094	0.00002	species	Seriatopora hystrix
+35814	0.00094	0.00002	species	Bordetella holmesii
+566679	0.00094	0.00002	species	Bradyrhizobium sp. ORS 375
+1665	0.00094	0.00002	species	Arthrobacter globiformis
+999883	0.00094	0.00002	species	Lausannevirus
+1047061	0.00094	0.00002	species	Marinimicrobia bacterium JGI 0000059-L03
+1116369	0.00093	0.00002	species	Hoeflea sp. 108
+54261	0.00093	0.00002	species	Ferroglobus placidus
+913317	0.00093	0.00002	species	Atribacteria bacterium SCGC AAA252-M02
+202789	0.00093	0.00002	species	Actinobaculum massiliense
+1641	0.00093	0.00002	species	Listeria grayi
+1047051	0.00093	0.00002	species	Atribacteria bacterium SCGC AAA255-G05
+279272	0.00093	0.00002	species	Leptotrombidium pallidum
+200415	0.00093	0.00002	species	Caldisphaera lagunensis
+576927	0.00093	0.00002	species	Brevibacterium massiliense
+674	0.00092	0.00002	species	Vibrio mimicus
+2776	0.00092	0.00002	species	Gracilaria tenuistipitata
+1144341	0.00092	0.00002	species	Pantoea sp. YR343
+1519565	0.00092	0.00002	species	Fistulifera solaris
+304766	0.00092	0.00002	species	Sedimentibacter sp. B4
+5057	0.00092	0.00002	species	Aspergillus clavatus
+437897	0.00092	0.00002	species	Megamonas funiformis
+495180	0.00092	0.00002	species	Pseudomonas sp. PTPbra-1
+320799	0.00092	0.00002	species	Gordonia soli
+447456	0.00092	0.00002	species	candidate division TM7 single-cell isolate TM7c
+112228	0.00091	0.00002	species	Hydrangea ringspot virus
+228574	0.00091	0.00002	species	Paenibacillus lactis
+5661	0.00091	0.00002	species	Leishmania donovani
+114524	0.00091	0.00002	species	Saccharomyces kudriavzevii
+232323	0.00091	0.00002	species	Hypsibius dujardini
+35254	0.00091	0.00002	species	Cryptophlebia leucotreta granulovirus
+164328	0.00091	0.00002	species	Phytophthora ramorum
+460086	0.00091	0.00002	species	Kribbella catacumbae
+395922	0.00091	0.00002	species	Coraliomargarita akajimensis
+169999	0.00091	0.00002	species	Phakopsora meibomiae
+170000	0.00090	0.00002	species	Phakopsora pachyrhizi
+1173062	0.00090	0.00002	species	Acinetobacter sp. HA
+199306	0.00090	0.00002	species	Coccidioides posadasii
+130371	0.00090	0.00002	species	Porcine mastadenovirus C
+114424	0.00090	0.00002	species	Ovine mastadenovirus A
+519989	0.00090	0.00002	species	Ectothiorhodospira sp. PHS-1
+60550	0.00090	0.00002	species	Burkholderia pyrrocinia
+9733	0.00090	0.00002	species	Orcinus orca
+1128911	0.00090	0.00002	species	Paraglaciecola arctica
+1465757	0.00090	0.00002	species	Peptoniphilus senegalensis
+1341876	0.00090	0.00002	species	Maize yellow dwarf virus-RMV
+85618	0.00089	0.00002	species	Ateline herpesvirus 3
+457400	0.00089	0.00002	species	Escherichia sp. 1_1_43
+262805	0.00089	0.00002	species	Achelia bituberculata
+48897	0.00089	0.00002	species	Hylomys suillus
+1009423	0.00089	0.00002	species	Verrucomicrobia bacterium SCGC AAA168-F10
+34758	0.00089	0.00002	species	Paraspadella gotoi
+1160784	0.00089	0.00002	species	Candidatus Nasuia deltocephalinicola
+55218	0.00089	0.00002	species	Ruegeria lacuscaerulensis
+54252	0.00089	0.00002	species	Pyrolobus fumarii
+393087	0.00089	0.00002	species	Gracilibacillus lacisalsi
+728	0.00089	0.00002	species	Avibacterium paragallinarum
+228599	0.00089	0.00002	species	Nocardia higoensis
+53633	0.00089	0.00002	species	Sulfobacillus acidophilus
+9365	0.00089	0.00002	species	Erinaceus europaeus
+539813	0.00088	0.00002	species	Enterobacter mori
+7726	0.00088	0.00002	species	Styela plicata
+551936	0.00088	0.00002	species	Bradyrhizobium sp. STM 3809
+387661	0.00088	0.00002	species	Parabacteroides johnsonii
+161890	0.00088	0.00002	species	Corynebacterium mastitidis
+42004	0.00088	0.00002	species	Leek yellow stripe virus
+2176	0.00088	0.00001	species	Methanohalophilus mahii
+1072681	0.00088	0.00001	species	Candidatus Haloredivivus sp. G17
+1291540	0.00088	0.00001	species	Candidatus Methanomethylophilus alvus
+565004	0.00088	0.00001	species	Paracyclopina nana
+933850	0.00087	0.00001	species	Pauropus longiramus
+1146877	0.00087	0.00001	species	Bat mastadenovirus A
+11768	0.00087	0.00001	species	Feline leukemia virus
+860	0.00087	0.00001	species	Fusobacterium periodonticum
+29486	0.00087	0.00001	species	Yersinia ruckeri
+46469	0.00087	0.00001	species	Orenia marismortui
+889962	0.00087	0.00001	species	Candidatus Nanosalinarum sp. J07AB56
+6661	0.00087	0.00001	species	Artemia franciscana
+157069	0.00087	0.00001	species	Trichobilharzia regenti
+1016853	0.00087	0.00001	species	Banana streak IM virus
+171284	0.00087	0.00001	species	Mycoplasma cynos
+1229485	0.00087	0.00001	species	gamma proteobacterium WG36
+157363	0.00087	0.00001	species	Meretrix lamarckii
+83986	0.00086	0.00001	species	Methanoculleus bourgensis
+10195	0.00086	0.00001	species	Brachionus plicatilis
+43767	0.00086	0.00001	species	Rhodococcus equi
+57372	0.00086	0.00001	species	Mycoplasma suis
+165	0.00086	0.00001	species	Treponema saccharophilum
+341086	0.00086	0.00001	species	Microcosmus sulcatus
+67294	0.00086	0.00001	species	Streptomyces filamentosus
+1033736	0.00086	0.00001	species	Brevibacterium senegalense
+552398	0.00086	0.00001	species	Ruminococcaceae bacterium D16
+228600	0.00086	0.00001	species	Nocardia araoensis
+1511868	0.00086	0.00001	species	Carnivore bocaparvovirus 3
+1236391	0.00085	0.00001	species	Ateles paniscus polyomavirus 1
+28080	0.00085	0.00001	species	Campylobacter upsaliensis
+5665	0.00085	0.00001	species	Leishmania mexicana
+94290	0.00085	0.00001	species	Sugarcane yellow leaf virus
+1468413	0.00085	0.00001	species	Bacillus massilioanorexius
+658087	0.00085	0.00001	species	Lachnospiraceae bacterium 7_1_58FAA
+1047007	0.00085	0.00001	species	Omnitrophica bacterium SCGC AAA257-O07
+746691	0.00085	0.00001	species	Oceanobacillus kimchii
+937772	0.00085	0.00001	species	gamma proteobacterium IMCC1989
+288022	0.00085	0.00001	species	Kordiimonas gwangyangensis
+4959	0.00084	0.00001	species	Debaryomyces hansenii
+51589	0.00084	0.00001	species	Haloarcula hispanica
+195250	0.00084	0.00001	species	Synechococcus sp. PCC 7336
+2275	0.00084	0.00001	species	Desulfurococcus mucosus
+673860	0.00084	0.00001	species	Aciduliprofundum sp. MAR08-339
+119434	0.00084	0.00001	species	Halorubrum tebenquichense
+33917	0.00084	0.00001	species	Microbacterium barkeri
+58290	0.00084	0.00001	species	Archaeoglobus veneficus
+70536	0.00084	0.00001	species	Edhazardia aedis
+171164	0.00084	0.00001	species	Halosimplex carlsbadense
+370323	0.00083	0.00001	species	Haloterrigena limicola
+312284	0.00083	0.00001	species	marine actinobacterium PHSC20C1
+1144342	0.00083	0.00001	species	Herbaspirillum sp. YR522
+693851	0.00083	0.00001	species	Halogranum salarium
+387665	0.00083	0.00001	species	Hexamermis agrotis
+49118	0.00083	0.00001	species	Candidatus Arthromitus sp. SFB-mouse
+239984	0.00083	0.00001	species	Nocardiopsis ganjiahuensis
+37928	0.00083	0.00001	species	Arthrobacter crystallopoietes
+6287	0.00083	0.00001	species	Dirofilaria immitis
+33763	0.00083	0.00001	species	Peanut mottle virus
+421012	0.00083	0.00001	species	Freesia mosaic virus
+280236	0.00083	0.00001	species	Nocardiopsis gilva
+92003	0.00083	0.00001	species	Azoarcus toluclasticus
+566466	0.00083	0.00001	species	gamma proteobacterium NOR5-3
+4918	0.00083	0.00001	species	Pachysolen tannophilus
+879567	0.00082	0.00001	species	Desulfovibrio piezophilus
+361575	0.00082	0.00001	species	Pseudarthrobacter phenanthrenivorans
+471825	0.00082	0.00001	species	Haloplasma contractile
+5905	0.00082	0.00001	species	Tetrahymena paravorax
+693988	0.00082	0.00001	species	Bilophila sp. 4_1_30
+633131	0.00082	0.00001	species	Thalassobium sp. R2A62
+340680	0.00082	0.00001	species	Amorphus coralli
+549	0.00082	0.00001	species	Pantoea agglomerans
+881893	0.00082	0.00001	species	Fulvivirga imtechensis
+6293	0.00081	0.00001	species	Wuchereria bancrofti
+1144317	0.00081	0.00001	species	Acidovorax sp. CF316
+28835	0.00081	0.00001	species	Cepaea nemoralis
+8479	0.00081	0.00001	species	Chrysemys picta
+994695	0.00081	0.00001	species	Candidatus Kinetoplastibacterium galatii
+651183	0.00081	0.00001	species	Aurantimonas manganoxydans
+358764	0.00081	0.00001	species	Border disease virus
+2188	0.00081	0.00001	species	Methanococcus voltae
+2787	0.00081	0.00001	species	Porphyra purpurea
+65123	0.00081	0.00001	species	Mycoplasma wenyonii
+490711	0.00080	0.00001	species	Orgyia leucostigma NPV
+256847	0.00080	0.00001	species	Lentisphaera araneosa
+97393	0.00080	0.00001	species	Ferroplasma acidarmanus
+209285	0.00080	0.00001	species	Chaetomium thermophilum
+48544	0.00080	0.00001	species	Fort Morgan virus
+62088	0.00080	0.00001	species	Borreliella valaisiana
+51173	0.00080	0.00001	species	Ureibacillus thermosphaericus
+1260292	0.00080	0.00001	species	Grateloupia taiwanensis
+691437	0.00080	0.00001	species	Geobacillus sp. C56-T3
+2788	0.00080	0.00001	species	Pyropia yezoensis
+60532	0.00080	0.00001	species	Leptorhynchoides thecatus
+236100	0.00079	0.00001	species	Marinobacter algicola
+62319	0.00079	0.00001	species	Halococcus saccharolyticus
+1511866	0.00079	0.00001	species	Carnivore bocaparvovirus 1
+54308	0.00079	0.00001	species	Pleurocapsa minor
+5907	0.00079	0.00001	species	Tetrahymena pigmentosa
+41058	0.00079	0.00001	species	Aspergillus sojae
+1719	0.00079	0.00001	species	Corynebacterium pseudotuberculosis
+228582	0.00079	0.00001	species	Cereal yellow dwarf virus-RPS
+191217	0.00079	0.00001	species	Cereal yellow dwarf virus-RPV
+1265601	0.00079	0.00001	species	Streptomyces sp. PAMC 26508
+1263866	0.00079	0.00001	species	Rhodopirellula europaea
+1254	0.00079	0.00001	species	Pediococcus acidilactici
+5059	0.00079	0.00001	species	Aspergillus flavus
+1150399	0.00079	0.00001	species	Leifsonia sp. 109
+622637	0.00079	0.00001	species	Methylocystis sp. ATCC 49242
+11021	0.00079	0.00001	species	Eastern equine encephalitis virus
+35801	0.00078	0.00001	species	Nitrospina gracilis
+441999	0.00078	0.00001	species	Magnaporthe oryzae virus 2
+1492	0.00078	0.00001	species	Clostridium butyricum
+47671	0.00078	0.00001	species	Lautropia mirabilis
+1465	0.00078	0.00001	species	Brevibacillus laterosporus
+33032	0.00078	0.00001	species	Anaerococcus lactolyticus
+37347	0.00078	0.00001	species	Tupaia belangeri
+1471	0.00078	0.00001	species	Bacillus methanolicus
+130556	0.00078	0.00001	species	Culex nigripalpus nucleopolyhedrovirus
+202951	0.00078	0.00001	species	Acinetobacter bouvetii
+7038	0.00078	0.00001	species	Bemisia tabaci
+6832	0.00078	0.00001	species	Tigriopus californicus
+5113	0.00078	0.00001	species	Epichloe typhina
+762964	0.00078	0.00001	species	Haemophilus sp. oral taxon 851
+761194	0.00078	0.00001	species	Pseudonocardia sp. P1
+694456	0.00077	0.00001	species	Euspilotus scissus
+1214225	0.00077	0.00001	species	Acidocella sp. MX-AZ02
+10244	0.00077	0.00001	species	Monkeypox virus
+492448	0.00077	0.00001	species	Streptomyces sp. CNQ-233_SD01_MAR2
+1123864	0.00077	0.00001	species	SAR86 cluster bacterium SAR86C
+479936	0.00077	0.00001	species	Commensalibacter intestini
+30099	0.00077	0.00001	species	Aleurodicus dugesii
+862751	0.00077	0.00001	species	Streptomyces sp. SirexAA-E
+238241	0.00077	0.00001	species	Chromobacterium sp. C-61
+700750	0.00077	0.00001	species	Candidatus Poribacteria sp. WGA-A3
+29485	0.00077	0.00001	species	Yersinia rohdei
+75588	0.00077	0.00001	species	Pseudomonas libanensis
+292566	0.00077	0.00001	species	Dactylococcopsis salina
+1735	0.00077	0.00001	species	Holdemanella biformis
+1081644	0.00077	0.00001	species	Candidatus Aquiluna sp. IMCC13023
+389276	0.00077	0.00001	species	Psychrobacter sp. ES-10
+1198147	0.00076	0.00001	species	Caladenia virus A
+191863	0.00076	0.00001	species	Chthoniobacter flavus
+44470	0.00076	0.00001	species	Natronococcus amylolyticus
+95616	0.00076	0.00001	species	Microbacterium sp. B24
+590134	0.00076	0.00001	species	Wallacidia oculata
+10255	0.00076	0.00001	species	Variola virus
+140016	0.00076	0.00001	species	Herpestes javanicus
+11874	0.00076	0.00001	species	Avian retrovirus IC10
+137475	0.00076	0.00001	species	Cucumber vein yellowing virus
+298334	0.00076	0.00001	species	Simian mastadenovirus A
+216945	0.00076	0.00001	species	Spiroplasma syrphidicola
+369333	0.00076	0.00001	species	Paenibacillus terrigena
+88058	0.00076	0.00001	species	Treponema primitia
+1084716	0.00075	0.00001	species	Porcine bocavirus 4
+1217908	0.00075	0.00001	species	Octadecabacter antarcticus
+85642	0.00075	0.00001	species	Vaccinium witches'-broom phytoplasma
+1823	0.00075	0.00001	species	Nocardia otitidiscaviarum
+296587	0.00075	0.00001	species	Micromonas commoda
+590597	0.00075	0.00001	species	Pseudomonas sp. Asd M6-6
+65642	0.00075	0.00001	species	Bothriocroton undatum
+5901	0.00075	0.00001	species	Tetrahymena malaccensis
+936565	0.00075	0.00001	species	Klebsiella sp. OBRC7
+29581	0.00075	0.00001	species	Janthinobacterium lividum
+330214	0.00075	0.00001	species	Nitrospira defluvii
+11039	0.00075	0.00001	species	Western equine encephalitis virus
+510302	0.00075	0.00001	species	Metacrangonyx longipes
+183	0.00075	0.00001	species	Leptonema illini
+1427356	0.00075	0.00001	species	Hyphomicrobium nitrativorans
+1863	0.00074	0.00001	species	Dermatophilus congolensis
+12188	0.00074	0.00001	species	White clover mosaic virus
+40979	0.00074	0.00001	species	Cocksfoot mottle virus
+128818	0.00074	0.00001	species	Chinese yam necrotic mosaic virus
+1789	0.00074	0.00001	species	Mycobacterium xenopi
+1768	0.00074	0.00001	species	Mycobacterium kansasii
+659243	0.00074	0.00001	species	Bacillus siamensis
+5908	0.00074	0.00001	species	Tetrahymena pyriformis
+2014	0.00074	0.00001	species	Nocardiopsis dassonvillei
+587	0.00074	0.00001	species	Providencia rettgeri
+246969	0.00074	0.00001	species	Thermococcus sp. AM4
+1042877	0.00074	0.00001	species	Thermococcus sp. 4557
+693075	0.00074	0.00001	species	Caldisericum exile
+2315	0.00074	0.00001	species	Methanoplanus limicola
+644281	0.00074	0.00001	species	Methanocaldococcus sp. FS406-22
+1195367	0.00073	0.00001	species	Myotis myotis bocavirus 1
+12643	0.00073	0.00001	species	Ectromelia virus
+301375	0.00073	0.00001	species	Methanosaeta harundinacea
+69525	0.00073	0.00001	species	Natrinema pellirubrum
+129789	0.00073	0.00001	species	Natrialba aegyptia
+61305	0.00073	0.00001	species	Nocardiopsis synnemataformans
+239974	0.00073	0.00001	species	Nocardiopsis valliformis
+12153	0.00073	0.00001	species	Ononis yellow mosaic virus
+393662	0.00073	0.00001	species	Congregibacter litoralis
+1118963	0.00073	0.00001	species	Arthrobacter sp. Rue61a
+71030	0.00073	0.00001	species	Chayote mosaic virus
+55802	0.00073	0.00001	species	Thermococcus barophilus
+736	0.00073	0.00001	species	Haemophilus paraphrohaemolyticus
+171279	0.00072	0.00001	species	Mycoplasma anatis
+130048	0.00072	0.00001	species	Halobiforma nitratireducens
+1194088	0.00072	0.00001	species	Halorubrum sp. T3
+1121084	0.00072	0.00001	species	Bacillus acidiproducens
+72174	0.00072	0.00001	species	Citromicrobium bathyomarinum
+11886	0.00072	0.00001	species	Rous sarcoma virus
+126385	0.00072	0.00001	species	Providencia alcalifaciens
+688701	0.00072	0.00001	species	Chiltepin yellow mosaic virus
+10243	0.00072	0.00001	species	Cowpox virus
+459527	0.00072	0.00001	species	Saccharibacillus kuerlensis
+208518	0.00072	0.00001	species	Xiphinema americanum
+82654	0.00072	0.00001	species	Pseudanabaena sp. PCC 7367
+46731	0.00072	0.00001	species	Pocillopora damicornis
+136609	0.00071	0.00001	species	Leuconostoc kimchii
+873	0.00071	0.00001	species	Desulfovibrio africanus
+289455	0.00071	0.00001	species	Sinentomon erythranum
+378211	0.00071	0.00001	species	Methyloversatilis universalis
+796939	0.00071	0.00001	species	Peptostreptococcaceae bacterium CM2
+498741	0.00071	0.00001	species	Borreliella finlandensis
+5478	0.00071	0.00001	species	Candida glabrata
+1157679	0.00071	0.00001	species	Oxalobacteraceae bacterium JGI 0001004-K23
+4039	0.00071	0.00001	species	Daucus carota
+100901	0.00071	0.00001	species	Wolbachia endosymbiont of Onchocerca ochengi
+261524	0.00071	0.00001	species	Mycobacterium liflandii
+476270	0.00071	0.00001	species	Pediococcus lolii
+63577	0.00071	0.00001	species	Trichoderma atroviride
+1047171	0.00071	0.00001	species	Zymoseptoria tritici
+157268	0.00071	0.00001	species	Helicobacter winghamensis
+92950	0.00071	0.00001	species	Cladosporium sphaerospermum
+54299	0.00071	0.00001	species	Chroococcidiopsis thermalis
+83455	0.00071	0.00001	species	Myxococcus stipitatus
+141391	0.00071	0.00001	species	Candidatus Mycoplasma haemolamae
+43992	0.00070	0.00001	species	Bradyrhizobium liaoningense
+1182762	0.00070	0.00001	species	Enterococcus sp. C1
+33047	0.00070	0.00001	species	Bartonella vinsonii
+109609	0.00070	0.00001	species	Sminthurus viridis
+69577	0.00070	0.00001	species	Banana streak virus
+886980	0.00070	0.00001	species	Skua siadenovirus A
+1177766	0.00070	0.00001	species	Dyozetapapillomavirus 1
+994692	0.00070	0.00001	species	Candidatus Kinetoplastibacterium desouzaii
+406124	0.00070	0.00001	species	Bacillus sp. m3-13
+568780	0.00070	0.00001	species	Sivaloka damnosus
+29850	0.00069	0.00001	species	Gaeumannomyces graminis
+29001	0.00069	0.00001	species	Alternaria brassicicola
+271257	0.00069	0.00001	species	Magnaporthe oryzae virus 1
+1162307	0.00069	0.00001	species	Pleosporales sp. UM 1110 2012
+299467	0.00069	0.00001	species	Leptotrombidium deliense
+186196	0.00069	0.00001	species	Rhodococcus sp. DK17
+649507	0.00069	0.00001	species	Cesiribacter andamanensis
+478208	0.00069	0.00001	species	Flustra foliacea
+50429	0.00069	0.00001	species	Stylophora pistillata
+913327	0.00069	0.00001	species	gamma proteobacterium SCGC AAA007-O20
+911045	0.00069	0.00001	species	Pseudovibrio sp. FO-BEG1
+425941	0.00069	0.00001	species	Prevotella nanceiensis
+93465	0.00069	0.00001	species	Avian endogenous retrovirus EAV-HP
+328430	0.00069	0.00001	species	Chickpea chlorotic stunt virus
+298333	0.00069	0.00001	species	Turkey siadenovirus A
+203523	0.00069	0.00001	species	Longispora albida
+408580	0.00069	0.00001	species	Bacillus coahuilensis
+1078471	0.00069	0.00001	species	Serinicoccus profundi
+626933	0.00069	0.00001	species	Odoribacter laneus
+253239	0.00068	0.00001	species	Ethanoligenens harbinense
+54005	0.00068	0.00001	species	Peptoniphilus harei
+45075	0.00068	0.00001	species	Legionella shakespearei
+220685	0.00068	0.00001	species	Bacillus bataviensis
+43566	0.00068	0.00001	species	Rhinophrynus dorsalis
+1173028	0.00068	0.00001	species	Oscillatoria sp. PCC 10802
+196400	0.00068	0.00001	species	Grapevine rupestris stem pitting-associated virus
+980584	0.00068	0.00001	species	Aquimarina agarivorans
+44930	0.00068	0.00001	species	Natronobacterium gregoryi
+640331	0.00068	0.00001	species	Lactobacillus florum
+120431	0.00068	0.00001	species	Hiatella arctica
+457388	0.00068	0.00001	species	Parabacteroides sp. 2_1_7
+100225	0.00068	0.00001	species	Austwickia chelonae
+420336	0.00068	0.00001	species	Epulopiscium sp. 'N.t. morphotype B'
+260804	0.00068	0.00001	species	Armillifer armillatus
+1472765	0.00068	0.00001	species	Peptoniphilus obesi
+39777	0.00068	0.00001	species	Veillonella atypica
+363265	0.00068	0.00001	species	Prevotella stercorea
+1268254	0.00068	0.00001	species	Peptoniphilus timonensis
+28347	0.00068	0.00001	species	Apple stem grooving virus
+824	0.00068	0.00001	species	Campylobacter gracilis
+5693	0.00067	0.00001	species	Trypanosoma cruzi
+1301220	0.00067	0.00001	species	Citrus vein enation virus
+331869	0.00067	0.00001	species	alpha proteobacterium BAL199
+49186	0.00067	0.00001	species	Marinobacterium stanieri
+92129	0.00067	0.00001	species	Tupaia paramyxovirus
+7918	0.00067	0.00001	species	Lepisosteus oculatus
+457934	0.00067	0.00001	species	Elioraea tepidiphila
+204525	0.00067	0.00001	species	Roseomonas cervicalis
+1652	0.00067	0.00001	species	Alloiococcus otitis
+11034	0.00067	0.00001	species	Sindbis virus
+1056511	0.00067	0.00001	species	Photobacterium marinum
+83341	0.00067	0.00001	species	Gordonia rhizosphera
+8304	0.00066	0.00001	species	Ambystoma texanum
+254787	0.00066	0.00001	species	Paeniglutamicibacter gangotriensis
+29511	0.00066	0.00001	species	Leptospira wolbachii
+305674	0.00066	0.00001	species	Deerpox virus W-848-83
+1648923	0.00066	0.00001	species	Bacillus paralicheniformis
+385682	0.00066	0.00001	species	Thermophagus xiamenensis
+1033734	0.00066	0.00001	species	Bacillus timonensis
+12216	0.00066	0.00001	species	Potato virus Y
+12230	0.00066	0.00001	species	Turnip mosaic virus
+55206	0.00066	0.00001	species	Spirochaeta smaragdinae
+1465765	0.00066	0.00001	species	Oceanobacillus massiliensis
+160070	0.00066	0.00001	species	Pseudendoclonium akinetum
+744980	0.00066	0.00001	species	Roseibium sp. TrichSKD4
+336989	0.00066	0.00001	species	Pontibacter roseus
+1512	0.00066	0.00001	species	[Clostridium] symbiosum
+1164990	0.00066	0.00001	species	Richelia intracellularis
+6282	0.00066	0.00001	species	Onchocerca volvulus
+475769	0.00066	0.00001	species	Bothriometopus macrocnemis
+1094892	0.00066	0.00001	species	Megavirus chiliensis
+1216008	0.00066	0.00001	species	Amphibacillus jilinensis
+316997	0.00066	0.00001	species	Rubrivivax benzoatilyticus
+1131270	0.00066	0.00001	species	Nitrospina sp. AB-629-B06
+1007123	0.00066	0.00001	species	Marinimicrobia bacterium SCGC AAA160-I06
+11867	0.00065	0.00001	species	Avian myelocytomatosis virus
+645161	0.00065	0.00001	species	Human bocavirus 4
+7091	0.00065	0.00001	species	Bombyx mori
+159971	0.00065	0.00001	species	Lepidopsocidae sp. RS-2001
+347559	0.00065	0.00001	species	uncultured marine group II euryarchaeote HF10_36B02
+174633	0.00065	0.00001	species	Candidatus Kuenenia stuttgartiensis
+715480	0.00065	0.00001	species	Sunflower mild mosaic virus
+57029	0.00065	0.00001	species	Psychroflexus torquis
+1112215	0.00065	0.00001	species	Salinibacterium sp. PAMC 21357
+72036	0.00065	0.00001	species	Lepeophtheirus salmonis
+197162	0.00065	0.00001	species	Deferribacter desulfuricans
+1075768	0.00065	0.00001	species	Janthinobacterium sp. CG3
+10653	0.00065	0.00001	species	Commelina yellow mottle virus
+263906	0.00065	0.00001	species	Methanolinea tarda
+102134	0.00065	0.00001	species	Desulfotomaculum gibsoniae
+203167	0.00065	0.00001	species	Siphonodentalium lobatum
+1105030	0.00065	0.00001	species	Actinomyces sp. ICM58
+252394	0.00065	0.00001	species	Actinoalloteichus spitiensis
+52970	0.00065	0.00001	species	Rhodomonas salina
+39046	0.00064	0.00001	species	Cassava common mosaic virus
+578107	0.00064	0.00001	species	Daphne mosaic virus
+5105	0.00064	0.00001	species	Ascosphaera apis
+286149	0.00064	0.00001	species	Aplidium conicum
+503951	0.00064	0.00001	species	Pseudomonas sp. a334
+53443	0.00064	0.00001	species	Blautia hydrogenotrophica
+723171	0.00064	0.00001	species	Vibrio genomosp. F10
+46356	0.00064	0.00001	species	Spirochaeta alkalica
+119858	0.00064	0.00001	species	Bacillus sonorensis
+909840	0.00064	0.00001	species	Chaca bankanensis
+1454753	0.00064	0.00001	species	Candidatus Caldatribacterium saccharofermentans
+1302614	0.00064	0.00001	species	Nanoarchaeota archaeon SCGC AAA011-J2
+1073573	0.00064	0.00001	species	SAR324 cluster bacterium JCVI-SC AAA005
+1339	0.00064	0.00001	species	Streptococcus macacae
+254719	0.00064	0.00001	species	Marinobacter alkaliphilus
+202950	0.00064	0.00001	species	Acinetobacter baylyi
+573977	0.00063	0.00001	species	Human bocavirus 2
+4922	0.00063	0.00001	species	Komagataella pastoris
+460519	0.00063	0.00001	species	Komagataella phaffii
+12179	0.00063	0.00001	species	Foxtail mosaic virus
+282261	0.00063	0.00001	species	Ambystoma dumerilii
+7245	0.00063	0.00001	species	Drosophila yakuba
+1206557	0.00063	0.00001	species	Yersinia phage phiR201
+10726	0.00063	0.00001	species	Escherichia phage T5
+148	0.00063	0.00001	species	Spirochaeta bajacaliforniensis
+353800	0.00063	0.00001	species	Halostagnicola larsenii
+867920	0.00063	0.00001	species	Thulinius sp. DVL-2010
+31973	0.00063	0.00001	species	Eggerthia catenaformis
+309887	0.00063	0.00001	species	Deinococcus maricopensis
+498951	0.00063	0.00001	species	Neuroctenus parus
+913337	0.00063	0.00001	species	Nitrospina sp. SCGC AAA288-L16
+1131269	0.00063	0.00001	species	Nitrospina sp. AB-629-B18
+5476	0.00063	0.00001	species	Candida albicans
+342113	0.00063	0.00001	species	Burkholderia oklahomensis
+174142	0.00063	0.00001	species	Botrytis virus X
+651822	0.00063	0.00001	species	Fretibacterium fastidiosum
+34387	0.00063	0.00001	species	Trichophyton tonsurans
+937450	0.00063	0.00001	species	Oxalobacteraceae bacterium IMCC9480
+1131274	0.00063	0.00001	species	gamma proteobacterium SCGC AB-629-P17
+34771	0.00062	0.00001	species	Lepisosteus osseus
+220697	0.00062	0.00001	species	Thalassospira xiamenensis
+340690	0.00062	0.00001	species	Adelina dimidiata
+76841	0.00062	0.00001	species	Doliolum nationalis
+159957	0.00062	0.00001	species	Thrips imaginis
+432587	0.00062	0.00001	species	Gryllus bimaculatus nudivirus
+1353	0.00062	0.00001	species	Enterococcus gallinarum
+1118061	0.00062	0.00001	species	Alistipes obesi
+314264	0.00062	0.00001	species	Roseovarius sp. 217
+1265734	0.00062	0.00001	species	Rhodopirellula maiorica
+42817	0.00062	0.00001	species	Corynebacterium argentoratense
+40302	0.00062	0.00001	species	Nosema ceranae
+1164	0.00062	0.00001	species	Trichormus azollae
+113391	0.00062	0.00001	species	Hynobius leechii
+11660	0.00062	0.00001	species	Caprine arthritis encephalitis virus
+586894	0.00062	0.00001	species	Hynobius yangi
+208434	0.00062	0.00001	species	Milkweed yellows phytoplasma
+857041	0.00062	0.00001	species	Candidatus Poribacteria sp. WGA-4E
+936572	0.00062	0.00001	species	Selenomonas sp. FOBRC6
+687800	0.00062	0.00001	species	Synechococcus phage S-RIM2
+41997	0.00062	0.00001	species	Enterococcus saccharolyticus
+29520	0.00062	0.00001	species	Borrelia crocidurae
+42443	0.00061	0.00001	species	Roseobacter litoralis
+117187	0.00061	0.00001	species	Fusarium verticillioides
+6954	0.00061	0.00001	species	Dermatophagoides farinae
+936548	0.00061	0.00001	species	Actinomyces sp. ICM47
+4513	0.00061	0.00001	species	Hordeum vulgare
+882104	0.00061	0.00001	species	Methanoregula formicica
+190065	0.00061	0.00001	species	Fowl aviadenovirus E
+1052802	0.00061	0.00001	species	Crenarchaeota archaeon SCGC AAA471-B23
+172042	0.00061	0.00001	species	Rothia aeria
+44752	0.00061	0.00001	species	Rhodococcus wratislaviensis
+1095771	0.00061	0.00001	species	Ruminococcus sp. JC304
+1105029	0.00061	0.00001	species	Actinomyces sp. ICM39
+552467	0.00061	0.00001	species	Cryptococcus gattii
+158836	0.00061	0.00001	species	Enterobacter hormaechei
+83561	0.00061	0.00001	species	Simkania negevensis
+34349	0.00061	0.00001	species	Mixia osmundae
+88556	0.00061	0.00001	species	Trialeurodes vaporariorum
+5501	0.00061	0.00001	species	Coccidioides immitis
+1196420	0.00061	0.00001	species	Italian clover phyllody phytoplasma
+1008460	0.00060	0.00001	species	Pyrococcus yayanosii
+130500	0.00060	0.00001	species	Bovine adenovirus E
+1184	0.00060	0.00001	species	Leptolyngbya boryana
+909943	0.00060	0.00001	species	SAR116 cluster alpha proteobacterium HIMB100
+38293	0.00060	0.00001	species	Photobacterium damselae
+136241	0.00060	0.00001	species	Mycoplasma haemocanis
+33129	0.00060	0.00001	species	Phaseolus acutifolius
+72361	0.00060	0.00001	species	Bacillus vallismortis
+197043	0.00060	0.00001	species	Homalodisca vitripennis
+1124982	0.00060	0.00001	species	Treponema sp. JC4
+859	0.00060	0.00001	species	Fusobacterium necrophorum
+849	0.00060	0.00001	species	Fusobacterium gonidiaformans
+2769	0.00060	0.00001	species	Chondrus crispus
+2250	0.00060	0.00001	species	Halococcus morrhuae
+261292	0.00060	0.00001	species	Nitrosomonas sp. Is79A3
+1660	0.00060	0.00001	species	Actinomyces odontolyticus
+147802	0.00060	0.00001	species	Lactobacillus iners
+83656	0.00060	0.00001	species	Streptomyces tsukubensis
+141693	0.00060	0.00001	species	Nocardiopsis kunsanensis
+153809	0.00060	0.00001	species	uncultured proteobacterium
+95611	0.00060	0.00001	species	Curtobacterium sp. B8
+53462	0.00059	0.00001	species	Mycobacterium mageritense
+1203599	0.00059	0.00001	species	Mycobacterium yongonense
+56804	0.00059	0.00001	species	Glaciecola punicea
+11024	0.00059	0.00001	species	Highlands J virus
+3860	0.00059	0.00001	species	Lathyrus sativus
+634	0.00059	0.00001	species	Yersinia bercovieri
+40990	0.00059	0.00001	species	Saccharomonospora glauca
+302484	0.00059	0.00001	species	Haloferax larsenii
+1087482	0.00059	0.00001	species	Salmonella phage S16
+1173026	0.00059	0.00001	species	Gloeocapsa sp. PCC 7428
+495	0.00059	0.00001	species	Neisseria elongata
+66711	0.00059	0.00001	species	Enterobacteria phage AR1
+1054480	0.00059	0.00001	species	Escherichia phage wV7
+2252	0.00059	0.00001	species	Haloferax mediterranei
+11757	0.00059	0.00001	species	Mouse mammary tumor virus
+35742	0.00059	0.00001	species	Haloarcula sinaiiensis
+305676	0.00059	0.00001	species	Deerpox virus W-1170-84
+156630	0.00059	0.00001	species	Alternaria arborescens
+368623	0.00059	0.00001	species	Halorubrum aidingense
+1220534	0.00059	0.00001	species	Methanobacterium sp. Maddingley MBC34
+1227462	0.00059	0.00001	species	Haloferax sp. ATCC BAA-644
+1144320	0.00059	0.00001	species	Pantoea sp. GM01
+67760	0.00059	0.00001	species	Methanocaldococcus infernus
+1004784	0.00059	0.00001	species	Polylabris halichoeres
+1157943	0.00059	0.00001	species	Mycobacterium sp. 155
+712430	0.00059	0.00001	species	Peptoniphilus sp. oral taxon 375
+550984	0.00059	0.00001	species	Halomonas sp. HAL1
+1237364	0.00059	0.00001	species	Enterobacteria phage HX01
+1472764	0.00059	0.00001	species	Kallipyga massiliensis
+1169155	0.00058	0.00001	species	Streptomyces sp. CNT302
+40989	0.00058	0.00001	species	Saccharomonospora cyanea
+1159195	0.00058	0.00001	species	Southern elephant seal virus
+138647	0.00058	0.00001	species	Poinsettia branch-inducing phytoplasma
+1144311	0.00058	0.00001	species	Brevibacillus sp. CF112
+1080712	0.00058	0.00001	species	Methanomassiliicoccus luminyensis
+928217	0.00058	0.00001	species	Madracis myriaster
+44220	0.00058	0.00001	species	Archiloa rivularis
+279539	0.00058	0.00001	species	Gremmeniella abietina RNA virus L2
+862909	0.00058	0.00001	species	Trichodysplasia spinulosa-associated polyomavirus
+638786	0.00058	0.00001	species	Orangutan polyomavirus
+5963	0.00058	0.00001	species	Stentor coeruleus
+1244869	0.00058	0.00001	species	Magnetospirillum caucaseum
+64713	0.00058	0.00001	species	Halorubrum coriense
+197575	0.00058	0.00001	species	Haemophilus aegyptius
+229731	0.00058	0.00001	species	Halobiforma lacisalsi
+5885	0.00058	0.00001	species	Paramecium caudatum
+5889	0.00058	0.00001	species	Paramecium aurelia
+162	0.00058	0.00001	species	Treponema phagedenis
+665949	0.00058	0.00001	species	Tannerella sp. 6_1_58FAA_CT1
+54120	0.00058	0.00001	species	Methanolacinia petrolearia
+244217	0.00058	0.00001	species	Hynobius yiwuensis
+288313	0.00058	0.00001	species	Hynobius chinensis
+930881	0.00058	0.00001	species	Sweet potato virus C
+159417	0.00058	0.00001	species	Clavelina lepadiformis
+866546	0.00058	0.00001	species	Schizosaccharomyces cryophilus
+13349	0.00057	0.00001	species	Arthrobotrys oligospora
+1173263	0.00057	0.00001	species	Synechococcus sp. PCC 7502
+927669	0.00057	0.00001	species	Pseudanabaena biceps
+710238	0.00057	0.00001	species	Actinomyces sp. oral taxon 178
+44250	0.00057	0.00001	species	Paenibacillus alvei
+670956	0.00057	0.00001	species	Candidatus Uzinura diaspidicola
+51047	0.00057	0.00001	species	Actinobacillus minor
+1043184	0.00057	0.00001	species	Blackberry virus E
+159743	0.00057	0.00001	species	Paenibacillus terrae
+1114782	0.00057	0.00001	species	Amblyomma elaphense
+646378	0.00057	0.00001	species	Pseudomonas sp. c287
+221359	0.00057	0.00001	species	Synechococcus sp. RS9916
+43107	0.00057	0.00001	species	Ambystoma californiense
+282260	0.00057	0.00001	species	Ambystoma andersoni
+1264	0.00057	0.00001	species	Ruminococcus albus
+52768	0.00057	0.00001	species	Actinomyces georgiae
+210594	0.00057	0.00001	species	Rickettsiales bacterium It86
+53946	0.00057	0.00001	species	Octadecabacter arcticus
+209446	0.00057	0.00001	species	Candidatus Mycoplasma haemominutum
+10090	0.00057	0.00001	species	Mus musculus
+11885	0.00057	0.00001	species	Fujinami sarcoma virus
+130327	0.00057	0.00001	species	Ovine adenovirus D
+191768	0.00057	0.00001	species	Plesiocystis pacifica
+72004	0.00057	0.00001	species	Bos mutus
+30521	0.00057	0.00001	species	Bos grunniens
+1032851	0.00057	0.00001	species	Corynebacterium nuruki
+299468	0.00056	0.00001	species	Leptotrombidium akamushi
+95617	0.00056	0.00001	species	Corynebacterium-like bacterium B27
+549169	0.00056	0.00001	species	Pseudogulbenkiania ferrooxidans
+361055	0.00056	0.00001	species	Rubritalea marina
+403181	0.00056	0.00001	species	Haloferax mucosum
+1079994	0.00056	0.00001	species	Leucobacter chromiiresistens
+1128178	0.00056	0.00001	species	Bradyrhizobium sp. CCBAU 43298
+1248727	0.00056	0.00001	species	endosymbiont of unidentified scaly snail isolate Monju
+11	0.00056	0.00001	species	Cellulomonas gilvus
+136195	0.00056	0.00001	species	Nymphon gracile
+1134405	0.00056	0.00001	species	Melioribacter roseus
+746128	0.00056	0.00001	species	Aspergillus fumigatus
+12968	0.00056	0.00001	species	Blastocystis hominis
+186540	0.00056	0.00001	species	Sudan ebolavirus
+224735	0.00056	0.00001	species	Drimys granadensis
+83191	0.00056	0.00001	species	Melanoplus sanguinipes entomopoxvirus
+70998	0.00056	0.00001	species	Lewinella persica
+538949	0.00056	0.00001	species	uncultured Alistipes sp.
+266805	0.00056	0.00001	species	Microbulbifer variabilis
+930	0.00056	0.00001	species	Acidithiobacillus thiooxidans
+1144305	0.00056	0.00001	species	Novosphingobium sp. AP12
+12844	0.00056	0.00001	species	Sweet potato feathery mottle virus
+479935	0.00056	0.00001	species	Gluconobacter morbifer
+1711	0.00056	0.00001	species	Cellulomonas flavigena
+309788	0.00056	0.00001	species	Lysinibacillus boronitolerans
+39496	0.00056	0.00001	species	Eubacterium ventriosum
+487174	0.00056	0.00001	species	Barnesiella intestinihominis
+314282	0.00055	0.00001	species	Psychromonas sp. CNPT3
+1307958	0.00055	0.00001	species	Sweet potato C6 virus
+72672	0.00055	0.00001	species	Ophiura albida
+1083	0.00055	0.00001	species	Phaeospirillum molischianum
+491736	0.00055	0.00001	species	Staphylococcus sp. K01-16
+1609594	0.00055	0.00001	species	Aydin virus
+190062	0.00055	0.00001	species	Fowl aviadenovirus B
+1513248	0.00055	0.00001	species	Dyolambdapapillomavirus 1
+232270	0.00055	0.00001	species	Effusibacillus pohliae
+880162	0.00055	0.00001	species	Ostreococcus lucimarinus virus 1
+3702	0.00055	0.00001	species	Arabidopsis thaliana
+65071	0.00055	0.00001	species	Pythium ultimum
+101203	0.00055	0.00001	species	Saprolegnia parasitica
+33905	0.00055	0.00001	species	Bifidobacterium thermophilum
+381046	0.00055	0.00001	species	Lachancea thermotolerans
+36911	0.00055	0.00001	species	Clavispora lusitaniae
+78259	0.00055	0.00001	species	Scardovia inopinata
+397865	0.00055	0.00001	species	Barnesiella viscericola
+393181	0.00055	0.00001	species	Loxocorone allax
+436157	0.00055	0.00001	species	Ambystoma 'unisexual hybrid complex'
+130499	0.00055	0.00001	species	Bovine adenovirus D
+671224	0.00055	0.00001	species	Selenomonas artemidis
+70993	0.00055	0.00001	species	Flexithrix dorotheae
+995	0.00055	0.00001	species	Solitalea canadensis
+1110389	0.00055	0.00001	species	Verminephrobacter aporrectodeae
+641107	0.00055	0.00001	species	Clostridium sp. DL-VIII
+626938	0.00054	0.00001	species	Succinatimonas hippei
+1144379	0.00054	0.00001	species	Trichechus manatus latirostris papillomavirus 2
+12211	0.00054	0.00001	species	Plum pox virus
+137758	0.00054	0.00001	species	Cassava brown streak virus
+10381	0.00054	0.00001	species	Saimiriine herpesvirus 2
+1259844	0.00054	0.00001	species	Pseudomonas sp. FGI182
+190061	0.00054	0.00001	species	Fowl aviadenovirus A
+690871	0.00054	0.00001	species	Anoxybacillus sp. DT3-1
+1131288	0.00054	0.00001	species	zeta proteobacterium SCGC AB-602-E04
+29321	0.00054	0.00001	species	Turicella otitidis
+153948	0.00054	0.00001	species	Nitrosomonas sp. AL212
+1016854	0.00054	0.00001	species	Banana streak UA virus
+1482	0.00054	0.00001	species	Virgibacillus halodenitrificans
+28124	0.00054	0.00001	species	Porphyromonas endodontalis
+78342	0.00054	0.00001	species	Bifidobacterium gallicum
+252584	0.00054	0.00001	species	Pieris rapae granulovirus
+1287657	0.00054	0.00001	species	Bacillus massiliosenegalensis
+7580	0.00054	0.00001	species	Terebratulina retusa
+328615	0.00054	0.00001	species	Trichoplusia ni ascovirus 2c
+88724	0.00054	0.00001	species	Natrinema versiforme
+6526	0.00054	0.00001	species	Biomphalaria glabrata
+81412	0.00054	0.00001	species	Aminomonas paucivorans
+47055	0.00054	0.00001	species	Dethiosulfovibrio peptidovorans
+100886	0.00054	0.00001	species	Catenibacterium mitsuokai
+29508	0.00054	0.00001	species	Leptospira meyeri
+664638	0.00054	0.00001	species	Leucobacter salsicius
+1131268	0.00054	0.00001	species	Marine Group II euryarchaeote SCGC AB-629-J06
+46078	0.00054	0.00001	species	Astrammina rara
+1265690	0.00054	0.00001	species	Nafulsella turpanensis
+40559	0.00054	0.00001	species	Botrytis cinerea
+29288	0.00053	0.00001	species	Natronococcus occultus
+33060	0.00053	0.00001	species	Yersinia mollaretii
+63128	0.00053	0.00001	species	Natronorubrum tibetense
+2369	0.00053	0.00001	species	Arhodomonas aquaeolei
+102116	0.00053	0.00001	species	Stanieria cyanosphaera
+387343	0.00053	0.00001	species	Halopiger xanaduensis
+411361	0.00053	0.00001	species	Halogeometricum pallidum
+371003	0.00053	0.00001	species	Staphylococcus sp. E2
+187304	0.00053	0.00001	species	Labrenzia aggregata
+102897	0.00053	0.00001	species	Frankia sp. EUN1f
+2201	0.00053	0.00001	species	Methanofollis liminatans
+526216	0.00053	0.00001	species	Oceanibaculum indicum
+53363	0.00053	0.00001	species	Brevibacterium mcbrellneri
+33002	0.00053	0.00001	species	Desulfurella acetivorans
+190064	0.00053	0.00001	species	Fowl aviadenovirus D
+1648	0.00053	0.00001	species	Erysipelothrix rhusiopathiae
+38402	0.00053	0.00001	species	Erysipelothrix tonsillarum
+546502	0.00053	0.00001	species	Chaetosoma scaritides
+1322	0.00053	0.00001	species	Blautia hansenii
+591157	0.00053	0.00001	species	Streptomyces sp. SPB78
+682181	0.00053	0.00001	species	Streptomyces sp. SA3_actF
+1215089	0.00053	0.00001	species	Planococcus halocryophilus
+1234592	0.00053	0.00001	species	Vibrio sp. 712i1
+224378	0.00053	0.00001	species	Ophiura lutkeni
+111504	0.00053	0.00001	species	Bartonella birtlesii
+230603	0.00053	0.00001	species	Saccharomyces uvarum
+4931	0.00053	0.00001	species	Saccharomyces bayanus
+1006	0.00053	0.00001	species	Marivirga tractuosa
+676517	0.00053	0.00001	species	Diplorickettsia massiliensis
+232363	0.00053	0.00001	species	Synechococcus sp. CB0205
+414778	0.00053	0.00001	species	Planococcus donghaensis
+11901	0.00053	0.00001	species	Bovine leukemia virus
+864069	0.00053	0.00001	species	Microvirga lotononidis
+1158148	0.00053	0.00001	species	Thioalkalivibrio sp. ARh3
+33632	0.00053	0.00001	species	Babesia gibsoni
+36914	0.00053	0.00001	species	Lodderomyces elongisporus
+12041	0.00053	0.00001	species	Bean leafroll virus
+9940	0.00053	0.00001	species	Ovis aries
+28985	0.00053	0.00001	species	Kluyveromyces lactis
+872330	0.00052	0.00001	species	Acidithiobacillus sp. GGI-221
+295065	0.00052	0.00001	species	Lentibacillus halophilus
+150829	0.00052	0.00001	species	Treponema azotonutricium
+1465811	0.00052	0.00001	species	Cellulomonas massiliensis
+32432	0.00052	0.00001	species	Vanhornia eucnemidarum
+34638	0.00052	0.00001	species	Metaseiulus occidentalis
+554168	0.00052	0.00001	species	Acanthamoeba castellanii mamavirus
+65641	0.00052	0.00001	species	Amblyomma fimbriatum
+1565	0.00052	0.00001	species	Desulfotomaculum nigrificans
+694006	0.00052	0.00001	species	Rousettus bat coronavirus HKU9
+336988	0.00052	0.00001	species	Oenococcus kitaharae
+5037	0.00052	0.00001	species	Histoplasma capsulatum
+515264	0.00052	0.00001	species	Caloramator australicus
+33970	0.00052	0.00001	species	Melissococcus plutonius
+102125	0.00052	0.00001	species	Xenococcus sp. PCC 7305
+33044	0.00052	0.00001	species	Bartonella doshiae
+328671	0.00052	0.00001	species	Banana streak OL virus
+1016852	0.00052	0.00001	species	Banana streak CA virus
+1131284	0.00052	0.00001	species	zeta proteobacterium SCGC AB-137-C09
+6185	0.00052	0.00001	species	Schistosoma haematobium
+351016	0.00052	0.00001	species	Roseobacter sp. AzwK-3b
+831	0.00052	0.00001	species	Butyrivibrio fibrisolvens
+13818	0.00052	0.00001	species	Adiantum capillus-veneris
+651609	0.00052	0.00001	species	Actinomyces sp. oral taxon 180
+226899	0.00052	0.00001	species	Grosmannia clavigera
+77038	0.00052	0.00001	species	Wolbachia endosymbiont of Drosophila simulans
+40537	0.00052	0.00001	species	Epsilonpapillomavirus 1
+116890	0.00052	0.00001	species	Microcotyle sebastis
+1094755	0.00052	0.00001	species	Bartonella sp. DB5-6
+59840	0.00052	0.00001	species	Paenibacillus curdlanolyticus
+2736	0.00052	0.00001	species	Verrucomicrobium spinosum
+686984	0.00051	0.00001	species	Sapelovirus A
+31870	0.00051	0.00001	species	Colletotrichum graminicola
+115547	0.00051	0.00001	species	uncultured archaeon
+43768	0.00051	0.00001	species	Corynebacterium matruchotii
+11961	0.00051	0.00001	species	Lymphoproliferative disease virus
+5530	0.00051	0.00001	species	Metarhizium anisopliae
+568076	0.00051	0.00001	species	Metarhizium robertsii
+323118	0.00051	0.00001	species	Blackberry virus Y
+1155714	0.00051	0.00001	species	Streptomyces sp. LaPpAH-108
+1178537	0.00051	0.00001	species	Bacillus xiamenensis
+242395	0.00051	0.00001	species	Xenoturbella bocki
+10634	0.00051	0.00001	species	Murine polyomavirus
+1468449	0.00051	0.00001	species	Holdemania massiliensis
+61171	0.00051	0.00001	species	Holdemania filiformis
+1678905	0.00051	0.00001	species	Leishmania RNA virus 1
+129395	0.00051	0.00001	species	Botrytis virus F
+29371	0.00051	0.00001	species	[Clostridium] termitidis
+435744	0.00051	0.00001	species	Wellcomia siamensis
+34513	0.00051	0.00001	species	Terebratalia transversa
+45596	0.00051	0.00001	species	Candida tenuis
+1158459	0.00051	0.00001	species	Kosakonia sacchari
+928214	0.00051	0.00001	species	Gorilla gorilla gorilla polyomavirus 1
+67761	0.00051	0.00001	species	Cowpea mild mottle virus
+400946	0.00051	0.00001	species	Wohlfahrtiimonas chitiniclastica
+113366	0.00051	0.00001	species	Heliothis virescens ascovirus 3a
+113370	0.00051	0.00001	species	Spodoptera frugiperda ascovirus 1a
+665956	0.00051	0.00001	species	Subdoligranulum sp. 4_3_54A2FAA
+328515	0.00051	0.00001	species	Nonlabens dokdonensis
+1445	0.00051	0.00001	species	Bacillus alcalophilus
+6183	0.00051	0.00001	species	Schistosoma mansoni
+1086615	0.00051	0.00001	species	Pseudochauhanea macrorchis
+135193	0.00050	0.00001	species	Paenibacillus daejeonensis
+435	0.00050	0.00001	species	Acetobacter aceti
+827	0.00050	0.00001	species	Campylobacter ureolyticus
+1295080	0.00050	0.00001	species	Canine bocavirus 3
+940615	0.00050	0.00001	species	Granulicella tundricola
+42631	0.00050	0.00001	species	Brome streak mosaic virus
+1144253	0.00050	0.00001	species	Pontibacter sp. BAB1700
+192452	0.00050	0.00001	species	Cocksfoot streak virus
+263909	0.00050	0.00001	species	Gordonia araii
+1097667	0.00050	0.00001	species	Patulibacter medicamentivorans
+1169331	0.00050	0.00001	species	Escherichia sp. KTE11
+449670	0.00050	0.00001	species	Pseudomonas sp. GIST-MRI64
+186539	0.00050	0.00001	species	Reston ebolavirus
+655186	0.00050	0.00001	species	uncultured SUP05 cluster bacterium
+2829	0.00050	0.00001	species	Heterosigma akashiwo
+62059	0.00050	0.00001	species	Shallot yellow stripe virus
+43130	0.00050	0.00001	species	Onion yellow dwarf virus
+138074	0.00050	0.00001	species	Serratia symbiotica
+137708	0.00050	0.00001	species	Herbaspirillum sp. B65
+261658	0.00050	0.00001	species	Dictyostelium fasciculatum
+165599	0.00050	0.00001	species	Solen grandis
+1366	0.00050	0.00001	species	Lactococcus raffinolactis
+234827	0.00050	0.00001	species	Candidatus Midichloria mitochondrii
+673862	0.00050	0.00001	species	Candidatus Babela massiliensis
+109269	0.00050	0.00001	species	Vaucheria litorea
+1249480	0.00050	0.00001	species	Candidatus Sulfuricurvum sp. RIFRC-1
+469608	0.00050	0.00001	species	Klebsiella sp. 1_1_55
+208085	0.00050	0.00001	species	Saccharomonospora paurometabolica
+419507	0.00050	0.00001	species	Haplostylus dispar
+215591	0.00050	0.00001	species	Treponema caldarium
+27292	0.00049	0.00001	species	Saccharomyces pastorianus
+291968	0.00049	0.00001	species	Acaricomes phytoseiuli
+10506	0.00049	0.00001	species	Paramecium bursaria Chlorella virus 1
+12180	0.00049	0.00001	species	Narcissus mosaic virus
+644968	0.00049	0.00001	species	Desulfovibrio sp. FW1012B
+60894	0.00049	0.00001	species	Saccharopolyspora spinosa
+1111106	0.00049	0.00001	species	Ancylobacter sp. FA202
+136993	0.00049	0.00001	species	Methylosinus sp. LW4
+933845	0.00049	0.00001	species	Bathycoccus sp. RCC1105 virus BpV
+453852	0.00049	0.00001	species	Joostella marina
+385025	0.00049	0.00001	species	Cycloclasticus sp. P1
+1133751	0.00049	0.00001	species	Artemisia virus A
+1130304	0.00049	0.00001	species	crenarchaeote SCGC AAA261-N13
+1810	0.00049	0.00001	species	Mycobacterium vaccae
+1077464	0.00049	0.00001	species	Streptococcus tigurinus
+426	0.00049	0.00001	species	Methylosinus trichosporium
+1214065	0.00049	0.00001	species	Enterobacteriaceae bacterium B14
+142864	0.00049	0.00001	species	Cylindrospermum stagnale
+12204	0.00049	0.00001	species	Ornithogalum mosaic virus
+51197	0.00049	0.00001	species	Syntrophobotulus glycolicus
+2293	0.00049	0.00001	species	Desulfobacter postgatei
+5888	0.00049	0.00001	species	Paramecium tetraurelia
+129052	0.00049	0.00001	species	Catelliglobosispora koreensis
+199592	0.00049	0.00001	species	Microbacterium paraoxydans
+188	0.00049	0.00001	species	Magnetospirillum magnetotacticum
+1345697	0.00049	0.00001	species	Geobacillus sp. JF8
+864596	0.00049	0.00001	species	Bat coronavirus BM48-31/BGR/2008
+661979	0.00049	0.00001	species	Brachybacterium squillarum
+638968	0.00049	0.00001	species	Rhabdopleura compacta
+12208	0.00049	0.00001	species	Pea seed-borne mosaic virus
+1938	0.00049	0.00001	species	Streptomyces viridochromogenes
+2898	0.00049	0.00001	species	Cryptomonas paramecium
+12154	0.00049	0.00001	species	Turnip yellow mosaic virus
+83816	0.00049	0.00001	species	Methanobrevibacter ruminantium
+1285595	0.00049	0.00001	species	Musca hytrovirus
+333754	0.00049	0.00001	species	Alphapapillomavirus 10
+491919	0.00049	0.00001	species	Brachymonas chironomi
+30195	0.00048	0.00001	species	Bombus terrestris
+55617	0.00048	0.00001	species	Ophiocomina nigra
+1176147	0.00048	0.00001	species	Sigmapapillomavirus 1
+1239307	0.00048	0.00001	species	Sodalis praecaptivus
+85688	0.00048	0.00001	species	Nocardia cerradoensis
+398037	0.00048	0.00001	species	Segetibacter koreensis
+219660	0.00048	0.00001	species	uncultured Rickettsiales bacterium
+1214064	0.00048	0.00001	species	Promicromonosporaceae bacterium W15
+12473	0.00048	0.00001	species	Velvet tobacco mottle virus
+228006	0.00048	0.00001	species	Nocardia tenerifensis
+59301	0.00048	0.00001	species	Mayaro virus
+365325	0.00048	0.00001	species	Tubulipora flabellaris
+363277	0.00048	0.00001	species	Ktedonobacter racemifer
+131226	0.00048	0.00001	species	Cherry mottle leaf virus
+1176150	0.00048	0.00001	species	Upsilonpapillomavirus 1
+56195	0.00048	0.00001	species	Lineus viridis
+368445	0.00048	0.00001	species	Crocodilepox virus
+269261	0.00048	0.00001	species	Nitratifractor salsuginis
+84531	0.00048	0.00001	species	Lysobacter antibioticus
+161889	0.00048	0.00001	species	Corynebacterium lipophiloflavum
+599839	0.00048	0.00001	species	Fibroporia radiculosa
+63959	0.00048	0.00001	species	Demetria terragena
+313588	0.00048	0.00001	species	Croceibacter atlanticus
+391597	0.00048	0.00001	species	Limnobacter sp. MED105
+1513272	0.00048	0.00001	species	Lambdapapillomavirus 5
+1074863	0.00048	0.00001	species	Bat picornavirus 1
+1074864	0.00048	0.00001	species	Bat picornavirus 2
+84335	0.00048	0.00001	species	Hutchinsoniella macracantha
+39956	0.00048	0.00001	species	Methylobacterium mesophilicum
+1037239	0.00048	0.00001	species	Terebellides stroemii
+148879	0.00048	0.00001	species	Banana mild mosaic virus
+1513250	0.00048	0.00001	species	Dyonupapillomavirus 1
+1436140	0.00048	0.00001	species	Ulnaria acus
+260929	0.00048	0.00001	species	Arthrobacter sp. ECr4
+1157949	0.00048	0.00001	species	Thermotoga sp. EMP
+130583	0.00048	0.00001	species	Geisha distinctissima
+163869	0.00048	0.00001	species	Algicola sagamiensis
+13368	0.00048	0.00001	species	Brettanomyces custersianus
+501284	0.00047	0.00001	species	Bacillus sp. SK96
+1307800	0.00047	0.00001	species	Pegivirus A
+2095	0.00047	0.00001	species	Mycoplasma capricolum
+529818	0.00047	0.00001	species	Thecamonas trahens
+177400	0.00047	0.00001	species	Anaerophaga thermohalophila
+39113	0.00047	0.00001	species	Hepatitis GB virus B
+1173691	0.00047	0.00001	species	Citrobacter sp. A1
+5518	0.00047	0.00001	species	Fusarium graminearum
+1096546	0.00047	0.00001	species	Methylobacterium sp. GXF4
+694014	0.00047	0.00001	species	Avian coronavirus
+42068	0.00047	0.00001	species	Pneumocystis jirovecii
+555500	0.00047	0.00001	species	Galbibacter marinus
+685899	0.00047	0.00001	species	Papaya lethal yellowing virus
+216933	0.00047	0.00001	species	Spiroplasma chrysopicola
+592377	0.00047	0.00001	species	Kocuria atrinae
+360056	0.00047	0.00001	species	Schlesneria paludicola
+350889	0.00047	0.00001	species	Unionicola foili
+148960	0.00047	0.00001	species	Wallemia sebi
+1708541	0.00047	0.00001	species	Wallemia mellicola
+1157635	0.00047	0.00001	species	Streptomyces sp. ATexAB-D23
+932213	0.00047	0.00001	species	Serratia sp. M24T3
+1173264	0.00047	0.00001	species	Leptolyngbya sp. PCC 6406
+59305	0.00047	0.00001	species	Bebaru virus
+669502	0.00047	0.00001	species	Candidatus Profftella armatura
+110365	0.00047	0.00001	species	Gregarina niphandrodes
+1050222	0.00047	0.00001	species	Paenibacillus sp. Aloe-11
+225159	0.00047	0.00001	species	Lottia digitalis
+29017	0.00047	0.00001	species	Haplopelma schmidti
+111105	0.00047	0.00001	species	Porphyromonas gulae
+878	0.00047	0.00001	species	Desulfovibrio fructosivorans
+48543	0.00047	0.00001	species	Whataroa virus
+270527	0.00047	0.00001	species	Solenostomus cyanopterus
+44674	0.00047	0.00001	species	Sulfurospirillum barnesii
+292503	0.00047	0.00001	species	Clymenella torquata
+366427	0.00047	0.00001	species	Decipisagitta decipiens
+42349	0.00047	0.00001	species	Albinaria caerulea
+145266	0.00047	0.00001	species	Heterodoxus macropus
+136996	0.00047	0.00001	species	Bradyrhizobium lupini
+45285	0.00047	0.00001	species	Eremothecium cymbalariae
+6359	0.00046	0.00001	species	Platynereis dumerilii
+655981	0.00046	0.00001	species	Pseudogymnoascus destructans
+29484	0.00046	0.00001	species	Yersinia frederiksenii
+45661	0.00046	0.00001	species	Banana bract mosaic virus
+445435	0.00046	0.00001	species	Asparagus virus 3
+1235659	0.00046	0.00001	species	Staphylococcus phage vB_SauM_Remus
+648573	0.00046	0.00001	species	Zonosagitta nagae
+339843	0.00046	0.00001	species	Phthonandria atrilineata
+67299	0.00046	0.00001	species	Streptomyces flavogriseus
+71433	0.00046	0.00001	species	Mesorhizobium amorphae
+29530	0.00046	0.00001	species	Cytophaga aurantiaca
+1158159	0.00046	0.00001	species	Thioalkalivibrio sp. AKL12
+1266912	0.00046	0.00001	species	Thioalkalivibrio sp. ALMg9
+393182	0.00046	0.00001	species	Loxosomella aloxiata
+114	0.00046	0.00001	species	Gemmata obscuriglobus
+1027869	0.00046	0.00001	species	Switchgrass mosaic virus
+236520	0.00046	0.00001	species	Ibidoecus bisignatus
+1236398	0.00046	0.00001	species	Macaca fascicularis polyomavirus 1
+1236399	0.00046	0.00001	species	Pan troglodytes schweinfurthii polyomavirus 2
+1236403	0.00046	0.00001	species	Pan troglodytes verus polyomavirus 5
+162425	0.00046	0.00001	species	Aspergillus nidulans
+362398	0.00046	0.00001	species	Sugarcane bacilliform IM virus
+1016857	0.00046	0.00001	species	Banana streak UM virus
+1016855	0.00046	0.00001	species	Banana streak UI virus
+1016856	0.00046	0.00001	species	Banana streak UL virus
+539812	0.00046	0.00001	species	Enterobacter sp. R11-2
+48799	0.00046	0.00001	species	Setaria digitata
+145427	0.00046	0.00001	species	Succinea putris
+1108949	0.00046	0.00001	species	Canine bocavirus
+9598	0.00046	0.00001	species	Pan troglodytes
+286804	0.00046	0.00001	species	Segniliparus rugosus
+1223565	0.00046	0.00001	species	Rhizobium sp. Pop5
+56731	0.00046	0.00001	species	Rhizobium giardinii
+5755	0.00046	0.00001	species	Acanthamoeba castellanii
+47900	0.00046	0.00001	species	Garlic common latent virus
+1647404	0.00046	0.00001	species	Sinorhizobium phage phiM19
+794903	0.00046	0.00001	species	Opitutaceae bacterium TAV5
+35797	0.00046	0.00001	species	Nitrococcus mobilis
+1177630	0.00046	0.00001	species	American hop latent virus
+768490	0.00046	0.00001	species	Serratia sp. AS12
+485912	0.00046	0.00001	species	Abispa ephippium
+330249	0.00046	0.00001	species	Staphylococcus sp. Ob 18
+92938	0.00046	0.00001	species	Fischerella muscicola
+409468	0.00046	0.00001	species	Bacillus sp. AT11-2
+186484	0.00046	0.00001	species	Bradyrhizobium sp. BTAi 1
+301928	0.00045	0.00001	species	Venustaconcha ellipsiformis
+357276	0.00045	0.00001	species	Bacteroides dorei
+936370	0.00045	0.00001	species	Capnocytophaga sp. CM59
+313589	0.00045	0.00001	species	Janibacter sp. HTCC2649
+57987	0.00045	0.00001	species	Mitsukurina owstoni
+515575	0.00045	0.00001	species	Algerian watermelon mosaic virus
+167129	0.00045	0.00001	species	Moroccan watermelon mosaic virus
+270495	0.00045	0.00001	species	Fangia hongkongensis
+148304	0.00045	0.00001	species	Magnaporthiopsis poae
+138073	0.00045	0.00001	species	Candidatus Regiella insecticola
+356662	0.00045	0.00001	species	Leeia oryzae
+3159	0.00045	0.00001	species	Pedinomonas minor
+46234	0.00045	0.00001	species	Anabaena sp. 90
+83887	0.00045	0.00001	species	Aphrocallistes vastus
+7733	0.00045	0.00001	species	Herdmania momus
+373412	0.00045	0.00001	species	Mycobacterium phage PMC
+373408	0.00045	0.00001	species	Mycobacterium phage Llij
+38123	0.00045	0.00001	species	Pachypsylla venusta
+693998	0.00045	0.00001	species	Rhinolophus bat coronavirus HKU2
+390897	0.00045	0.00001	species	Agamermis sp. BH-2006
+476103	0.00045	0.00001	species	Virgibacillus sp. BH258
+46917	0.00045	0.00001	species	Papaya leaf distortion mosaic virus
+300028	0.00045	0.00001	species	Rhodococcus triatomae
+278956	0.00045	0.00001	species	Opitutaceae bacterium TAV1
+296598	0.00045	0.00001	species	Japyx solifugus
+658659	0.00045	0.00001	species	Erysipelotrichaceae bacterium 3_1_53
+1206777	0.00045	0.00001	species	Pseudomonas sp. Lz4W
+70995	0.00045	0.00001	species	Lewinella cohaerens
+457382	0.00045	0.00001	species	Phaius virus X
+260949	0.00045	0.00001	species	Arthrobacter sp. C4
+101392	0.00045	0.00001	species	Janibacter sp. QSSC8-6
+703580	0.00045	0.00001	species	Caprella scaura
+33031	0.00045	0.00001	species	Peptoniphilus lacrimalis
+1341119	0.00045	0.00001	species	Luminiphilus syltensis
+1074206	0.00045	0.00001	species	Peromyscus papillomavirus type 1
+10567	0.00045	0.00001	species	Iotapapillomavirus 1
+870903	0.00045	0.00001	species	Terriglobus saanensis
+932044	0.00045	0.00001	species	actinobacterium SCGC AAA278-O22
+5821	0.00045	0.00001	species	Plasmodium berghei
+355249	0.00045	0.00001	species	Streptomyces sp. Tu6071
+712117	0.00045	0.00001	species	Actinomyces sp. oral taxon 170
+95563	0.00045	0.00001	species	Methylobacterium sp. B34
+380747	0.00045	0.00001	species	Caprella mutica
+344338	0.00045	0.00001	species	uncultured Firmicutes bacterium
+147828	0.00045	0.00001	species	Opisthorchis felineus
+1155739	0.00044	0.00001	species	Moorea producens
+168635	0.00044	0.00001	species	Diplosoma listerianum
+909827	0.00044	0.00001	species	Pepper vein yellows virus
+221360	0.00044	0.00001	species	Synechococcus sp. RS9917
+2839	0.00044	0.00001	species	Odontella sinensis
+222814	0.00044	0.00001	species	Paraglaciecola polaris
+1008	0.00044	0.00001	species	Saprospira grandis
+148634	0.00044	0.00001	species	Candida neerlandica
+765840	0.00044	0.00001	species	Moraxella macacae
+436352	0.00044	0.00001	species	Walchia hayashii
+385555	0.00044	0.00001	species	Acanthocardia tuberculata
+55148	0.00044	0.00001	species	Deinococcus proteolyticus
+338792	0.00044	0.00001	species	low G+C Gram-positive bacterium HTA454
+92521	0.00044	0.00001	species	Oryctes rhinoceros nudivirus
+29271	0.00044	0.00001	species	Dasheen mosaic virus
+108981	0.00044	0.00001	species	Acinetobacter schindleri
+657323	0.00044	0.00001	species	Ruminococcus sp. SR1/5
+52904	0.00044	0.00001	species	Scophthalmus maximus
+73501	0.00044	0.00001	species	Cordyceps militaris
+1187851	0.00044	0.00001	species	Rhodovulum sp. PH10
+64518	0.00044	0.00001	species	Mortierella alpina
+43305	0.00044	0.00001	species	Butyrivibrio proteoclasticus
+12177	0.00044	0.00001	species	Clover yellow mosaic virus
+54126	0.00044	0.00001	species	Pristionchus pacificus
+378548	0.00044	0.00001	species	Novosphingobium nitrogenifigens
+37621	0.00044	0.00001	species	Priapulus caudatus
+553384	0.00044	0.00001	species	Alishewanella agri
+12558	0.00044	0.00001	species	Sesbania mosaic virus
+1080798	0.00044	0.00001	species	Soybean yellow common mosaic virus
+12139	0.00044	0.00001	species	Southern bean mosaic virus
+1112214	0.00044	0.00001	species	Sphingomonas sp. PAMC 26605
+84072	0.00044	0.00001	species	Symsagittifera roscoffensis
+221287	0.00044	0.00001	species	Mastigocladopsis repens
+4929	0.00044	0.00001	species	Meyerozyma guilliermondii
+102148	0.00044	0.00001	species	Solobacterium moorei
+52900	0.00044	0.00001	species	Sagitta enflata
+111501	0.00044	0.00001	species	Muricauda ruestringensis
+371601	0.00044	0.00001	species	Bacteroides xylanisolvens
+388629	0.00044	0.00001	species	Astrangia sp. JVK-2006
+51028	0.00044	0.00001	species	Enterobius vermicularis
+28448	0.00044	0.00001	species	Komagataeibacter xylinus
+438	0.00044	0.00001	species	Acetobacter pasteurianus
+1614	0.00043	0.00001	species	Lactobacillus fructivorans
+457415	0.00043	0.00001	species	Synergistes sp. 3_1_syn1
+875328	0.00043	0.00001	species	Mycobacterium sinense
+103596	0.00043	0.00001	species	Peponocephala electra
+350891	0.00043	0.00001	species	Unionicola parkeri
+1223	0.00043	0.00001	species	Prochlorothrix hollandica
+273791	0.00043	0.00001	species	Potamochoerus porcus
+83552	0.00043	0.00001	species	Parachlamydia acanthamoebae
+194443	0.00043	0.00001	species	Primate T-lymphotropic virus 3
+1206749	0.00043	0.00001	species	Nitrolancea hollandica
+256131	0.00043	0.00001	species	Chaetoderma nitidulum
+12152	0.00043	0.00001	species	Erysimum latent virus
+1027374	0.00043	0.00001	species	Nitrosopumilus sp. SJ
+679428	0.00043	0.00001	species	Stylochyrus rarior
+999235	0.00043	0.00001	species	Pedipes pedipes
+553386	0.00043	0.00001	species	Halomonas jeotgali
+1556	0.00043	0.00001	species	Gottschalkia acidurici
+259390	0.00043	0.00001	species	Nocardia takedensis
+333919	0.00043	0.00001	species	Zetapapillomavirus 1
+6239	0.00043	0.00001	species	Caenorhabditis elegans
+696472	0.00043	0.00001	species	Ostreococcus tauri virus 2
+48271	0.00043	0.00001	species	Amphipholis squamata
+666915	0.00043	0.00001	species	Hyemoschus aquaticus
+1104540	0.00043	0.00001	species	Cubaia aphrodite
+101852	0.00043	0.00001	species	Glarea lozoyensis
+1157040	0.00043	0.00001	species	Bat gammaretrovirus
+28321	0.00043	0.00001	species	Amsacta moorei entomopoxvirus 'L'
+291645	0.00043	0.00001	species	Bacteroides nordii
+795665	0.00043	0.00001	species	Hydrogenophaga sp. PBC
+547144	0.00043	0.00001	species	Hydrogenobaculum sp. HO
+166939	0.00043	0.00001	species	Allofustis seminis
+569	0.00043	0.00001	species	Hafnia alvei
+125627	0.00043	0.00001	species	Thiothrix flexilis
+154288	0.00043	0.00001	species	Turicibacter sanguinis
+174178	0.00043	0.00001	species	Citrus yellow mosaic virus
+52996	0.00043	0.00001	species	Dioscorea bacilliform virus
+31559	0.00043	0.00001	species	Cacao swollen shoot virus
+262957	0.00043	0.00001	species	Piper yellow mottle virus
+1034096	0.00043	0.00001	species	Fig badnavirus 1
+647294	0.00043	0.00001	species	Sweet potato badnavirus B
+1094772	0.00043	0.00001	species	Rhopalocaulis grandidieri
+33178	0.00043	0.00001	species	Aspergillus terreus
+1298531	0.00043	0.00001	species	Sulfolobales Mexican fusellovirus 1
+71667	0.00043	0.00001	species	Waddlia chondrophila
+6669	0.00043	0.00001	species	Daphnia pulex
+34765	0.00043	0.00001	species	Oikopleura dioica
+27486	0.00043	0.00001	species	Evania appendigaster
+317680	0.00043	0.00001	species	Damon diadema

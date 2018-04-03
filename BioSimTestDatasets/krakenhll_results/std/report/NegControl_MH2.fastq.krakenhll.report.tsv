@@ -1,0 +1,34 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	999999	999999	69999999	1	NA	0	no rank	unclassified
+0.0001	1	0	1	1	6.622e-11	1	no rank	root
+0.0001	1	0	1	1	6.753e-11	131567	no rank	  cellular organisms
+0.0001	1	0	1	1	3.865e-10	2759	superkingdom	    Eukaryota
+0.0001	1	0	1	1	3.865e-10	33154	no rank	      Opisthokonta
+0.0001	1	0	1	1	3.865e-10	33208	kingdom	        Metazoa
+0.0001	1	0	1	1	3.865e-10	6072	no rank	          Eumetazoa
+0.0001	1	0	1	1	3.865e-10	33213	no rank	            Bilateria
+0.0001	1	0	1	1	3.865e-10	33511	no rank	              Deuterostomia
+0.0001	1	0	1	1	3.865e-10	7711	phylum	                Chordata
+0.0001	1	0	1	1	3.865e-10	89593	subphylum	                  Craniata
+0.0001	1	0	1	1	3.865e-10	7742	no rank	                    Vertebrata
+0.0001	1	0	1	1	3.865e-10	7776	no rank	                      Gnathostomata
+0.0001	1	0	1	1	3.865e-10	117570	no rank	                        Teleostomi
+0.0001	1	0	1	1	3.865e-10	117571	no rank	                          Euteleostomi
+0.0001	1	0	1	1	3.865e-10	8287	no rank	                            Sarcopterygii
+0.0001	1	0	1	1	3.865e-10	1338369	no rank	                              Dipnotetrapodomorpha
+0.0001	1	0	1	1	3.865e-10	32523	no rank	                                Tetrapoda
+0.0001	1	0	1	1	3.865e-10	32524	no rank	                                  Amniota
+0.0001	1	0	1	1	3.865e-10	40674	class	                                    Mammalia
+0.0001	1	0	1	1	3.865e-10	32525	no rank	                                      Theria
+0.0001	1	0	1	1	3.865e-10	9347	no rank	                                        Eutheria
+0.0001	1	0	1	1	3.865e-10	1437010	no rank	                                          Boreoeutheria
+0.0001	1	0	1	1	3.865e-10	314146	superorder	                                            Euarchontoglires
+0.0001	1	0	1	1	3.865e-10	9443	order	                                              Primates
+0.0001	1	0	1	1	3.865e-10	376913	suborder	                                                Haplorrhini
+0.0001	1	0	1	1	3.865e-10	314293	infraorder	                                                  Simiiformes
+0.0001	1	0	1	1	3.865e-10	9526	parvorder	                                                    Catarrhini
+0.0001	1	0	1	1	3.865e-10	314295	superfamily	                                                      Hominoidea
+0.0001	1	0	1	1	3.865e-10	9604	family	                                                        Hominidae
+0.0001	1	0	1	1	3.865e-10	207598	subfamily	                                                          Homininae
+0.0001	1	0	1	1	3.865e-10	9605	genus	                                                            Homo
+0.0001	1	1	1	1	3.865e-10	9606	species	                                                              Homo sapiens

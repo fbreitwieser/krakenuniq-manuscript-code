@@ -1,0 +1,184 @@
+TaxID	pdist2_again.m
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	
+%	(m+n)*p
+%	-
+%	-
+%	-
+%	-
+%	/
+%	/
+%	2014
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	=
+%	Computer
+%	D
+%	D
+%	D,
+%	From
+%	L1
+%	Mover's
+%	This
+%	X
+%	Y
+%	also
+%	and
+%	chi-squared
+%	chi-squared
+%	comparison
+%	d=200;
+%	del=D1-D2;
+%	distribution
+%	few
+%	for
+%	for
+%	for
+%	form
+%	i=1:n
+%	i=1:p
+%	is
+%	m>n
+%	metric
+%	p]
+%	p]
+%	recursively
+%	significantly
+%	simple
+%	supposedly
+%	the
+%	the
+%	under
+%	where
+%%%	COMPUTATION
+%%%	FOR
+%%%	METHOD
+%%%	METHOD
+%%%%	from
+D	1
+D	D/2;
+D	bsxfun(@plus,XX,YY)-2*X*Yt;
+D	distChiSq(
+D	distCosine(
+D	distEmd(
+D	distEucSq(
+D	distL1(
+D	max(0,D);
+D	sqrt(distEucSq(
+D(:,i)	sum(
+D(:,i)	sum(
+D(:,i)	sum(abs(Xcdf
+XX	sqrt(sum(X.*X,2));
+XX	sum(X.*X,2);
+Xcdf	cumsum(X,2);
+YY	sqrt(sum(Y.*Y,2));
+YY	sum(Yt.*Yt,1);
+Ycdf	cumsum(Y,2);
+Yt	Y';
+case	
+case	
+case	
+case	
+case	
+case	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+end	
+error(['pdist2	unknown
+for	
+for	
+for	
+function	=
+function	=
+function	=
+function	=
+function	=
+function	=
+if(	||
+m	size(X,1);
+m	size(X,1);
+m	size(X,1);
+mOnes	ones(1,m);
+mOnes	ones(1,m);
+mOnes	ones(1,m);
+otherwise	
+p=size(X,2);	
+s	yiRep
+switch	
+ycdf	Ycdf(i,:);
+ycdfRep	ycdf(
+yi	Y(i,:);
+yi	Y(i,:);

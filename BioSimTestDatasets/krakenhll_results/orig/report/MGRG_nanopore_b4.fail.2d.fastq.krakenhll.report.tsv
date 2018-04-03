@@ -1,0 +1,52 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+83.78	434	434	1289278	1	0.006765	0	no rank	unclassified
+16.22	84	34	1270	1.1	2.187e-07	1	no rank	root
+9.459	49	0	547	1	9.647e-08	131567	no rank	  cellular organisms
+9.459	49	0	547	1	1.025e-07	2	superkingdom	    Bacteria
+3.475	18	0	211	1	8.251e-08	1224	phylum	      Proteobacteria
+3.475	18	0	211	1	1.952e-07	1236	class	        Gammaproteobacteria
+2.317	12	0	147	1	4.571e-07	91347	order	          Enterobacteriales
+2.317	12	6	147	1	4.571e-07	543	family	            Enterobacteriaceae
+1.158	6	0	15	1	9.014e-07	561	genus	              Escherichia
+1.158	6	5	15	1	9.014e-07	562	species	                Escherichia coli
+0.1931	1	1	1	1	2.729e-06	1038927	no rank	                  Escherichia coli O104:H4
+1.158	6	0	57	1	2.54e-07	72274	order	          Pseudomonadales
+1.158	6	0	57	1	2.954e-07	135621	family	            Pseudomonadaceae
+1.158	6	1	57	1	3.108e-07	286	genus	              Pseudomonas
+0.7722	4	1	21	1	6.072e-07	136843	species group	                Pseudomonas fluorescens group
+0.3861	2	1	15	1	6.988e-07	294	species	                  Pseudomonas fluorescens
+0.1931	1	1	2	1	3.489e-07	216595	no rank	                    Pseudomonas fluorescens SBW25
+0.1931	1	0	1	1	2.103e-07	200451	species	                  Pseudomonas poae
+0.1931	1	1	1	1	2.103e-07	1282356	no rank	                    Pseudomonas poae RE*1-1-14
+0.1931	1	0	2	1	1.194e-07	136849	species group	                Pseudomonas syringae group
+0.1931	1	0	2	1	3.887e-07	251698	species subgroup	                  Pseudomonas syringae group genomosp. 2
+0.1931	1	0	2	1	3.887e-07	29438	species	                    Pseudomonas savastanoi
+0.1931	1	0	2	1	3.887e-07	319	no rank	                      Pseudomonas savastanoi pv. phaseolicola
+0.1931	1	1	2	1	3.887e-07	264730	no rank	                        Pseudomonas savastanoi pv. phaseolicola 1448A
+3.475	18	0	146	1	1.818e-07	201174	phylum	      Actinobacteria
+3.475	18	0	146	1	1.912e-07	1760	class	        Actinobacteria
+3.282	17	0	145	1	1.529e-06	85006	order	          Micrococcales
+3.282	17	0	140	1	3.779e-06	1268	family	            Micrococcaceae
+3.282	17	0	140	1	5.902e-05	1269	genus	              Micrococcus
+3.282	17	0	140	1	5.902e-05	1270	species	                Micrococcus luteus
+3.282	17	17	140	1	5.902e-05	465515	no rank	                  Micrococcus luteus NCTC 2665
+0.1931	1	0	1	1	2.871e-08	85013	order	          Frankiales
+0.1931	1	0	1	1	2.871e-08	74712	family	            Frankiaceae
+0.1931	1	0	1	1	2.871e-08	1854	genus	              Frankia
+0.1931	1	1	1	1	1.16e-07	298653	species	                Frankia sp. EAN1pec
+2.51	13	0	190	1	2.235e-07	1239	phylum	      Firmicutes
+2.51	13	0	190	1	3.77e-07	91061	class	        Bacilli
+2.51	13	0	190	1	6.064e-07	1385	order	          Bacillales
+2.317	12	0	161	1	8.931e-07	186817	family	            Bacillaceae
+2.317	12	0	161	1	3.989e-05	45667	genus	              Halobacillus
+2.317	12	0	161	1	3.989e-05	1570	species	                Halobacillus halophilus
+2.317	12	12	161	1	3.989e-05	866895	no rank	                  Halobacillus halophilus DSM 2266
+0.1931	1	0	29	1	8.729e-07	90964	family	            Staphylococcaceae
+0.1931	1	0	29	1	9.341e-07	1279	genus	              Staphylococcus
+0.1931	1	1	29	1	1.044e-05	1282	species	                Staphylococcus epidermidis
+0.1931	1	0	1	1	7.555e-09	10239	superkingdom	  Viruses
+0.1931	1	0	1	1	8.838e-09	35237	no rank	    dsDNA viruses, no RNA stage
+0.1931	1	0	1	1	1.6e-08	28883	order	      Caudovirales
+0.1931	1	0	1	1	4.749e-08	10699	family	        Siphoviridae
+0.1931	1	0	1	1	2.272e-06	186765	genus	          Lambdalikevirus
+0.1931	1	1	1	1	0.0001762	37554	species	            Enterobacteria phage HK97

@@ -1,0 +1,11 @@
+--- datasets/truth_sets/genus/Huttenhower_LC3_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/Huttenhower_LC3_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -3,7 +3,7 @@
+ 1578	2.00000	0.08000	genus	Lactobacillus
+ 1386	2.00000	0.08000	genus	Bacillus
+ 53335	1.00000	0.04000	genus	Pantoea
+-146	1.00000	0.04000	genus	Spirochaeta
++1911556	1.00000	0.04000	genus	Sediminispirochaeta
+ 1298	1.00000	0.04000	genus	Deinococcus
+ 862	1.00000	0.04000	genus	Syntrophomonas
+ 768	1.00000	0.04000	genus	Anaplasma

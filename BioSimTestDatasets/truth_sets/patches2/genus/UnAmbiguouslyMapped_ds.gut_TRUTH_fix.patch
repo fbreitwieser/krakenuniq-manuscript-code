@@ -1,0 +1,11 @@
+--- datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.gut_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.gut_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -11,7 +11,7 @@
+ 1578	25000.00000	0.05000	genus	Lactobacillus
+ 1637	25000.00000	0.05000	genus	Listeria
+ 1654	25000.00000	0.05000	genus	Actinomyces
+-1743	25000.00000	0.05000	genus	Propionibacterium
++1912216	25000.00000	0.05000	genus	Cutibacterium
+ 561	25000.00000	0.05000	genus	Escherichia
+ 209	25000.00000	0.05000	genus	Helicobacter
+ 816	25000.00000	0.05000	genus	Bacteroides

@@ -1,0 +1,37 @@
+--- datasets/truth_sets/species/UnAmbiguouslyMapped_ds.7_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/species/UnAmbiguouslyMapped_ds.7_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -216,7 +216,7 @@
+ 81462	5827.00000	0.00102	species	Thermanaerovibrio acidaminovorans
+ 88058	5823.00000	0.00102	species	Treponema primitia
+ 199596	5821.00000	0.00102	species	Methylocella silvestris
+-576610	5821.00000	0.00102	species	Polynucleobacter necessarius
++576611	5821.00000	0.00102	species	Polynucleobacter asymbioticus
+ 291990	5821.00000	0.00102	species	Thermosediminibacter oceani
+ 65058	5816.00000	0.00102	species	Corynebacterium ulcerans
+ 286802	5813.00000	0.00101	species	Segniliparus rotundus
+@@ -257,7 +257,7 @@
+ 1161942	5709.00000	0.00100	species	Ruminococcus champanellensis
+ 1736	5704.00000	0.00100	species	Eubacterium limosum
+ 2021	5701.00000	0.00100	species	Thermobifida fusca
+-182210	5691.00000	0.00099	species	Desulfovibrio aespoeensis
++182210	5691.00000	0.00099	species	Pseudodesulfovibrio aespoeensis
+ 271098	5686.00000	0.00099	species	Shewanella halifaxensis
+ 51197	5684.00000	0.00099	species	Syntrophobotulus glycolicus
+ 118000	5683.00000	0.00099	species	Denitrovibrio acetiphilus
+@@ -370,7 +370,7 @@
+ 164514	4814.00000	0.00084	species	Blattabacterium punctulatus
+ 770	4795.00000	0.00084	species	Anaplasma marginale
+ 59600	4792.00000	0.00084	species	Cellulophaga algicola
+-228748	4783.00000	0.00084	species	Desulfurococcus fermentans
++94694	6650.00000	0.00117	species	Desulfurococcus amylolyticus
+ 877455	4774.00000	0.00083	species	Methanobacterium lacus
+ 1640	4769.00000	0.00083	species	Listeria seeligeri
+ 964	4761.00000	0.00083	species	Herbaspirillum seropedicae
+@@ -469,7 +469,6 @@
+ 447217	1964.00000	0.00034	species	Anaeromyxobacter sp. K
+ 150340	1908.00000	0.00033	species	Vibrio antiquarius
+ 2099	1884.00000	0.00033	species	Mycoplasma hyopneumoniae
+-477693	1867.00000	0.00033	species	Desulfurococcus kamchatkensis
+ 28227	1859.00000	0.00032	species	Mycoplasma penetrans
+ 28037	1786.00000	0.00031	species	Streptococcus mitis
+ 84588	1665.00000	0.00029	species	Synechococcus sp. WH 8102

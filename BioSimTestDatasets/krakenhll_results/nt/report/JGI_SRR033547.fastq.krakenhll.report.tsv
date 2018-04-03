@@ -1,0 +1,93 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+25.89	29	29	8320	1.03	0.1532	0	no rank	unclassified
+74.11	83	0	1619	1.02	7.104e-08	1	no rank	root
+74.11	83	0	1605	1.02	7.212e-08	131567	no rank	  cellular organisms
+67.86	76	3	1469	1.02	9.656e-08	2	superkingdom	    Bacteria
+39.29	44	0	903	1.01	1.57e-07	1783272	no rank	      Terrabacteria group
+21.43	24	0	418	1	1.881e-07	1239	phylum	        Firmicutes
+21.43	24	0	418	1	2.732e-07	91061	class	          Bacilli
+20.54	23	1	417	1	9.103e-07	186826	order	            Lactobacillales
+13.39	15	1	205	1	1.423e-06	1300	family	              Streptococcaceae
+12.5	14	0	197	1	9.445e-06	1357	genus	                Lactococcus
+11.61	13	6	195	1	1.546e-05	1358	species	                  Lactococcus lactis
+6.25	7	7	50	1	9.457e-06	1360	subspecies	                    Lactococcus lactis subsp. lactis
+0.8929	1	0	2	1	8.538e-07	1364	species	                  Lactococcus piscium
+0.8929	1	0	2	1	8.55e-07	297352	no rank	                    Lactococcus piscium MKFS47
+0.8929	1	1	2	1	9.666e-05	1001762215	sequence	                      LN774771.1 Lactococcus piscium MKFS47 genome assembly L_piscium, plasmid : III
+6.25	7	0	177	1	9.747e-07	33958	family	              Lactobacillaceae
+5.357	6	0	168	1	9.831e-07	1578	genus	                Lactobacillus
+3.571	4	4	98	1	8.352e-06	655183	species group	                  Lactobacillus casei group
+1.786	2	2	70	1	1.093e-05	1580	species	                  Lactobacillus brevis
+0.8929	1	0	9	1	8.87e-07	1253	genus	                Pediococcus
+0.8929	1	0	9	1	2.981e-06	1255	species	                  Pediococcus pentosaceus
+0.8929	1	0	9	1	3.54e-05	278197	no rank	                    Pediococcus pentosaceus ATCC 25745
+0.8929	1	1	9	1	3.541e-05	1000943887	sequence	                      CP000422.1 Pediococcus pentosaceus ATCC 25745, complete genome
+0.8929	1	0	1	1	9.334e-10	1385	order	            Bacillales
+0.8929	1	0	1	1	2.03e-09	186817	family	              Bacillaceae
+0.8929	1	0	1	1	2.758e-09	1386	genus	                Bacillus
+0.8929	1	0	1	1	1.239e-08	86661	species group	                  Bacillus cereus group
+0.8929	1	0	1	1	1.574e-06	1392	species	                    Bacillus anthracis
+0.8929	1	1	1	1	0.0001074	1001886449	sequence	                      CP010322.1 Bacillus anthracis strain Canadian_bison, complete genome
+16.07	18	0	471	1.02	1.79e-07	201174	phylum	        Actinobacteria
+16.07	18	0	471	1.02	1.841e-07	1760	class	          Actinobacteria
+16.07	18	0	466	1.02	0.0001936	1643683	order	            Acidothermales
+16.07	18	0	466	1.02	0.0001936	85032	family	              Acidothermaceae
+16.07	18	0	466	1.02	0.0001936	28048	genus	                Acidothermus
+16.07	18	0	466	1.02	0.0001942	28049	species	                  Acidothermus cellulolyticus
+16.07	18	0	466	1.02	0.0001947	351607	no rank	                    Acidothermus cellulolyticus 11B
+16.07	18	18	466	1.02	0.000195	1004055551	sequence	                      CP000481.1 Acidothermus cellulolyticus 11B, complete genome
+1.786	2	0	14	1	2.201e-08	1798711	no rank	        Cyanobacteria/Melainabacteria group
+1.786	2	0	14	1	2.207e-08	1117	phylum	          Cyanobacteria
+1.786	2	0	14	1	9.36e-08	1301283	subclass	            Oscillatoriophycideae
+1.786	2	0	14	1	1.373e-07	1150	order	              Oscillatoriales
+1.786	2	0	14	1	4.42e-07	1892254	family	                Oscillatoriaceae
+1.786	2	0	14	1	9.124e-07	1158	genus	                  Oscillatoria
+1.786	2	0	14	1	1.797e-06	482564	species	                    Oscillatoria nigro-viridis
+1.786	2	0	14	1	1.797e-06	179408	no rank	                      Oscillatoria nigro-viridis PCC 7112
+1.786	2	2	14	1	1.978e-06	1002126586	sequence	                        CP003614.1 Oscillatoria nigro-viridis PCC 7112, complete genome
+25.89	29	0	512	1.04	6.888e-08	1224	phylum	      Proteobacteria
+17.86	20	0	359	1.05	1.965e-07	28211	class	        Alphaproteobacteria
+17.86	20	0	351	1.05	3.933e-07	356	order	          Rhizobiales
+17.86	20	0	342	1.06	4.473e-06	119045	family	            Methylobacteriaceae
+17.86	20	0	342	1.06	5.043e-06	407	genus	              Methylobacterium
+17.86	20	0	319	1.06	4.107e-05	114616	species	                Methylobacterium nodulans
+17.86	20	2	319	1.06	4.108e-05	460265	no rank	                  Methylobacterium nodulans ORS 2060
+14.29	16	16	268	1.07	3.96e-05	1008617488	sequence	                    CP001349.1 Methylobacterium nodulans ORS 2060, complete genome
+0.8929	1	1	30	1	0.002544	1001196012	sequence	                    CP001355.1 Methylobacterium nodulans ORS 2060 plasmid pMNOD06, complete sequence
+0.8929	1	1	2	1	5.225e-06	1004821816	sequence	                    CP001351.1 Methylobacterium nodulans ORS 2060 plasmid pMNOD02, complete sequence
+5.357	6	0	70	1	1.978e-08	1236	class	        Gammaproteobacteria
+3.571	4	0	43	1	1.155e-07	135622	order	          Alteromonadales
+3.571	4	0	43	1	4.1e-07	267890	family	            Shewanellaceae
+3.571	4	0	43	1	4.1e-07	22	genus	              Shewanella
+3.571	4	0	43	1	1.031e-05	60478	species	                Shewanella amazonensis
+3.571	4	0	43	1	1.031e-05	326297	no rank	                  Shewanella amazonensis SB2B
+3.571	4	4	43	1	1.031e-05	1000226576	sequence	                    CP000507.1 Shewanella amazonensis SB2B, complete genome
+1.786	2	0	27	1	2.748e-08	72274	order	          Pseudomonadales
+1.786	2	0	27	1	3.219e-08	135621	family	            Pseudomonadaceae
+1.786	2	1	27	1	3.281e-08	286	genus	              Pseudomonas
+0.8929	1	0	21	1	1.051e-05	1274359	species	                Pseudomonas sihuiensis
+0.8929	1	1	21	1	1.051e-05	1006384805	sequence	                  LT629797.1 Pseudomonas sihuiensis strain KCTC 32246 genome assembly, chromosome: I
+2.679	3	0	83	1	1.355e-07	68525	subphylum	        delta/epsilon subdivisions
+2.679	3	0	83	1	1.875e-07	28221	class	          Deltaproteobacteria
+2.679	3	0	83	1	3.749e-07	29	order	            Myxococcales
+2.679	3	0	83	1	6.881e-07	80811	suborder	              Cystobacterineae
+2.679	3	0	74	1	1.306e-06	31	family	                Myxococcaceae
+2.679	3	0	74	1	1.586e-06	32	genus	                  Myxococcus
+2.679	3	0	63	1	8.452e-06	34	species	                    Myxococcus xanthus
+2.679	3	0	63	1	9.372e-06	246197	no rank	                      Myxococcus xanthus DK 1622
+2.679	3	3	63	1	9.505e-06	1009337705	sequence	                        CP000113.1 Myxococcus xanthus DK 1622, complete genome
+6.25	7	0	136	1	2.119e-08	2759	superkingdom	    Eukaryota
+6.25	7	0	136	1	3.036e-08	33154	no rank	      Opisthokonta
+6.25	7	0	136	1	3.066e-08	4751	kingdom	        Fungi
+6.25	7	0	136	1	3.183e-08	451864	subkingdom	          Dikarya
+6.25	7	0	136	1	4.024e-08	4890	phylum	            Ascomycota
+6.25	7	0	136	1	4.103e-08	716545	no rank	              saccharomyceta
+6.25	7	0	136	1	2.004e-07	147537	subphylum	                Saccharomycotina
+6.25	7	0	136	1	2.004e-07	4891	class	                  Saccharomycetes
+6.25	7	0	136	1	2.004e-07	4892	order	                    Saccharomycetales
+6.25	7	0	136	1	4.927e-07	4893	family	                      Saccharomycetaceae
+6.25	7	0	135	1	2.164e-06	4930	genus	                        Saccharomyces
+6.25	7	5	106	1	4.042e-06	4932	species	                          Saccharomyces cerevisiae
+0.8929	1	0	7	1	6.56e-05	1201112	no rank	                            Saccharomyces cerevisiae N85
+0.8929	1	1	7	1	0.001102	1004338514	sequence	                              LN907793.1 Saccharomyces cerevisiae N85 chromosome X, complete genome
+0.8929	1	1	1	1	0.0008285	1008108006	sequence	                            CP008469.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_3 chromosome XIII sequence

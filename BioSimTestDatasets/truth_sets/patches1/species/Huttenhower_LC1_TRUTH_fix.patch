@@ -1,0 +1,19 @@
+--- /Users/fbreitwieser/projects/krakenhll-manuscript-code/McIntyreMasonDatasets/truth_sets/species/Huttenhower_LC1_TRUTH.txt	2017-06-27 23:36:04.000000000 -0400
++++ datasets/truth_sets/species/Huttenhower_LC1_TRUTH.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -10,14 +10,14 @@
+ 2208	1.00000	0.04000	species	Methanosarcina barkeri
+ 2317	1.00000	0.04000	species	Methanosphaera stadtmanae
+ 408	1.00000	0.04000	species	Methylobacterium extorquens
+-669	1.00000	0.04000	species	Vibrio harveyi
++680	1.00000	0.04000	species	Vibrio campbellii
+ 33072	1.00000	0.04000	species	Gloeobacter violaceus
+ 44001	1.00000	0.04000	species	Caldicellulosiruptor saccharolyticus
+ 553	1.00000	0.04000	species	Pantoea ananatis
+ 79329	1.00000	0.04000	species	Chitinophaga pinensis
+ 80866	1.00000	0.04000	species	Delftia acidovorans
+ 1085	1.00000	0.04000	species	Rhodospirillum rubrum
+-1098	1.00000	0.04000	species	Prosthecochloris vibrioformis
++1094	1.00000	0.04000	species	Chlorobium phaeovibrioides
+ 192073	1.00000	0.04000	species	Shewanella denitrificans
+ 1108	1.00000	0.04000	species	Chloroflexus aurantiacus
+ 311400	1.00000	0.04000	species	Thermococcus kodakarensis

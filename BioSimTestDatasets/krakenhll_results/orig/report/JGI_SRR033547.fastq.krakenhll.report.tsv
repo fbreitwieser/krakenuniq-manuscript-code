@@ -1,0 +1,57 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+44.64	50	50	8502	1.02	4.461e-05	0	no rank	unclassified
+55.36	62	0	1200	1.02	2.067e-07	1	no rank	root
+55.36	62	0	1200	1.02	2.116e-07	131567	no rank	  cellular organisms
+55.36	62	0	1200	1.02	2.249e-07	2	superkingdom	    Bacteria
+20.54	23	1	406	1.03	1.588e-07	1224	phylum	      Proteobacteria
+14.29	16	0	302	1.04	4.713e-07	28211	class	        Alphaproteobacteria
+14.29	16	0	297	1.04	8.665e-07	356	order	          Rhizobiales
+14.29	16	0	297	1.04	7.071e-06	119045	family	            Methylobacteriaceae
+14.29	16	0	297	1.04	7.071e-06	407	genus	              Methylobacterium
+14.29	16	0	268	1.05	3.344e-05	114616	species	                Methylobacterium nodulans
+14.29	16	16	268	1.05	3.344e-05	460265	no rank	                  Methylobacterium nodulans ORS 2060
+2.679	3	0	74	1	2.103e-07	68525	subphylum	        delta/epsilon subdivisions
+2.679	3	0	74	1	2.759e-07	28221	class	          Deltaproteobacteria
+2.679	3	0	74	1	7.534e-07	29	order	            Myxococcales
+2.679	3	0	74	1	1.18e-06	80811	suborder	              Cystobacterineae
+2.679	3	0	68	1	1.865e-06	31	family	                Myxococcaceae
+2.679	3	0	68	1	2.562e-06	32	genus	                  Myxococcus
+2.679	3	0	68	1	8.611e-06	34	species	                    Myxococcus xanthus
+2.679	3	3	68	1	8.611e-06	246197	no rank	                      Myxococcus xanthus DK 1622
+2.679	3	0	29	1	2.683e-08	1236	class	        Gammaproteobacteria
+2.679	3	0	29	1	1.619e-07	135622	order	          Alteromonadales
+2.679	3	0	29	1	3.494e-07	267890	family	            Shewanellaceae
+2.679	3	0	29	1	3.494e-07	22	genus	              Shewanella
+2.679	3	0	29	1	6.877e-06	60478	species	                Shewanella amazonensis
+2.679	3	3	29	1	6.877e-06	326297	no rank	                  Shewanella amazonensis SB2B
+19.64	22	0	357	1	4.2e-07	1239	phylum	      Firmicutes
+19.64	22	0	357	1	7.084e-07	91061	class	        Bacilli
+19.64	22	1	357	1	1.874e-06	186826	order	          Lactobacillales
+12.5	14	1	183	1	2.281e-06	1300	family	            Streptococcaceae
+11.61	13	0	178	1	1.695e-05	1357	genus	              Lactococcus
+11.61	13	2	178	1	2.071e-05	1358	species	                Lactococcus lactis
+8.036	9	8	107	1	2.56e-05	1360	subspecies	                  Lactococcus lactis subsp. lactis
+0.8929	1	1	2	1	8.131e-06	929102	no rank	                    Lactococcus lactis subsp. lactis CV56
+1.786	2	1	32	1	8.089e-06	1359	subspecies	                  Lactococcus lactis subsp. cremoris
+0.8929	1	1	1	1	5.094e-06	1111678	no rank	                    Lactococcus lactis subsp. cremoris UC509.9
+6.25	7	0	148	1	2.366e-06	33958	family	            Lactobacillaceae
+5.357	6	0	142	1	2.434e-06	1578	genus	              Lactobacillus
+3.571	4	2	84	1	1.709e-05	655183	species group	                Lactobacillus casei group
+1.786	2	2	29	1	1.416e-05	1582	species	                  Lactobacillus casei
+1.786	2	2	58	1	2.093e-05	1580	species	                Lactobacillus brevis
+0.8929	1	0	6	1	1.449e-06	1253	genus	              Pediococcus
+0.8929	1	0	6	1	2.646e-06	1255	species	                Pediococcus pentosaceus
+0.8929	1	1	6	1	1.157e-05	278197	no rank	                  Pediococcus pentosaceus ATCC 25745
+13.39	15	0	419	1.02	5.219e-07	201174	phylum	      Actinobacteria
+13.39	15	0	419	1.02	5.488e-07	1760	class	        Actinobacteria
+13.39	15	0	419	1.02	0.000173	1643683	order	          Acidothermales
+13.39	15	0	419	1.02	0.000173	85032	family	            Acidothermaceae
+13.39	15	0	419	1.02	0.000173	28048	genus	              Acidothermus
+13.39	15	0	419	1.02	0.000173	28049	species	                Acidothermus cellulolyticus
+13.39	15	15	419	1.02	0.000173	351607	no rank	                  Acidothermus cellulolyticus 11B
+1.786	2	0	8	1	2.68e-08	1117	phylum	      Cyanobacteria
+1.786	2	0	8	1	4.64e-08	1301283	subclass	        Oscillatoriophycideae
+1.786	2	0	8	1	1.436e-07	1150	order	          Oscillatoriales
+1.786	2	0	8	1	5.19e-07	1158	genus	            Oscillatoria
+1.786	2	0	8	1	1.017e-06	482564	species	              Oscillatoria nigro-viridis
+1.786	2	2	8	1	1.017e-06	179408	no rank	                Oscillatoria nigro-viridis PCC 7112

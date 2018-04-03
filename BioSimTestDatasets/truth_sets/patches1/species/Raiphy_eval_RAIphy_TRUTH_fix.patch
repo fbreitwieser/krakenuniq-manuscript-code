@@ -1,0 +1,11 @@
+--- truth_sets/species/Raiphy_eval_RAIphy_TRUTH.txt	2017-06-27 23:36:05.000000000 -0400
++++ datasets/truth_sets/species/Raiphy_eval_RAIphy_TRUTH.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -21,7 +21,7 @@
+ 521	1.00000	0.01887	species	Bordetella avium
+ 31998	1.00000	0.01887	species	Methylobacterium radiotolerans
+ 33903	1.00000	0.01887	species	Streptomyces avermitilis
+-35779	1.00000	0.01887	species	Aster yellows phytoplasma
++229545	1.00000	0.01887	species	Aster yellows witches'-broom phytoplasma
+ 42879	1.00000	0.01887	species	Methanococcus aeolicus
+ 43080	1.00000	0.01887	species	Sulfolobus islandicus
+ 43663	1.00000	0.01887	species	Paenarthrobacter aurescens

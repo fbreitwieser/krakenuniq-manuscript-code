@@ -1,0 +1,35 @@
+--- datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.7_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.7_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -32,6 +32,7 @@
+ 69965	37445.00000	0.00654	genus	Macrococcus
+ 1177	36234.00000	0.00633	genus	Nostoc
+ 872	34928.00000	0.00610	genus	Desulfovibrio
++2035811	34928.00000	0.00610	genus	Pseudodesulfovibrio
+ 105	34421.00000	0.00601	genus	Runella
+ 191	32888.00000	0.00574	genus	Azospirillum
+ 1883	32256.00000	0.00563	genus	Streptomyces
+@@ -74,6 +75,7 @@
+ 28253	17358.00000	0.00303	genus	Marinomonas
+ 2233	17242.00000	0.00301	genus	Archaeoglobus
+ 146	17094.00000	0.00298	genus	Spirochaeta
++1911556	17094.00000	0.00298	genus	Sediminispirochaeta
+ 63742	17090.00000	0.00298	genus	Natrialba
+ 41707	16928.00000	0.00296	genus	Lawsonia
+ 129337	16774.00000	0.00293	genus	Geobacillus
+@@ -234,6 +236,7 @@
+ 745	5486.00000	0.00096	genus	Pasteurella
+ 2225	5482.00000	0.00096	genus	Methanococcoides
+ 1743	5477.00000	0.00096	genus	Propionibacterium
++1912216	5477.00000	0.00096	genus	Cutibacterium
+ 929509	5465.00000	0.00095	genus	Solitalea
+ 33993	5454.00000	0.00095	genus	Neorickettsia
+ 46254	5454.00000	0.00095	genus	Oenococcus
+@@ -292,7 +295,7 @@
+ 2147	4645.00000	0.00081	genus	Acholeplasma
+ 239759	4608.00000	0.00080	genus	Alistipes
+ 249529	4496.00000	0.00078	genus	Caldanaerobacter
+-1481960	4482.00000	0.00078	genus	Peptoclostridium
++186831	4482.00000	0.00078	genus	Acetoanaerobium
+ 1357	4336.00000	0.00076	genus	Lactococcus
+ 69474	4270.00000	0.00075	genus	Orientia
+ 413	4259.00000	0.00074	genus	Methylococcus

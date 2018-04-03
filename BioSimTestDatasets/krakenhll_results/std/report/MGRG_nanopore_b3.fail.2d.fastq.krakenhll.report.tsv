@@ -1,0 +1,39 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+60	27	27	61318	1	NA	0	no rank	unclassified
+40	18	2	1252	1.03	8.29e-08	1	no rank	root
+35.56	16	0	692	1.01	4.673e-08	131567	no rank	  cellular organisms
+35.56	16	0	692	1.01	5.877e-08	2	superkingdom	    Bacteria
+17.78	8	0	595	1	1.354e-07	1783272	no rank	      Terrabacteria group
+11.11	5	0	215	1	1.187e-07	1239	phylum	        Firmicutes
+11.11	5	0	215	1	1.68e-07	91061	class	          Bacilli
+11.11	5	0	215	1	2.386e-07	1385	order	            Bacillales
+6.667	3	0	176	1	1.837e-06	90964	family	              Staphylococcaceae
+6.667	3	1	176	1	2.081e-06	1279	genus	                Staphylococcus
+4.444	2	2	172	1	3.914e-05	1282	species	                  Staphylococcus epidermidis
+4.444	2	0	39	1	9.13e-08	186817	family	              Bacillaceae
+4.444	2	0	39	1	4.946e-06	45667	genus	                Halobacillus
+4.444	2	2	39	1	9.973e-06	1570	species	                  Halobacillus halophilus
+6.667	3	0	380	1	1.915e-07	201174	phylum	        Actinobacteria
+6.667	3	0	380	1	1.977e-07	1760	class	          Actinobacteria
+6.667	3	0	378	1	1.204e-06	85006	order	            Micrococcales
+6.667	3	0	373	1	3.376e-06	1268	family	              Micrococcaceae
+6.667	3	0	373	1	0.0001684	1269	genus	                Micrococcus
+6.667	3	0	373	1	0.0001684	1270	species	                  Micrococcus luteus
+6.667	3	0	373	1	0.0001684	465515	no rank	                    Micrococcus luteus NCTC 2665
+6.667	3	0	373	1	0.0001684	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+6.667	3	3	373	1	0.0001684	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+17.78	8	2	95	1.05	1.564e-08	1224	phylum	      Proteobacteria
+13.33	6	0	92	1.05	3.233e-08	1236	class	        Gammaproteobacteria
+11.11	5	0	71	1.07	8.62e-08	91347	order	          Enterobacterales
+11.11	5	0	71	1.07	1.65e-07	543	family	            Enterobacteriaceae
+11.11	5	0	42	1.12	9.593e-07	561	genus	              Escherichia
+11.11	5	3	42	1.12	1.207e-06	562	species	                Escherichia coli
+4.444	2	0	24	1.21	0.001611	1446746	no rank	                  Escherichia coli O6:H16
+4.444	2	0	24	1.21	0.001611	1000005847	assembly	                    GCF_002269325.1 Escherichia coli O6:H16 strain=2011EL-1370-2
+4.444	2	2	24	1.21	0.001714	1000005848	sequence	                      NZ_CP022912.1 Escherichia coli O6:H16 strain 2011EL-1370-2, complete genome
+2.222	1	0	20	1	2.891e-08	72274	order	          Pseudomonadales
+2.222	1	0	20	1	3.431e-08	135621	family	            Pseudomonadaceae
+2.222	1	0	20	1	3.525e-08	286	genus	              Pseudomonas
+2.222	1	0	1	1	1.971e-07	219572	species	                Pseudomonas antarctica
+2.222	1	0	1	1	1.971e-07	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+2.222	1	1	1	1	2.031e-07	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome

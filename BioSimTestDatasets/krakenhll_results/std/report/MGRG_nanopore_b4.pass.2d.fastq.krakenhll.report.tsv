@@ -1,0 +1,16 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+75	6	6	3726	1.01	NA	0	no rank	unclassified
+25	2	0	5	1	3.311e-10	1	no rank	root
+25	2	0	5	1	3.376e-10	131567	no rank	  cellular organisms
+25	2	0	5	1	4.246e-10	2	superkingdom	    Bacteria
+12.5	1	0	3	1	4.939e-10	1224	phylum	      Proteobacteria
+12.5	1	0	3	1	1.054e-09	1236	class	        Gammaproteobacteria
+12.5	1	0	3	1	3.642e-09	91347	order	          Enterobacterales
+12.5	1	1	3	1	6.97e-09	543	family	            Enterobacteriaceae
+12.5	1	0	2	1	4.55e-10	1783272	no rank	      Terrabacteria group
+12.5	1	0	2	1	1.104e-09	1239	phylum	        Firmicutes
+12.5	1	0	2	1	1.563e-09	91061	class	          Bacilli
+12.5	1	0	2	1	2.219e-09	1385	order	            Bacillales
+12.5	1	0	2	1	4.682e-09	186817	family	              Bacillaceae
+12.5	1	0	2	1	2.536e-07	45667	genus	                Halobacillus
+12.5	1	1	2	1	5.114e-07	1570	species	                  Halobacillus halophilus

@@ -1,0 +1,10 @@
+--- datasets/truth_sets/species/UnAmbiguouslyMapped_ds.nycsm_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/species/UnAmbiguouslyMapped_ds.nycsm_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -1,6 +1,6 @@
+ 1309	25000.00000	0.05000	species	Streptococcus mutans
+ 1352	25000.00000	0.05000	species	Enterococcus faecium
+-548	25000.00000	0.05000	species	Enterobacter aerogenes
++548	25000.00000	0.05000	species	Klebsiella aerogenes
+ 550	25000.00000	0.05000	species	Enterobacter cloacae
+ 1392	25000.00000	0.05000	species	Bacillus anthracis
+ 1396	25000.00000	0.05000	species	Bacillus cereus

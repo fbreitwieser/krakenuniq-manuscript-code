@@ -1,0 +1,15 @@
+/ccb/salz7-data/el6/packages/krakenhll/classify -d /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/database.kdb -i /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/database.idx -t 10 -o off -r krakenhll_results/std/sample1.fracfull.10.krakenhll.report.tsv -a /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/taxDB -p 12 /dev/fd/0
+ Database /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/database.kdb
+Loaded database with 15102006752 keys with k of 31 [val_len 4, key_len 8].
+Reading taxonomy index from /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/taxDBread_merger.pl: fastq/sample1.fracfull.1.fq does not exist
+. Done, read 1845140 taxa.
+classify: malformed fasta file - expected header char > not found
+0 sequences (0.00 Mbp) processed in 0.001s (0.0 Kseq/m, 0.00 Mbp/m).
+  0 sequences classified (-nan%)
+  0 sequences unclassified (-nan%)
+Writing report file to krakenhll_results/std/sample1.fracfull.10.krakenhll.report.tsv  ..
+Reading genome sizes from /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31/database.kdb.counts ... done
+Setting values in the taxonomy tree ... done
+Printing classification report ... total number of reads is zero - not creating a report!
+Report finished in 0.104 seconds.
+Finishing up ...

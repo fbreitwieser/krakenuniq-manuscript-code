@@ -1,0 +1,8 @@
+--- datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.hous2_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.hous2_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -2,4 +2,4 @@
+ 1301	100000.00000	0.20000	genus	Streptococcus
+ 469	50000.00000	0.10000	genus	Acinetobacter
+ 1279	50000.00000	0.10000	genus	Staphylococcus
+-1743	25000.00000	0.05000	genus	Propionibacterium
++1912216	25000.00000	0.05000	genus	Cutibacterium

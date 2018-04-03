@@ -1,0 +1,39 @@
+#run from main dir
+mkdir -p temp
+#$datasetlist=`ls -1 | sed 's/\(.*\)_.*/\1/' | uniq`
+for dataset in `ls -1 | sed 's/..\/\(.*\)_.*/\1/' | uniq`; do
+#$runs_each_dataset=`ls -1 | grep ${dataset}*`
+rm temp/temp
+touch temp/temp
+for classifier in `ls -1 | grep ${dataset}`; do
+ if [ -f ${classifier} ] && [ $(stat -f%z ${classifier}) -ge 2 ]; then 
+ echo ${classifier}
+ cat ${classifier} | awk '{print $1 "\t" $3}' |sort > temp/temp_${classifier}
+  if [ -s temp/temp ]; then
+  columns=`cat temp/temp | head -1 | awk '{print NF}'`
+  outputstring="0,"
+  for i in $(seq $((1+1)) ${columns}); do
+    outputstring="${outputstring}1.${i},"
+  done
+  outputstring="${outputstring}2.2"
+  echo ${outputstring}
+  #join -a1 -a2 -o 0,1.2,2.2 -e "0" temp/temp temp/temp_${classifier} > temp/temp
+  join -a1 -a2 -e0 -o"${outputstring}" -t $'\t' temp/temp temp/temp_${classifier} | sort > temp/temp_temp
+  mv temp/temp_temp temp/temp
+  else
+  mv temp/temp_${classifier} temp/temp
+  fi;
+ fi
+done
+header="TaxID"
+for classifier in `ls -1 | grep ${dataset}`; do
+  if [ -f ${classifier} ] && [ $(stat -f%z ${classifier}) -ge 2 ]; then  
+  header="${header} ${classifier}"
+  fi
+done
+echo ${header} | tr " " "\t" > temp/${dataset}_table  
+cat temp/temp >> temp/${dataset}_table
+rm temp/temp
+done
+rm temp/temp*
+rm temp/code_table

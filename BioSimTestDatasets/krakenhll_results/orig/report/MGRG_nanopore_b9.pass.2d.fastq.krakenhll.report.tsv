@@ -1,0 +1,10 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+83.33	5	5	2912	1	1.528e-05	0	no rank	unclassified
+16.67	1	0	8	1	1.378e-09	1	no rank	root
+16.67	1	0	8	1	1.411e-09	131567	no rank	  cellular organisms
+16.67	1	0	8	1	1.499e-09	2	superkingdom	    Bacteria
+16.67	1	0	8	1	3.128e-09	1224	phylum	      Proteobacteria
+16.67	1	0	8	1	7.402e-09	1236	class	        Gammaproteobacteria
+16.67	1	0	8	1	3.564e-08	72274	order	          Pseudomonadales
+16.67	1	0	8	1	4.146e-08	135621	family	            Pseudomonadaceae
+16.67	1	1	8	1	4.363e-08	286	genus	              Pseudomonas

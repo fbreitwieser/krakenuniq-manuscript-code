@@ -1,0 +1,9 @@
+--- datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.nycsm_TRUTH.txt	2017-12-16 23:34:03.000000000 -0500
++++ datasets/truth_sets/genus/UnAmbiguouslyMapped_ds.nycsm_TRUTH_FIXED.txt	2018-03-12 17:43:12.000000000 -0400
+@@ -1,5 +1,6 @@
+ 286	100000.00000	0.20000	genus	Pseudomonas
+ 547	75000.00000	0.15000	genus	Enterobacter
++570	75000.00000	0.15000	genus	Klebsiella
+ 22	50000.00000	0.10000	genus	Shewanella
+ 1350	50000.00000	0.10000	genus	Enterococcus
+ 1386	50000.00000	0.10000	genus	Bacillus

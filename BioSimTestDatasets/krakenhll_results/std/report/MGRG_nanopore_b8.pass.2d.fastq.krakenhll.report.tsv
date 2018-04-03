@@ -1,0 +1,84 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+44.35	51	51	109234	1	NA	0	no rank	unclassified
+55.65	64	1	4367	1.01	2.892e-07	1	no rank	root
+53.91	62	0	4203	1.01	2.838e-07	131567	no rank	  cellular organisms
+53.91	62	0	4203	1.01	3.57e-07	2	superkingdom	    Bacteria
+36.52	42	0	1552	1	2.555e-07	1224	phylum	      Proteobacteria
+35.65	41	0	1537	1	5.401e-07	1236	class	        Gammaproteobacteria
+21.74	25	0	379	1	5.478e-07	72274	order	          Pseudomonadales
+21.74	25	0	379	1	6.502e-07	135621	family	            Pseudomonadaceae
+21.74	25	4	377	1	6.644e-07	286	genus	              Pseudomonas
+10.43	12	0	149	1	2.937e-05	219572	species	                Pseudomonas antarctica
+10.43	12	0	149	1	2.937e-05	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+10.43	12	12	149	1	3.026e-05	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+6.957	8	2	68	1	6.572e-07	136843	species group	                Pseudomonas fluorescens group
+4.348	5	1	58	1	9.986e-07	294	species	                  Pseudomonas fluorescens
+0.8696	1	0	34	1	6.78e-06	1000002058	assembly	                    GCF_000968415.1 Pseudomonas fluorescens strain=LBUM223
+0.8696	1	1	34	1	6.78e-06	1000002059	sequence	                      NZ_CP011117.1 Pseudomonas fluorescens strain LBUM223, complete genome
+0.8696	1	0	3	1	5.544e-07	1000002064	assembly	                    GCF_001612705.1 Pseudomonas fluorescens strain=LBUM636
+0.8696	1	1	3	1	5.544e-07	1000002065	sequence	                      NZ_CP012400.1 Pseudomonas fluorescens strain LBUM636, complete genome
+0.8696	1	0	1	1	2.11e-07	1000002052	assembly	                    GCF_000730425.1 Pseudomonas fluorescens strain=UK4
+0.8696	1	1	1	1	2.11e-07	1000002053	sequence	                      NZ_CP008896.1 Pseudomonas fluorescens strain UK4, complete genome
+0.8696	1	0	1	1	2.204e-07	216595	no rank	                    Pseudomonas fluorescens SBW25
+0.8696	1	0	1	1	2.204e-07	1000002041	assembly	                      GCF_000009225.2 Pseudomonas fluorescens SBW25
+0.8696	1	1	1	1	2.204e-07	1000002042	sequence	                        NC_012660.1 Pseudomonas fluorescens SBW25 complete genome
+0.8696	1	0	1	1	1.943e-07	76761	species	                  Pseudomonas veronii
+0.8696	1	0	1	1	1.943e-07	1000017597	assembly	                    GCF_002028325.1 Pseudomonas veronii strain=R02
+0.8696	1	1	1	1	1.943e-07	1000017598	sequence	                      NZ_CP018420.1 Pseudomonas veronii strain R02 chromosome, complete genome
+0.8696	1	0	3	1	5.566e-07	1853130	species	                Pseudomonas sp. A3(2016)
+0.8696	1	0	3	1	5.566e-07	1000023595	assembly	                  GCF_001661075.1 Pseudomonas sp. A3(2016)
+0.8696	1	1	3	1	5.566e-07	1000023596	sequence	                    NZ_CP014870.1 Pseudomonas sp. A3(2016), complete genome
+13.91	16	0	1154	1	1.401e-06	91347	order	          Enterobacterales
+13.91	16	6	1108	1	2.574e-06	543	family	            Enterobacteriaceae
+6.957	8	1	113	1	2.581e-06	561	genus	              Escherichia
+6.087	7	6	100	1	2.874e-06	562	species	                Escherichia coli
+0.8696	1	0	1	1	1.711e-05	498388	no rank	                  Escherichia coli C
+0.8696	1	0	1	1	1.733e-05	481805	no rank	                    Escherichia coli ATCC 8739
+0.8696	1	0	1	1	1.733e-05	1000004642	assembly	                      GCF_000019385.1 Escherichia coli ATCC 8739
+0.8696	1	1	1	1	1.733e-05	1000004643	sequence	                        NC_010468.1 Escherichia coli ATCC 8739, complete genome
+0.8696	1	0	2	1	3.623e-08	544	genus	              Citrobacter
+0.8696	1	0	2	1	5.634e-07	67824	species	                Citrobacter farmeri
+0.8696	1	0	2	1	5.634e-07	1000017400	assembly	                  GCF_002249995.1 Citrobacter farmeri strain=AUSMDU00008141
+0.8696	1	1	2	1	5.642e-07	1000017401	sequence	                    NZ_CP022695.1 Citrobacter farmeri strain AUSMDU00008141 chromosome, complete genome
+0.8696	1	0	1	1	2.415e-08	590	genus	              Salmonella
+0.8696	1	0	1	1	2.785e-08	28901	species	                Salmonella enterica
+0.8696	1	0	1	1	6.34e-08	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.8696	1	0	1	1	6.321e-06	82689	no rank	                    Salmonella enterica subsp. enterica serovar Muenster
+0.8696	1	0	1	1	6.321e-06	1124958	no rank	                      Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.8696	1	0	1	1	6.321e-06	1000014493	assembly	                        GCF_000487035.2 Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.8696	1	1	1	1	6.89e-06	1000014494	sequence	                          NZ_CP019198.1 Salmonella enterica subsp. enterica serovar Muenster str. 0315 strain 315, complete genome
+0.8696	1	0	4	1	3.364e-09	28216	class	        Betaproteobacteria
+0.8696	1	0	4	1	3.985e-09	80840	order	          Burkholderiales
+0.8696	1	0	4	1	3.627e-08	75682	family	            Oxalobacteraceae
+0.8696	1	0	4	1	1.552e-07	202907	genus	              Collimonas
+0.8696	1	0	4	1	4.153e-07	279058	species	                Collimonas arenae
+0.8696	1	0	4	1	7.638e-07	1000019778	assembly	                  GCF_000786695.1 Collimonas arenae strain=Cal35
+0.8696	1	1	4	1	7.696e-07	1000019779	sequence	                    NZ_CP009962.1 Collimonas arenae strain Cal35, complete genome
+17.39	20	0	2663	1.01	6.058e-07	1783272	no rank	      Terrabacteria group
+16.52	19	0	2423	1	1.337e-06	1239	phylum	        Firmicutes
+16.52	19	0	2423	1	1.893e-06	91061	class	          Bacilli
+16.52	19	0	2423	1	2.689e-06	1385	order	            Bacillales
+15.65	18	0	2419	1	5.663e-06	186817	family	              Bacillaceae
+15.65	18	0	2419	1	0.0003068	45667	genus	                Halobacillus
+15.65	18	17	2419	1	0.0006186	1570	species	                  Halobacillus halophilus
+0.8696	1	0	22	1	0.00506	866895	no rank	                    Halobacillus halophilus DSM 2266
+0.8696	1	0	22	1	0.00506	1000011493	assembly	                      GCF_000284515.1 Halobacillus halophilus DSM 2266 strain=type strain: DSM 2266
+0.8696	1	1	22	1	0.01417	1000011494	sequence	                        NC_017668.1 Halobacillus halophilus DSM 2266 complete genome
+0.8696	1	0	1	1	1.044e-08	90964	family	              Staphylococcaceae
+0.8696	1	0	1	1	1.183e-08	1279	genus	                Staphylococcus
+0.8696	1	1	1	1	2.275e-07	1282	species	                  Staphylococcus epidermidis
+0.8696	1	0	258	1	1.3e-07	201174	phylum	        Actinobacteria
+0.8696	1	0	246	1	1.28e-07	1760	class	          Actinobacteria
+0.8696	1	0	217	1	6.909e-07	85006	order	            Micrococcales
+0.8696	1	0	106	1	9.593e-07	1268	family	              Micrococcaceae
+0.8696	1	0	106	1	4.786e-05	1269	genus	                Micrococcus
+0.8696	1	0	106	1	4.786e-05	1270	species	                  Micrococcus luteus
+0.8696	1	0	106	1	4.786e-05	465515	no rank	                    Micrococcus luteus NCTC 2665
+0.8696	1	0	106	1	4.786e-05	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+0.8696	1	1	106	1	4.786e-05	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+0.8696	1	0	1	1	3.544e-09	10239	superkingdom	  Viruses
+0.8696	1	0	1	1	6.075e-09	35237	no rank	    dsDNA viruses, no RNA stage
+0.8696	1	0	1	1	1.103e-08	28883	order	      Caudovirales
+0.8696	1	0	1	1	3.234e-08	10699	family	        Siphoviridae
+0.8696	1	0	1	1	3.457e-06	186765	genus	          Lambdavirus
+0.8696	1	1	1	1	0.0002469	37554	species	            Escherichia virus HK97
