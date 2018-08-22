@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/Raiphy_eval_RAIphy.fasta.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Raiphy_eval_RAIphy.fasta.gz"
+	Command being timed: "krakenuniq --report-file=kraken/Raiphy_eval_RAIphy.fasta.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Raiphy_eval_RAIphy.fasta.gz"
 	User time (seconds): 81.19
 	System time (seconds): 48.73
 	Percent of CPU this job got: 541%

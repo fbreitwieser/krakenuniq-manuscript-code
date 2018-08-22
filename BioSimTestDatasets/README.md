@@ -14,6 +14,6 @@ This folder contains scripts for the analysis of the 35 datasets compiled by McI
 
 There are results for BLAST (filtered with Megan), Clark, Clark Spaced, Diamond (filtered with Megan), Gottcha, Kraken, LMAT, MetaFlow, MetaPhlAn, NBC and PhyloSift.
 
-### Kraken and KrakenHLL results
-- `krakenhll_results/{std,nt,orig}/` contains report and log files for KrakenHLL against three different databases. `orig` is the database used in the original publication.
--`kraken_results/std/log` contains log files for the runs of Kraken on test datasets, used for comparison with KrakenHLL
+### Kraken and KrakenUniq results
+- `krakenuniq_results/{std,nt,orig}/` contains report and log files for KrakenUniq against three different databases. `orig` is the database used in the original publication.
+-`kraken_results/std/log` contains log files for the runs of Kraken on test datasets, used for comparison with KrakenUniq

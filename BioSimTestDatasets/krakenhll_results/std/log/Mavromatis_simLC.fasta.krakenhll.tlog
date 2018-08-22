@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/Mavromatis_simLC.fasta.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Mavromatis_simLC.fasta.gz"
+	Command being timed: "krakenuniq --report-file=kraken/Mavromatis_simLC.fasta.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Mavromatis_simLC.fasta.gz"
 	User time (seconds): 78.38
 	System time (seconds): 52.64
 	Percent of CPU this job got: 507%

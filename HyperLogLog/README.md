@@ -1,6 +1,6 @@
 # HyperLogLog test
 
-The HyperLogLog implementation was tested both on random numbers and actual database k-mers. While filling the HyperLogLog counters, true counts and intermediate estimates are outputed at factors of 10 and tenths of factors of 10 - i. e. 1, 10, 100, 110, 120, ..., 1000, 1100, 1200, ... . The binaries to generate and count the numbers are part of KrakenHLL, but are not built by default. To build them, call `make allall` in the `src/` directory.
+The HyperLogLog implementation was tested both on random numbers and actual database k-mers. While filling the HyperLogLog counters, true counts and intermediate estimates are outputed at factors of 10 and tenths of factors of 10 - i. e. 1, 10, 100, 110, 120, ..., 1000, 1100, 1200, ... . The binaries to generate and count the numbers are part of KrakenUniq, but are not built by default. To build them, call `make allall` in the `src/` directory.
 
 ## Results on random data
 

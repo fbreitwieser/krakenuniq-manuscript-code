@@ -105,7 +105,7 @@ while (<>) {
 				next if @files > 2 || @files < 1;
 				next if @files != 2; ## temp - only take data from paired experiments
 
-				my $kraken_cmd = "krakenhll --threads $options{t} --fastq --gz";
+				my $kraken_cmd = "krakenuniq --threads $options{t} --fastq --gz";
 				$kraken_cmd .= " --paired" if (@files == 2);
 			
 				if (defined $options{"s"} && !-s "report-s/$basename.report.tsv") {
@@ -117,7 +117,7 @@ while (<>) {
 				}
 
 				if (defined $options{"E"} && !-s "report-euk/$basename.report.tsv") {
-					system_l("krakenhll --db $db --db $db_euk --paired --report-file report-euk2/$basename.report.tsv --fastq --gz --threads 2 --output kraken-euk2/$basename.kraken.tsv @files");
+					system_l("krakenuniq --db $db --db $db_euk --paired --report-file report-euk2/$basename.report.tsv --fastq --gz --threads 2 --output kraken-euk2/$basename.kraken.tsv @files");
 				}
 				if (-s "report-s/$basename.report.tsv" && defined $options{"S"}) {
 					my ($perc, $reads) = split(/\t/, `awk '\$7 == $species_taxid' report-s/$basename.report.tsv`);

@@ -23,7 +23,7 @@ truth_set <- read.delim("tax-sra-file1.txt", col.names = c("species_taxid", "SRR
 
 bla <- list(species=list(), genus=list())
 for (frac in c("frac0.03", "frac0.06", "frac0.15", "frac0.3", "frac0.6", "full")) { 
-    report <- read.delim(sprintf("krakenhll_results/std/sample1.%s.krakenhll.report.tsv", frac), stringsAsFactors = FALSE)
+    report <- read.delim(sprintf("krakenuniq_results/std/sample1.%s.krakenuniq.report.tsv", frac), stringsAsFactors = FALSE)
                                         #truth_set <- read.delim(sprintf("truth_sets/species/sample1.%s_TRUTH.txt", frac), col.names = c("SRR", "species_taxid", "species_taxid", "n_reads"), stringsAsFactors = FALSE)
     report$TP <- report$taxID %in% truth_set$species_taxid
     report$depth <- nchar(sub("[^ ].*", "", report$taxName))/2
@@ -93,7 +93,7 @@ ggsave("figures/sra_sampled_dataset-kmer_thesholds.pdf", width=6, height=2.5, dp
 
 
 frac <- "frac0.3"
-report <- read.delim(sprintf("krakenhll_results/std/sample1.%s.krakenhll.report.tsv", frac), stringsAsFactors = FALSE)
+report <- read.delim(sprintf("krakenuniq_results/std/sample1.%s.krakenuniq.report.tsv", frac), stringsAsFactors = FALSE)
 report$TP <- report$taxID %in% truth_set$species_taxid
 report$depth <- nchar(sub("[^ ].*", "", report$taxName))/2
 report <- report[!report$taxID %in% c(9606, 9605), ] ## Ignore human identifications

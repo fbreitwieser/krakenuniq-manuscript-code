@@ -12,8 +12,8 @@ tables: TODO
 
 figures: TODO
 
-krakenhll_results: ../../Databases/std ../../Databases/nt
-	./run_krakenhll.sh
+krakenuniq_results: ../../Databases/std ../../Databases/nt
+	./run_krakenuniq.sh
 
 fastq:
 	wget CCB_FTP/fastqs TODO

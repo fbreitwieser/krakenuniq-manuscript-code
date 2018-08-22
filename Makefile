@@ -1,8 +1,8 @@
 
 all: install
 
-krakenhll:
-	git clone https://github.com/fbreitwieser/krakenhll
+krakenuniq:
+	git clone https://github.com/fbreitwieser/krakenuniq
 
 install:
-	krakenhll/install_krakenhll.sh `pwd`/install
+	krakenuniq/install_krakenuniq.sh `pwd`/install

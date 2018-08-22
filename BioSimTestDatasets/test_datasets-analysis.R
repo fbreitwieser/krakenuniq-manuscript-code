@@ -32,9 +32,9 @@ truth_sets_fixed <- slapply(RANKS, function(rank_) {
 # Change in Carma_eval_carma (i.e. move of [Haemophilus] parasuis to genus Glaesserella) only applies to nt database
 truth_sets_fixed[["genus"]][["std"]][["Carma_eval_carma"]] <- truth_sets[["genus"]][["Carma_eval_carma"]]
 
-## Read KrakenHLL results for all databases
+## Read KrakenUniq results for all databases
 krr <- slapply(RANKS, function(rank_) slapply(DBS, function(db_)  
-         read_mason_reports(report_dir = sprintf("krakenhll_results/%s/report",db_), 
+         read_mason_reports(report_dir = sprintf("krakenuniq_results/%s/report",db_), 
                             rank_ = rank_, truth_set_ = truth_sets_fixed[[rank_]][[db_]])))
 
 ## database std does has an older taxonomy H. parasuis has been moved to Glaesserella 
@@ -46,7 +46,7 @@ report_names <- names(krr[[1]][[1]])
 dataset_description <- read_dataset_description("mcintyre-mason-datasets.csv", report_names)
 biological_sets <- report_names[dataset_description[report_names, "Data.Type"] == "Biological"]
 
-## Calculate the F1 scores for KrakenHLL on all databases
+## Calculate the F1 scores for KrakenUniq on all databases
 max.f1.scores <- slapply(RANKS, function(rank_) slapply(DBS, function(db_)
   get_max_f1_scores(krr[[rank_]][[db_]], truth_sets_fixed[[rank_]][[db_]])))
 
@@ -59,7 +59,7 @@ dataset_description <- dataset_description[report_names, ]
 report_names_bio <- dataset_description$Full_Name[dataset_description$Data.Type=="Biological"]
 report_names_sim <- dataset_description$Full_Name[dataset_description$Data.Type=="Simulated"]
 
-## Extend dataset description to contain F1 scores of KrakenHLL
+## Extend dataset description to contain F1 scores of KrakenUniq
 #biological_sets <- grep("ABRF|")
 #dataset_description <- set_max_f1_scores(dataset_description, max.f1.scores)
 
@@ -85,12 +85,12 @@ write.csv(f1rc_bs %>% arrange.matrix("avg", decreasing=T), "tables/test_datasets
 
 df_f1rc <- rbind(summarize_stat(max.recall, "Recall"), summarize_stat(max.f1.scores, "F1"))
 df_f1rc$Statistic <- factor(df_f1rc$Statistic, levels=c("Recall", "F1"))
-(krakenhll_stat <- (df_f1rc %>% 
+(krakenuniq_stat <- (df_f1rc %>% 
     dplyr::select(Data.Type, Rank, Statistic, dplyr::everything())) %>%
     dplyr::arrange(Data.Type, Rank, Statistic))
-write.csv(krakenhll_stat, "tables/test_datasets-f1-recall-for-krakenhll.csv")
+write.csv(krakenuniq_stat, "tables/test_datasets-f1-recall-for-krakenuniq.csv")
 
-pdf(sprintf("figures/test-datasets-krakenhll-kmers-reads.pdf"),
+pdf(sprintf("figures/test-datasets-krakenuniq-kmers-reads.pdf"),
     width=6,height=6, pointsize = 8,
     title="Reads vs k-mers on test datasets of McIntyre et al.")
 for (rn in report_names) {
@@ -155,7 +155,7 @@ ggsave(filename = "figures/test_datasets-datasets-kmer-vs-reads-std-species.pdf"
 
 ## Get logs (Suppl table 3)
 
-zlogs <- read_mason_logs("kraken_results/std/log", "krakenhll_results/std/log" )
+zlogs <- read_mason_logs("kraken_results/std/log", "krakenuniq_results/std/log" )
 write.csv(parse_log_results(dataset_description, zlogs), "tables/test_datasets-desc-plus-timings.csv")
 
 #########################################################

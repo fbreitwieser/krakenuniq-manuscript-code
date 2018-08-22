@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --db /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31 --threads 10 --fastq-input sample1.frac0.6.1.fq sample1.frac0.6.2.fq --report-file results/sample1.frac0.6.10.refseq-oct2017-k31.krakenhll.report.tsv --output results/sample1.frac0.6.10.refseq-oct2017-k31.krakenhll.tsv"
+	Command being timed: "krakenuniq --db /ccb/salz4-2/fbreitwieser/kraken-hll-test/dbs/refseq-oct2017-k31 --threads 10 --fastq-input sample1.frac0.6.1.fq sample1.frac0.6.2.fq --report-file results/sample1.frac0.6.10.refseq-oct2017-k31.krakenuniq.report.tsv --output results/sample1.frac0.6.10.refseq-oct2017-k31.krakenuniq.tsv"
 	User time (seconds): 3514.61
 	System time (seconds): 388.49
 	Percent of CPU this job got: 859%

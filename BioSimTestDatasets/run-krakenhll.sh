@@ -17,7 +17,7 @@ fi
   DB=`basename $DB_PATH`
   echo $DB_PATH $DB
   kraken --preload --db $DB_PATH --fasta <(printf ">A\nA")
-  HR=krakenhll_results/$DB
+  HR=krakenuniq_results/$DB
   mkdir -p ${HR}/{report,output,log}
   for R in ../fastq/*.gz; do
 	PARAM="--db ../../Databases/$DB $FAQ --threads $THREADS --gzip"
@@ -39,7 +39,7 @@ fi
 	else
 	  PARAM="$PARAM $R"
 	fi
-	[[ -s $HR/report/$RR.krakenhll.report.tsv ]] || /usr/bin/time -vo $HR/log/$RR.krakenhll.tlog ../../install/krakenhll --report-file $HR/report/$RR.krakenhll.report.tsv --output $HR/output/$RR.tsv $PARAM 2> $HR/log/$RR.krakenhll.log
+	[[ -s $HR/report/$RR.krakenuniq.report.tsv ]] || /usr/bin/time -vo $HR/log/$RR.krakenuniq.tlog ../../install/krakenuniq --report-file $HR/report/$RR.krakenuniq.report.tsv --output $HR/output/$RR.tsv $PARAM 2> $HR/log/$RR.krakenuniq.log
 	if [[ "$DB" == "std" ]]; then
 	  KR=kraken_results/$DB
 	  mkdir -p ${KR}/{report,output,log}

@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_paired_001.fastq.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip --paired datasets/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_R1_001.fastq.gz datasets/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_R2_001.fastq.gz"
+	Command being timed: "krakenuniq --report-file=kraken/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_paired_001.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip --paired datasets/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_R1_001.fastq.gz datasets/BioPool_BioPool_1_Cycle_02042016_CTGAAGCT-TATAGCCT_L001_R2_001.fastq.gz"
 	User time (seconds): 133.39
 	System time (seconds): 42.37
 	Percent of CPU this job got: 551%

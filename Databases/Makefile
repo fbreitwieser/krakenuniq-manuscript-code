@@ -1,24 +1,24 @@
 
 THREADS=10
 KRAKENHLL_DIR=../install
-KRAKENHLL_SRC_DIR=../krakenhll
+KRAKENHLL_SRC_DIR=../krakenuniq
 
 all: 
 	@echo "Specify one of the targets std, nt, or nt-helminths."
 
 nt: nt/database.kdb
 
-std: $(KRAKENHLL_DIR)/krakenhll-build std/download.complete
-	/usr/bin/time -v -o logs/std-build-time.log $(KRAKENHLL_DIR)/krakenhll-build --db std --threads $(THREADS) --build --taxids-for-genomes --taxids-for-sequences
+std: $(KRAKENHLL_DIR)/krakenuniq-build std/download.complete
+	/usr/bin/time -v -o logs/std-build-time.log $(KRAKENHLL_DIR)/krakenuniq-build --db std --threads $(THREADS) --build --taxids-for-genomes --taxids-for-sequences
 
 
-std/download.complete: $(KRAKENHLL_DIR)/krakenhll-download
-	time $(KRAKENHLL_DIR)/krakenhll-download --db std taxonomy contaminants
+std/download.complete: $(KRAKENHLL_DIR)/krakenuniq-download
+	time $(KRAKENHLL_DIR)/krakenuniq-download --db std taxonomy contaminants
 	## Execute download of microbial sequences twice, as files fail sometimes
 	for i in 1 2; do \
-		time $(KRAKENHLL_DIR)/krakenhll-download --db std --threads $(THREADS) --dust --include-viral-neighbors refseq/viral/Any refseq/archaea refseq/bacteria; \
+		time $(KRAKENHLL_DIR)/krakenuniq-download --db std --threads $(THREADS) --dust --include-viral-neighbors refseq/viral/Any refseq/archaea refseq/bacteria; \
 	done
-	time $(KRAKENHLL_DIR)/krakenhll-download --db std --threads $(THREADS) --fna rna,genomic refseq/vertebrate_mammalian/Chromosome/taxid9606
+	time $(KRAKENHLL_DIR)/krakenuniq-download --db std --threads $(THREADS) --fna rna,genomic refseq/vertebrate_mammalian/Chromosome/taxid9606
 	touch std/download.complete
 
 nt/database.kdb: $(KRAKENHLL_SRC_DIR)/indices/Makefile $(KRAKENHLL_SRC_DIR)/indices/microbial-taxa.tsv

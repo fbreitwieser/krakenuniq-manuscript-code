@@ -10,7 +10,7 @@ report:
 tables: 
 	cp -v tables_formatted/test_datasets-f1-recall-for-all-tools-bio.xlsx ../Tables/Table2-F1_Recall-AllTools-Bio.xlsx
 	cp -v tables_formatted/test_datasets-f1-recall-for-all-tools-sim.xlsx ../Tables/SupplTable4-F1_Recall-AllTools-Sim.xlsx
-	cp -v tables_formatted/test_datasets-f1-recall-for-krakenhll.xlsx ../Tables/Table1-F1_Recall-KrakenHLL.xlsx
+	cp -v tables_formatted/test_datasets-f1-recall-for-krakenuniq.xlsx ../Tables/Table1-F1_Recall-KrakenUniq.xlsx
 	cp -v tables_formatted/test_datasets-description-plus-timings.xlsx ../Tables/SupplTable3-TestDatasetsDescriptionAndTimings.xlsx
 
 figures:
@@ -54,8 +54,8 @@ tool_results_reformatted/species:
 	tar xvvf species_results_formatted.tar.gz
 	mv species_results_formatted.tar.gz archive
 
-krakenhll_results: ../../Databases/std ../../Databases/nt ../../Databases/orig
-	./run_krakenhll.sh
+krakenuniq_results: ../../Databases/std ../../Databases/nt ../../Databases/orig
+	./run_krakenuniq.sh
 
 fastq:
 	wget -r -l1 --no-parent --directory-prefix fastq.tmp --no-directories -A "*.gz" -R "P00*" -R "*NegControl*" https://ftp-private.ncbi.nlm.nih.gov/nist-immsa/IMMSA

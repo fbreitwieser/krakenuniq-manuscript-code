@@ -1,4 +1,4 @@
-# Supporting information and scripts for KrakenHLL (Breitwieser and Salzberg, 2018)
+# Supporting information and scripts for KrakenUniq (Breitwieser and Salzberg, 2018)
 
 ## Folder structure
 

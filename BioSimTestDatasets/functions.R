@@ -21,14 +21,14 @@ fix_names <- function(nn, ext = "") {
   nn
 }
 
-read_mason_reports <- function(report_dir, rank_, truth_set_, main_dir = "krakenhll_results") {
+read_mason_reports <- function(report_dir, rank_, truth_set_, main_dir = "krakenuniq_results") {
   
-  kr <- list.files(report_dir,pattern = "*.krakenhll.report.tsv", full.names = TRUE)
+  kr <- list.files(report_dir,pattern = "*.krakenuniq.report.tsv", full.names = TRUE)
   krr <- lapply(kr, function(x) {
     read.delim(x, strip.white=TRUE, stringsAsFactors=F) %>% subset(rank == rank_) %>% arrange(-reads)
   })
   
-  names(krr) <- fix_names(basename(kr), ".krakenhll.report.tsv")
+  names(krr) <- fix_names(basename(kr), ".krakenuniq.report.tsv")
   
   krr["MGRGnanopore_R6_2d_pass"] <- NULL ## Remove datasets w/o description
   krr["MGRGnanopore_R6_2d_fail"] <- NULL ## Remove datasets w/o description
@@ -75,8 +75,8 @@ read_mason_logs <- function(krak_log_dir, krakhll_log_dir) {
     krak_log <- strsplit(readLines(krak_log_f),"[ ()]")
     krak_tlog <- strsplit(readLines(sub("kraken.log$","kraken.tlog", krak_log_f)),": ")
     
-    krakhll_log_f<- sub("kraken.log$","krakenhll.log", krak_log_f) %>% sub(krak_log_dir, krakhll_log_dir, ., fixed=T)
-    krakhll_tlog_f<- sub("kraken.log$","krakenhll.tlog", krak_log_f) %>% sub(krak_log_dir, krakhll_log_dir, ., fixed=T)
+    krakhll_log_f<- sub("kraken.log$","krakenuniq.log", krak_log_f) %>% sub(krak_log_dir, krakhll_log_dir, ., fixed=T)
+    krakhll_tlog_f<- sub("kraken.log$","krakenuniq.tlog", krak_log_f) %>% sub(krak_log_dir, krakhll_log_dir, ., fixed=T)
     krakhll_log <- strsplit(readLines(krakhll_log_f),"[ ()]")
     krakhll_tlog <- strsplit(readLines(krakhll_tlog_f),": ")
     
@@ -501,14 +501,14 @@ parse_log_results <- function(dataset_description, logs) {
   do.call(rbind,lapply(seq_along(rownames(dataset_description)), function(rn) {
     dsd <- dataset_description[rn, c("Data.Type","Description","Publication.Source","Total.No..of.Reads")]
     dsd[["kraken mbpm"]] <- logs[rn, "krak_mbp"]
-    dsd[["krakenhll mbpm"]] <- logs[rn, "krakhll_mbp"]
+    dsd[["krakenuniq mbpm"]] <- logs[rn, "krakhll_mbp"]
     dsd[["diff mbpm"]] <- logs[rn, "diff_mbp"] 
     dsd[["kraken walltime"]] <- logs[rn, "krak_walltime"]
     dsd[["kraken-report walltime"]] <- logs[rn, "krak_rep_walltime"]
-    dsd[["krakenhll walltime"]] <- logs[rn, "krakhll_walltime"]
+    dsd[["krakenuniq walltime"]] <- logs[rn, "krakhll_walltime"]
     dsd[["diff walltime"]] <- logs[rn, "diff_walltime"]    
     dsd[["kraken mem [gb]"]] <- logs[rn, "krak_mrss_gb"]
-    dsd[["krakenhll mem [gb]"]] <- logs[rn, "krakhll_mrss_gb"]
+    dsd[["krakenuniq mem [gb]"]] <- logs[rn, "krakhll_mrss_gb"]
     dsd[["diff mem [gb]"]] <- logs[rn, "diff_mrss_gb"]
     dsd
   }))

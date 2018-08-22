@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/NA12878_NegControl_SL126487_0.fastq.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/NA12878_NegControl_SL126487_0.fastq.gz"
+	Command being timed: "krakenuniq --report-file=kraken/NA12878_NegControl_SL126487_0.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/NA12878_NegControl_SL126487_0.fastq.gz"
 	User time (seconds): 2647.71
 	System time (seconds): 369.21
 	Percent of CPU this job got: 913%

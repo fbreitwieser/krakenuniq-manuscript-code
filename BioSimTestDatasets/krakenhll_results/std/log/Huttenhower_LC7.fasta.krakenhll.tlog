@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/Huttenhower_LC7.fasta.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Huttenhower_LC7.fasta.gz"
+	Command being timed: "krakenuniq --report-file=kraken/Huttenhower_LC7.fasta.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Huttenhower_LC7.fasta.gz"
 	User time (seconds): 22.99
 	System time (seconds): 14.78
 	Percent of CPU this job got: 311%

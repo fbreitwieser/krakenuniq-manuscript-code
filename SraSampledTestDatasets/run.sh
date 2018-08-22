@@ -24,7 +24,7 @@ perl dl-fastqs-and-map.pl -S fastq-samples1 biosample-xmls/ bactSra_info.tab.txt
 for S in 1; do
 	cat fastq-samples$S/taxid*reads.1.fq > sampled-res/sample$S.1.fq
 	cat fastq-samples$S/taxid*reads.2.fq > sampled-res/sample$S.2.fq
-	krakenhll --paired --threads 20 --fastq --db ../../dbs/refseq-oct2017-k31 --report-file sampled-res/sample$S.report.tsv --output off sampled-res/sample$S.1.fq sampled-res/sample$S.2.fq
-	krakenhll --paired --threads 20 --fastq --db ../../dbs/refseq-oct2017-k31 --report-file sampled-res/sample$S.report.tsv --output off sampled-res/sample$S.1.fq sampled-res/sample$S.2.fq
+	krakenuniq --paired --threads 20 --fastq --db ../../dbs/refseq-oct2017-k31 --report-file sampled-res/sample$S.report.tsv --output off sampled-res/sample$S.1.fq sampled-res/sample$S.2.fq
+	krakenuniq --paired --threads 20 --fastq --db ../../dbs/refseq-oct2017-k31 --report-file sampled-res/sample$S.report.tsv --output off sampled-res/sample$S.1.fq sampled-res/sample$S.2.fq
 done
 ls fastq-samples1/*reads.1.fq | grep -o 'taxid[0-9]*' | sed 's/taxid//' > sampled-res/true-positives.txt

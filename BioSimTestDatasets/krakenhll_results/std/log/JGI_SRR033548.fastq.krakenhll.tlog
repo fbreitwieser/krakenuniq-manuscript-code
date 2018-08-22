@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/JGI_SRR033548.fastq.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/JGI_SRR033548.fastq.gz"
+	Command being timed: "krakenuniq --report-file=kraken/JGI_SRR033548.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/JGI_SRR033548.fastq.gz"
 	User time (seconds): 9.92
 	System time (seconds): 4.97
 	Percent of CPU this job got: 167%

@@ -1,7 +1,7 @@
 MAKEFLAGS += --no-builtin-rules
 .SUFFIXES:
 KDB=../Databases/std/database.kdb
-KRAKENHLL_DIR="../krakenhll/install"
+KRAKENHLL_DIR="../krakenuniq/install"
 
 all: hll-report.html
 

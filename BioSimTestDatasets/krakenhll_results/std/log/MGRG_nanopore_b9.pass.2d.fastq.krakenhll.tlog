@@ -1,4 +1,4 @@
-	Command being timed: "krakenhll --report-file=kraken/MGRG_nanopore_b9.pass.2d.fastq.krakenhll.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/MGRG_nanopore_b9.pass.2d.fastq.gz"
+	Command being timed: "krakenuniq --report-file=kraken/MGRG_nanopore_b9.pass.2d.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/MGRG_nanopore_b9.pass.2d.fastq.gz"
 	User time (seconds): 5.32
 	System time (seconds): 0.63
 	Percent of CPU this job got: 100%
