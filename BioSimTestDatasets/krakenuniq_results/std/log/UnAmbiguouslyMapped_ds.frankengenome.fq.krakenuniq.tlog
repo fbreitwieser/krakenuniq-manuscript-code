@@ -1,0 +1,23 @@
+	Command being timed: "krakenuniq --report-file=kraken/UnAmbiguouslyMapped_ds.frankengenome.fq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/UnAmbiguouslyMapped_ds.frankengenome.fq.gz"
+	User time (seconds): 61.05
+	System time (seconds): 31.22
+	Percent of CPU this job got: 456%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:20.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36324364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9290755
+	Voluntary context switches: 37516
+	Involuntary context switches: 190
+	Swaps: 0
+	File system inputs: 198799
+	File system outputs: 63088
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

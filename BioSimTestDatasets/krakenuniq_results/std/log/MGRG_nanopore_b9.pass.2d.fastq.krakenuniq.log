@@ -1,0 +1,13 @@
+/ccb/sw/packages/krakenuniq/classify -d ../dbs/refseq-oct2017-k31/database.kdb -i ../dbs/refseq-oct2017-k31/database.idx -t 10 -f -r kraken/MGRG_nanopore_b9.pass.2d.fastq.krakenuniq.report.tsv -a ../dbs/refseq-oct2017-k31/taxDB -p 12 /dev/fd/0
+ Database ../dbs/refseq-oct2017-k31/database.kdb
+Loaded database with 15102006752 keys with k of 31 [val_len 4, key_len 8].
+Reading taxonomy index from ../dbs/refseq-oct2017-k31/taxDB. Done, read 1834005 taxa.
+6 sequences (0.00 Mbp) processed in 0.006s (56.5 Kseq/m, 29.21 Mbp/m).
+  2 sequences classified (33.33%)
+  4 sequences unclassified (66.67%)
+Writing report file to kraken/MGRG_nanopore_b9.pass.2d.fastq.krakenuniq.report.tsv  ..
+Reading genome sizes from ../dbs/refseq-oct2017-k31/database.kdb.counts ... done
+Setting values in the taxonomy tree ... done
+Printing classification report ...  done
+Report finished in 0.074 seconds.
+Finishing up ...

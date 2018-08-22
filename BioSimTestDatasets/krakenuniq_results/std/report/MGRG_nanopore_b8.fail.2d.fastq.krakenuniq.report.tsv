@@ -1,0 +1,169 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+74.74	1769	1769	6339104	1.01	NA	0	no rank	unclassified
+25.26	598	43	17633	1.11	1.168e-06	1	no rank	root
+23.19	549	0	15757	1	1.064e-06	131567	no rank	  cellular organisms
+23.11	547	0	15721	1	1.335e-06	2	superkingdom	    Bacteria
+16.9	400	0	13409	1.01	3.051e-06	1783272	no rank	      Terrabacteria group
+15.08	357	0	12106	1.01	6.099e-06	201174	phylum	        Actinobacteria
+15.08	357	4	12075	1.01	6.282e-06	1760	class	          Actinobacteria
+14.79	350	1	11414	1.02	3.634e-05	85006	order	            Micrococcales
+14.7	348	0	10961	1.02	9.92e-05	1268	family	              Micrococcaceae
+14.66	347	0	10771	1.02	0.004863	1269	genus	                Micrococcus
+14.66	347	0	10771	1.02	0.004863	1270	species	                  Micrococcus luteus
+14.66	347	0	10771	1.02	0.004863	465515	no rank	                    Micrococcus luteus NCTC 2665
+14.66	347	0	10771	1.02	0.004863	1000008732	assembly	                      GCF_000023205.1 Micrococcus luteus NCTC 2665
+14.66	347	347	10771	1.02	0.004863	1000008733	sequence	                        NC_012803.1 Micrococcus luteus NCTC 2665, complete genome
+0.04225	1	0	3	1	4.06e-07	1742989	genus	                Glutamicibacter
+0.04225	1	0	3	1	4.06e-07	256701	species	                  Glutamicibacter arilaitensis
+0.04225	1	0	3	1	8.356e-07	861360	no rank	                    Glutamicibacter arilaitensis Re117
+0.04225	1	0	3	1	8.356e-07	1000019661	assembly	                      GCF_000197735.1 Glutamicibacter arilaitensis Re117
+0.04225	1	1	3	1	8.487e-07	1000019662	sequence	                        NC_014550.1 Arthrobacter arilaitensis RE117 chromosome, complete sequence
+0.04225	1	0	2	1	1.14e-07	85017	family	              Promicromonosporaceae
+0.04225	1	0	2	1	3.156e-07	254250	genus	                Isoptericola
+0.04225	1	0	2	1	5.786e-07	372663	species	                  Isoptericola dokdonensis
+0.04225	1	0	2	1	5.786e-07	1300344	no rank	                    Isoptericola dokdonensis DS-3
+0.04225	1	0	2	1	5.786e-07	1000020248	assembly	                      GCF_001636295.1 Isoptericola dokdonensis DS-3
+0.04225	1	1	2	1	5.786e-07	1000020249	sequence	                        NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome
+0.0845	2	0	5	1	3.044e-08	85010	order	            Pseudonocardiales
+0.0845	2	0	5	1	3.044e-08	2070	family	              Pseudonocardiaceae
+0.04225	1	0	2	1	5.074e-08	1813	genus	                Amycolatopsis
+0.04225	1	1	2	1	2.085e-07	33910	species	                  Amycolatopsis mediterranei
+0.04225	1	1	1	1	3.441e-08	1847	genus	                Pseudonocardia
+0.04225	1	0	7	1	1.208e-08	85007	order	            Corynebacteriales
+0.04225	1	0	5	1	3.335e-08	85025	family	              Nocardiaceae
+0.04225	1	0	4	1	7.817e-08	1817	genus	                Nocardia
+0.04225	1	0	4	1	2.663e-07	37326	species	                  Nocardia brasiliensis
+0.04225	1	0	2	1	3.053e-07	1133849	no rank	                    Nocardia brasiliensis ATCC 700358
+0.04225	1	0	2	1	3.053e-07	1000016121	assembly	                      GCF_000250675.2 Nocardia brasiliensis ATCC 700358 strain=HUJEG-1
+0.04225	1	1	2	1	3.053e-07	1000016122	sequence	                        NC_018681.1 Nocardia brasiliensis ATCC 700358, complete genome
+1.817	43	0	1303	1	7.191e-07	1239	phylum	        Firmicutes
+1.817	43	0	1303	1	1.018e-06	91061	class	          Bacilli
+1.817	43	0	1303	1	1.446e-06	1385	order	            Bacillales
+1.69	40	0	1240	1	2.903e-06	186817	family	              Bacillaceae
+1.69	40	0	1236	1	0.0001567	45667	genus	                Halobacillus
+1.69	40	40	1236	1	0.0003161	1570	species	                  Halobacillus halophilus
+0.1267	3	0	63	1	6.576e-07	90964	family	              Staphylococcaceae
+0.1267	3	0	63	1	7.45e-07	1279	genus	                Staphylococcus
+0.1267	3	3	63	1	1.434e-05	1282	species	                  Staphylococcus epidermidis
+6.21	147	0	2038	1.02	3.355e-07	1224	phylum	      Proteobacteria
+6.168	146	0	2013	1.02	7.074e-07	1236	class	        Gammaproteobacteria
+3.38	80	1	1289	1.03	1.565e-06	91347	order	          Enterobacterales
+3.338	79	28	1270	1.03	2.951e-06	543	family	            Enterobacteriaceae
+1.732	41	2	341	1.11	7.789e-06	561	genus	              Escherichia
+1.648	39	25	283	1.13	8.133e-06	562	species	                Escherichia coli
+0.3802	9	0	14	3.71	0.0009398	1446746	no rank	                  Escherichia coli O6:H16
+0.3802	9	0	14	3.71	0.0009398	1000005847	assembly	                    GCF_002269325.1 Escherichia coli O6:H16 strain=2011EL-1370-2
+0.3802	9	9	14	3.71	0.0009998	1000005848	sequence	                      NZ_CP022912.1 Escherichia coli O6:H16 strain 2011EL-1370-2, complete genome
+0.0845	2	0	3	1	1.966e-05	1000005355	assembly	                  GCF_001900315.1 Escherichia coli strain=C4
+0.0845	2	2	3	1	1.966e-05	1000005356	sequence	                    NZ_CP010121.1 Escherichia coli strain C4, complete genome
+0.04225	1	0	9	1	0.00032	1045010	no rank	                  Escherichia coli O157
+0.04225	1	0	9	1	0.0007496	1000005158	assembly	                    GCF_001650295.1 Escherichia coli O157 strain=644-PT8
+0.04225	1	1	9	1	0.0007496	1000005159	sequence	                      NZ_CP015831.1 Escherichia coli O157 strain 644-PT8, complete genome
+0.04225	1	1	4	1	3.626e-05	83334	no rank	                  Escherichia coli O157:H7
+0.04225	1	0	1	1	8.646e-05	1000005238	assembly	                  GCF_001721525.1 Escherichia coli strain=MS6198
+0.04225	1	1	1	1	0.0001476	1000005239	sequence	                    NZ_CP015834.1 Escherichia coli strain MS6198, complete genome
+0.2112	5	0	19	1	4.588e-07	590	genus	              Salmonella
+0.2112	5	0	19	1	5.291e-07	28901	species	                Salmonella enterica
+0.169	4	1	18	1	1.141e-06	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.04225	1	1	13	1	0.0001393	98360	no rank	                    Salmonella enterica subsp. enterica serovar Dublin
+0.04225	1	1	2	1	5.096e-06	58712	no rank	                    Salmonella enterica subsp. enterica serovar Anatum
+0.04225	1	0	2	1	1.264e-05	82689	no rank	                    Salmonella enterica subsp. enterica serovar Muenster
+0.04225	1	0	2	1	1.264e-05	1124958	no rank	                      Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.04225	1	0	2	1	1.264e-05	1000014493	assembly	                        GCF_000487035.2 Salmonella enterica subsp. enterica serovar Muenster str. 0315
+0.04225	1	1	2	1	1.378e-05	1000014494	sequence	                          NZ_CP019198.1 Salmonella enterica subsp. enterica serovar Muenster str. 0315 strain 315, complete genome
+0.04225	1	0	1	1	1.136e-05	1000015126	assembly	                  GCF_002209205.1 Salmonella enterica strain=FDAARGOS_313
+0.04225	1	1	1	1	1.208e-05	1000015127	sequence	                    NZ_CP022069.1 Salmonella enterica strain FDAARGOS_313, complete genome
+0.169	4	0	24	1.21	1.293e-05	620	genus	              Shigella
+0.1267	3	0	23	1.22	3.876e-05	623	species	                Shigella flexneri
+0.1267	3	0	23	1.22	0.0009752	374923	no rank	                  Shigella flexneri 1a
+0.1267	3	0	23	1.22	0.001501	1000006878	assembly	                    GCF_001578125.1 Shigella flexneri 1a strain=0228
+0.1267	3	3	23	1.22	0.01256	1000006881	sequence	                      NZ_CP012733.1 Shigella flexneri 1a strain 0228 plasmid, complete sequence
+0.04225	1	1	1	1	2.992e-06	624	species	                Shigella sonnei
+0.04225	1	0	1	1	1.812e-08	544	genus	              Citrobacter
+0.04225	1	0	1	1	2.817e-07	67824	species	                Citrobacter farmeri
+0.04225	1	0	1	1	2.817e-07	1000017400	assembly	                  GCF_002249995.1 Citrobacter farmeri strain=AUSMDU00008141
+0.04225	1	1	1	1	2.821e-07	1000017401	sequence	                    NZ_CP022695.1 Citrobacter farmeri strain AUSMDU00008141 chromosome, complete genome
+2.788	66	0	687	1	9.929e-07	72274	order	          Pseudomonadales
+2.788	66	0	687	1	1.179e-06	135621	family	            Pseudomonadaceae
+2.746	65	12	680	1	1.198e-06	286	genus	              Pseudomonas
+1.225	29	0	230	1	4.533e-05	219572	species	                Pseudomonas antarctica
+1.225	29	0	230	1	4.533e-05	1000019370	assembly	                  GCF_001647715.1 Pseudomonas antarctica strain=PAMC 27494
+1.225	29	29	230	1	4.671e-05	1000019371	sequence	                    NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+0.8872	21	5	167	1	1.614e-06	136843	species group	                Pseudomonas fluorescens group
+0.4225	10	3	90	1	1.549e-06	294	species	                  Pseudomonas fluorescens
+0.1267	3	0	15	1	2.772e-06	1000002064	assembly	                    GCF_001612705.1 Pseudomonas fluorescens strain=LBUM636
+0.1267	3	3	15	1	2.772e-06	1000002065	sequence	                      NZ_CP012400.1 Pseudomonas fluorescens strain LBUM636, complete genome
+0.0845	2	0	12	1	2.645e-06	216595	no rank	                    Pseudomonas fluorescens SBW25
+0.0845	2	0	12	1	2.645e-06	1000002041	assembly	                      GCF_000009225.2 Pseudomonas fluorescens SBW25
+0.0845	2	2	12	1	2.645e-06	1000002042	sequence	                        NC_012660.1 Pseudomonas fluorescens SBW25 complete genome
+0.04225	1	0	24	1	2.891e-05	1000002073	assembly	                    GCF_001747385.1 Pseudomonas fluorescens strain=Pt14
+0.04225	1	1	24	1	2.891e-05	1000002074	sequence	                      NZ_CP017296.1 Pseudomonas fluorescens strain Pt14 chromosome, complete genome
+0.04225	1	0	5	1	1.029e-06	1000002060	assembly	                    GCF_001307155.1 Pseudomonas fluorescens strain=FW300-N2E3
+0.04225	1	1	5	1	1.029e-06	1000002061	sequence	                      NZ_CP012830.1 Pseudomonas fluorescens strain FW300-N2E3, complete genome
+0.2112	5	0	43	1	4.737e-06	47878	species	                  Pseudomonas azotoformans
+0.1267	3	0	36	1	8.308e-06	1000016599	assembly	                    GCF_002007785.1 Pseudomonas azotoformans strain=F77
+0.1267	3	3	36	1	8.308e-06	1000016600	sequence	                      NZ_CP019856.1 Pseudomonas azotoformans strain F77 chromosome, complete genome
+0.0845	2	0	7	1	1.509e-06	1000016597	assembly	                    GCF_001579805.1 Pseudomonas azotoformans strain=S4
+0.0845	2	2	7	1	1.509e-06	1000016598	sequence	                      NZ_CP014546.1 Pseudomonas azotoformans strain S4, complete genome
+0.04225	1	0	7	1	1.36e-06	76761	species	                  Pseudomonas veronii
+0.04225	1	0	7	1	1.36e-06	1000017597	assembly	                    GCF_002028325.1 Pseudomonas veronii strain=R02
+0.04225	1	1	7	1	1.36e-06	1000017598	sequence	                      NZ_CP018420.1 Pseudomonas veronii strain R02 chromosome, complete genome
+0.04225	1	0	16	1	2.243e-07	136845	species group	                Pseudomonas putida group
+0.04225	1	0	15	1	3.437e-06	47880	species	                  Pseudomonas fulva
+0.04225	1	0	15	1	3.437e-06	743720	no rank	                    Pseudomonas fulva 12-X
+0.04225	1	0	15	1	3.437e-06	1000016603	assembly	                      GCF_000213805.1 Pseudomonas fulva 12-X
+0.04225	1	1	15	1	3.437e-06	1000016604	sequence	                        NC_015556.1 Pseudomonas fulva 12-X, complete genome
+0.04225	1	0	3	1	3.176e-07	198620	species	                Pseudomonas koreensis
+0.04225	1	0	3	1	6.649e-07	1000019175	assembly	                  GCF_001654515.1 Pseudomonas koreensis strain=CRS05-R5
+0.04225	1	1	3	1	6.649e-07	1000019176	sequence	                    NZ_CP015852.1 Pseudomonas sp. CRS05-R5, complete genome
+0.04225	1	0	1	1	1.199e-07	1283291	species	                Pseudomonas sp. URMO17WK12:I11
+0.04225	1	0	1	1	2.057e-07	1000022076	assembly	                  GCF_001511755.1 Pseudomonas sp. URMO17WK12:I11
+0.04225	1	1	1	1	2.057e-07	1000022077	sequence	                    NZ_LN854573.1 Pseudomonas sp. URMO17WK12:I11 genome assembly Shine, chromosome : 1
+0.04225	1	0	2	1	1.812e-07	351	subfamily	              Azotobacter group
+0.04225	1	0	2	1	1.812e-07	352	genus	                Azotobacter
+0.04225	1	1	2	1	4.486e-07	354	species	                  Azotobacter vinelandii
+0.04225	1	0	5	1	4.206e-09	28216	class	        Betaproteobacteria
+0.04225	1	0	4	1	7.059e-08	206351	order	          Neisseriales
+0.04225	1	0	4	1	1.651e-07	1499392	family	            Chromobacteriaceae
+0.04225	1	0	4	1	4.658e-07	90153	no rank	              Chromobacterium group
+0.04225	1	0	4	1	4.658e-07	535	genus	                Chromobacterium
+0.04225	1	0	4	1	9.549e-07	1108595	species	                  Chromobacterium vaccinii
+0.04225	1	0	4	1	9.549e-07	1000021701	assembly	                    GCF_001855275.1 Chromobacterium vaccinii strain=21-1
+0.04225	1	1	4	1	9.549e-07	1000021702	sequence	                      NZ_CP017707.1 Chromobacterium vaccinii strain 21-1, complete genome
+0.0845	2	0	24	1.83	9.277e-09	2759	superkingdom	    Eukaryota
+0.0845	2	0	24	1.83	9.277e-09	33154	no rank	      Opisthokonta
+0.0845	2	0	24	1.83	9.277e-09	33208	kingdom	        Metazoa
+0.0845	2	0	24	1.83	9.277e-09	6072	no rank	          Eumetazoa
+0.0845	2	0	24	1.83	9.277e-09	33213	no rank	            Bilateria
+0.0845	2	0	24	1.83	9.277e-09	33511	no rank	              Deuterostomia
+0.0845	2	0	24	1.83	9.277e-09	7711	phylum	                Chordata
+0.0845	2	0	24	1.83	9.277e-09	89593	subphylum	                  Craniata
+0.0845	2	0	24	1.83	9.277e-09	7742	no rank	                    Vertebrata
+0.0845	2	0	24	1.83	9.277e-09	7776	no rank	                      Gnathostomata
+0.0845	2	0	24	1.83	9.277e-09	117570	no rank	                        Teleostomi
+0.0845	2	0	24	1.83	9.277e-09	117571	no rank	                          Euteleostomi
+0.0845	2	0	24	1.83	9.277e-09	8287	no rank	                            Sarcopterygii
+0.0845	2	0	24	1.83	9.277e-09	1338369	no rank	                              Dipnotetrapodomorpha
+0.0845	2	0	24	1.83	9.277e-09	32523	no rank	                                Tetrapoda
+0.0845	2	0	24	1.83	9.277e-09	32524	no rank	                                  Amniota
+0.0845	2	0	24	1.83	9.277e-09	40674	class	                                    Mammalia
+0.0845	2	0	24	1.83	9.277e-09	32525	no rank	                                      Theria
+0.0845	2	0	24	1.83	9.277e-09	9347	no rank	                                        Eutheria
+0.0845	2	0	24	1.83	9.277e-09	1437010	no rank	                                          Boreoeutheria
+0.0845	2	0	24	1.83	9.277e-09	314146	superorder	                                            Euarchontoglires
+0.0845	2	0	24	1.83	9.277e-09	9443	order	                                              Primates
+0.0845	2	0	24	1.83	9.277e-09	376913	suborder	                                                Haplorrhini
+0.0845	2	0	24	1.83	9.277e-09	314293	infraorder	                                                  Simiiformes
+0.0845	2	0	24	1.83	9.277e-09	9526	parvorder	                                                    Catarrhini
+0.0845	2	0	24	1.83	9.277e-09	314295	superfamily	                                                      Hominoidea
+0.0845	2	0	24	1.83	9.277e-09	9604	family	                                                        Hominidae
+0.0845	2	0	24	1.83	9.277e-09	207598	subfamily	                                                          Homininae
+0.0845	2	0	24	1.83	9.277e-09	9605	genus	                                                            Homo
+0.0845	2	0	24	1.83	9.277e-09	9606	species	                                                              Homo sapiens
+0.0845	2	2	5	1	6.805e-08	1000171220	assembly	                                                                GCF_000306695.2 Homo sapiens
+0.2535	6	0	19	1.68	6.733e-08	10239	superkingdom	  Viruses
+0.2535	6	0	19	1.68	1.154e-07	35237	no rank	    dsDNA viruses, no RNA stage
+0.2535	6	0	19	1.68	2.096e-07	28883	order	      Caudovirales
+0.2535	6	1	18	1.72	5.822e-07	10699	family	        Siphoviridae
+0.2112	5	0	17	1.76	5.877e-05	186765	genus	          Lambdavirus
+0.2112	5	5	17	1.76	0.004196	37554	species	            Escherichia virus HK97

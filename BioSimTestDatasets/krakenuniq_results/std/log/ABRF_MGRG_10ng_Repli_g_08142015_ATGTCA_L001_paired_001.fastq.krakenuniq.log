@@ -1,0 +1,13 @@
+/ccb/sw/packages/krakenuniq/classify -d ../dbs/refseq-oct2017-k31/database.kdb -i ../dbs/refseq-oct2017-k31/database.idx -t 10 -r kraken/ABRF_MGRG_10ng_Repli_g_08142015_ATGTCA_L001_paired_001.fastq.krakenuniq.report.tsv -a ../dbs/refseq-oct2017-k31/taxDB -p 12 /dev/fd/0
+ Database ../dbs/refseq-oct2017-k31/database.kdb
+Loaded database with 15102006752 keys with k of 31 [val_len 4, key_len 8].
+Reading taxonomy index from ../dbs/refseq-oct2017-k31/taxDB. Done, read 1834005 taxa.
+1608052 sequences (969.66 Mbp) processed in 71.737s (1344.9 Kseq/m, 811.00 Mbp/m).
+  1555615 sequences classified (96.74%)
+  52437 sequences unclassified (3.26%)
+Writing report file to kraken/ABRF_MGRG_10ng_Repli_g_08142015_ATGTCA_L001_paired_001.fastq.krakenuniq.report.tsv  ..
+Reading genome sizes from ../dbs/refseq-oct2017-k31/database.kdb.counts ... done
+Setting values in the taxonomy tree ... done
+Printing classification report ...  done
+Report finished in 0.998 seconds.
+Finishing up ...

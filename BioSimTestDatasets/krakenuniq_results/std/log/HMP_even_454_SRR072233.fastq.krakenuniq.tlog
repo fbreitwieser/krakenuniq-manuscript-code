@@ -1,0 +1,23 @@
+	Command being timed: "krakenuniq --report-file=kraken/HMP_even_454_SRR072233.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip datasets/HMP_even_454_SRR072233.fastq.gz"
+	User time (seconds): 568.03
+	System time (seconds): 77.82
+	Percent of CPU this job got: 767%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:24.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87731144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 28103170
+	Voluntary context switches: 113656
+	Involuntary context switches: 1502
+	Swaps: 0
+	File system inputs: 198799
+	File system outputs: 314480
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

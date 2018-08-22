@@ -1,0 +1,23 @@
+	Command being timed: "krakenuniq --report-file=kraken/Raiphy_eval_RAIphy.fasta.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fasta --threads 10 --gzip datasets/Raiphy_eval_RAIphy.fasta.gz"
+	User time (seconds): 81.19
+	System time (seconds): 48.73
+	Percent of CPU this job got: 541%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45427840
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11966722
+	Voluntary context switches: 22300
+	Involuntary context switches: 174
+	Swaps: 0
+	File system inputs: 198799
+	File system outputs: 77503
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

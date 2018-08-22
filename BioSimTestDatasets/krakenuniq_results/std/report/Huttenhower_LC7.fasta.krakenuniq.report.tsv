@@ -1,0 +1,875 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.506	16265	16265	6732276	1.05	NA	0	no rank	unclassified
+93.49	233735	21	4850911	1.57	0.0003212	1	no rank	root
+93.49	233713	0	4850911	1.57	0.0003276	131567	no rank	  cellular organisms
+93.36	233396	53	4834117	1.57	0.0004106	2	superkingdom	    Bacteria
+71.58	178956	0	3159627	1.84	0.003771	1783270	no rank	      FCB group
+71.58	178956	0	3159627	1.84	0.00384	68336	no rank	        Bacteroidetes/Chlorobi group
+71.58	178956	42	3159627	1.84	0.004052	976	phylum	          Bacteroidetes
+71.56	178903	0	3157614	1.84	0.01901	768503	class	            Cytophagia
+71.56	178903	17	3157614	1.84	0.01901	768507	order	              Cytophagales
+71.55	178883	4	3157614	1.84	0.0587	89373	family	                Cytophagaceae
+70.61	176535	0	3051069	1.88	0.7356	978	genus	                  Cytophaga
+70.61	176535	0	3051069	1.88	0.7356	985	species	                    Cytophaga hutchinsonii
+70.61	176535	0	3051069	1.88	0.7356	269798	no rank	                      Cytophaga hutchinsonii ATCC 33406
+70.61	176535	0	3051069	1.88	0.7356	1000008280	assembly	                        GCF_000014145.1 Cytophaga hutchinsonii ATCC 33406
+70.61	176535	176535	3051069	1.88	0.7356	1000008281	sequence	                          NC_008255.1 Cytophaga hutchinsonii ATCC 33406, complete genome
+0.9372	2343	0	74616	1.01	0.01946	319458	genus	                  Leadbetterella
+0.9372	2343	0	74616	1.01	0.01946	316068	species	                    Leadbetterella byssophila
+0.9372	2343	0	74616	1.01	0.01946	649349	no rank	                      Leadbetterella byssophila DSM 17132
+0.9372	2343	0	74616	1.01	0.01946	1000020000	assembly	                        GCF_000166395.1 Leadbetterella byssophila DSM 17132
+0.9372	2343	2343	74616	1.01	0.01946	1000020001	sequence	                          NC_014655.1 Leadbetterella byssophila DSM 17132, complete genome
+0.0004	1	0	18	1	2.635e-06	120831	genus	                  Dyadobacter
+0.0004	1	0	18	1	2.635e-06	94254	species	                    Dyadobacter fermentans
+0.0004	1	0	18	1	2.635e-06	471854	no rank	                      Dyadobacter fermentans DSM 18053
+0.0004	1	0	18	1	2.635e-06	1000018118	assembly	                        GCF_000023125.1 Dyadobacter fermentans DSM 18053
+0.0004	1	1	18	1	2.635e-06	1000018119	sequence	                          NC_013037.1 Dyadobacter fermentans DSM 18053, complete genome
+0.0008	2	0	22	1.18	3.906e-07	1853232	family	                Hymenobacteraceae
+0.0004	1	0	10	1.4	3.103e-07	89966	genus	                  Hymenobacter
+0.0004	1	0	2	3	4.276e-07	1411621	species	                    Hymenobacter sedentarius
+0.0004	1	0	2	3	4.276e-07	1000022333	assembly	                      GCF_001507645.1 Hymenobacter sedentarius strain=DG5B
+0.0004	1	1	2	3	4.276e-07	1000022334	sequence	                        NZ_CP013909.1 Hymenobacter sedentarius, complete genome
+0.0004	1	0	1	1	7.111e-08	1379908	genus	                  Rufibacter
+0.0004	1	0	1	1	1.895e-07	512763	species	                    Rufibacter tibetensis
+0.0004	1	1	1	1	1.895e-07	1000020936	assembly	                      GCF_001310085.1 Rufibacter tibetensis strain=1351
+0.0004	1	0	41	1	1.691e-06	563798	family	                Cyclobacteriaceae
+0.0004	1	0	4	1	7.503e-07	390846	genus	                  Echinicola
+0.0004	1	0	4	1	7.503e-07	390884	species	                    Echinicola vietnamensis
+0.0004	1	0	4	1	7.503e-07	926556	no rank	                      Echinicola vietnamensis DSM 17526
+0.0004	1	0	4	1	7.503e-07	1000020393	assembly	                        GCF_000325705.1 Echinicola vietnamensis DSM 17526
+0.0004	1	1	4	1	7.503e-07	1000020394	sequence	                          NC_019904.1 Echinicola vietnamensis DSM 17526, complete genome
+0.0016	4	0	39	1	4.968e-07	117747	class	            Sphingobacteriia
+0.0016	4	0	39	1	4.968e-07	200666	order	              Sphingobacteriales
+0.0016	4	1	39	1	4.968e-07	84566	family	                Sphingobacteriaceae
+0.0008	2	1	20	1	8.797e-07	84567	genus	                  Pedobacter
+0.0004	1	0	15	1	2.653e-06	188932	species	                    Pedobacter cryoconitis
+0.0004	1	0	15	1	2.653e-06	1000019054	assembly	                      GCF_001590605.1 Pedobacter cryoconitis strain=PAMC 27485
+0.0004	1	1	15	1	2.653e-06	1000019055	sequence	                        NZ_CP014504.1 Pedobacter cryoconitis strain PAMC 27485, complete genome
+0.0004	1	0	5	1	3.044e-07	423349	genus	                  Mucilaginibacter
+0.0004	1	0	5	1	9.933e-07	1234841	species	                    Mucilaginibacter sp. BJC16-A31
+0.0004	1	0	5	1	9.933e-07	1000022002	assembly	                      GCF_002257585.1 Mucilaginibacter sp. BJC16-A31
+0.0004	1	1	5	1	9.933e-07	1000022003	sequence	                        NZ_CP022743.1 Mucilaginibacter sp. BJC16-A31 chromosome, complete genome
+0.0016	4	0	30	1	6.819e-07	1853228	class	            Chitinophagia
+0.0016	4	0	30	1	6.819e-07	1853229	order	              Chitinophagales
+0.0016	4	1	30	1	6.819e-07	563835	family	                Chitinophagaceae
+0.0004	1	0	10	1	1.32e-06	649460	genus	                  Filimonas
+0.0004	1	0	10	1	1.32e-06	477680	species	                    Filimonas lacunae
+0.0004	1	0	10	1	1.32e-06	1000020714	assembly	                      GCF_002355595.1 Filimonas lacunae strain=NBRC 104114
+0.0004	1	1	10	1	1.32e-06	1000020715	sequence	                        NZ_AP017422.1 Filimonas lacunae DNA, complete genome, strain: NBRC 104114
+0.0004	1	0	8	1	8.161e-07	379899	genus	                  Niabella
+0.0004	1	0	8	1	1.498e-06	1176587	species	                    Niabella ginsenosidivorans
+0.0004	1	0	8	1	1.498e-06	1000021888	assembly	                      GCF_001654455.1 Niabella ginsenosidivorans strain=BS26
+0.0004	1	1	8	1	1.498e-06	1000021889	sequence	                        NZ_CP015772.1 Niabella ginsenosidivorans strain BS26 chromosome, complete genome
+0.0004	1	0	2	1	2.25e-07	79328	genus	                  Chitinophaga
+0.0004	1	0	2	1	2.25e-07	79329	species	                    Chitinophaga pinensis
+0.0004	1	0	2	1	2.25e-07	485918	no rank	                      Chitinophaga pinensis DSM 2588
+0.0004	1	0	2	1	2.25e-07	1000017646	assembly	                        GCF_000024005.1 Chitinophaga pinensis DSM 2588
+0.0004	1	1	2	1	2.25e-07	1000017647	sequence	                          NC_013132.1 Chitinophaga pinensis DSM 2588, complete genome
+0.0012	3	0	150	1.08	4.805e-07	117743	class	            Flavobacteriia
+0.0012	3	0	150	1.08	4.805e-07	200644	order	              Flavobacteriales
+0.0012	3	0	138	1.09	4.625e-07	49546	family	                Flavobacteriaceae
+0.0004	1	0	14	1	4.691e-07	1016	genus	                  Capnocytophaga
+0.0004	1	0	1	1	2.324e-07	1019	species	                    Capnocytophaga sputigena
+0.0004	1	0	1	1	9.943e-07	1000008312	assembly	                      GCF_002302395.1 Capnocytophaga sputigena strain=KC1668
+0.0004	1	1	1	1	9.943e-07	1000008313	sequence	                        NZ_CP022385.1 Capnocytophaga sputigena strain KC1668, complete genome
+0.0004	1	0	5	1	3.322e-07	104264	genus	                  Cellulophaga
+0.0004	1	1	5	1	8.339e-07	76594	species	                    Cellulophaga baltica
+0.0004	1	0	1	1	1.211e-07	326319	genus	                  Dokdonia
+0.0004	1	0	1	1	3.169e-07	983548	species	                    Dokdonia sp. 4H-3-7-5
+0.0004	1	0	1	1	3.169e-07	1000021566	assembly	                      GCF_000212355.1 Dokdonia sp. 4H-3-7-5
+0.0004	1	1	1	1	3.169e-07	1000021567	sequence	                        NC_015496.1 Dokdonia sp. 4H-3-7-5, complete genome
+10.15	25374	21	761172	1.1	0.0001253	1224	phylum	      Proteobacteria
+5.241	13102	26	398220	1.08	0.0001399	1236	class	        Gammaproteobacteria
+4.451	11127	0	331051	1.1	0.005367	135625	order	          Pasteurellales
+4.451	11127	48	331051	1.1	0.005367	712	family	            Pasteurellaceae
+4.429	11072	3	328093	1.09	0.03607	713	genus	              Actinobacillus
+4.427	11067	0	327920	1.09	0.1499	67854	species	                Actinobacillus succinogenes
+4.427	11067	0	327920	1.09	0.1499	339671	no rank	                  Actinobacillus succinogenes 130Z
+4.427	11067	0	327920	1.09	0.1499	1000017412	assembly	                    GCF_000017245.1 Actinobacillus succinogenes 130Z
+4.427	11067	11067	327920	1.09	0.1499	1000017413	sequence	                      NC_009655.1 Actinobacillus succinogenes 130Z, complete genome
+0.0008	2	0	42	1	1.477e-05	715	species	                Actinobacillus pleuropneumoniae
+0.0008	2	0	22	1	0.000119	434270	no rank	                  Actinobacillus pleuropneumoniae serovar 3
+0.0008	2	0	22	1	0.000119	434271	no rank	                    Actinobacillus pleuropneumoniae serovar 3 str. JL03
+0.0008	2	0	22	1	0.000119	1000007611	assembly	                      GCF_000016685.1 Actinobacillus pleuropneumoniae serovar 3 str. JL03
+0.0008	2	2	22	1	0.000119	1000007612	sequence	                        NC_010278.1 Actinobacillus pleuropneumoniae serovar 3 str. JL03, complete genome
+0.0008	2	0	53	1	3.105e-06	724	genus	              Haemophilus
+0.0004	1	1	22	1	9.91e-06	730	species	                [Haemophilus] ducreyi
+0.0004	1	0	19	1	4.634e-06	738	species	                [Haemophilus] parasuis
+0.0004	1	0	18	1	4.912e-05	557723	no rank	                  Haemophilus parasuis SH0165
+0.0004	1	0	18	1	4.912e-05	1000007713	assembly	                    GCF_000021885.1 Haemophilus parasuis SH0165
+0.0004	1	1	18	1	4.912e-05	1000007714	sequence	                      NC_011852.1 Haemophilus parasuis SH0165, complete genome
+0.0008	2	0	31	1	1.446e-05	697331	genus	              Basfia
+0.0008	2	0	31	1	1.446e-05	157673	species	                [Mannheimia] succiniciproducens
+0.0008	2	0	31	1	1.446e-05	221988	no rank	                  Mannheimia succiniciproducens MBEL55E
+0.0008	2	0	31	1	1.446e-05	1000018755	assembly	                    GCF_000007745.1 Mannheimia succiniciproducens MBEL55E
+0.0008	2	2	31	1	1.446e-05	1000018756	sequence	                      NC_006300.1 Mannheimia succiniciproducens MBEL55E, complete genome
+0.0008	2	0	15	1	1.525e-06	745	genus	              Pasteurella
+0.0008	2	1	15	1	1.947e-06	747	species	                Pasteurella multocida
+0.0004	1	0	6	1	6.914e-06	1000007758	assembly	                  GCF_002393385.1 Pasteurella multocida strain=FDAARGOS_384
+0.0004	1	1	6	1	6.914e-06	1000007759	sequence	                    NZ_CP023516.1 Pasteurella multocida strain FDAARGOS_384 chromosome, complete genome
+0.0004	1	0	49	1	7.486e-06	416916	genus	              Aggregatibacter
+0.0004	1	1	23	1	6.728e-06	732	species	                Aggregatibacter aphrophilus
+0.594	1485	2	48199	1.01	0.0003583	135619	order	          Oceanospirillales
+0.5932	1483	0	48199	1.01	0.003089	224372	family	            Alcanivoracaceae
+0.5932	1483	1245	48199	1.01	0.003089	59753	genus	              Alcanivorax
+0.0944	236	0	5130	1.01	0.01585	59754	species	                Alcanivorax borkumensis
+0.0944	236	0	5130	1.01	0.01585	393595	no rank	                  Alcanivorax borkumensis SK2
+0.0944	236	0	5130	1.01	0.01585	1000017036	assembly	                    GCF_000009365.1 Alcanivorax borkumensis SK2
+0.0944	236	236	5130	1.01	0.01585	1000017037	sequence	                      NC_008260.1 Alcanivorax borkumensis SK2, complete genome
+0.0008	2	0	15	1	4.94e-05	1113728	species	                Alcanivorax sp. NBRC 101098
+0.0008	2	0	15	1	4.94e-05	1000021712	assembly	                  GCF_001010505.1 Alcanivorax sp. NBRC 101098
+0.0008	2	2	15	1	4.94e-05	1000021713	sequence	                    NZ_AP014613.1 Alcanivorax sp. NBRC 101098 DNA, complete genome
+0.1784	446	0	14142	1	0.0002771	118969	order	          Legionellales
+0.1784	446	0	14142	1	0.003075	118968	family	            Coxiellaceae
+0.1784	446	0	14142	1	0.004502	776	genus	              Coxiella
+0.1784	446	429	14142	1	0.005579	777	species	                Coxiella burnetii
+0.006	15	0	153	1	0.006712	360115	no rank	                  Coxiella burnetii RSA 331
+0.006	15	0	153	1	0.006712	1000007783	assembly	                    GCF_000018745.1 Coxiella burnetii RSA 331
+0.006	15	15	153	1	0.006822	1000007784	sequence	                      NC_010117.1 Coxiella burnetii RSA 331, complete genome
+0.0004	1	0	15	1	0.0001347	434923	no rank	                  Coxiella burnetii CbuG_Q212
+0.0004	1	0	15	1	0.0001347	1000007786	assembly	                    GCF_000019865.1 Coxiella burnetii CbuG_Q212
+0.0004	1	1	15	1	0.0001347	1000007787	sequence	                      NC_011527.1 Coxiella burnetii CbuG_Q212, complete genome
+0.0004	1	0	4	1	0.0007198	1000007794	assembly	                  GCF_001572745.1 Coxiella burnetii strain=3262
+0.0004	1	1	4	1	0.0008153	1000007795	sequence	                    NZ_CP013667.1 Coxiella burnetii strain 3262, complete genome
+0.0048	12	0	179	1	2.173e-07	91347	order	          Enterobacterales
+0.0036	9	0	90	1	2.091e-07	543	family	            Enterobacteriaceae
+0.0008	2	0	22	1	2.815e-07	547	genus	              Enterobacter
+0.0004	1	0	12	1	2.692e-06	1692238	species	                Enterobacter sp. FY-07
+0.0004	1	0	12	1	2.692e-06	1000023048	assembly	                  GCF_001582075.1 Enterobacter sp. FY-07
+0.0004	1	1	12	1	2.702e-06	1000023049	sequence	                    NZ_CP012487.1 Enterobacter sp. FY-07, complete genome
+0.0004	1	1	10	1	1.728e-07	354276	species group	                Enterobacter cloacae complex
+0.0008	2	0	8	1	1.827e-07	561	genus	              Escherichia
+0.0008	2	0	8	1	2.299e-07	562	species	                Escherichia coli
+0.0004	1	0	6	1	0.0002821	1000005636	assembly	                  GCF_002012225.1 Escherichia coli strain=Ecol_881
+0.0004	1	1	6	1	0.0007641	1000005637	sequence	                    NZ_CP019029.1 Escherichia coli strain Ecol_881 chromosome, complete genome
+0.0004	1	0	1	1	3.202e-05	655817	no rank	                  Escherichia coli ABU 83972
+0.0004	1	0	1	1	3.202e-05	1000004698	assembly	                    GCF_000148365.1 Escherichia coli ABU 83972
+0.0004	1	1	1	1	3.283e-05	1000004699	sequence	                      NC_017631.1 Escherichia coli ABU 83972, complete genome
+0.0004	1	0	22	1	1.236e-06	191675	no rank	              unclassified Enterobacteriaceae
+0.0004	1	0	22	1	2.15e-06	84563	no rank	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+0.0004	1	0	22	1	3.666e-05	1906659	genus	                  Candidatus Hoaglandella
+0.0004	1	0	22	1	3.666e-05	1778263	species	                    Candidatus Hoaglandella endobia
+0.0004	1	0	22	1	3.666e-05	1000023290	assembly	                      GCF_900044015.1 Candidatus Hoaglandella endobia
+0.0004	1	1	22	1	3.712e-05	1000023291	sequence	                        NZ_LN999835.1 Enterobacteriaceae bacterium symbiont of Trionymus perrisii isolate HETPER genome assembly, chromosome: I
+0.0004	1	0	8	1	4.31e-06	620	genus	              Shigella
+0.0004	1	0	8	1	2.393e-05	624	species	                Shigella sonnei
+0.0004	1	0	8	1	0.0001099	216599	no rank	                  Shigella sonnei 53G
+0.0004	1	0	8	1	0.0001099	1000006918	assembly	                    GCF_000283715.1 Shigella sonnei 53G
+0.0004	1	1	8	1	0.0001149	1000006919	sequence	                      NC_016822.1 Shigella sonnei 53G main chromosome, complete genome
+0.0004	1	1	6	1	9.565e-08	570	genus	              Klebsiella
+0.0004	1	0	3	1	5.435e-08	544	genus	              Citrobacter
+0.0004	1	0	2	1	1.873e-07	35703	species	                Citrobacter amalonaticus
+0.0004	1	0	2	1	6.703e-07	1000015943	assembly	                  GCF_001558935.1 Citrobacter amalonaticus strain=FDAARGOS_165
+0.0004	1	1	2	1	6.747e-07	1000015944	sequence	                    NZ_CP014070.1 Citrobacter amalonaticus strain FDAARGOS_165, complete genome
+0.0004	1	0	2	1	4.829e-08	590	genus	              Salmonella
+0.0004	1	0	2	1	5.57e-08	28901	species	                Salmonella enterica
+0.0004	1	0	2	1	6.995e-07	59204	subspecies	                  Salmonella enterica subsp. diarizonae
+0.0004	1	0	2	1	4.014e-06	1243611	no rank	                    Salmonella enterica subsp. diarizonae serovar 50:k:z
+0.0004	1	0	2	1	4.014e-06	1243612	no rank	                      Salmonella enterica subsp. diarizonae serovar 50:k:z str. MZ0080
+0.0004	1	0	2	1	4.014e-06	1000015141	assembly	                        GCF_002211965.1 Salmonella enterica subsp. diarizonae serovar 50:k:z str. MZ0080
+0.0004	1	1	2	1	4.014e-06	1000015142	sequence	                          NZ_CP022142.1 Salmonella enterica subsp. diarizonae serovar 50:k:z str. MZ0080, complete genome
+0.0008	2	0	40	1	2.971e-07	1903411	family	            Yersiniaceae
+0.0008	2	0	27	1	5.711e-07	629	genus	              Yersinia
+0.0008	2	2	19	1	1.849e-06	630	species	                Yersinia enterocolitica
+0.0004	1	0	20	1	5.894e-07	1903412	family	            Hafniaceae
+0.0004	1	0	11	1	3.61e-06	82982	genus	              Obesumbacterium
+0.0004	1	0	11	1	3.61e-06	82983	species	                Obesumbacterium proteus
+0.0004	1	0	11	1	3.61e-06	1000017723	assembly	                  GCF_001586165.1 Obesumbacterium proteus strain=DSM 2777
+0.0004	1	1	11	1	3.61e-06	1000017724	sequence	                    NZ_CP014608.1 Obesumbacterium proteus strain DSM 2777, complete genome
+0.0008	2	1	13	1.23	3.904e-08	135622	order	          Alteromonadales
+0.0004	1	0	6	1	7.681e-08	267888	family	            Pseudoalteromonadaceae
+0.0004	1	0	6	1	7.681e-08	53246	genus	              Pseudoalteromonas
+0.0004	1	0	4	1	8.63e-07	161398	species	                Pseudoalteromonas phenolica
+0.0004	1	0	4	1	8.63e-07	1000018848	assembly	                  GCF_001444405.1 Pseudoalteromonas phenolica strain=KCTC 12086
+0.0004	1	1	4	1	1.098e-06	1000018849	sequence	                    NZ_CP013187.1 Pseudoalteromonas phenolica strain KCTC 12086 chromosome I, complete sequence
+0.0004	1	0	38	1	1.77e-07	135623	order	          Vibrionales
+0.0004	1	0	38	1	1.77e-07	641	family	            Vibrionaceae
+0.0004	1	0	31	1	1.731e-07	662	genus	              Vibrio
+0.0004	1	0	23	1	3.487e-06	666	species	                Vibrio cholerae
+0.0004	1	0	22	1	0.0002125	127906	no rank	                  Vibrio cholerae O1
+0.0004	1	0	22	1	0.0004302	1134456	no rank	                    Vibrio cholerae IEC224
+0.0004	1	0	22	1	0.0004302	1000007344	assembly	                      GCF_000250855.1 Vibrio cholerae IEC224
+0.0004	1	1	22	1	0.0004543	1000007345	sequence	                        NC_016944.1 Vibrio cholerae IEC224 chromosome I, complete sequence
+0.0004	1	0	33	1	4.77e-08	72274	order	          Pseudomonadales
+0.0004	1	0	7	1	6.421e-08	468	family	            Moraxellaceae
+0.0004	1	0	2	1	2.797e-08	469	genus	              Acinetobacter
+0.0004	1	0	1	1	3.357e-07	29430	species	                Acinetobacter haemolyticus
+0.0004	1	0	1	1	3.357e-07	1000015280	assembly	                  GCF_001932555.1 Acinetobacter haemolyticus strain=TJS01
+0.0004	1	1	1	1	3.41e-07	1000015281	sequence	                    NZ_CP018871.1 Acinetobacter haemolyticus strain TJS01, complete genome
+0.0004	1	0	18	1	3.362e-07	72273	order	          Thiotrichales
+0.0004	1	0	18	1	7.207e-07	34064	family	            Francisellaceae
+0.0004	1	0	18	1	7.664e-07	262	genus	              Francisella
+0.0004	1	0	15	1	3.666e-06	263	species	                Francisella tularensis
+0.0004	1	1	9	1	4.002e-06	264	subspecies	                  Francisella tularensis subsp. novicida
+0.0004	1	0	2	1	1.561e-06	135615	order	          Cardiobacteriales
+0.0004	1	0	2	1	1.561e-06	868	family	            Cardiobacteriaceae
+0.0004	1	0	2	1	1.561e-06	869	genus	              Dichelobacter
+0.0004	1	0	2	1	1.561e-06	870	species	                Dichelobacter nodosus
+0.0004	1	0	2	1	1.561e-06	246195	no rank	                  Dichelobacter nodosus VCS1703A
+0.0004	1	0	2	1	1.561e-06	1000008142	assembly	                    GCF_000015345.1 Dichelobacter nodosus VCS1703A
+0.0004	1	1	2	1	1.561e-06	1000008143	sequence	                      NC_009446.1 Dichelobacter nodosus VCS1703A, complete genome
+4.506	11264	0	346268	1.08	0.0006983	68525	subphylum	        delta/epsilon subdivisions
+4.198	10496	3	319067	1.1	0.002234	29547	class	          Epsilonproteobacteria
+4.197	10492	0	318509	1.1	0.002351	213849	order	            Campylobacterales
+4.196	10490	0	318460	1.1	0.1569	438853	no rank	              unclassified Campylobacterales
+4.196	10490	0	318460	1.1	0.1569	269260	genus	                Nitratifractor
+4.196	10490	0	318460	1.1	0.1569	269261	species	                  Nitratifractor salsuginis
+4.196	10490	0	318460	1.1	0.1569	749222	no rank	                    Nitratifractor salsuginis DSM 16511
+4.196	10490	0	318460	1.1	0.1569	1000019741	assembly	                      GCF_000186245.1 Nitratifractor salsuginis DSM 16511
+4.196	10490	10490	318460	1.1	0.1569	1000019742	sequence	                        NC_014935.1 Nitratifractor salsuginis DSM 16511, complete genome
+0.0008	2	0	29	1	3.476e-07	72294	family	              Campylobacteraceae
+0.0008	2	0	23	1	4.293e-07	194	genus	                Campylobacter
+0.0004	1	0	4	1	3.576e-06	260714	species	                  Campylobacter insulaenigrae
+0.0004	1	0	4	1	3.576e-06	1031564	no rank	                    Campylobacter insulaenigrae NCTC 12927
+0.0004	1	0	4	1	3.576e-06	1000019684	assembly	                      GCF_000816185.1 Campylobacter insulaenigrae NCTC 12927
+0.0004	1	1	4	1	3.576e-06	1000019685	sequence	                        NZ_CP007770.1 Campylobacter insulaenigrae NCTC 12927, complete genome
+0.0004	1	0	3	1	2.766e-06	488546	species	                  Campylobacter peloridis
+0.0004	1	0	3	1	2.766e-06	1388753	no rank	                    Campylobacter peloridis LMG 23910
+0.0004	1	0	3	1	2.766e-06	1000020781	assembly	                      GCF_000816785.1 Campylobacter peloridis LMG 23910
+0.0004	1	1	3	1	2.811e-06	1000020782	sequence	                        NZ_CP007766.1 Campylobacter peloridis LMG 23910, complete genome
+0.0004	1	0	26	1	1.862e-05	235899	order	            Nautiliales
+0.0004	1	0	26	1	1.862e-05	224467	family	              Nautiliaceae
+0.0004	1	0	26	1	1.862e-05	191291	genus	                Nautilia
+0.0004	1	0	26	1	1.862e-05	244787	species	                  Nautilia profundicola
+0.0004	1	0	26	1	1.862e-05	598659	no rank	                    Nautilia profundicola AmH
+0.0004	1	0	26	1	1.862e-05	1000019590	assembly	                      GCF_000021725.1 Nautilia profundicola AmH
+0.0004	1	1	26	1	1.862e-05	1000019591	sequence	                        NC_012115.1 Nautilia profundicola AmH, complete genome
+0.3072	768	0	24730	1.02	7.004e-05	28221	class	          Deltaproteobacteria
+0.3068	767	0	24665	1.02	0.0004267	213115	order	            Desulfovibrionales
+0.3068	767	0	24659	1.02	0.008884	213117	family	              Desulfohalobiaceae
+0.3068	767	0	24659	1.02	0.008884	45662	genus	                Desulfohalobium
+0.3068	767	0	24659	1.02	0.008884	45663	species	                  Desulfohalobium retbaense
+0.3068	767	0	24659	1.02	0.008884	485915	no rank	                    Desulfohalobium retbaense DSM 5692
+0.3068	767	4	24659	1.02	0.008884	1000016502	assembly	                      GCF_000024325.1 Desulfohalobium retbaense DSM 5692
+0.2988	747	747	24185	1.01	0.008844	1000016503	sequence	                        NC_013223.1 Desulfohalobium retbaense DSM 5692, complete genome
+0.0064	16	16	333	1	0.008967	1000016504	sequence	                        NC_013224.1 Desulfohalobium retbaense DSM 5692 plasmid pDRET01, complete sequence
+0.0004	1	0	6	1	3.579e-08	29	order	            Myxococcales
+0.0004	1	0	5	1	5.894e-07	224462	suborder	              Nannocystineae
+0.0004	1	0	5	1	5.894e-07	224464	family	                Kofleriaceae
+0.0004	1	0	5	1	5.894e-07	162027	genus	                  Haliangium
+0.0004	1	0	5	1	5.894e-07	80816	species	                    Haliangium ochraceum
+0.0004	1	0	5	1	5.894e-07	502025	no rank	                      Haliangium ochraceum DSM 14365
+0.0004	1	0	5	1	5.894e-07	1000017675	assembly	                        GCF_000024805.1 Haliangium ochraceum DSM 14365
+0.0004	1	1	5	1	5.894e-07	1000017676	sequence	                          NC_013440.1 Haliangium ochraceum DSM 14365, complete genome
+0.2096	524	2	16818	1	1.117e-05	28211	class	        Alphaproteobacteria
+0.16	400	1	12927	1	1.792e-05	356	order	          Rhizobiales
+0.086	215	0	7024	1	0.00026	118882	family	            Brucellaceae
+0.086	215	204	6849	1	0.0007911	234	genus	              Brucella
+0.0032	8	8	108	1	0.0004803	29461	species	                Brucella suis
+0.0008	2	0	22	1	2.409e-05	1844051	species	                Brucella sp. 09RB8910
+0.0008	2	0	22	1	2.409e-05	1000023535	assembly	                  GCF_001971805.1 Brucella sp. 09RB8910
+0.0008	2	2	22	1	3.794e-05	1000023536	sequence	                    NZ_CP019390.1 Brucella sp. 09RB8910 chromosome 1, complete sequence
+0.0004	1	0	27	1	3.471e-05	981386	species	                Brucella vulpis
+0.0004	1	0	27	1	3.471e-05	1000021556	assembly	                  GCF_900000005.1 Brucella vulpis strain=F60
+0.0004	1	1	27	1	5.405e-05	1000021557	sequence	                    NZ_LN997863.1 Brucella sp. F60 genome assembly BVF60, chromosome : 1
+0.0736	184	0	5772	1	0.0006824	45404	family	            Beijerinckiaceae
+0.0736	184	0	5772	1	0.001397	120652	genus	              Methylocella
+0.0736	184	0	5772	1	0.001397	199596	species	                Methylocella silvestris
+0.0736	184	0	5772	1	0.001397	395965	no rank	                  Methylocella silvestris BL2
+0.0736	184	0	5772	1	0.001397	1000019179	assembly	                    GCF_000021745.1 Methylocella silvestris BL2
+0.0736	184	184	5772	1	0.001397	1000019180	sequence	                      NC_011666.1 Methylocella silvestris BL2, complete genome
+0.0352	88	0	2717	1.01	7.531e-05	766	order	          Rickettsiales
+0.0352	88	0	2715	1.01	0.0001834	775	family	            Rickettsiaceae
+0.0352	88	0	2715	1.01	0.0001834	33988	tribe	              Rickettsieae
+0.0352	88	0	2715	1.01	0.000212	780	genus	                Rickettsia
+0.0344	86	3	2493	1.01	0.001413	114292	species group	                  typhus group
+0.0332	83	83	2075	1	0.002607	785	species	                    Rickettsia typhi
+0.0008	2	2	31	1	4.171e-06	114277	species group	                  spotted fever group
+0.0128	32	0	1094	1	2.106e-05	204458	order	          Caulobacterales
+0.0128	32	0	1094	1	2.106e-05	76892	family	            Caulobacteraceae
+0.0128	32	0	1089	1	6.111e-05	41275	genus	              Brevundimonas
+0.0128	32	0	1065	1	0.0003374	74313	species	                Brevundimonas subvibrioides
+0.0128	32	0	1065	1	0.0003374	633149	no rank	                  Brevundimonas subvibrioides ATCC 15264
+0.0128	32	0	1065	1	0.0003374	1000017512	assembly	                    GCF_000144605.1 Brevundimonas subvibrioides ATCC 15264
+0.0128	32	32	1065	1	0.0003374	1000017513	sequence	                      NC_014375.1 Brevundimonas subvibrioides ATCC 15264, complete genome
+0.0008	2	0	6	1	2.37e-08	204455	order	          Rhodobacterales
+0.0008	2	1	6	1	2.508e-08	31989	family	            Rhodobacteraceae
+0.0004	1	0	1	1	4.458e-08	1060	genus	              Rhodobacter
+0.0004	1	1	1	1	8.581e-08	1063	species	                Rhodobacter sphaeroides
+0.1848	462	0	15397	1	1.295e-05	28216	class	        Betaproteobacteria
+0.1848	462	6	15379	1	1.532e-05	80840	order	          Burkholderiales
+0.182	455	8	15140	1	2.877e-05	119060	family	            Burkholderiaceae
+0.1788	447	3	14679	1	0.0002712	106589	genus	              Cupriavidus
+0.1772	443	0	14305	1	0.002351	119219	species	                Cupriavidus metallidurans
+0.1772	443	0	14305	1	0.002351	266264	no rank	                  Cupriavidus metallidurans CH34
+0.1772	443	4	14305	1	0.002351	1000018416	assembly	                    GCF_000196015.1 Cupriavidus metallidurans CH34
+0.0956	239	239	7581	1	0.002278	1000018417	sequence	                      NC_007973.1 Cupriavidus metallidurans CH34, complete genome
+0.0724	181	181	6024	1	0.002482	1000018418	sequence	                      NC_007974.2 Cupriavidus metallidurans CH34 megaplasmid, complete sequence
+0.004	10	10	398	1	0.00239	1000018420	sequence	                      NC_007971.2 Cupriavidus metallidurans CH34 plasmid pMOL30, complete sequence
+0.0036	9	9	224	1	0.001466	1000018419	sequence	                      NC_007972.2 Cupriavidus metallidurans CH34 plasmid pMOL28, complete sequence
+0.0004	1	0	22	1	1.899e-06	106590	species	                Cupriavidus necator
+0.0004	1	0	22	1	4.68e-06	381666	no rank	                  Ralstonia eutropha H16
+0.0004	1	0	22	1	4.68e-06	1000018327	assembly	                    GCF_000009285.1 Ralstonia eutropha H16
+0.0004	1	1	22	1	9.517e-06	1000018328	sequence	                      NC_008313.1 Ralstonia eutropha H16 chromosome 1
+0.0004	1	1	2	1	1.155e-08	80864	family	            Comamonadaceae
+0.0004	1	0	5	1	5.139e-07	1807140	class	        Acidithiobacillia
+0.0004	1	0	5	1	5.139e-07	225057	order	          Acidithiobacillales
+0.0004	1	0	5	1	5.139e-07	225058	family	            Acidithiobacillaceae
+0.0004	1	0	5	1	5.139e-07	119977	genus	              Acidithiobacillus
+0.0004	1	0	5	1	1.673e-06	160808	species	                Acidithiobacillus ferrivorans
+0.0004	1	0	5	1	1.673e-06	743299	no rank	                  Acidithiobacillus ferrivorans SS3
+0.0004	1	0	5	1	1.673e-06	1000018846	assembly	                    GCF_000214095.2 Acidithiobacillus ferrivorans SS3
+0.0004	1	1	5	1	1.673e-06	1000018847	sequence	                      NC_015942.1 Acidithiobacillus ferrivorans SS3, complete genome
+7.434	18586	3	619094	1	0.0001408	1783272	no rank	      Terrabacteria group
+4.274	10686	1	359576	1	0.0001812	201174	phylum	        Actinobacteria
+4.274	10685	18	359507	1	0.000187	1760	class	          Actinobacteria
+2.752	6881	3	230713	1	0.0003981	85007	order	            Corynebacteriales
+2.751	6877	0	229955	1	0.0009582	1762	family	              Mycobacteriaceae
+2.751	6877	34	229944	1	0.0009777	1763	genus	                Mycobacterium
+2.734	6835	6641	222009	1	0.04091	77643	species group	                  Mycobacterium tuberculosis complex
+0.0528	132	115	1862	1.01	0.01999	1765	species	                    Mycobacterium bovis
+0.0032	8	2	125	1	0.005034	33892	no rank	                      Mycobacterium bovis BCG
+0.0016	4	4	57	1	0.04918	561275	no rank	                        Mycobacterium bovis BCG str. Tokyo 172
+0.0008	2	0	16	1	0.0009102	998092	no rank	                        Mycobacterium bovis BCG str. ATCC 35743
+0.0008	2	0	16	1	0.0009102	1000012818	assembly	                          GCF_000194075.2 Mycobacterium bovis BCG str. ATCC 35743 strain=63839
+0.0008	2	2	16	1	0.0009102	1000012819	sequence	                            NZ_CP003494.1 Mycobacterium bovis BCG str. ATCC 35743, complete genome
+0.002	5	0	86	1	0.005943	1000012826	assembly	                      GCF_000758245.1 Mycobacterium bovis strain=ATCC BAA-935
+0.002	5	5	86	1	0.005943	1000012827	sequence	                        NZ_CP009449.1 Mycobacterium bovis strain ATCC BAA-935, complete genome
+0.0012	3	0	64	1	0.006628	1000012822	assembly	                      GCF_000934325.3 Mycobacterium bovis strain=SP38
+0.0012	3	3	64	1	0.006628	1000012823	sequence	                        NZ_CP015773.2 Mycobacterium bovis strain SP38, complete genome
+0.0004	1	0	13	1	0.002675	1000012832	assembly	                      GCF_001078615.1 Mycobacterium bovis strain=1595
+0.0004	1	1	13	1	0.002675	1000012833	sequence	                        NZ_CP012095.1 Mycobacterium bovis strain 1595, complete genome
+0.0196	49	18	565	1.03	0.0009451	1773	species	                    Mycobacterium tuberculosis
+0.0016	4	0	56	1	0.01175	1000012942	assembly	                      GCF_001702435.1 Mycobacterium tuberculosis strain=SCAID 320.0
+0.0016	4	4	56	1	0.01175	1000012943	sequence	                        NZ_CP016794.1 Mycobacterium tuberculosis strain SCAID 320.0, complete genome
+0.0016	4	0	32	1.12	0.002295	1000012998	assembly	                      GCF_002356255.1 Mycobacterium tuberculosis strain=HN-024
+0.0016	4	4	32	1.12	0.002295	1000012999	sequence	                        NZ_AP018033.1 Mycobacterium tuberculosis DNA, complete genome, strain: HN-024
+0.0012	3	0	47	1	0.006305	83332	no rank	                      Mycobacterium tuberculosis H37Rv
+0.0012	3	0	47	1	0.00749	1000012940	assembly	                        GCF_000831245.1 Mycobacterium tuberculosis H37Rv strain=H37Rv; TMC 102
+0.0012	3	3	47	1	0.00749	1000012941	sequence	                          NZ_CP009480.1 Mycobacterium tuberculosis H37Rv, complete genome
+0.0012	3	0	26	1.38	0.005556	1000012988	assembly	                      GCF_002116815.1 Mycobacterium tuberculosis strain=Beijing/391
+0.0012	3	3	26	1.38	0.005556	1000012989	sequence	                        NZ_CP017596.1 Mycobacterium tuberculosis strain Beijing/391, complete genome
+0.0012	3	0	11	1	0.000585	1306400	no rank	                      Mycobacterium tuberculosis str. Beijing/NITR203
+0.0012	3	0	11	1	0.000585	1000012906	assembly	                        GCF_000364825.1 Mycobacterium tuberculosis str. Beijing/NITR203
+0.0012	3	3	11	1	0.000585	1000012907	sequence	                          NC_021054.1 Mycobacterium tuberculosis str. Beijing/NITR203, complete genome
+0.0008	2	0	8	1	0.002695	1000012938	assembly	                      GCF_001275565.2 Mycobacterium tuberculosis strain=SCAID 187.0
+0.0008	2	2	8	1	0.002695	1000012939	sequence	                        NZ_CP012506.2 Mycobacterium tuberculosis strain SCAID 187.0, complete genome
+0.0004	1	0	26	1	0.005289	1000012990	assembly	                      GCF_002356015.1 Mycobacterium tuberculosis strain=NCGM946K2
+0.0004	1	1	26	1	0.005289	1000012991	sequence	                        NZ_AP017901.1 Mycobacterium tuberculosis DNA, complete genome, strain: NCGM946K2
+0.0004	1	0	23	1	0.009084	1000013088	assembly	                      GCF_002447715.1 Mycobacterium tuberculosis strain=LN3589
+0.0004	1	1	23	1	0.009084	1000013089	sequence	                        NZ_CP023615.1 Mycobacterium tuberculosis strain LN3589 chromosome, complete genome
+0.0004	1	0	20	1	0.0004875	1306414	no rank	                      Mycobacterium tuberculosis EAI5
+0.0004	1	0	20	1	0.0007929	1310115	no rank	                        Mycobacterium tuberculosis EAI5/NITR206
+0.0004	1	0	20	1	0.0007929	1000012904	assembly	                          GCF_000389945.1 Mycobacterium tuberculosis EAI5/NITR206
+0.0004	1	1	20	1	0.0007929	1000012905	sequence	                            NC_021194.1 Mycobacterium tuberculosis EAI5/NITR206, complete genome
+0.0004	1	0	20	1	0.001113	1000012930	assembly	                      GCF_000756545.1 Mycobacterium tuberculosis strain=96121
+0.0004	1	1	20	1	0.001113	1000012931	sequence	                        NZ_CP009427.1 Mycobacterium tuberculosis strain 96121, complete genome
+0.0004	1	0	14	1	0.001417	83331	no rank	                      Mycobacterium tuberculosis CDC1551
+0.0004	1	0	14	1	0.001417	1000012876	assembly	                        GCF_000008585.1 Mycobacterium tuberculosis CDC1551
+0.0004	1	1	14	1	0.001417	1000012877	sequence	                          NC_002755.2 Mycobacterium tuberculosis CDC1551, complete genome
+0.0004	1	0	13	1	0.002068	1000013098	assembly	                      GCF_002447875.1 Mycobacterium tuberculosis strain=MDRMA203
+0.0004	1	1	13	1	0.002068	1000013099	sequence	                        NZ_CP023623.1 Mycobacterium tuberculosis strain MDRMA203 chromosome, complete genome
+0.0004	1	0	8	1	0.01536	1000012962	assembly	                      GCF_001895825.1 Mycobacterium tuberculosis strain=I0002801-4
+0.0004	1	1	8	1	0.01536	1000012963	sequence	                        NZ_CP018301.1 Mycobacterium tuberculosis strain I0002801-4, complete genome
+0.0004	1	0	5	1	0.003413	1000013040	assembly	                      GCF_002447275.1 Mycobacterium tuberculosis strain=SLM040
+0.0004	1	1	5	1	0.003413	1000013041	sequence	                        NZ_CP023593.1 Mycobacterium tuberculosis strain SLM040 chromosome, complete genome
+0.0004	1	0	4	1	0.001081	1000013122	assembly	                      GCF_002448095.1 Mycobacterium tuberculosis strain=TBDM2487
+0.0004	1	1	4	1	0.001081	1000013123	sequence	                        NZ_CP023634.1 Mycobacterium tuberculosis strain TBDM2487 chromosome, complete genome
+0.0004	1	0	1	1	0.0003361	1010836	no rank	                      Mycobacterium tuberculosis BT1
+0.0004	1	0	1	1	0.0003361	1000012914	assembly	                        GCF_000572175.1 Mycobacterium tuberculosis BT1
+0.0004	1	1	1	1	0.0003361	1000012915	sequence	                          NZ_CP002883.1 Mycobacterium tuberculosis BT1, complete genome
+0.0004	1	0	1	1	6.689e-05	1000012946	assembly	                      GCF_001545015.1 Mycobacterium tuberculosis strain=22103
+0.0004	1	1	1	1	6.689e-05	1000012947	sequence	                        NZ_CP010339.1 Mycobacterium tuberculosis strain 22103, complete genome
+0.0004	1	0	1	1	0.0001652	1000012952	assembly	                      GCF_001750865.1 Mycobacterium tuberculosis strain=Beijing
+0.0004	1	1	1	1	0.0001652	1000012953	sequence	                        NZ_CP011510.1 Mycobacterium tuberculosis strain Beijing, complete genome
+0.0052	13	0	131	1.13	0.0002284	78331	species	                    Mycobacterium canettii
+0.0052	13	0	131	1.13	0.0002284	1048245	no rank	                      Mycobacterium canettii CIPT 140010059
+0.0052	13	0	131	1.13	0.0002284	1000017640	assembly	                        GCF_000253375.1 Mycobacterium canettii CIPT 140010059
+0.0052	13	13	131	1.13	0.0002284	1000017641	sequence	                          NC_015848.1 Mycobacterium canettii CIPT 140010059 complete genome
+0.0012	3	1	36	1	1.338e-06	120793	species group	                  Mycobacterium avium complex (MAC)
+0.0004	1	1	10	1	1.302e-06	1764	species	                    Mycobacterium avium
+0.0004	1	0	7	1	1.015e-05	1203599	species	                    Mycobacterium yongonense
+0.0004	1	0	7	1	2.547e-05	1138871	no rank	                      Mycobacterium yongonense 05-1390
+0.0004	1	0	7	1	2.547e-05	1000021937	assembly	                        GCF_000418535.1 Mycobacterium yongonense 05-1390
+0.0004	1	1	7	1	3.901e-05	1000021938	sequence	                          NC_021715.1 Mycobacterium yongonense 05-1390, complete genome
+0.0008	2	2	43	1	7.154e-06	1768	species	                  Mycobacterium kansasii
+0.0004	1	0	11	1	2.005e-06	1791	species	                  Mycobacterium aurum
+0.0004	1	0	11	1	2.005e-06	1000013146	assembly	                    GCF_900078775.1 Mycobacterium aurum
+0.0004	1	1	11	1	2.005e-06	1000013147	sequence	                      NZ_LT549889.1 Mycobacterium aurum isolate liquid genome assembly, chromosome: I
+0.0004	1	0	6	1	1.952e-07	670516	species group	                  Mycobacterium chelonae group
+0.0004	1	0	5	1	1.658e-06	1774	species	                    Mycobacterium chelonae
+0.0004	1	0	5	1	1.658e-06	1460372	no rank	                      Mycobacterium chelonae CCUG 47445
+0.0004	1	0	5	1	1.658e-06	1000013142	assembly	                        GCF_001632805.1 Mycobacterium chelonae CCUG 47445
+0.0004	1	1	5	1	1.658e-06	1000013143	sequence	                          NZ_CP007220.1 Mycobacterium chelonae CCUG 47445, complete genome
+0.0004	1	0	3	1	4.801e-07	134601	species	                  Mycobacterium goodii
+0.0004	1	0	3	1	4.801e-07	1000018502	assembly	                    GCF_001187505.1 Mycobacterium goodii strain=X7B
+0.0004	1	1	3	1	4.801e-07	1000018503	sequence	                      NZ_CP012150.1 Mycobacterium goodii strain X7B, complete genome
+0.0004	1	0	10	1	3.921e-07	85026	family	              Gordoniaceae
+0.0004	1	0	10	1	3.921e-07	2053	genus	                Gordonia
+0.0004	1	0	1	1	2.022e-07	2054	species	                  Gordonia bronchialis
+0.0004	1	0	1	1	2.022e-07	526226	no rank	                    Gordonia bronchialis DSM 43247
+0.0004	1	0	1	1	2.022e-07	1000013302	assembly	                      GCF_000024785.1 Gordonia bronchialis DSM 43247
+0.0004	1	1	1	1	2.055e-07	1000013303	sequence	                        NC_013441.1 Gordonia bronchialis DSM 43247, complete genome
+1.417	3543	6	117942	1	0.0003755	85006	order	            Micrococcales
+1.413	3533	74	117469	1	0.001063	1268	family	              Micrococcaceae
+1.383	3457	14	112530	1	0.008252	1742993	genus	                Pseudarthrobacter
+1.377	3443	0	111449	1	0.02699	361575	species	                  Pseudarthrobacter phenanthrenivorans
+1.377	3443	0	111449	1	0.02699	930171	no rank	                    Pseudarthrobacter phenanthrenivorans Sphe3
+1.377	3443	51	111449	1	0.02699	1000020168	assembly	                      GCF_000189535.1 Pseudarthrobacter phenanthrenivorans Sphe3
+1.294	3235	3235	104507	1	0.02665	1000020169	sequence	                        NC_015145.1 Pseudarthrobacter phenanthrenivorans Sphe3, complete genome
+0.0476	119	119	3760	1.02	0.02584	1000020170	sequence	                        NC_015146.1 Pseudarthrobacter phenanthrenivorans Sphe3 plasmid pASPHE301, complete sequence
+0.0152	38	38	1086	1.01	0.02439	1000020171	sequence	                        NC_015147.1 Pseudarthrobacter phenanthrenivorans Sphe3 plasmid pASPHE302, complete sequence
+0.0008	2	0	56	1	9.972e-07	1663	genus	                Arthrobacter
+0.0004	1	0	17	1	3.632e-06	290399	species	                  Arthrobacter sp. FB24
+0.0004	1	0	17	1	3.632e-06	1000019832	assembly	                    GCF_000196235.1 Arthrobacter sp. FB24
+0.0004	1	1	11	1	0.0002802	1000019835	sequence	                      NC_008538.1 Arthrobacter sp. FB24 plasmid 2, complete sequence
+0.0004	1	0	13	1	2.773e-06	1357915	species	                  Arthrobacter sp. QXT-31
+0.0004	1	0	13	1	2.773e-06	1000022256	assembly	                    GCF_001969265.1 Arthrobacter sp. QXT-31
+0.0004	1	1	13	1	2.773e-06	1000022257	sequence	                      NZ_CP019304.1 Arthrobacter sp. QXT-31, complete genome
+0.0008	2	0	12	1	1.176e-07	85023	family	              Microbacteriaceae
+0.0004	1	0	3	1	5.598e-07	33886	genus	                Rathayibacter
+0.0004	1	0	3	1	9.728e-07	33888	species	                  Rathayibacter tritici
+0.0004	1	0	3	1	9.728e-07	1000015733	assembly	                    GCF_001641005.1 Rathayibacter tritici strain=NCPPB 1953
+0.0004	1	1	3	1	9.728e-07	1000015734	sequence	                      NZ_CP015515.1 Rathayibacter tritici strain NCPPB 1953, complete genome
+0.0004	1	0	2	1	4.869e-07	33877	genus	                Agromyces
+0.0004	1	0	2	1	4.869e-07	453304	species	                  Agromyces aureus
+0.0004	1	0	2	1	4.869e-07	1000020627	assembly	                    GCF_001660485.1 Agromyces aureus strain=AR33
+0.0004	1	1	2	1	4.869e-07	1000020628	sequence	                      NZ_CP013979.1 Agromyces aureus strain AR33, complete genome
+0.0004	1	0	8	1	8.351e-06	577468	no rank	              unclassified Micrococcales
+0.0004	1	0	8	1	8.351e-06	2038	genus	                Tropheryma
+0.0004	1	0	8	1	8.351e-06	2039	species	                  Tropheryma whipplei
+0.0004	1	0	8	1	9.646e-05	203267	no rank	                    Tropheryma whipplei str. Twist
+0.0004	1	0	8	1	9.646e-05	1000013290	assembly	                      GCF_000007485.1 Tropheryma whipplei str. Twist
+0.0004	1	1	8	1	9.646e-05	1000013291	sequence	                        NC_004572.3 Tropheryma whipplei str. Twist, complete genome
+0.0004	1	0	2	1	1.448e-07	85016	family	              Cellulomonadaceae
+0.0004	1	0	2	1	1.448e-07	1707	genus	                Cellulomonas
+0.0004	1	0	2	1	6.248e-07	2003551	species	                  Cellulomonas sp. PSBB021
+0.0004	1	0	2	1	6.248e-07	1000023939	assembly	                    GCF_002240455.1 Cellulomonas sp. PSBB021
+0.0004	1	1	2	1	6.248e-07	1000023940	sequence	                      NZ_CP021430.1 Cellulomonas sp. PSBB021, complete genome
+0.0972	243	0	7966	1	0.0001445	85004	order	            Bifidobacteriales
+0.0972	243	0	7966	1	0.0001445	31953	family	              Bifidobacteriaceae
+0.0972	243	0	7929	1	0.001992	2701	genus	                Gardnerella
+0.0972	243	241	7929	1	0.001992	2702	species	                  Gardnerella vaginalis
+0.0008	2	0	20	1	4.856e-05	1009464	no rank	                    Gardnerella vaginalis HMP9231
+0.0008	2	0	20	1	4.856e-05	1000013666	assembly	                      GCF_000213955.1 Gardnerella vaginalis HMP9231
+0.0008	2	2	20	1	4.856e-05	1000013667	sequence	                        NC_017456.1 Gardnerella vaginalis HMP9231, complete genome
+2.109	5273	2	173380	1	9.568e-05	1239	phylum	        Firmicutes
+2.106	5265	6	173225	1	0.0001353	91061	class	          Bacilli
+1.983	4958	12	162441	1.01	0.0001803	1385	order	            Bacillales
+1.619	4047	1	130096	1.03	0.005208	186820	family	              Listeriaceae
+1.618	4046	266	130096	1.03	0.005766	1637	genus	                Listeria
+1.508	3770	3730	110686	1.03	0.01101	1639	species	                  Listeria monocytogenes
+0.0032	8	0	129	1.05	0.05077	568819	no rank	                    Listeria monocytogenes serotype 4b str. CLIP 80459
+0.0032	8	0	129	1.05	0.05077	1000012109	assembly	                      GCF_000026705.1 Listeria monocytogenes serotype 4b str. CLIP 80459 strain=Clip80459
+0.0032	8	8	129	1.05	0.05077	1000012110	sequence	                        NC_012488.1 Listeria monocytogenes Clip80459 serotype 4b complete genome
+0.0024	6	0	32	1	0.009861	1000012325	assembly	                    GCF_002208215.1 Listeria monocytogenes strain=FDA00006907
+0.0024	6	6	32	1	0.01111	1000012326	sequence	                      NZ_CP022020.1 Listeria monocytogenes strain FDA00006907, complete genome
+0.0012	3	0	13	1.92	0.002376	393126	no rank	                    Listeria monocytogenes FSL R2-561
+0.0012	3	0	13	1.92	0.002376	1000012120	assembly	                      GCF_000168575.2 Listeria monocytogenes FSL R2-561
+0.0012	3	3	13	1.92	0.002376	1000012121	sequence	                        NC_017546.1 Listeria monocytogenes FSL R2-561, complete genome
+0.0012	3	0	18	1	0.003552	930781	no rank	                    Listeria monocytogenes J1816
+0.0012	3	0	18	1	0.003552	1000012131	assembly	                      GCF_000195435.3 Listeria monocytogenes J1816
+0.0012	3	3	18	1	0.003552	1000012132	sequence	                        NC_021830.2 Listeria monocytogenes J1816, complete genome
+0.0008	2	0	39	1	0.001205	1000012311	assembly	                    GCF_002101275.1 Listeria monocytogenes strain=H34
+0.0008	2	2	39	1	0.001205	1000012312	sequence	                      NZ_CP020774.1 Listeria monocytogenes strain H34, complete genome
+0.0008	2	0	32	1	0.0005653	1000012222	assembly	                    GCF_001027065.1 Listeria monocytogenes strain=L2074
+0.0008	2	2	32	1	0.0005653	1000012223	sequence	                      NZ_CP007689.1 Listeria monocytogenes strain L2074, complete genome
+0.0008	2	0	28	1	0.0003674	879089	no rank	                    Listeria monocytogenes SLCC2540
+0.0008	2	0	28	1	0.0003674	1000012135	assembly	                      GCF_000306905.1 Listeria monocytogenes SLCC2540
+0.0008	2	2	28	1	0.0003674	1000012136	sequence	                        NC_018586.1 Listeria monocytogenes strain SLCC2540, serotype 3b
+0.0008	2	0	6	2	0.0001724	1126011	no rank	                    Listeria monocytogenes 07PF0776
+0.0008	2	0	6	2	0.0001724	1000012133	assembly	                      GCF_000258905.1 Listeria monocytogenes 07PF0776
+0.0008	2	2	6	2	0.0001724	1000012134	sequence	                        NC_017728.1 Listeria monocytogenes 07PF0776, complete genome
+0.0008	2	0	6	1	7.57e-05	1000012320	assembly	                    GCF_002105675.1 Listeria monocytogenes strain=PNUSAL000144
+0.0008	2	2	6	1	7.57e-05	1000012321	sequence	                      NZ_CP020831.1 Listeria monocytogenes strain PNUSAL000144, complete genome
+0.0004	1	0	14	1	0.0002894	879090	no rank	                    Listeria monocytogenes SLCC7179
+0.0004	1	0	14	1	0.0002894	1000012142	assembly	                      GCF_000306985.1 Listeria monocytogenes SLCC7179
+0.0004	1	1	14	1	0.0002894	1000012143	sequence	                        NC_018593.1 Listeria monocytogenes strain SLCC7179, serotype 3a
+0.0004	1	0	6	1	0.0002197	1000012240	assembly	                    GCF_001047715.1 Listeria monocytogenes strain=CFSAN023463
+0.0004	1	1	6	1	0.0002197	1000012241	sequence	                      NZ_CP012021.1 Listeria monocytogenes strain CFSAN023463, complete genome
+0.0004	1	0	6	1	0.001033	1000012313	assembly	                    GCF_002105635.1 Listeria monocytogenes strain=CFSAN022990
+0.0004	1	1	6	1	0.001753	1000012314	sequence	                      NZ_CP020828.1 Listeria monocytogenes strain CFSAN022990, complete genome
+0.0004	1	0	5	1	6.239e-05	1288295	no rank	                    Listeria monocytogenes 6179
+0.0004	1	0	5	1	6.239e-05	1000012189	assembly	                      GCF_000577745.1 Listeria monocytogenes 6179
+0.0004	1	1	5	1	6.245e-05	1000012190	sequence	                        NZ_HG813249.1 Listeria monocytogenes 6179 chromosome sequence
+0.0004	1	0	3	1	8.773e-05	1000012246	assembly	                    GCF_001483405.1 Listeria monocytogenes strain=Lm 3163
+0.0004	1	1	3	1	8.773e-05	1000012247	sequence	                      NZ_CP013722.1 Listeria monocytogenes strain Lm 3163, complete genome
+0.0004	1	0	3	1	0.001069	1000012228	assembly	                    GCF_001027205.1 Listeria monocytogenes strain=L2676
+0.0004	1	1	3	1	0.001069	1000012229	sequence	                      NZ_CP007685.1 Listeria monocytogenes strain L2676, complete genome
+0.0004	1	0	3	1	0.001855	882020	no rank	                    Listeria monocytogenes SLCC2479
+0.0004	1	0	3	1	0.001855	1000012146	assembly	                      GCF_000307005.1 Listeria monocytogenes SLCC2479
+0.0004	1	1	3	1	0.001855	1000012147	sequence	                        NC_018589.1 Listeria monocytogenes strain SLCC2479, serotype 3c
+0.0004	1	0	2	1	6.767e-05	1000012295	assembly	                    GCF_001999045.1 Listeria monocytogenes strain=10-092876-1155 LM6
+0.0004	1	1	2	1	6.767e-05	1000012296	sequence	                      NZ_CP019619.1 Listeria monocytogenes strain 10-092876-1155 LM6, complete genome
+0.0004	1	0	2	1	0.001199	1000012213	assembly	                    GCF_000950775.1 Listeria monocytogenes strain=N2306
+0.0004	1	1	2	1	0.001199	1000012214	sequence	                      NZ_CP011004.1 Listeria monocytogenes strain N2306, complete genome
+0.0004	1	0	1	1	0.0004047	265669	no rank	                    Listeria monocytogenes serotype 4b str. F2365
+0.0004	1	0	1	1	0.0004047	1000012103	assembly	                      GCF_000008285.1 Listeria monocytogenes serotype 4b str. F2365 strain=4b F2365
+0.0004	1	1	1	1	0.0004047	1000012104	sequence	                        NC_002973.6 Listeria monocytogenes str. 4b F2365, complete genome
+0.0024	6	0	107	1	5.096e-05	1642	species	                  Listeria innocua
+0.0024	6	0	107	1	5.096e-05	272626	no rank	                    Listeria innocua Clip11262
+0.0024	6	0	107	1	5.096e-05	1000012406	assembly	                      GCF_000195795.1 Listeria innocua Clip11262
+0.0024	6	6	107	1	5.142e-05	1000012407	sequence	                        NC_003212.1 Listeria innocua Clip11262 complete genome
+0.0012	3	3	71	1.11	3.112e-05	1643	species	                  Listeria welshimeri
+0.0004	1	1	49	1	1.03e-05	1638	species	                  Listeria ivanovii
+0.3588	897	21	29165	1.01	6.827e-05	186817	family	              Bacillaceae
+0.3484	871	533	27835	1.01	0.001112	129337	genus	                Geobacillus
+0.1312	328	209	6778	1	0.001696	1505648	species group	                  Geobacillus thermoleovorans group
+0.0476	119	0	2487	1.01	0.007933	1462	species	                    Geobacillus kaustophilus
+0.0476	119	0	2487	1.01	0.007933	235909	no rank	                      Geobacillus kaustophilus HTA426
+0.0476	119	0	2487	1.01	0.007933	1000011197	assembly	                        GCF_000009785.1 Geobacillus kaustophilus HTA426
+0.044	110	110	2128	1	0.007432	1000011198	sequence	                          NC_006510.1 Geobacillus kaustophilus HTA426 DNA, complete genome
+0.0036	9	9	359	1.05	0.01356	1000011199	sequence	                          NC_006509.1 Geobacillus kaustophilus HTA426 plasmid pHTA426 DNA, complete genome
+0.0012	3	0	14	1	6.046e-06	129338	species	                  Geobacillus subterraneus
+0.0012	3	0	14	1	6.046e-06	1000018467	assembly	                    GCF_001618685.1 Geobacillus subterraneus strain=KCTC 3922
+0.0012	3	3	14	1	6.046e-06	1000018468	sequence	                      NZ_CP014342.1 Geobacillus subterraneus strain KCTC 3922, complete genome
+0.0008	2	0	12	1	2.623e-05	691437	species	                  Geobacillus sp. C56-T3
+0.0008	2	0	12	1	2.623e-05	1000021293	assembly	                    GCF_000092445.1 Geobacillus sp. C56-T3
+0.0008	2	2	12	1	2.623e-05	1000021294	sequence	                      NC_014206.1 Geobacillus sp. C56-T3, complete genome
+0.0008	2	2	8	1	2.058e-06	33940	species	                  Geobacillus thermodenitrificans
+0.0004	1	0	13	1	2.311e-05	1233873	species	                  Geobacillus sp. GHH01
+0.0004	1	0	13	1	2.311e-05	1000022000	assembly	                    GCF_000336445.1 Geobacillus sp. GHH01
+0.0004	1	1	13	1	2.311e-05	1000022001	sequence	                      NC_020210.1 Geobacillus sp. GHH01, complete genome
+0.0004	1	0	6	1	2.205e-06	1921421	species	                  Geobacillus genomosp. 3
+0.0004	1	0	6	1	2.205e-06	1000023788	assembly	                    GCF_000445995.2 Geobacillus genomosp. 3 strain=JF8
+0.0004	1	1	6	1	2.226e-06	1000023789	sequence	                      NC_022080.4 Geobacillus genomosp. 3 strain JF8, complete genome
+0.0004	1	0	6	1	6.766e-06	1422	species	                  Geobacillus stearothermophilus
+0.0004	1	0	6	1	1.88e-05	272567	no rank	                    Geobacillus stearothermophilus 10
+0.0004	1	0	6	1	1.88e-05	1000010712	assembly	                      GCF_001274575.1 Geobacillus stearothermophilus 10
+0.0004	1	1	6	1	1.895e-05	1000010713	sequence	                        NZ_CP008934.1 Geobacillus stearothermophilus 10, complete genome
+0.0016	4	0	64	1	2.038e-07	1386	genus	                Bacillus
+0.0008	2	0	27	1	3.523e-07	86661	species group	                  Bacillus cereus group
+0.0004	1	0	24	1	1.093e-06	1428	species	                    Bacillus thuringiensis
+0.0004	1	0	6	1	3.811e-06	1195464	no rank	                      Bacillus thuringiensis MC28
+0.0004	1	0	6	1	3.811e-06	1000010891	assembly	                        GCF_000300475.1 Bacillus thuringiensis MC28
+0.0004	1	1	6	1	7.029e-06	1000010892	sequence	                          NC_018693.1 Bacillus thuringiensis MC28, complete genome
+0.0004	1	1	3	1	1.499e-07	1396	species	                    Bacillus cereus
+0.0008	2	1	18	1	3.935e-07	653685	species group	                  Bacillus subtilis group
+0.0004	1	0	1	1	6.969e-08	1423	species	                    Bacillus subtilis
+0.0004	1	0	1	1	8.113e-07	135461	subspecies	                      Bacillus subtilis subsp. subtilis
+0.0004	1	0	1	1	6.554e-05	1302650	no rank	                        Bacillus subtilis subsp. subtilis str. BAB-1
+0.0004	1	0	1	1	6.554e-05	1000010736	assembly	                          GCF_000349795.1 Bacillus subtilis subsp. subtilis str. BAB-1
+0.0004	1	1	1	1	6.554e-05	1000010737	sequence	                            NC_020832.1 Bacillus subtilis subsp. subtilis str. BAB-1, complete genome
+0.0004	1	0	21	1	1.538e-06	150247	genus	                Anoxybacillus
+0.0004	1	0	16	1	5.778e-06	294699	species	                  Anoxybacillus amylolyticus
+0.0004	1	0	16	1	5.778e-06	1000019865	assembly	                    GCF_001634285.1 Anoxybacillus amylolyticus strain=DSM 15939
+0.0004	1	1	16	1	6.438e-06	1000019866	sequence	                      NZ_CP015438.1 Anoxybacillus amylolyticus strain DSM 15939, complete genome
+0.0008	2	0	20	1	2.088e-07	90964	family	              Staphylococcaceae
+0.0008	2	0	18	1	2.129e-07	1279	genus	                Staphylococcus
+0.0008	2	0	11	1	1.07e-06	1280	species	                  Staphylococcus aureus
+0.0004	1	0	7	1	0.0007197	1000009475	assembly	                    GCF_002089115.1 Staphylococcus aureus strain=GD1539
+0.0004	1	1	7	1	0.0007197	1000009476	sequence	                      NZ_CP019594.1 Staphylococcus aureus strain GD1539, complete genome
+0.0004	1	0	4	1	0.001913	1321369	no rank	                    Staphylococcus aureus Bmb9393
+0.0004	1	0	4	1	0.001913	1000008833	assembly	                      GCF_000418345.1 Staphylococcus aureus Bmb9393
+0.0004	1	1	4	1	0.001913	1000008834	sequence	                        NC_021670.1 Staphylococcus aureus Bmb9393, complete genome
+0.1204	301	3	9459	1	2.5e-05	186826	order	            Lactobacillales
+0.0756	189	0	5980	1.01	4.804e-05	1300	family	              Streptococcaceae
+0.0756	189	11	5978	1.01	5.663e-05	1301	genus	                Streptococcus
+0.0708	177	63	5309	1	0.001107	1302	species	                  Streptococcus gordonii
+0.0448	112	0	2120	1	0.002443	29390	no rank	                    Streptococcus gordonii str. Challis
+0.0448	112	0	2120	1	0.002443	467705	no rank	                      Streptococcus gordonii str. Challis substr. CH1
+0.0448	112	0	2120	1	0.002443	1000009501	assembly	                        GCF_000017005.1 Streptococcus gordonii str. Challis substr. CH1
+0.0448	112	112	2120	1	0.002443	1000009502	sequence	                          NC_009785.1 Streptococcus gordonii str. Challis substr. CH1, complete genome
+0.0004	1	0	1	1	2.464e-06	1000009206	assembly	                    GCF_002386285.1 Streptococcus gordonii strain=FDAARGOS_371
+0.0004	1	1	1	1	2.464e-06	1000009207	sequence	                      NZ_CP023511.1 Streptococcus gordonii strain FDAARGOS_371 chromosome, complete genome
+0.0004	1	0	1	1	2.815e-06	1000009510	assembly	                    GCF_001281105.1 Streptococcus gordonii strain=KCOM 1506 (= ChDC B679)
+0.0004	1	1	1	1	2.815e-06	1000009511	sequence	                      NZ_CP012648.1 Streptococcus gordonii strain KCOM 1506 (= ChDC B679), complete genome
+0.0004	1	0	3	1	1.498e-06	1305	species	                  Streptococcus sanguinis
+0.0004	1	0	3	1	1.498e-06	388919	no rank	                    Streptococcus sanguinis SK36
+0.0004	1	0	3	1	1.498e-06	1000009518	assembly	                      GCF_000014205.1 Streptococcus sanguinis SK36
+0.0004	1	1	3	1	1.498e-06	1000009519	sequence	                        NC_009009.1 Streptococcus sanguinis SK36 chromosome, complete genome
+0.0424	106	0	3323	1	0.0001183	81850	family	              Leuconostocaceae
+0.042	105	89	3318	1	0.000202	1243	genus	                Leuconostoc
+0.0064	16	0	439	1	0.001639	136609	species	                  Leuconostoc kimchii
+0.0064	16	0	439	1	0.001639	762051	no rank	                    Leuconostoc kimchii IMSNU 11154
+0.0064	16	0	439	1	0.001639	1000018544	assembly	                      GCF_000092505.1 Leuconostoc kimchii IMSNU 11154
+0.0064	16	16	439	1	0.001807	1000018545	sequence	                        NC_014136.1 Leuconostoc kimchii IMSNU 11154, complete genome
+0.0004	1	0	5	1	3.125e-06	46254	genus	                Oenococcus
+0.0004	1	0	5	1	3.125e-06	1247	species	                  Oenococcus oeni
+0.0004	1	0	5	1	3.125e-06	203123	no rank	                    Oenococcus oeni PSU-1
+0.0004	1	0	5	1	3.125e-06	1000008674	assembly	                      GCF_000014385.1 Oenococcus oeni PSU-1
+0.0004	1	1	5	1	3.125e-06	1000008675	sequence	                        NC_008528.1 Oenococcus oeni PSU-1, complete genome
+0.0008	2	0	3	1	6.337e-08	81852	family	              Enterococcaceae
+0.0004	1	0	1	1	2.655e-08	1350	genus	                Enterococcus
+0.0004	1	0	1	1	2.733e-07	1354	species	                  Enterococcus hirae
+0.0004	1	0	1	1	2.141e-06	768486	no rank	                    Enterococcus hirae ATCC 9790
+0.0004	1	0	1	1	2.141e-06	1000009959	assembly	                      GCF_000271405.2 Enterococcus hirae ATCC 9790
+0.0004	1	1	1	1	2.262e-06	1000009960	sequence	                        NC_018081.1 Enterococcus hirae ATCC 9790, complete genome
+0.0004	1	0	1	1	2.456e-07	2737	genus	                Vagococcus
+0.0004	1	0	1	1	4.738e-07	633807	species	                  Vagococcus penaei
+0.0004	1	0	1	1	4.738e-07	1000021167	assembly	                    GCF_001998885.1 Vagococcus penaei strain=CD276
+0.0004	1	1	1	1	4.738e-07	1000021168	sequence	                      NZ_CP019609.1 Vagococcus penaei strain CD276, complete genome
+0.0004	1	0	30	1	2.014e-07	33958	family	              Lactobacillaceae
+0.0004	1	0	24	1	1.732e-07	1578	genus	                Lactobacillus
+0.0004	1	0	9	1	1.832e-06	1624	species	                  Lactobacillus salivarius
+0.0004	1	0	9	1	1.839e-05	1000012058	assembly	                    GCF_000758365.1 Lactobacillus salivarius strain=JCM1046
+0.0004	1	1	9	1	4.03e-05	1000012059	sequence	                      NZ_CP007646.1 Lactobacillus salivarius strain JCM1046, complete genome
+0.002	5	0	61	1	1.328e-07	186801	class	          Clostridia
+0.0012	3	0	44	1	1.124e-07	186802	order	            Clostridiales
+0.0004	1	0	19	1	2.693e-07	186807	family	              Peptococcaceae
+0.0004	1	0	1	1	5.675e-08	36853	genus	                Desulfitobacterium
+0.0004	1	1	1	1	1.424e-07	49338	species	                  Desulfitobacterium hafniense
+0.0004	1	0	4	1	6.777e-08	186803	family	              Lachnospiraceae
+0.0004	1	0	1	1	3.444e-07	2039240	genus	                Anaerotignum
+0.0004	1	0	1	1	3.444e-07	28446	species	                  Anaerotignum propionicum
+0.0004	1	0	1	1	3.444e-07	991789	no rank	                    Anaerotignum propionicum DSM 1682
+0.0004	1	0	1	1	3.444e-07	1000014040	assembly	                      GCF_001561955.1 Anaerotignum propionicum DSM 1682 strain=X2
+0.0004	1	1	1	1	3.444e-07	1000014041	sequence	                        NZ_CP014223.1 [Clostridium] propionicum DSM 1682, complete genome
+0.0004	1	0	3	1	8.864e-08	541000	family	              Ruminococcaceae
+0.0004	1	0	1	1	4.918e-08	1508657	genus	                Ruminiclostridium
+0.0004	1	0	1	1	4.696e-07	29343	species	                  [Clostridium] cellulosi
+0.0004	1	0	1	1	4.696e-07	1000015249	assembly	                    GCF_000953215.1 [Clostridium] cellulosi
+0.0004	1	1	1	1	4.696e-07	1000015250	sequence	                      NZ_LM995447.1 [Clostridium] cellulosi genome assembly DG5, chromosome : I
+0.0008	2	0	14	1	1.25e-06	53433	order	            Halanaerobiales
+0.0004	1	0	12	1	1.853e-06	972	family	              Halanaerobiaceae
+0.0004	1	0	12	1	2.912e-06	2330	genus	                Halanaerobium
+0.0004	1	0	2	1	8.975e-07	656519	species	                  Halanaerobium hydrogeniformans
+0.0004	1	0	2	1	8.975e-07	1000021232	assembly	                    GCF_000166415.1 Halanaerobium hydrogeniformans
+0.0004	1	1	2	1	8.975e-07	1000021233	sequence	                      NC_014654.1 Halanaerobium hydrogeniformans, complete genome
+0.0004	1	1	2	1	4.239e-07	53434	family	              Halobacteroidaceae
+0.0004	1	0	16	1	4.166e-07	909932	class	          Negativicutes
+0.0004	1	0	14	1	5.897e-07	909929	order	            Selenomonadales
+0.0004	1	0	14	1	1.009e-06	1843491	family	              Selenomonadaceae
+0.0004	1	1	14	1	1.177e-06	970	genus	                Selenomonas
+1.034	2585	0	81060	1.04	0.001375	544448	phylum	        Tenericutes
+1.034	2585	0	81060	1.04	0.001418	31969	class	          Mollicutes
+1.034	2585	0	81060	1.04	0.002566	2085	order	            Mycoplasmatales
+1.034	2585	0	81060	1.04	0.002566	2092	family	              Mycoplasmataceae
+1.034	2585	8	81043	1.04	0.002677	2093	genus	                Mycoplasma
+1.031	2577	2541	80449	1.04	0.09629	2104	species	                  Mycoplasma pneumoniae
+0.0108	27	0	438	1.02	0.1464	272634	no rank	                    Mycoplasma pneumoniae M129
+0.0108	27	0	438	1.02	0.1464	1000013426	assembly	                      GCF_000027345.1 Mycoplasma pneumoniae M129
+0.0108	27	27	438	1.02	0.1464	1000013427	sequence	                        NC_000912.1 Mycoplasma pneumoniae M129 chromosome, complete genome
+0.0012	3	0	22	1	0.01356	722438	no rank	                    Mycoplasma pneumoniae FH
+0.0012	3	0	22	1	0.01567	1000013422	assembly	                      GCF_000143945.1 Mycoplasma pneumoniae FH
+0.0012	3	3	22	1	0.01567	1000013423	sequence	                        NC_017504.1 Mycoplasma pneumoniae FH, complete genome
+0.0008	2	0	12	4.17	0.01633	1000013468	assembly	                    GCF_001509195.1 Mycoplasma pneumoniae strain=S355
+0.0008	2	2	12	4.17	0.01633	1000013469	sequence	                      NZ_CP013829.1 Mycoplasma pneumoniae strain S355, complete genome
+0.0008	2	0	17	1	0.02901	1000013514	assembly	                    GCF_002355715.1 Mycoplasma pneumoniae strain=KCH-405
+0.0008	2	2	17	1	0.02901	1000013515	sequence	                      NZ_AP017319.1 Mycoplasma pneumoniae DNA, complete genome, strain: KCH-405
+0.0004	1	0	6	1	0.003715	1263835	no rank	                    Mycoplasma pneumoniae MAC
+0.0004	1	0	6	1	0.003715	1000013454	assembly	                      GCF_001272915.1 Mycoplasma pneumoniae MAC strain=Mac
+0.0004	1	1	6	1	0.003715	1000013455	sequence	                        NZ_CP010550.1 Mycoplasma pneumoniae MAC strain Mac, complete genome
+0.0004	1	0	5	1	0.01119	1000013512	assembly	                    GCF_002355695.1 Mycoplasma pneumoniae strain=KCH-402
+0.0004	1	1	5	1	0.01119	1000013513	sequence	                      NZ_AP017318.1 Mycoplasma pneumoniae DNA, complete genome, strain: KCH-402
+0.0132	33	0	56	6.62	1.373e-07	1798711	no rank	        Cyanobacteria/Melainabacteria group
+0.0132	33	0	56	6.62	1.373e-07	1117	phylum	          Cyanobacteria
+0.0108	27	0	33	4.24	2.877e-07	1301283	subclass	            Oscillatoriophycideae
+0.0108	27	0	27	4.93	7.247e-07	1118	order	              Chroococcales
+0.0108	27	0	27	4.93	2.621e-06	1890449	family	                Microcystaceae
+0.0108	27	0	27	4.93	2.621e-06	1125	genus	                  Microcystis
+0.0108	27	20	27	4.93	2.621e-06	1126	species	                    Microcystis aeruginosa
+0.002	5	0	7	1.71	3.095e-05	1641812	no rank	                      Microcystis aeruginosa NIES-2549
+0.002	5	0	7	1.71	3.095e-05	1000008411	assembly	                        GCF_000981785.1 Microcystis aeruginosa NIES-2549
+0.002	5	5	7	1.71	3.095e-05	1000008412	sequence	                          NZ_CP011304.1 Microcystis aeruginosa NIES-2549, complete genome
+0.0004	1	0	5	1	1.77e-06	449447	no rank	                      Microcystis aeruginosa NIES-843
+0.0004	1	0	5	1	1.77e-06	1000008409	assembly	                        GCF_000010625.1 Microcystis aeruginosa NIES-843
+0.0004	1	1	5	1	1.77e-06	1000008410	sequence	                          NC_010296.1 Microcystis aeruginosa NIES-843 DNA, complete genome
+0.0004	1	0	1	1	3.802e-07	267872	no rank	                      Microcystis aeruginosa PCC 7806
+0.0004	1	0	1	1	3.802e-07	1903187	no rank	                        Microcystis aeruginosa PCC 7806SL
+0.0004	1	0	1	1	3.802e-07	1000008415	assembly	                          GCF_002095975.1 Microcystis aeruginosa PCC 7806SL
+0.0004	1	1	1	1	3.802e-07	1000008416	sequence	                            NZ_CP020771.1 Microcystis aeruginosa PCC 7806SL, complete genome
+0.0016	4	0	11	2.09	8.583e-08	1161	order	            Nostocales
+0.0016	4	0	7	2.71	1.164e-07	1185	family	              Rivulariaceae
+0.0016	4	1	7	2.71	1.35e-07	1186	genus	                Calothrix
+0.0012	3	0	4	3.75	6.078e-07	99598	species	                  Calothrix sp. PCC 7507
+0.0012	3	0	4	3.75	6.078e-07	1000018228	assembly	                    GCF_000316575.1 Calothrix sp. PCC 7507
+0.0012	3	3	4	3.75	6.078e-07	1000018229	sequence	                      NC_019682.1 Calothrix sp. PCC 7507, complete genome
+0.0004	1	0	7	1	7.671e-07	307596	class	            Gloeobacteria
+0.0004	1	0	7	1	7.671e-07	307595	order	              Gloeobacterales
+0.0004	1	0	7	1	7.671e-07	1890422	family	                Gloeobacteraceae
+0.0004	1	1	7	1	7.671e-07	33071	genus	                  Gloeobacter
+0.0004	1	0	2	1	1.511e-08	1890424	order	            Synechococcales
+0.0004	1	0	2	1	6.877e-08	1890438	family	              Leptolyngbyaceae
+0.0004	1	0	2	1	8.445e-08	47251	genus	                Leptolyngbya
+0.0004	1	0	2	1	3.031e-07	1752064	species	                  Leptolyngbya sp. NIES-3755
+0.0004	1	0	2	1	3.031e-07	1000023247	assembly	                    GCF_001548435.1 Leptolyngbya sp. NIES-3755
+0.0004	1	1	2	1	3.282e-07	1000023248	sequence	                      NZ_AP017308.1 Leptolyngbya sp. NIES-3755 DNA, complete genome
+0.0016	4	0	32	1	5.587e-07	200795	phylum	        Chloroflexi
+0.0012	3	0	12	1	1.76e-06	189775	class	          Thermomicrobia
+0.0008	2	0	10	1	3.451e-06	189776	order	            Thermomicrobiales
+0.0008	2	0	10	1	3.451e-06	189777	family	              Thermomicrobiaceae
+0.0008	2	0	10	1	3.451e-06	499	genus	                Thermomicrobium
+0.0008	2	0	10	1	3.451e-06	500	species	                  Thermomicrobium roseum
+0.0008	2	0	10	1	3.451e-06	309801	no rank	                    Thermomicrobium roseum DSM 5159
+0.0008	2	2	10	1	3.451e-06	1000003615	assembly	                      GCF_000021685.1 Thermomicrobium roseum DSM 5159
+0.0004	1	0	2	1	5.105e-07	85000	subclass	            Sphaerobacteridae
+0.0004	1	0	2	1	5.105e-07	85001	order	              Sphaerobacterales
+0.0004	1	0	2	1	5.105e-07	255728	suborder	                Sphaerobacterineae
+0.0004	1	0	2	1	5.105e-07	85002	family	                  Sphaerobacteraceae
+0.0004	1	0	2	1	5.105e-07	2056	genus	                    Sphaerobacter
+0.0004	1	0	2	1	5.105e-07	2057	species	                      Sphaerobacter thermophilus
+0.0004	1	0	2	1	5.105e-07	479434	no rank	                        Sphaerobacter thermophilus DSM 20745
+0.0004	1	0	2	1	5.105e-07	1000013307	assembly	                          GCF_000024985.1 Sphaerobacter thermophilus DSM 20745
+0.0004	1	1	2	1	1.637e-06	1000013309	sequence	                            NC_013524.1 Sphaerobacter thermophilus DSM 20745 chromosome 2, complete sequence
+0.0004	1	1	19	1	1.679e-06	301297	class	          Dehalococcoidia
+0.0008	2	0	11	1	1.667e-07	1297	phylum	        Deinococcus-Thermus
+0.0008	2	0	11	1	1.667e-07	188787	class	          Deinococci
+0.0008	2	0	11	1	2.798e-07	118964	order	            Deinococcales
+0.0004	1	0	6	1	1.979e-06	332247	family	              Trueperaceae
+0.0004	1	0	6	1	1.979e-06	332248	genus	                Truepera
+0.0004	1	0	6	1	1.979e-06	332249	species	                  Truepera radiovictrix
+0.0004	1	0	6	1	1.979e-06	649638	no rank	                    Truepera radiovictrix DSM 17093
+0.0004	1	0	6	1	1.979e-06	1000020069	assembly	                      GCF_000092425.1 Truepera radiovictrix DSM 17093
+0.0004	1	1	6	1	1.979e-06	1000020070	sequence	                        NC_014221.1 Truepera radiovictrix DSM 17093, complete genome
+0.0004	1	0	5	1	1.378e-07	183710	family	              Deinococcaceae
+0.0004	1	1	5	1	1.378e-07	1298	genus	                Deinococcus
+3.36	8401	0	236272	1.08	0.007644	32066	phylum	      Fusobacteria
+3.36	8401	0	236272	1.08	0.007644	203490	class	        Fusobacteriia
+3.36	8401	1	236272	1.08	0.007644	203491	order	          Fusobacteriales
+3.359	8398	2	235814	1.08	0.01308	203492	family	            Fusobacteriaceae
+3.358	8396	451	235814	1.08	0.01536	848	genus	              Fusobacterium
+3.157	7892	1046	199013	1.08	0.02194	851	species	                Fusobacterium nucleatum
+2.638	6594	4784	141130	1.08	0.1057	76856	subspecies	                  Fusobacterium nucleatum subsp. nucleatum
+0.722	1805	0	30729	1.06	0.1318	190304	no rank	                    Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+0.722	1805	0	30729	1.06	0.1318	1000008105	assembly	                      GCF_000007325.1 Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+0.722	1805	1805	30729	1.06	0.1318	1000008106	sequence	                        NC_003454.1 Fusobacterium nucleatum subsp. nucleatum ATCC 25586 chromosome, complete genome
+0.0012	3	0	17	1.94	0.007977	1000008132	assembly	                    GCF_002211605.1 Fusobacterium nucleatum subsp. nucleatum strain=ChDC F317
+0.0012	3	3	17	1.94	0.007977	1000008133	sequence	                      NZ_CP022122.1 Fusobacterium nucleatum subsp. nucleatum strain ChDC F317, complete genome
+0.0008	2	0	3	1.33	0.002812	1307428	no rank	                    Fusobacterium nucleatum subsp. nucleatum ChDC F316
+0.0008	2	0	3	1.33	0.002812	1000008123	assembly	                      GCF_001296165.1 Fusobacterium nucleatum subsp. nucleatum ChDC F316 strain=KCOM 1322
+0.0008	2	2	3	1.33	0.002812	1000008124	sequence	                        NZ_CP012716.1 Fusobacterium nucleatum subsp. nucleatum ChDC F316 strain KCOM 1322, complete genome
+0.0392	98	37	1047	1.11	0.000438	76857	subspecies	                  Fusobacterium nucleatum subsp. polymorphum
+0.0096	24	0	212	1	0.0003622	1000008129	assembly	                    GCF_001457555.1 Fusobacterium nucleatum subsp. polymorphum strain=NCTC10562
+0.0096	24	24	212	1	0.0003661	1000008130	sequence	                      NZ_LN831027.1 Fusobacterium nucleatum subsp. polymorphum genome assembly NCTC10562, chromosome : 1
+0.0084	21	0	282	1.17	0.0005301	1000008125	assembly	                    GCF_001433955.1 Fusobacterium nucleatum subsp. polymorphum strain=ChDC F306
+0.0084	21	21	282	1.17	0.000541	1000008126	sequence	                      NZ_CP013121.1 Fusobacterium nucleatum subsp. polymorphum strain ChDC F306, complete genome
+0.0064	16	0	184	1.09	0.0003925	1000008134	assembly	                    GCF_002211625.1 Fusobacterium nucleatum subsp. polymorphum strain=KCOM 1275
+0.0064	16	16	184	1.09	0.0003925	1000008135	sequence	                      NZ_CP022123.1 Fusobacterium nucleatum subsp. polymorphum strain KCOM 1275, complete genome
+0.0364	91	33	993	1.05	0.0003491	76859	subspecies	                  Fusobacterium nucleatum subsp. animalis
+0.0064	16	0	196	1.1	0.0006307	1000008121	assembly	                    GCF_001296145.1 Fusobacterium nucleatum subsp. animalis strain=KCOM 1325
+0.0064	16	16	196	1.1	0.0006307	1000008122	sequence	                      NZ_CP012715.1 Fusobacterium nucleatum subsp. animalis strain KCOM 1325, complete genome
+0.0056	14	0	199	1.05	0.0005788	469607	no rank	                    Fusobacterium nucleatum subsp. animalis 4_8
+0.0056	14	0	199	1.05	0.0005788	1000008116	assembly	                      GCF_000400875.1 Fusobacterium nucleatum subsp. animalis 4_8
+0.0056	14	14	199	1.05	0.000591	1000008117	sequence	                        NC_021281.1 Fusobacterium sp. 4_8, complete genome
+0.0056	14	0	123	1.04	0.0003092	457405	no rank	                    Fusobacterium nucleatum subsp. animalis 7_1
+0.0056	14	0	123	1.04	0.0003092	1000008107	assembly	                      GCF_000158275.2 Fusobacterium nucleatum subsp. animalis 7_1
+0.0056	14	14	123	1.04	0.0003117	1000008109	sequence	                        NZ_CP007062.1 Fusobacterium nucleatum subsp. animalis 7_1, complete genome
+0.0056	14	0	110	1.04	0.0001904	1000008119	assembly	                    GCF_001296085.1 Fusobacterium nucleatum subsp. animalis strain=KCOM 1279
+0.0056	14	14	110	1.04	0.0001904	1000008120	sequence	                      NZ_CP012713.1 Fusobacterium nucleatum subsp. animalis strain KCOM 1279, complete genome
+0.0252	63	34	661	1.06	0.0004675	155615	subspecies	                  Fusobacterium nucleatum subsp. vincentii
+0.006	15	0	120	1.07	0.0003304	469602	no rank	                    Fusobacterium nucleatum subsp. vincentii 3_1_27
+0.006	15	0	120	1.07	0.0003304	1000008112	assembly	                      GCF_000163915.2 Fusobacterium nucleatum subsp. vincentii 3_1_27
+0.0052	13	13	107	1.07	0.0003554	1000008114	sequence	                        NZ_CP007064.1 Fusobacterium nucleatum subsp. vincentii 3_1_27 chromosome 1, complete sequence
+0.0008	2	2	13	1	0.00022	1000008115	sequence	                        NZ_CP007065.1 Fusobacterium nucleatum subsp. vincentii 3_1_27 chromosome 2, complete sequence
+0.0056	14	0	134	1	0.0003258	469604	no rank	                    Fusobacterium nucleatum subsp. vincentii 3_1_36A2
+0.0056	14	0	134	1	0.0003258	1000008110	assembly	                      GCF_000162235.2 Fusobacterium nucleatum subsp. vincentii 3_1_36A2
+0.0056	14	14	134	1	0.0003258	1000008111	sequence	                        NC_022196.1 Fusobacterium nucleatum subsp. vincentii 3_1_36A2, complete genome
+0.0208	52	31	707	1.05	0.0003305	1583098	species	                Fusobacterium hwasookii
+0.0048	12	0	109	1.04	0.0001812	1307442	no rank	                  Fusobacterium hwasookii ChDC F174
+0.0048	12	0	109	1.04	0.0001812	1000022706	assembly	                    GCF_001455145.1 Fusobacterium hwasookii ChDC F174
+0.0048	12	12	109	1.04	0.0001842	1000022707	sequence	                      NZ_CP013331.1 Fusobacterium hwasookii ChDC F174, complete genome
+0.0032	8	0	117	1.02	0.0005241	1307443	no rank	                  Fusobacterium hwasookii ChDC F206
+0.0032	8	0	117	1.02	0.0005241	1000022703	assembly	                    GCF_001455085.1 Fusobacterium hwasookii ChDC F206
+0.0032	8	8	117	1.02	0.0005324	1000022704	sequence	                      NZ_CP013336.1 Fusobacterium hwasookii ChDC F206, complete genome
+0.0004	1	0	37	1	0.0001333	1307444	no rank	                  Fusobacterium hwasookii ChDC F300
+0.0004	1	0	37	1	0.0001333	1000022714	assembly	                    GCF_001455105.1 Fusobacterium hwasookii ChDC F300
+0.0004	1	1	37	1	0.0001336	1000022715	sequence	                      NZ_CP013334.1 Fusobacterium hwasookii ChDC F300, complete genome
+0.0004	1	0	3	1	9.611e-07	856	species	                Fusobacterium varium
+0.0004	1	0	3	1	9.611e-07	1000008138	assembly	                  GCF_002356455.1 Fusobacterium varium strain=Fv113-g1
+0.0004	1	1	3	1	9.969e-07	1000008139	sequence	                    NZ_AP017968.1 Fusobacterium varium DNA, complete genome
+0.0008	2	0	24	1	1.866e-06	1129771	family	            Leptotrichiaceae
+0.0008	2	0	24	1	3.627e-06	32067	genus	              Leptotrichia
+0.0004	1	0	12	1	9.29e-06	1785996	species	                Leptotrichia sp. oral taxon 847
+0.0004	1	0	12	1	9.29e-06	1000023311	assembly	                  GCF_001553645.1 Leptotrichia sp. oral taxon 847 strain=F0260
+0.0004	1	1	12	1	9.29e-06	1000023312	sequence	                    NZ_CP014231.1 Leptotrichia sp. oral taxon 847, complete genome
+0.0004	1	0	12	1	6.085e-06	712357	species	                Leptotrichia sp. oral taxon 212
+0.0004	1	0	12	1	6.085e-06	1000021334	assembly	                  GCF_001274535.1 Leptotrichia sp. oral taxon 212 strain=W10393
+0.0004	1	1	12	1	6.085e-06	1000021335	sequence	                    NZ_CP012410.1 Leptotrichia sp. oral taxon 212 strain W10393, complete genome
+0.5276	1319	0	42688	1.01	0.003858	508458	phylum	      Synergistetes
+0.5276	1319	0	42688	1.01	0.003858	649775	class	        Synergistia
+0.5276	1319	0	42688	1.01	0.003858	649776	order	          Synergistales
+0.5276	1319	1	42688	1.01	0.003858	649777	family	            Synergistaceae
+0.5272	1318	0	42667	1.01	0.0241	81461	genus	              Thermanaerovibrio
+0.5272	1318	0	42667	1.01	0.0241	81462	species	                Thermanaerovibrio acidaminovorans
+0.5272	1318	0	42667	1.01	0.0241	525903	no rank	                  Thermanaerovibrio acidaminovorans DSM 6589
+0.5272	1318	0	42667	1.01	0.0241	1000017710	assembly	                    GCF_000024905.1 Thermanaerovibrio acidaminovorans DSM 6589
+0.5272	1318	1318	42667	1.01	0.0241	1000017711	sequence	                      NC_013522.1 Thermanaerovibrio acidaminovorans DSM 6589 chromosome, complete genome
+0.2212	553	0	18570	1.01	0.0004438	200918	phylum	      Thermotogae
+0.2212	553	0	18570	1.01	0.0004438	188708	class	        Thermotogae
+0.2212	553	0	18568	1.01	0.0006412	2419	order	          Thermotogales
+0.2212	553	3	18566	1.01	0.001106	188709	family	            Thermotogaceae
+0.2196	549	401	18456	1.01	0.001783	2335	genus	              Thermotoga
+0.0592	148	0	4262	1.01	0.01161	93929	species	                Thermotoga petrophila
+0.0592	148	0	4262	1.01	0.01161	390874	no rank	                  Thermotoga petrophila RKU-1
+0.0592	148	0	4262	1.01	0.01161	1000018105	assembly	                    GCF_000016785.1 Thermotoga petrophila RKU-1
+0.0592	148	148	4262	1.01	0.01161	1000018106	sequence	                      NC_009486.1 Thermotoga petrophila RKU-1, complete genome
+0.0004	1	0	1	1	1.561e-07	1643951	genus	              Pseudothermotoga
+0.0004	1	0	1	1	3.96e-06	177758	species	                Pseudothermotoga lettingae
+0.0004	1	0	1	1	3.96e-06	416591	no rank	                  Pseudothermotoga lettingae TMO
+0.0004	1	0	1	1	3.96e-06	1000018954	assembly	                    GCF_000017865.1 Pseudothermotoga lettingae TMO
+0.0004	1	1	1	1	3.96e-06	1000018955	sequence	                      NC_009828.1 Pseudothermotoga lettingae TMO, complete genome
+0.0612	153	0	4547	1	4.531e-05	203691	phylum	      Spirochaetes
+0.0612	153	0	4547	1	4.531e-05	203692	class	        Spirochaetia
+0.0608	152	0	4542	1	7.284e-05	136	order	          Spirochaetales
+0.0608	152	0	4538	1	0.0004012	1643685	family	            Borreliaceae
+0.0608	152	25	4505	1	0.0007753	64895	genus	              Borreliella
+0.0492	123	106	3017	1	0.002677	139	species	                Borreliella burgdorferi
+0.0068	17	0	305	1	0.005773	445985	no rank	                  Borrelia burgdorferi ZS7
+0.0068	17	2	305	1	0.005773	1000000782	assembly	                    GCF_000021405.1 Borrelia burgdorferi ZS7
+0.0024	6	6	67	1	0.004362	1000000783	sequence	                      NC_011728.1 Borrelia burgdorferi ZS7, complete genome
+0.0012	3	3	80	1	0.003942	1000000787	sequence	                      NC_011720.1 Borrelia burgdorferi ZS7 plasmid ZS7_cp32-3+10, complete sequence
+0.0008	2	2	33	1	0.009437	1000000792	sequence	                      NC_011780.1 Borrelia burgdorferi ZS7 plasmid ZS7_lp28-1, complete sequence
+0.0004	1	1	37	1	0.03715	1000000791	sequence	                      NC_011783.1 Borrelia burgdorferi ZS7 plasmid ZS7_lp25, complete sequence
+0.0004	1	1	24	1	0.019	1000000784	sequence	                      NC_011724.1 Borrelia burgdorferi ZS7 plasmid ZS7_cp26, complete sequence
+0.0004	1	1	12	1	0.006708	1000000797	sequence	                      NC_011784.1 Borrelia burgdorferi ZS7 plasmid ZS7_lp54, complete sequence
+0.0004	1	1	9	1	0.005143	1000000785	sequence	                      NC_011731.1 Borrelia burgdorferi ZS7 plasmid ZS7_cp32-1, complete sequence
+0.0008	2	0	22	1	3.217e-05	29519	species	                Borreliella garinii
+0.0008	2	0	22	1	6.299e-05	1000015567	assembly	                  GCF_001922545.1 Borreliella garinii strain=CIP 103362
+0.0004	1	1	20	1	0.001173	1000015575	sequence	                    NZ_CP018747.1 Borreliella garinii strain CIP 103362 plasmid unnamed2 sequence
+0.0004	1	1	2	1	9.189e-06	1000015568	sequence	                    NZ_CP018744.1 Borreliella garinii strain CIP 103362 isolate 20047, complete genome
+0.0004	1	0	18	1	2.863e-05	64897	species	                Borreliella bissettii
+0.0004	1	0	18	1	2.863e-05	521010	no rank	                  Borreliella bissettii DN127
+0.0004	1	0	18	1	2.863e-05	1000017308	assembly	                    GCF_000222305.1 Borreliella bissettii DN127
+0.0004	1	1	15	1	3.564e-05	1000017309	sequence	                      NC_015921.1 Borreliella bissettii DN127, complete genome
+0.0004	1	1	6	1	6.599e-06	29518	species	                Borreliella afzelii
+0.0004	1	0	5	1	4.74e-07	1643686	order	          Brachyspirales
+0.0004	1	0	5	1	4.74e-07	143786	family	            Brachyspiraceae
+0.0004	1	1	5	1	4.74e-07	29521	genus	              Brachyspira
+0.0004	1	0	17	1.06	1.068e-07	1783257	no rank	      PVC group
+0.0004	1	0	1	2	1.083e-08	203682	phylum	        Planctomycetes
+0.0004	1	0	1	2	1.202e-08	203683	class	          Planctomycetia
+0.0004	1	0	1	2	1.202e-08	112	order	            Planctomycetales
+0.0004	1	0	1	2	1.911e-08	126	family	              Planctomycetaceae
+0.0004	1	0	1	2	6.894e-08	118	genus	                Planctomyces
+0.0004	1	0	1	2	1.233e-07	1632864	species	                  Planctomyces sp. SH-PL14
+0.0004	1	0	1	2	1.233e-07	1000022822	assembly	                    GCF_001610835.1 Planctomyces sp. SH-PL14
+0.0004	1	1	1	2	1.233e-07	1000022823	sequence	                      NZ_CP011270.1 Planctomyces sp. SH-PL14, complete genome
+0.1244	311	0	10103	1	2.258e-05	2157	superkingdom	    Archaea
+0.1244	311	0	10102	1	2.711e-05	28890	phylum	      Euryarchaeota
+0.1244	311	0	10100	1	9.729e-05	224756	class	        Methanomicrobia
+0.1244	311	0	10100	1	0.000134	94695	order	          Methanosarcinales
+0.1244	311	0	10100	1	0.0001441	2206	family	            Methanosarcinaceae
+0.1244	311	10	10080	1	0.002749	2175	genus	              Methanohalophilus
+0.1196	299	0	9088	1	0.005318	2176	species	                Methanohalophilus mahii
+0.1196	299	0	9088	1	0.005318	547558	no rank	                  Methanohalophilus mahii DSM 5219
+0.1196	299	0	9088	1	0.005318	1000000578	assembly	                    GCF_000025865.1 Methanohalophilus mahii DSM 5219
+0.1196	299	299	9088	1	0.005318	1000000579	sequence	                      NC_014002.1 Methanohalophilus mahii DSM 5219, complete genome
+0.0008	2	0	26	1	1.502e-05	2177	species	                Methanohalophilus halophilus
+0.0008	2	0	26	1	1.502e-05	1000000375	assembly	                  GCF_001889405.1 Methanohalophilus halophilus strain=Z-7982
+0.0008	2	2	26	1	1.502e-05	1000000376	sequence	                    NZ_CP017921.1 Methanohalophilus halophilus strain Z-7982, complete genome
+0.0024	6	0	24	2.33	9.277e-09	2759	superkingdom	    Eukaryota
+0.0024	6	0	24	2.33	9.277e-09	33154	no rank	      Opisthokonta
+0.0024	6	0	24	2.33	9.277e-09	33208	kingdom	        Metazoa
+0.0024	6	0	24	2.33	9.277e-09	6072	no rank	          Eumetazoa
+0.0024	6	0	24	2.33	9.277e-09	33213	no rank	            Bilateria
+0.0024	6	0	24	2.33	9.277e-09	33511	no rank	              Deuterostomia
+0.0024	6	0	24	2.33	9.277e-09	7711	phylum	                Chordata
+0.0024	6	0	24	2.33	9.277e-09	89593	subphylum	                  Craniata
+0.0024	6	0	24	2.33	9.277e-09	7742	no rank	                    Vertebrata
+0.0024	6	0	24	2.33	9.277e-09	7776	no rank	                      Gnathostomata
+0.0024	6	0	24	2.33	9.277e-09	117570	no rank	                        Teleostomi
+0.0024	6	0	24	2.33	9.277e-09	117571	no rank	                          Euteleostomi
+0.0024	6	0	24	2.33	9.277e-09	8287	no rank	                            Sarcopterygii
+0.0024	6	0	24	2.33	9.277e-09	1338369	no rank	                              Dipnotetrapodomorpha
+0.0024	6	0	24	2.33	9.277e-09	32523	no rank	                                Tetrapoda
+0.0024	6	0	24	2.33	9.277e-09	32524	no rank	                                  Amniota
+0.0024	6	0	24	2.33	9.277e-09	40674	class	                                    Mammalia
+0.0024	6	0	24	2.33	9.277e-09	32525	no rank	                                      Theria
+0.0024	6	0	24	2.33	9.277e-09	9347	no rank	                                        Eutheria
+0.0024	6	0	24	2.33	9.277e-09	1437010	no rank	                                          Boreoeutheria
+0.0024	6	0	24	2.33	9.277e-09	314146	superorder	                                            Euarchontoglires
+0.0024	6	0	24	2.33	9.277e-09	9443	order	                                              Primates
+0.0024	6	0	24	2.33	9.277e-09	376913	suborder	                                                Haplorrhini
+0.0024	6	0	24	2.33	9.277e-09	314293	infraorder	                                                  Simiiformes
+0.0024	6	0	24	2.33	9.277e-09	9526	parvorder	                                                    Catarrhini
+0.0024	6	0	24	2.33	9.277e-09	314295	superfamily	                                                      Hominoidea
+0.0024	6	0	24	2.33	9.277e-09	9604	family	                                                        Hominidae
+0.0024	6	0	24	2.33	9.277e-09	207598	subfamily	                                                          Homininae
+0.0024	6	0	24	2.33	9.277e-09	9605	genus	                                                            Homo
+0.0024	6	6	24	2.33	9.277e-09	9606	species	                                                              Homo sapiens
+0.0004	1	0	27	1	1.274e-05	28384	no rank	  other sequences
+0.0004	1	0	27	1	1.274e-05	81077	no rank	    artificial sequences
+0.0004	1	0	27	1	1.274e-05	32630	species	      synthetic construct
+0.0004	1	0	27	1	1.631e-05	1000171221	assembly	        EmVec
+0.0004	1	1	27	1	0.02957	1000173475	sequence	          KM576780 Cloning vector 5A4 NP1, complete sequence.

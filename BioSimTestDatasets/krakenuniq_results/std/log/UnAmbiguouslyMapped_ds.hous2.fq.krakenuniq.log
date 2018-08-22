@@ -1,0 +1,13 @@
+/ccb/sw/packages/krakenuniq/classify -d ../dbs/refseq-oct2017-k31/database.kdb -i ../dbs/refseq-oct2017-k31/database.idx -t 10 -f -r kraken/UnAmbiguouslyMapped_ds.hous2.fq.krakenuniq.report.tsv -a ../dbs/refseq-oct2017-k31/taxDB -p 12 /dev/fd/0
+ Database ../dbs/refseq-oct2017-k31/database.kdb
+Loaded database with 15102006752 keys with k of 31 [val_len 4, key_len 8].
+Reading taxonomy index from ../dbs/refseq-oct2017-k31/taxDB. Done, read 1834005 taxa.
+500000 sequences (50.00 Mbp) processed in 4.184s (7170.8 Kseq/m, 717.08 Mbp/m).
+  447923 sequences classified (89.58%)
+  52077 sequences unclassified (10.42%)
+Writing report file to kraken/UnAmbiguouslyMapped_ds.hous2.fq.krakenuniq.report.tsv  ..
+Reading genome sizes from ../dbs/refseq-oct2017-k31/database.kdb.counts ... done
+Setting values in the taxonomy tree ... done
+Printing classification report ...  done
+Report finished in 0.133 seconds.
+Finishing up ...

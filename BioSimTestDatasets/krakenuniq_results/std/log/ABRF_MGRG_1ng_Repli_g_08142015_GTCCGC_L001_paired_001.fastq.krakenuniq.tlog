@@ -1,0 +1,23 @@
+	Command being timed: "krakenuniq --report-file=kraken/ABRF_MGRG_1ng_Repli_g_08142015_GTCCGC_L001_paired_001.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip --paired datasets/ABRF_MGRG_1ng_Repli_g_08142015_GTCCGC_L001_R1_001.fastq.gz datasets/ABRF_MGRG_1ng_Repli_g_08142015_GTCCGC_L001_R2_001.fastq.gz"
+	User time (seconds): 536.70
+	System time (seconds): 87.94
+	Percent of CPU this job got: 743%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:24.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101268436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 29859466
+	Voluntary context switches: 162707
+	Involuntary context switches: 1589
+	Swaps: 0
+	File system inputs: 198799
+	File system outputs: 418083
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

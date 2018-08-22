@@ -1,0 +1,62 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+54.14	229	229	480293	1.01	8.845	0	no rank	unclassified
+45.86	194	5	10402	1.4	4.564e-07	1	no rank	root
+44.68	189	1	7882	1.02	3.542e-07	131567	no rank	  cellular organisms
+44.44	188	1	7664	1.02	5.038e-07	2	superkingdom	    Bacteria
+32.39	137	0	3589	1.05	4.828e-07	1224	phylum	      Proteobacteria
+32.39	137	0	3570	1.05	1.009e-06	1236	class	        Gammaproteobacteria
+20.8	88	0	1711	1	1.741e-06	72274	order	          Pseudomonadales
+20.8	88	0	1711	1	2.04e-06	135621	family	            Pseudomonadaceae
+20.8	88	14	1711	1	2.079e-06	286	genus	              Pseudomonas
+17.26	73	0	1042	1	6.643e-06	136843	species group	                Pseudomonas fluorescens group
+17.02	72	0	999	1	1.725e-05	294	species	                  Pseudomonas fluorescens
+17.02	72	72	994	1	0.0002764	1008739728	sequence	                    LT907842.1 Pseudomonas fluorescens strain ATCC 13525 genome assembly, chromosome: I
+0.2364	1	0	1	1	2.427e-07	651740	species	                  Pseudomonas cedrina
+0.2364	1	1	1	1	2.429e-07	1010792522	sequence	                    LT629753.1 Pseudomonas cedrina strain BS2981 genome assembly, chromosome: I
+0.2364	1	0	2	1	4.434e-07	395598	species	                Pseudomonas reinekei
+0.2364	1	1	2	1	4.461e-07	1013506718	sequence	                  LT629709.1 Pseudomonas reinekei strain BS3776 genome assembly, chromosome: I
+7.801	33	0	1246	1.06	1.265e-06	91347	order	          Enterobacterales
+7.801	33	8	1210	1.06	2.403e-06	543	family	            Enterobacteriaceae
+5.437	23	2	121	1.71	2.121e-06	561	genus	              Escherichia
+4.965	21	17	116	1.74	2.664e-06	562	species	                Escherichia coli
+0.2364	1	1	3	1	0.0004589	1013393906	sequence	                  CP013253.1 Escherichia coli strain CQSW20, complete genome
+0.2364	1	1	3	1	0.01382	1003475491	sequence	                  M54893.1 E.coli Gly-tRNA (glyU) gene
+0.2364	1	1	1	1	1.744e-05	1011969912	sequence	                  CP024131.1 Escherichia coli strain 14EC007 chromosome, complete genome
+0.2364	1	1	1	1	1.828e-05	1002504422	sequence	                  CP017220.1 Escherichia coli strain FAM21845, complete genome
+0.2364	1	0	24	1	1.111e-05	620	genus	              Shigella
+0.2364	1	0	24	1	2.902e-05	623	species	                Shigella flexneri
+0.2364	1	0	23	1	0.001281	374923	no rank	                  Shigella flexneri 1a
+0.2364	1	1	23	1	0.01391	1013794279	sequence	                    CP012733.1 Shigella flexneri 1a strain 0228 plasmid, complete sequence
+0.2364	1	0	3	1	3.596e-08	547	genus	              Enterobacter
+0.2364	1	0	3	1	5.589e-08	354276	species group	                Enterobacter cloacae complex
+0.2364	1	0	3	1	1.271e-07	550	species	                  Enterobacter cloacae
+0.2364	1	0	3	1	7.595e-07	336306	subspecies	                    Enterobacter cloacae subsp. cloacae
+0.2364	1	1	3	1	1.154e-06	1004821519	sequence	                      AP018340.1 Enterobacter cloacae subsp. cloacae DNA, nearly complete genome, strain: 2016_smu953
+3.783	16	0	681	1	1.829e-06	135622	order	          Alteromonadales
+3.783	16	0	673	1	7.07e-06	267888	family	            Pseudoalteromonadaceae
+3.783	16	11	673	1	7.071e-06	53246	genus	              Pseudoalteromonas
+0.7092	3	3	43	1	5.076e-05	152297	species	                Pseudoalteromonas issachenkonii
+0.2364	1	0	20	1	6.052e-06	394751	species	                Pseudoalteromonas arctica
+0.2364	1	0	20	1	6.055e-06	1117313	no rank	                  Pseudoalteromonas arctica A 37-1-2
+0.2364	1	1	20	1	7.462e-06	1010544116	sequence	                    CP011025.1 Pseudoalteromonas arctica A 37-1-2 chromosome I, complete sequence
+0.2364	1	0	1	1	4.621e-07	166935	species	                Pseudoalteromonas translucida
+0.2364	1	0	1	1	4.621e-07	1315283	no rank	                  Pseudoalteromonas translucida KMM 520
+0.2364	1	1	1	1	5.849e-07	1006081111	sequence	                    CP011034.1 Pseudoalteromonas translucida KMM 520 chromosome I, complete sequence
+11.82	50	0	3924	1	6.823e-07	1783272	no rank	      Terrabacteria group
+7.092	30	0	3018	1	1.147e-06	201174	phylum	        Actinobacteria
+7.092	30	0	3018	1	1.18e-06	1760	class	          Actinobacteria
+7.092	30	0	2910	1	6.939e-06	85006	order	            Micrococcales
+7.092	30	0	2868	1	1.859e-05	1268	family	              Micrococcaceae
+7.092	30	0	2841	1	0.001056	1269	genus	                Micrococcus
+7.092	30	28	2806	1	0.001208	1270	species	                  Micrococcus luteus
+0.4728	2	0	13	1	0.001168	465515	no rank	                    Micrococcus luteus NCTC 2665
+0.4728	2	2	13	1	0.001178	1012263849	sequence	                      CP001628.1 Micrococcus luteus NCTC 2665, complete genome
+4.728	20	0	909	1	4.09e-07	1239	phylum	        Firmicutes
+4.728	20	0	905	1	5.914e-07	91061	class	          Bacilli
+4.728	20	0	905	1	8.447e-07	1385	order	            Bacillales
+4.019	17	0	576	1	1.169e-06	186817	family	              Bacillaceae
+4.019	17	0	574	1	7.044e-05	45667	genus	                Halobacillus
+4.019	17	17	572	1	0.0001433	1570	species	                  Halobacillus halophilus
+0.7092	3	0	325	1	2.903e-06	90964	family	              Staphylococcaceae
+0.7092	3	0	325	1	3.26e-06	1279	genus	                Staphylococcus
+0.7092	3	3	300	1	5.255e-05	1282	species	                  Staphylococcus epidermidis

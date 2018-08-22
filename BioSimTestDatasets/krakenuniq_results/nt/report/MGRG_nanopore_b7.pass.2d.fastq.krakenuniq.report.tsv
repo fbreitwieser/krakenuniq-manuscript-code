@@ -1,0 +1,188 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.24	123	123	823891	1.01	15.17	0	no rank	unclassified
+88.76	971	3	97584	1.07	4.282e-06	1	no rank	root
+88.39	967	0	93342	1.02	4.195e-06	131567	no rank	  cellular organisms
+88.39	967	13	92484	1.02	6.079e-06	2	superkingdom	    Bacteria
+60.69	664	0	45401	1.01	6.108e-06	1224	phylum	      Proteobacteria
+60.69	664	2	45227	1.01	1.278e-05	1236	class	        Gammaproteobacteria
+42.23	462	0	23456	1.03	2.387e-05	72274	order	          Pseudomonadales
+42.23	462	0	23456	1.03	2.796e-05	135621	family	            Pseudomonadaceae
+42.23	462	46	23431	1.03	2.847e-05	286	genus	              Pseudomonas
+37.39	409	9	15251	1.03	9.723e-05	136843	species group	                Pseudomonas fluorescens group
+36.01	394	2	14634	1.02	0.0002527	294	species	                  Pseudomonas fluorescens
+35.65	390	390	14440	1.02	0.004015	1008739728	sequence	                    LT907842.1 Pseudomonas fluorescens strain ATCC 13525 genome assembly, chromosome: I
+0.09141	1	1	8	1	9.159e-06	1006951856	sequence	                    CP011117.1 Pseudomonas fluorescens strain LBUM223, complete genome
+0.09141	1	0	8	1	2.152e-06	1262454	no rank	                    Pseudomonas fluorescens Pf29Arp
+0.09141	1	1	8	1	0.0001142	1003086508	sequence	                      ANOR01000091.1 Pseudomonas fluorescens Pf29Arp contig091, whole genome shotgun sequence
+0.09141	1	0	21	1	5.097e-06	651740	species	                  Pseudomonas cedrina
+0.09141	1	1	21	1	5.102e-06	1010792522	sequence	                    LT629753.1 Pseudomonas cedrina strain BS2981 genome assembly, chromosome: I
+0.09141	1	1	17	1	5.403e-06	169669	species	                  Pseudomonas extremorientalis
+0.09141	1	0	16	1	3.516e-06	46679	species	                  Pseudomonas mucidolens
+0.09141	1	1	16	1	3.52e-06	1009617673	sequence	                    LT629802.1 Pseudomonas mucidolens strain LMG 2223 genome assembly, chromosome: I
+0.09141	1	1	16	1	2.189e-06	76758	species	                  Pseudomonas orientalis
+0.09141	1	0	5	1	4.734e-07	47878	species	                  Pseudomonas azotoformans
+0.09141	1	1	1	1	2.833e-07	1011013359	sequence	                    CP019856.1 Pseudomonas azotoformans strain F77, complete genome
+0.09141	1	0	3	1	7.198e-07	76760	species	                  Pseudomonas rhodesiae
+0.09141	1	1	3	1	7.221e-07	1006118030	sequence	                    LT629801.1 Pseudomonas rhodesiae strain BS2777 genome assembly, chromosome: I
+0.1828	2	0	35	1	4.418e-06	219572	species	                Pseudomonas antarctica
+0.1828	2	2	30	1	8.632e-06	1013431489	sequence	                  CP015600.1 Pseudomonas antarctica strain PAMC 27494, complete genome
+0.09141	1	0	32	1	7.545e-06	2054919	species	                Pseudomonas sp. S09G 359
+0.09141	1	1	32	1	7.545e-06	1001160560	sequence	                  CP025263.1 Pseudomonas sp. S09G 359 chromosome
+0.09141	1	0	18	1	4.18e-06	191390	species	                Pseudomonas palleroniana
+0.09141	1	1	18	1	4.181e-06	1009134894	sequence	                  CP025494.1 Pseudomonas palleroniana strain MAB3 chromosome
+0.09141	1	0	7	1	1.536e-06	157782	species	                Pseudomonas parafulva
+0.09141	1	1	7	1	1.756e-06	1004671688	sequence	                  CP009747.1 Pseudomonas parafulva strain CRS01-1, complete genome
+0.09141	1	1	7	1	1.26e-07	136849	species group	                Pseudomonas syringae group
+0.09141	1	0	3	1	2.748e-07	104087	species	                Pseudomonas frederiksbergensis
+0.09141	1	1	1	1	2.481e-07	1008726800	sequence	                  CP018319.1 Pseudomonas frederiksbergensis strain AS1, complete genome
+18.28	200	1	21219	1	2.154e-05	91347	order	          Enterobacterales
+18.1	198	52	20755	1	4.122e-05	543	family	            Enterobacteriaceae
+11.61	127	3	2064	1.06	3.618e-05	561	genus	              Escherichia
+10.88	119	75	1860	1.06	4.271e-05	562	species	                Escherichia coli
+0.1828	2	0	22	1	0.0002375	83333	no rank	                  Escherichia coli K-12
+0.09141	1	0	3	1	8.956e-05	511145	no rank	                    Escherichia coli str. K-12 substr. MG1655
+0.09141	1	0	3	1	0.0008852	1385755	no rank	                      synthetic Escherichia coli C321.deltaA
+0.09141	1	1	3	1	0.005405	1014177767	sequence	                        CP010456.1 Synthetic Escherichia coli C321.deltaA substrain rEc.b.dC.12, complete sequence
+0.09141	1	0	1	1	9.096e-05	316407	no rank	                    Escherichia coli str. K-12 substr. W3110
+0.09141	1	1	1	1	0.01087	1012420423	sequence	                      U18111.1 Escherichia coli region between trpZ and btuR, orf2 and 3, complete cds, orf1 and 4, partial cds
+0.1828	2	2	21	1	0.0008749	1008648744	sequence	                  CP014752.1 Escherichia coli strain PSUO103, complete genome
+0.1828	2	2	11	1	0.0005197	1003491717	sequence	                  CP024256.1 Escherichia coli strain ATCC 43886 chromosome, complete genome
+0.1828	2	2	4	1	0.0001483	1000956238	sequence	                  CP018995.1 Escherichia coli strain Ecol_AZ147, complete genome
+0.1828	2	2	2	1	0.0005961	1006791736	sequence	                  CP025627.1 Escherichia coli strain SCEC020007 chromosome, complete genome
+0.09141	1	1	40	1	0.0008795	1010963246	sequence	                  CP018840.1 Escherichia coli strain KSC64 chromosome, complete genome
+0.09141	1	1	23	1	0.01798	1005982864	sequence	                  LK931542.1 Escherichia coli genome assembly StOlav104, scaffold scaffold-40
+0.09141	1	1	21	1	0.009021	1003171141	sequence	                  CP013952.1 Escherichia coli strain HST04, complete genome
+0.09141	1	0	15	1	0.0009769	1382700	no rank	                  Escherichia coli PMV-1
+0.09141	1	1	15	1	0.001101	1003079315	sequence	                    HG428755.1 Escherichia coli PMV-1 main chromosome, complete genome
+0.09141	1	0	12	1	0.0003218	1329907	no rank	                  Escherichia coli APEC IMT5155
+0.09141	1	1	12	1	0.0003448	1003639190	sequence	                    CP005930.1 Escherichia coli APEC IMT5155, complete genome
+0.09141	1	1	12	1	0.2264	1011573334	sequence	                  J02857.1 E.coli nth gene encoding endonuclease III, complete cds
+0.09141	1	1	9	1	0.000157	1011969912	sequence	                  CP024131.1 Escherichia coli strain 14EC007 chromosome, complete genome
+0.09141	1	1	8	1	0.0006523	1007038374	sequence	                  LT601384.1 Escherichia coli isolate NCTC86EC genome assembly, chromosome: I
+0.09141	1	1	8	1	0.000223	1000859920	sequence	                  CP010238.1 Escherichia coli strain S50, complete genome
+0.09141	1	1	7	1	0.01394	1000726653	sequence	                  M24777.1 E. coli mdh gene encoding malate dehydrogenase, complete cds
+0.09141	1	1	7	1	0.00261	1004880683	sequence	                  CP024831.1 Escherichia coli strain CREC-532 plasmid pCREC-532_1, complete sequence
+0.09141	1	0	5	1	8.74e-05	1412834	no rank	                  Escherichia coli FAP1
+0.09141	1	1	5	1	0.0001018	1012267928	sequence	                    CP009578.1 Escherichia coli FAP1 genome
+0.09141	1	0	4	1	0.0001866	376725	no rank	                  Escherichia coli O103:H2
+0.09141	1	0	4	1	0.0001876	585395	no rank	                    Escherichia coli O103:H2 str. 12009
+0.09141	1	1	4	1	0.0001905	1000426832	sequence	                      AP010958.1 Escherichia coli O103:H2 str. 12009 DNA, complete genome
+0.09141	1	0	4	1	0.0002363	405955	no rank	                  Escherichia coli APEC O1
+0.09141	1	1	4	1	0.0002595	1009083973	sequence	                    CP000468.1 Escherichia coli APEC O1, complete genome
+0.09141	1	1	4	1	3.442e-05	1008303822	sequence	                  LT795502.1 Escherichia coli strain KV7 genome assembly, chromosome: I
+0.09141	1	0	3	1	0.0002699	439184	no rank	                  Escherichia coli RS218
+0.09141	1	1	3	1	0.0002991	1011472765	sequence	                    CP007149.1 Escherichia coli RS218, complete genome
+0.09141	1	1	3	1	0.0002706	1009382631	sequence	                  CP013190.1 Escherichia coli strain FORC_031, complete genome
+0.09141	1	1	3	1	7.028e-05	1003960137	sequence	                  CP020107.1 Escherichia coli strain 13E0767, complete genome
+0.09141	1	1	3	1	0.04478	1013909531	sequence	                  KT984280.1 Escherichia coli strain MECB5-FOX disrupted DNA-binding transcriptional repressor (acrR) gene, complete cds
+0.09141	1	1	3	1	0.00974	1006971711	sequence	                  LM996231.1 Escherichia coli genome assembly FHI40, scaffold scaffold-24_contig-48.23_847115_865469_[organism:Escherichia
+0.09141	1	1	3	1	2.517e-05	1008581307	sequence	                  CP012379.1 Escherichia coli strain PAR, complete genome
+0.09141	1	1	2	1	0.0003059	1013393906	sequence	                  CP013253.1 Escherichia coli strain CQSW20, complete genome
+0.09141	1	1	2	1	1.616e-05	1002847525	sequence	                  CP024978.1 Escherichia coli strain CV839-15 chromosome, complete genome
+0.09141	1	0	2	1	3.152e-05	340184	no rank	                  Escherichia coli B7A
+0.09141	1	1	2	1	3.516e-05	1003347789	sequence	                    CP005998.1 Escherichia coli B7A, complete genome
+0.09141	1	1	2	1	0.000388	1008425682	sequence	                  CP023383.1 Escherichia coli strain 1223 chromosome, complete genome
+0.09141	1	0	2	1	1.357e-05	930406	no rank	                  Escherichia coli O157:H16
+0.09141	1	1	2	1	1.364e-05	1007251998	sequence	                    CP007592.1 Escherichia coli O157:H16 strain Santai, complete genome
+0.09141	1	1	1	1	6.572e-06	1013318586	sequence	                  CP013029.1 Escherichia coli strain 2012C-4227, complete genome
+0.09141	1	1	1	1	3.017e-05	1013048915	sequence	                  CP016546.1 Escherichia coli strain O177:H21, complete genome
+0.09141	1	1	1	1	0.0003072	1012763439	sequence	                  LM996608.1 Escherichia coli genome assembly FHI74, scaffold scaffold-16_contig-7.1_97399_226260_[organism:Escherichia
+0.09141	1	0	1	1	2.431e-05	2048781	no rank	                  Escherichia coli O27:H7
+0.09141	1	1	1	1	2.741e-05	1011019886	sequence	                    CP024245.1 Escherichia coli O27:H7 strain B4103-1 chromosome, complete genome
+0.09141	1	1	1	1	1.617e-05	1003775081	sequence	                  CP010371.1 Escherichia coli strain 6409, complete genome
+0.09141	1	1	1	1	0.01786	1003113515	sequence	                  LM995799.1 Escherichia coli genome assembly FHI20, scaffold scaffold-9_contig-17.0_1_39120_[organism:Escherichia
+0.09141	1	1	1	1	0.0002012	1003130767	sequence	                  LM996411.1 Escherichia coli genome assembly FHI66, scaffold scaffold-32_contig-0.0_1_159744_[organism:Escherichia
+0.09141	1	1	1	1	2.602e-05	1008062132	sequence	                  CP010137.1 Escherichia coli strain D2, complete genome
+0.2742	3	2	26	1	4.572e-06	208962	species	                Escherichia albertii
+0.09141	1	1	2	1	6.175e-06	1005335093	sequence	                  CP024282.1 Escherichia albertii strain 2014C-4356 chromosome, complete genome
+0.09141	1	0	15	1	5.979e-06	564	species	                Escherichia fergusonii
+0.09141	1	0	15	1	6.029e-06	585054	no rank	                  Escherichia fergusonii ATCC 35469
+0.09141	1	1	15	1	6.045e-06	1000268530	sequence	                    CU928158.2 Escherichia fergusonii ATCC 35469 chromosome, complete genome
+0.09141	1	0	10	1	3.258e-06	1499973	species	                Escherichia marmotae
+0.09141	1	1	10	1	3.437e-06	1012438715	sequence	                  CP025979.1 Escherichia marmotae strain HT073016 chromosome, complete genome
+1.005	11	0	151	1	6.99e-05	620	genus	              Shigella
+0.3656	4	1	42	1	8.015e-05	622	species	                Shigella dysenteriae
+0.1828	2	0	31	1	0.0003577	754093	no rank	                  Shigella dysenteriae 1617
+0.1828	2	2	31	1	0.0003905	1008491101	sequence	                    CP006736.1 Shigella dysenteriae 1617, complete genome
+0.09141	1	0	6	1	0.0005787	300267	no rank	                  Shigella dysenteriae Sd197
+0.09141	1	1	6	1	0.0006362	1014308080	sequence	                    CP000034.1 Shigella dysenteriae Sd197, complete genome
+0.2742	3	1	52	1	0.0001702	624	species	                Shigella sonnei
+0.1828	2	2	39	1	0.006526	1004798079	sequence	                  CP022459.1 Shigella sonnei strain 2015C-3807, complete genome
+0.2742	3	1	49	1	5.925e-05	623	species	                Shigella flexneri
+0.09141	1	0	15	1	0.002614	591020	no rank	                  Shigella flexneri 2002017
+0.09141	1	1	15	1	0.003519	1008823704	sequence	                    CP001383.1 Shigella flexneri 2002017, complete genome
+0.09141	1	0	8	1	0.0004457	374923	no rank	                  Shigella flexneri 1a
+0.09141	1	1	8	1	0.00484	1013794279	sequence	                    CP012733.1 Shigella flexneri 1a strain 0228 plasmid, complete sequence
+0.09141	1	0	3	1	7.403e-06	621	species	                Shigella boydii
+0.09141	1	1	2	1	0.0001344	1010624191	sequence	                  CP011511.1 Shigella boydii strain ATCC 9210, complete genome
+0.2742	3	1	16	1	2.564e-07	544	genus	              Citrobacter
+0.09141	1	0	3	1	7.277e-07	67825	species	                Citrobacter rodentium
+0.09141	1	0	3	1	7.423e-07	637910	no rank	                  Citrobacter rodentium ICC168
+0.09141	1	1	3	1	7.476e-07	1002769187	sequence	                    FN543502.1 Citrobacter rodentium ICC168, complete genome
+0.09141	1	1	2	1	3.382e-07	545	species	                Citrobacter koseri
+0.1828	2	0	7	1	1.049e-07	570	genus	              Klebsiella
+0.09141	1	0	4	1	2.097e-07	573	species	                Klebsiella pneumoniae
+0.09141	1	0	2	1	7.459e-07	72407	subspecies	                  Klebsiella pneumoniae subsp. pneumoniae
+0.09141	1	1	2	1	2.26e-06	1010704622	sequence	                    CP023134.1 Klebsiella pneumoniae subsp. pneumoniae strain KpvK54, complete genome
+0.09141	1	1	2	1	2.677e-07	548	species	                Klebsiella aerogenes
+0.09141	1	0	24	1	2.877e-07	547	genus	              Enterobacter
+0.09141	1	0	23	1	4.285e-07	354276	species group	                Enterobacter cloacae complex
+0.09141	1	0	23	1	9.741e-07	550	species	                  Enterobacter cloacae
+0.09141	1	0	23	1	5.823e-06	336306	subspecies	                    Enterobacter cloacae subsp. cloacae
+0.09141	1	1	23	1	8.845e-06	1004821519	sequence	                      AP018340.1 Enterobacter cloacae subsp. cloacae DNA, nearly complete genome, strain: 2016_smu953
+0.09141	1	0	4	1	3.833e-07	1330545	genus	              Lelliottia
+0.09141	1	0	4	1	1.118e-06	1907578	species	                Lelliottia sp. PFL01
+0.09141	1	1	4	1	1.118e-06	1003407811	sequence	                  CP018628.1 Lelliottia sp. PFL01, complete genome
+0.09141	1	1	1	1	0.0004252	1504576	genus	              Pseudocitrobacter
+0.09141	1	0	15	1	4.691e-07	1903412	family	            Hafniaceae
+0.09141	1	0	13	1	7.351e-07	635	genus	              Edwardsiella
+0.09141	1	0	11	1	6.056e-05	1821960	species	                Edwardsiella anguillarum
+0.09141	1	0	11	1	6.066e-05	667120	no rank	                  Edwardsiella anguillarum ET080813
+0.09141	1	1	11	1	0.0001265	1000193132	sequence	                    CP006665.1 Edwardsiella anguillarum ET080813 plasmid 1, complete sequence
+26.42	289	0	40693	1.01	7.076e-06	1783272	no rank	      Terrabacteria group
+26.14	286	0	40016	1	1.801e-05	1239	phylum	        Firmicutes
+26.14	286	0	40008	1	2.615e-05	91061	class	          Bacilli
+26.14	286	0	39968	1	3.731e-05	1385	order	            Bacillales
+23.22	254	0	35382	1	7.182e-05	186817	family	              Bacillaceae
+22.85	250	0	35301	1	0.004332	45667	genus	                Halobacillus
+22.85	250	246	35139	1	0.008801	1570	species	                  Halobacillus halophilus
+0.3656	4	0	141	1	0.03163	866895	no rank	                    Halobacillus halophilus DSM 2266
+0.2742	3	3	132	1	0.07852	1013667909	sequence	                      HE717024.1 Halobacillus halophilus DSM 2266 plasmid PL16 complete sequence
+0.09141	1	1	9	1	0.008789	1002461694	sequence	                      HE717025.1 Halobacillus halophilus DSM 2266 plasmid PL3 complete sequence
+0.3656	4	0	16	1	4.413e-08	1386	genus	                Bacillus
+0.3656	4	0	13	1	1.61e-07	86661	species group	                  Bacillus cereus group
+0.3656	4	0	13	1	5.554e-07	1428	species	                    Bacillus thuringiensis
+0.3656	4	0	13	1	0.000609	1001229	no rank	                      Bacillus thuringiensis serovar chinensis
+0.3656	4	0	13	1	0.000609	541229	no rank	                        Bacillus thuringiensis serovar chinensis CT-43
+0.3656	4	4	13	1	0.001197	1005442445	sequence	                          HM037272.1 Bacillus thuringiensis CT43 plasmid pBMB0558, complete sequence
+2.925	32	0	4566	1	4.078e-05	90964	family	              Staphylococcaceae
+2.925	32	6	4562	1	4.576e-05	1279	genus	                Staphylococcus
+2.377	26	17	3681	1	0.0006447	1282	species	                  Staphylococcus epidermidis
+0.3656	4	0	197	1	0.003307	176280	no rank	                    Staphylococcus epidermidis ATCC 12228
+0.1828	2	2	75	1	0.005724	1006576670	sequence	                      AE015934.1 Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-05, complete sequence
+0.09141	1	1	104	1	0.01303	1001390315	sequence	                      AE015932.1 Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-03, complete sequence
+0.09141	1	1	18	1	0.0007421	1000775021	sequence	                      AE015929.1 Staphylococcus epidermidis ATCC 12228, complete genome
+0.1828	2	0	52	1	0.000359	1449752	no rank	                    Staphylococcus epidermidis PM221
+0.09141	1	1	45	1	0.0009296	1013166116	sequence	                      HG813246.1 Staphylococcus epidermidis PM221 plasmid 1, complete sequence
+0.09141	1	1	4	1	5.783e-05	1000537770	sequence	                      HG813242.1 Staphylococcus epidermidis PM221 complete genome
+0.09141	1	1	16	1	9.849e-05	1009951737	sequence	                    CP009046.1 Staphylococcus epidermidis strain SEI, complete genome
+0.09141	1	1	5	1	2.217e-05	1002265362	sequence	                    CP018842.1 Staphylococcus epidermidis strain 14.1.R1 chromosome, complete genome
+0.09141	1	1	1	1	5.683e-05	1011522466	sequence	                    CP013943.1 Staphylococcus epidermidis strain DAR1907 chromosome, complete genome
+0.2742	3	0	798	1.05	3.033e-07	201174	phylum	        Actinobacteria
+0.2742	3	0	798	1.05	3.119e-07	1760	class	          Actinobacteria
+0.2742	3	0	780	1.05	1.86e-06	85006	order	            Micrococcales
+0.2742	3	0	772	1.04	5.003e-06	1268	family	              Micrococcaceae
+0.2742	3	0	769	1.04	0.0002858	1269	genus	                Micrococcus
+0.2742	3	2	769	1.04	0.000331	1270	species	                  Micrococcus luteus
+0.09141	1	0	3	1	0.0002695	465515	no rank	                    Micrococcus luteus NCTC 2665
+0.09141	1	1	3	1	0.0002718	1012263849	sequence	                      CP001628.1 Micrococcus luteus NCTC 2665, complete genome
+0.09141	1	0	18	1	6.983e-08	48479	no rank	      environmental samples
+0.09141	1	0	18	1	9.613e-08	77133	species	        uncultured bacterium
+0.09141	1	1	14	1	0.0001403	1013266479	sequence	          MF620019.1 Uncultured bacterium clone P28H1 genomic sequence
+0.09141	1	0	10	1	1.911e-08	10239	superkingdom	  Viruses
+0.09141	1	0	10	1	4.364e-08	35237	no rank	    dsDNA viruses, no RNA stage
+0.09141	1	0	10	1	8.675e-08	28883	order	      Caudovirales
+0.09141	1	0	10	1	2.266e-07	10699	family	        Siphoviridae
+0.09141	1	0	8	1	2.294e-05	186765	genus	          Lambdavirus
+0.09141	1	0	7	1	0.00197	37554	species	            Escherichia virus HK97
+0.09141	1	1	7	1	0.00222	1013130591	sequence	              AF069529.1 Bacteriophage HK97, complete genome

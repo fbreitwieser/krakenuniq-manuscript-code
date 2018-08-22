@@ -1,0 +1,23 @@
+	Command being timed: "krakenuniq --report-file=kraken/P01027-paired.fastq.krakenuniq.report.tsv --db ../dbs/refseq-oct2017-k31 --fastq --threads 10 --gzip --paired datasets/P01027-R1.fastq.gz datasets/P01027-R2.fastq.gz"
+	User time (seconds): 542.61
+	System time (seconds): 57.21
+	Percent of CPU this job got: 563%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:46.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 65405360
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 20568628
+	Voluntary context switches: 228067
+	Involuntary context switches: 1944
+	Swaps: 0
+	File system inputs: 198799
+	File system outputs: 853721
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

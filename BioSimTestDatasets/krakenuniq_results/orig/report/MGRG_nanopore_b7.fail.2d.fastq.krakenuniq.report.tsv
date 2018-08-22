@@ -1,0 +1,205 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+64.51	3825	3825	9544767	1.01	0.05008	0	no rank	unclassified
+35.49	2104	234	72744	2.52	1.253e-05	1	no rank	root
+30.71	1821	0	69794	1.04	1.231e-05	131567	no rank	  cellular organisms
+30.71	1821	3	69756	1.04	1.307e-05	2	superkingdom	    Bacteria
+13.85	821	0	42575	1.05	5.303e-05	201174	phylum	      Actinobacteria
+13.85	821	1	42458	1.05	5.561e-05	1760	class	        Actinobacteria
+13.8	818	2	41206	1.06	0.0004345	85006	order	          Micrococcales
+13.75	815	1	40423	1.05	0.001091	1268	family	            Micrococcaceae
+13.73	814	0	40201	1.05	0.01695	1269	genus	              Micrococcus
+13.73	814	0	40201	1.05	0.01695	1270	species	                Micrococcus luteus
+13.73	814	814	40201	1.05	0.01695	465515	no rank	                  Micrococcus luteus NCTC 2665
+0.01687	1	0	1	1	1.454e-07	85017	family	            Promicromonosporaceae
+0.01687	1	0	1	1	3.16e-07	254250	genus	              Isoptericola
+0.01687	1	0	1	1	3.16e-07	139208	species	                Isoptericola variabilis
+0.01687	1	1	1	1	3.16e-07	743718	no rank	                  Isoptericola variabilis 225
+0.01687	1	0	14	1	6.011e-08	85007	order	          Corynebacteriales
+0.01687	1	0	10	1	1.984e-07	1653	family	            Corynebacteriaceae
+0.01687	1	0	10	1	1.984e-07	1716	genus	              Corynebacterium
+0.01687	1	0	5	1	1.577e-06	1727	species	                Corynebacterium variabile
+0.01687	1	1	5	1	1.577e-06	858619	no rank	                  Corynebacterium variabile DSM 44702
+0.01687	1	0	13	1	4.167e-07	85012	order	          Streptosporangiales
+0.01687	1	0	13	1	8.331e-07	83676	family	            Nocardiopsaceae
+0.01687	1	0	13	1	1.081e-06	2013	genus	              Nocardiopsis
+0.01687	1	0	13	1	2.064e-06	2014	species	                Nocardiopsis dassonvillei
+0.01687	1	0	13	1	2.064e-06	568208	subspecies	                  Nocardiopsis dassonvillei subsp. dassonvillei
+0.01687	1	1	13	1	2.064e-06	446468	no rank	                    Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+12.26	727	1	14890	1.02	5.822e-06	1224	phylum	      Proteobacteria
+12.11	718	4	14678	1.03	1.358e-05	1236	class	        Gammaproteobacteria
+6.46	383	0	10921	1.03	3.396e-05	91347	order	          Enterobacteriales
+6.46	383	132	10921	1.03	3.396e-05	543	family	            Enterobacteriaceae
+3.93	233	0	2387	1.07	0.0001434	561	genus	              Escherichia
+3.93	233	198	2387	1.07	0.0001434	562	species	                Escherichia coli
+0.1012	6	6	4	2.25	1.307e-05	362663	no rank	                  Escherichia coli 536
+0.0506	3	0	4	1.5	1.372e-05	685037	no rank	                  Escherichia coli O83:H1
+0.0506	3	3	4	1.5	1.372e-05	685038	no rank	                    Escherichia coli O83:H1 str. NRG 857C
+0.0506	3	0	3	1.67	1.212e-05	376725	no rank	                  Escherichia coli O103:H2
+0.0506	3	3	3	1.67	1.212e-05	585395	no rank	                    Escherichia coli O103:H2 str. 12009
+0.0506	3	3	5	1	0.0001125	714962	no rank	                  Escherichia coli IHE3034
+0.0506	3	3	1	4	8.399e-06	1355100	no rank	                  Escherichia coli JJ1886
+0.0506	3	3	2	2	9.06e-06	405955	no rank	                  Escherichia coli APEC O1
+0.03373	2	2	10	1	3.827e-05	910348	no rank	                  Escherichia coli P12b
+0.03373	2	0	3	1.33	4.963e-06	861906	no rank	                  Escherichia coli O44:H18
+0.03373	2	2	3	1.33	4.963e-06	216592	no rank	                    Escherichia coli 042
+0.03373	2	2	2	2	4.115e-06	696406	no rank	                  Escherichia coli UMNK88
+0.03373	2	0	3	1	1.261e-05	244319	no rank	                  Escherichia coli O26:H11
+0.03373	2	2	3	1	1.261e-05	573235	no rank	                    Escherichia coli O26:H11 str. 11368
+0.01687	1	0	33	1	0.002464	83333	no rank	                  Escherichia coli K-12
+0.01687	1	1	31	1	0.06526	511145	no rank	                    Escherichia coli str. K-12 substr. MG1655
+0.01687	1	1	8	1	6.916e-05	431946	no rank	                  Escherichia coli SE15
+0.01687	1	1	7	1	0.001698	595495	no rank	                  Escherichia coli KO11FL
+0.01687	1	0	4	1.25	1.402e-05	244320	no rank	                  Escherichia coli O55:H7
+0.01687	1	1	1	1	1.771e-05	701177	no rank	                    Escherichia coli O55:H7 str. CB9615
+0.01687	1	0	1	1	4.232e-06	168927	no rank	                  Escherichia coli O111:H-
+0.01687	1	1	1	1	4.232e-06	585396	no rank	                    Escherichia coli O111:H- str. 11128
+0.01687	1	1	1	1	2.729e-06	1038927	no rank	                  Escherichia coli O104:H4
+0.1518	9	0	29	1.55	1.246e-05	620	genus	              Shigella
+0.1349	8	6	13	2.23	1.927e-05	623	species	                Shigella flexneri
+0.03373	2	2	1	3	2.208e-05	591020	no rank	                  Shigella flexneri 2002017
+0.01687	1	0	12	1	1.968e-05	622	species	                Shigella dysenteriae
+0.01687	1	1	12	1	1.968e-05	300267	no rank	                  Shigella dysenteriae Sd197
+0.08433	5	0	14	1.07	7.872e-07	590	genus	              Salmonella
+0.08433	5	0	14	1.07	1.102e-06	28901	species	                Salmonella enterica
+0.08433	5	1	14	1.07	1.102e-06	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.03373	2	0	1	2	1.031e-05	57046	no rank	                    Salmonella enterica subsp. enterica serovar Paratyphi C
+0.03373	2	2	1	2	1.031e-05	476213	no rank	                      Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594
+0.01687	1	0	6	1	1.68e-05	90371	no rank	                    Salmonella enterica subsp. enterica serovar Typhimurium
+0.01687	1	1	6	1	0.0001866	568708	no rank	                      Salmonella enterica subsp. enterica serovar Typhimurium str. D23580
+0.01687	1	1	2	1	7.226e-06	108619	no rank	                    Salmonella enterica subsp. enterica serovar Newport
+0.01687	1	0	7	1	2.079e-06	1649298	genus	              Siccibacter
+0.01687	1	0	7	1	2.079e-06	413502	species	                Siccibacter turicensis
+0.01687	1	1	7	1	2.079e-06	693216	no rank	                  Siccibacter turicensis z3032
+0.01687	1	0	7	1	1.731e-07	547	genus	              Enterobacter
+0.01687	1	0	7	1	2.791e-07	354276	species group	                Enterobacter cloacae complex
+0.01687	1	0	1	1	2.27e-07	1334193	species	                  Enterobacter lignolyticus
+0.01687	1	1	1	1	2.27e-07	701347	no rank	                    Enterobacter lignolyticus SCF1
+0.01687	1	0	7	1	4.667e-07	191675	no rank	              unclassified Enterobacteriaceae
+0.01687	1	0	6	1	8.575e-07	84563	no rank	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+0.01687	1	0	5	1	1.984e-06	84564	no rank	                  ant endosymbionts
+0.01687	1	0	5	1	1.984e-06	203804	genus	                    Candidatus Blochmannia
+0.01687	1	1	5	1	7.148e-06	203907	species	                      Candidatus Blochmannia floridanus
+0.01687	1	0	3	1	1.679e-07	204037	genus	              Dickeya
+0.01687	1	0	2	1	1.506e-07	204038	species	                Dickeya dadantii
+0.01687	1	1	2	1	4.589e-07	590409	no rank	                  Dickeya dadantii Ech586
+5.549	329	0	3420	1	1.524e-05	72274	order	          Pseudomonadales
+5.549	329	0	3420	1	1.772e-05	135621	family	            Pseudomonadaceae
+5.549	329	70	3397	1	1.852e-05	286	genus	              Pseudomonas
+2.648	157	8	1249	1	3.611e-05	136843	species group	                Pseudomonas fluorescens group
+1.838	109	12	786	1	3.662e-05	294	species	                  Pseudomonas fluorescens
+0.8939	53	53	389	1	6.786e-05	216595	no rank	                    Pseudomonas fluorescens SBW25
+0.5735	34	34	241	1.01	4.643e-05	1037911	no rank	                    Pseudomonas fluorescens A506
+0.08433	5	5	38	1	6.598e-06	205922	no rank	                    Pseudomonas fluorescens Pf0-1
+0.08433	5	5	19	1	4.149e-06	1114970	no rank	                    Pseudomonas fluorescens F113
+0.5397	32	0	281	1	5.91e-05	200451	species	                  Pseudomonas poae
+0.5397	32	32	281	1	5.91e-05	1282356	no rank	                    Pseudomonas poae RE*1-1-14
+0.1349	8	6	26	1	3.221e-06	380021	species	                  Pseudomonas protegens
+0.03373	2	2	10	1	5.484e-06	220664	no rank	                    Pseudomonas protegens Pf-5
+1.063	63	63	455	1	7.639e-05	1415630	species	                Pseudomonas sp. TKP
+0.1349	8	2	39	1	8.887e-07	136845	species group	                Pseudomonas putida group
+0.1012	6	2	34	1	9.971e-07	303	species	                  Pseudomonas putida
+0.03373	2	2	9	1	1.829e-06	390235	no rank	                    Pseudomonas putida W619
+0.01687	1	1	4	1	5.466e-06	351746	no rank	                    Pseudomonas putida F1
+0.01687	1	1	1	1	2.251e-07	76869	no rank	                    Pseudomonas putida GB-1
+0.1181	7	7	54	1	9.821e-06	1207075	species	                Pseudomonas sp. UW4
+0.1012	6	0	41	1	2.448e-06	136849	species group	                Pseudomonas syringae group
+0.0506	3	0	5	1	8.846e-07	251701	species	                  Pseudomonas syringae group genomosp. 3
+0.0506	3	0	5	1	8.846e-07	323	no rank	                    Pseudomonas syringae pv. tomato
+0.0506	3	3	5	1	8.846e-07	223283	no rank	                      Pseudomonas syringae pv. tomato str. DC3000
+0.03373	2	0	22	1	4.275e-06	251698	species subgroup	                  Pseudomonas syringae group genomosp. 2
+0.03373	2	0	22	1	4.275e-06	29438	species	                    Pseudomonas savastanoi
+0.03373	2	0	22	1	4.275e-06	319	no rank	                      Pseudomonas savastanoi pv. phaseolicola
+0.03373	2	2	22	1	4.275e-06	264730	no rank	                        Pseudomonas savastanoi pv. phaseolicola 1448A
+0.01687	1	0	8	1	1.522e-06	251695	species subgroup	                  Pseudomonas syringae group genomosp. 1
+0.01687	1	0	8	1	1.522e-06	317	species	                    Pseudomonas syringae
+0.01687	1	0	8	1	1.522e-06	321	no rank	                      Pseudomonas syringae pv. syringae
+0.01687	1	1	8	1	1.522e-06	205918	no rank	                        Pseudomonas syringae pv. syringae B728a
+0.1012	6	0	28	1	6.101e-06	930166	species	                Pseudomonas brassicacearum
+0.1012	6	0	28	1	6.101e-06	86264	subspecies	                  Pseudomonas brassicacearum subsp. brassicacearum
+0.1012	6	6	28	1	6.101e-06	994484	no rank	                    Pseudomonas brassicacearum subsp. brassicacearum NFM421
+0.06747	4	4	13	1	2.548e-06	69328	species	                Pseudomonas sp. VLB120
+0.0506	3	0	13	1	4.029e-07	136841	species group	                Pseudomonas aeruginosa group
+0.03373	2	1	8	1	4.763e-07	287	species	                  Pseudomonas aeruginosa
+0.01687	1	1	1	1	4.252e-06	1340851	no rank	                    Pseudomonas aeruginosa RP73
+0.01687	1	1	1	1	1.055e-07	300	species	                  Pseudomonas mendocina
+0.03373	2	0	11	1	2.169e-06	312306	species	                Pseudomonas entomophila
+0.03373	2	2	11	1	2.169e-06	384676	no rank	                  Pseudomonas entomophila L48
+0.03373	2	0	7	1	3.686e-07	136846	species group	                Pseudomonas stutzeri group
+0.03373	2	0	7	1	3.686e-07	578833	species subgroup	                  Pseudomonas stutzeri subgroup
+0.03373	2	1	7	1	3.686e-07	316	species	                    Pseudomonas stutzeri
+0.01687	1	1	2	1	5.333e-07	644801	no rank	                      Pseudomonas stutzeri RCH2
+0.01687	1	0	6	1	1.158e-06	136844	species group	                Pseudomonas pertucinogena group
+0.01687	1	0	6	1	1.158e-06	43306	species	                  Pseudomonas denitrificans
+0.01687	1	1	6	1	1.158e-06	1294143	no rank	                    Pseudomonas denitrificans ATCC 13867
+0.01687	1	0	4	1	1.014e-07	135619	order	          Oceanospirillales
+0.01687	1	0	2	1	2.14e-07	28256	family	            Halomonadaceae
+0.01687	1	0	2	1	5.529e-07	42054	genus	              Chromohalobacter
+0.01687	1	0	2	1	5.529e-07	158080	species	                Chromohalobacter salexigens
+0.01687	1	1	2	1	5.529e-07	290398	no rank	                  Chromohalobacter salexigens DSM 3043
+0.01687	1	0	4	1	2.233e-08	135622	order	          Alteromonadales
+0.01687	1	0	4	1	6.841e-08	72275	family	            Alteromonadaceae
+0.01687	1	0	3	1	1.263e-07	226	genus	              Alteromonas
+0.01687	1	0	3	1	1.587e-07	28108	species	                Alteromonas macleodii
+0.01687	1	1	3	1	0.0002644	1004786	no rank	                  Alteromonas macleodii AltDE1
+0.1012	6	1	30	1	6.231e-08	28216	class	        Betaproteobacteria
+0.03373	2	0	13	1	3.366e-08	80840	order	          Burkholderiales
+0.03373	2	0	13	1	5.905e-08	119060	family	            Burkholderiaceae
+0.01687	1	0	11	1	7.396e-08	32008	genus	              Burkholderia
+0.01687	1	0	8	1	5.07e-07	111527	species group	                pseudomallei group
+0.01687	1	0	8	1	1.504e-06	28450	species	                  Burkholderia pseudomallei
+0.01687	1	1	8	1	2.078e-05	1241583	no rank	                    Burkholderia pseudomallei NCTC 13179
+0.01687	1	0	2	1	6.458e-08	106589	genus	              Cupriavidus
+0.01687	1	0	1	1	1.582e-07	119219	species	                Cupriavidus metallidurans
+0.01687	1	1	1	1	1.582e-07	266264	no rank	                  Cupriavidus metallidurans CH34
+0.03373	2	0	10	1	3.754e-07	206389	order	          Rhodocyclales
+0.03373	2	0	10	1	3.754e-07	75787	family	            Rhodocyclaceae
+0.01687	1	0	8	1	1.88e-06	33057	genus	              Thauera
+0.01687	1	1	8	1	1.88e-06	85643	species	                Thauera sp. MZ1T
+0.01687	1	0	2	1	5.448e-07	146937	genus	              Azospira
+0.01687	1	0	2	1	5.448e-07	146939	species	                Azospira oryzae
+0.01687	1	1	2	1	5.448e-07	640081	no rank	                  Dechlorosoma suillum PS
+0.01687	1	0	2	1	7.028e-07	119069	order	          Hydrogenophilales
+0.01687	1	0	2	1	7.028e-07	206349	family	            Hydrogenophilaceae
+0.01687	1	0	2	1	7.028e-07	919	genus	              Thiobacillus
+0.01687	1	0	2	1	7.028e-07	36861	species	                Thiobacillus denitrificans
+0.01687	1	1	2	1	7.028e-07	292415	no rank	                  Thiobacillus denitrificans ATCC 25259
+0.03373	2	0	9	1	1.404e-08	28211	class	        Alphaproteobacteria
+0.01687	1	0	8	1	2.334e-08	356	order	          Rhizobiales
+0.01687	1	0	5	1	4.841e-08	82115	family	            Rhizobiaceae
+0.01687	1	0	5	1	1.431e-07	227292	no rank	              Sinorhizobium/Ensifer group
+0.01687	1	0	5	1	1.431e-07	28105	genus	                Sinorhizobium
+0.01687	1	0	5	1	2.796e-07	663276	no rank	                  Sinorhizobium fredii group
+0.01687	1	0	5	1	2.796e-07	380	species	                    Sinorhizobium fredii
+0.01687	1	1	5	1	8.84e-07	1185652	no rank	                      Sinorhizobium fredii USDA 257
+0.01687	1	0	1	1	2.241e-08	204457	order	          Sphingomonadales
+0.01687	1	0	1	1	2.403e-08	41297	family	            Sphingomonadaceae
+0.01687	1	0	1	1	8.05e-08	165695	genus	              Sphingobium
+0.01687	1	1	1	1	2.407e-07	627192	species	                Sphingobium sp. SYK-6
+4.554	270	0	11501	1	1.353e-05	1239	phylum	      Firmicutes
+4.554	270	0	11424	1	2.267e-05	91061	class	        Bacilli
+4.554	270	1	11338	1	3.618e-05	1385	order	          Bacillales
+3.643	216	0	8363	1	4.639e-05	186817	family	            Bacillaceae
+3.643	216	0	8325	1	0.002063	45667	genus	              Halobacillus
+3.643	216	0	8325	1	0.002063	1570	species	                Halobacillus halophilus
+3.643	216	216	8325	1	0.002063	866895	no rank	                  Halobacillus halophilus DSM 2266
+0.8939	53	0	2920	1	8.789e-05	90964	family	            Staphylococcaceae
+0.8939	53	5	2895	1	9.325e-05	1279	genus	              Staphylococcus
+0.8096	48	28	2547	1	0.0009172	1282	species	                Staphylococcus epidermidis
+0.3373	20	20	323	1	0.0007638	176280	no rank	                  Staphylococcus epidermidis ATCC 12228
+0.8264	49	0	69	2.88	5.213e-07	10239	superkingdom	  Viruses
+0.8264	49	0	69	2.88	6.098e-07	35237	no rank	    dsDNA viruses, no RNA stage
+0.8264	49	1	69	2.88	1.104e-06	28883	order	      Caudovirales
+0.7252	43	3	54	3.33	2.565e-06	10699	family	        Siphoviridae
+0.6409	38	1	48	3.52	0.000109	186765	genus	          Lambdalikevirus
+0.4891	29	29	22	5.59	0.003876	37554	species	            Enterobacteria phage HK97
+0.1349	8	4	22	1.5	5.339e-05	335795	no rank	            unclassified Lambda-like viruses
+0.01687	1	1	10	1	0.001326	1147153	species	              Enterobacteria phage mEpX1
+0.01687	1	1	4	1.25	0.001224	1147154	species	              Enterobacteria phage mEpX2
+0.01687	1	1	1	3	0.0001209	1147150	species	              Enterobacteria phage mEp235
+0.01687	1	1	1	1	0.0001578	1147143	species	              Enterobacteria phage HK140
+0.03373	2	1	4	1.25	3.109e-07	196894	no rank	          unclassified Siphoviridae
+0.01687	1	1	1	1	0.0001182	432200	species	            Enterobacteria phage HK542
+0.08433	5	3	14	1.29	1.654e-06	10744	family	        Podoviridae
+0.03373	2	0	13	1.15	0.0001855	186794	genus	          P22likevirus
+0.01687	1	1	8	1.25	0.0009774	155148	species	            Salmonella phage HK620
+0.01687	1	1	3	1	7.492e-05	329158	no rank	            unclassified P22likevirus
